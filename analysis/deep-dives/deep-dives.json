@@ -106,5 +106,221 @@
       "More deployment leads to more data and better models."
     ],
     "takeaway": "The deployment thesis is that real robotics progress comes from making autonomy operationally reliable. Demos show possibility; deployments prove whether the architecture, safety model, workflow integration, and economics actually work."
+  },
+  {
+    "id": "08-language-to-motion",
+    "talk_index": 8,
+    "title": "Carolina Parada / Google DeepMind: Language to Motion",
+    "speaker": "Carolina Parada",
+    "organization": "Google DeepMind",
+    "one_sentence": "The talk explains how Gemini Robotics turns multimodal foundation models into physical agents by adding action as a model output, then layering planning, tools, memory, safety evaluation, and whole-body control around it.",
+    "core_problem": "Traditional robots are bespoke systems: they assume fixed environments, known objects, and hand-programmed task sequences. General-purpose robotics needs systems that can understand natural language, perceive cluttered scenes, reason over multi-step goals, and produce safe robot trajectories across different embodiments.",
+    "first_principles_model": "A useful robot needs at least two levels of intelligence. The high-level agent interprets the human goal, gathers context, uses tools, remembers the scene, and decomposes the task. The low-level action model turns a grounded instruction plus perception and proprioception into control targets, while a controller keeps the body stable.",
+    "key_claims": [
+      "General-purpose robots must operate across environments, verticals, object types, and embodiments rather than being programmed one task at a time.",
+      "Gemini Robotics adds actions as a modality to a multimodal model, so the system can output robot trajectories instead of only text, code, or images.",
+      "Agentic robotics is needed because real tasks are multi-step: the robot must reason, use tools such as search or code execution, and call action models as needed.",
+      "Agentic vision lets a model take intermediate perception steps such as zooming, pointing, and calculation before reporting an instrument reading or safety-relevant state.",
+      "Action models can generate text and action tokens together, creating a form of embodied thinking for multi-step manipulation.",
+      "Learning across embodiments matters: the same weights can transfer skills from one robot platform to another when one embodiment has less data."
+    ],
+    "important_terms": [
+      {
+        "term": "Vision-Language-Action Model",
+        "meaning": "A model that accepts visual observations and language instructions and directly outputs robot action targets or trajectories."
+      },
+      {
+        "term": "Gemini Robotics ER",
+        "meaning": "The high-level embodied reasoning layer described in the talk: it understands the scene, uses tools, plans steps, and orchestrates action models."
+      },
+      {
+        "term": "Agentic Vision",
+        "meaning": "Perception as a multi-step process, where the model can zoom, point, calculate, call tools, and verify before giving an answer."
+      },
+      {
+        "term": "Cross-Embodiment Learning",
+        "meaning": "Reusing learned skills or model weights across robot bodies such as Aloha, Apollo, quadrupeds, and arms."
+      },
+      {
+        "term": "World-Model Safety Evaluation",
+        "meaning": "Using generated or simulated robot observations to evaluate policies in risky situations that should not be tried directly in the real world."
+      }
+    ],
+    "stanford_connections": [
+      "This extends the Stanford agent pattern from text tools into embodied tools: reason, call tools, act, observe, and continue.",
+      "The ER-plus-VLA split resembles planner/executor architectures in agent systems.",
+      "The simulation and world-model section connects to self-improvement because safer virtual evaluation creates more feedback for policy refinement."
+    ],
+    "practical_caution": "The talk presents a frontier lab architecture, not a simple recipe that any team can reproduce. The hard parts are not just model calls; they include action data, embodiment transfer, safety evaluation, low-level control, and deployment partnerships.",
+    "selected_evidence": [
+      "Gemini can now produce robot action sequences.",
+      "Most tasks in the real world are complex and they take multiple steps to complete.",
+      "This is a physical agent with memory.",
+      "The model can decide if it wants to read this gauge, it can take intermediate steps.",
+      "The model is generating text and action tokens together."
+    ],
+    "takeaway": "DeepMind's framing is that robotics needs a layered foundation-model system: embodied reasoning for goals and tools, action models for trajectories, controllers for stability, and simulation/world models for safety and scaling."
+  },
+  {
+    "id": "18-continuous-learning-physical-ai",
+    "talk_index": 18,
+    "title": "Steve Xie / Lightwheel: Continuous Learning Systems for Physical AI",
+    "speaker": "Steve Xie",
+    "organization": "Lightwheel",
+    "one_sentence": "The talk argues that physical AI needs a continuous learning infrastructure built from human egocentric data, simulation evaluation, deployment feedback, and real-to-sim-to-real conversion.",
+    "core_problem": "Robotics lacks the free pretraining site that language models got from the internet and self-driving got from road fleets. Real robot fleets are still too small, physical interaction is much harder than passive perception, and real-world evaluation feedback is scarce.",
+    "first_principles_model": "A robot learning system needs demonstrations, evaluations, and deployment feedback. Demonstrations teach what to do, evaluations tell whether it worked, and deployments expose real variation. Because real fleets are limited, the missing scale has to come from human egocentric data and simulation.",
+    "key_claims": [
+      "Physical AI may require vastly more data than self-driving or language models because every manipulation task involves physical interaction.",
+      "Real robot data is only a tiny part of the needed data pyramid; most pretraining data must come from humans, video, egocentric capture, and simulation.",
+      "Data should be thought of as learning rather than fuel: quality, insight, feedback, and curriculum matter more than raw volume alone.",
+      "Continuous learning depends on three coupled systems: data, evaluation, and deployment.",
+      "Simulation is the only scalable path for physical evaluation because it is reproducible, scalable, diverse, and can be made physically accurate.",
+      "Real-to-sim-to-real infrastructure requires solvers, real physical measurements, sim-ready assets, and standards."
+    ],
+    "important_terms": [
+      {
+        "term": "Data Pyramid",
+        "meaning": "The idea that real robot data is scarce, while human egocentric video and simulation must supply most of the learning signal."
+      },
+      {
+        "term": "Continuous Learning Loop",
+        "meaning": "A loop where robots or models receive demonstrations, evaluation feedback, deployment feedback, and updated training data over time."
+      },
+      {
+        "term": "Real-to-Sim-to-Real",
+        "meaning": "Capturing real-world measurements into simulation, evaluating or training in sim, then transferring the model back into deployment."
+      },
+      {
+        "term": "Simulation Benchmark",
+        "meaning": "A reproducible simulated task suite used to evaluate robotics models at scale when real-world testing is too slow or expensive."
+      },
+      {
+        "term": "Sim-Ready Asset",
+        "meaning": "A digital object or environment asset with enough geometry and physical parameters to support useful simulation."
+      }
+    ],
+    "stanford_connections": [
+      "This gives the infrastructure version of self-improving agents: collect attempts, evaluate, feed back, and improve.",
+      "The emphasis on scalable evaluation mirrors RLVR and coding-agent loops, but physical AI needs simulation instead of unit tests.",
+      "The data-standard and benchmark discussion connects to the Stanford evaluation theme: learning accelerates only when feedback is reliable."
+    ],
+    "practical_caution": "The numbers in the talk are directional and business-framed. The durable point is the structure: without scalable feedback, robotics cannot compound the way digital agents do.",
+    "selected_evidence": [
+      "For robotics, there's no pre-training site. We have to build a pre-training site.",
+      "The real robot data is only a very tiny bit.",
+      "Data is not fuel.",
+      "The real learning continuous learning system for physical AI should be based on three major things: the data, the evaluation, and also deployment.",
+      "Simulation is the only scalable path for physical evaluations."
+    ],
+    "takeaway": "Lightwheel's thesis is that robotics progress bottlenecks on learning infrastructure. The winners will not only build models; they will build the data, simulator, evaluation, and deployment loops that let models keep improving."
+  },
+  {
+    "id": "19-physical-ai-data-gaps",
+    "talk_index": 19,
+    "title": "Jiajun Wu / Stanford and Vasu Sundarababu / Centific: Physical AI's Data Gaps",
+    "speaker": "Jiajun Wu and Vasudevan Sundarababu",
+    "organization": "Stanford and Centific",
+    "one_sentence": "The panel explains that physical AI's key bottleneck is not simply more data, but standardized, synchronized, multimodal, task-relevant data with reliable evaluation and expert validation.",
+    "core_problem": "Robots need experience from the physical world, but that experience is fragmented across sensors, embodiments, formats, tasks, and companies. RGB video alone misses touch, force, action, weight, temporal synchronization, and failure context.",
+    "first_principles_model": "Physical AI data is an experience trace. A useful trace should describe what was seen, what was sensed, what action was taken, when it happened, what physical context mattered, whether it succeeded or failed, and why. Without that structure, scaling data can add noise instead of capability.",
+    "key_claims": [
+      "The main bottleneck is high-quality physical data, because physical data is expensive, constrained, and harder to generate than digital data.",
+      "The data ecosystem is fragmented: egocentric data, manipulation data, imitation data, tactile data, and sensory data lack common schemas and benchmarks.",
+      "Robotics needs multimodal synchronization across vision, touch, force, actions, proprioception, and time.",
+      "A failure can be high-quality data if it reveals why a robot failed and how recovery should work.",
+      "Bad data includes corrupted or uncalibrated collection, such as cameras that prevent accurate reconstruction.",
+      "Golden datasets should be built around tasks people actually care about, not just tasks a lab robot can already do."
+    ],
+    "important_terms": [
+      {
+        "term": "Experience Data",
+        "meaning": "Physical AI data that captures an interaction over time, not just a static image or label."
+      },
+      {
+        "term": "Multimodal Synchronization",
+        "meaning": "Aligning vision, tactile, force, action, proprioception, audio, and temporal signals so a model can learn cause and effect."
+      },
+      {
+        "term": "Golden Dataset",
+        "meaning": "A high-signal dataset with relevant tasks, calibrated sensors, expert labels, failure explanations, and evaluation-ready structure."
+      },
+      {
+        "term": "Failure-as-Signal",
+        "meaning": "The idea that unsuccessful attempts can be valuable when they expose recoverable mistakes and physical causes."
+      },
+      {
+        "term": "Benchmark Standardization",
+        "meaning": "Shared schemas, task definitions, assets, and metrics that let the field compare and improve models."
+      }
+    ],
+    "stanford_connections": [
+      "The panel directly links to Stanford-style benchmark design through task selection, behavior benchmarks, and evaluation data.",
+      "It sharpens the SFT/RL discussion: demonstrations and failures both matter, but only if the feedback labels explain what happened.",
+      "It reinforces the idea that self-improvement needs clean feedback channels, not just more rollouts."
+    ],
+    "practical_caution": "Do not equate data quality with successful demonstrations only. For robotics, a failed attempt with calibrated sensors and causal explanation may be more useful than a clean success clip with missing context.",
+    "selected_evidence": [
+      "The high quality data that you can produce in the physical world is very limited.",
+      "The data ecosystem is fragmented.",
+      "Our world is multimodal.",
+      "Failure points can also be good data.",
+      "It is supposed to tell why it failed."
+    ],
+    "takeaway": "The data-gap thesis is that robotics needs experience datasets, not just videos. The critical missing layer is standardized, synchronized, causally meaningful feedback across tasks and embodiments."
+  },
+  {
+    "id": "34-world-action-models",
+    "talk_index": 34,
+    "title": "Andrew Wooten / Rhoda AI: World Action Models",
+    "speaker": "Andrew Wooten",
+    "organization": "Rhoda AI",
+    "one_sentence": "The talk argues that deployable learning robots need world action models: models pretrained on internet-scale video to understand physics, then fine-tuned with robot trajectories to convert imagined task videos into real-time actions.",
+    "core_problem": "VLA systems inherit strong language knowledge but weak action priors because most action learning comes from limited teleoperation data. That makes them impressive in demos but brittle in real tasks with deformable objects, transparent materials, clutter, and distribution shift.",
+    "first_principles_model": "If a model can accurately imagine a physically plausible video of a robot completing a task, action generation becomes a translation problem: convert the desired future motion into control commands. The hard part is making the imagined video both physically faithful and fast enough for closed-loop control.",
+    "key_claims": [
+      "Most deployed robots today are still pre-programmed automation rather than learning-capable robots.",
+      "VLA post-training on robot teleoperation data gives language understanding but not enough physical action knowledge.",
+      "Internet video is the closest thing robotics has to an internet-scale dataset for physics, motion, object interaction, and diversity.",
+      "A world action model first generates a task video, then converts that video into robot actions in real time.",
+      "Off-the-shelf video models are not enough because they are slow and often physically wrong at contact points.",
+      "Causal video generation matters for robotics because later frames should depend on earlier physical interactions."
+    ],
+    "important_terms": [
+      {
+        "term": "World Action Model",
+        "meaning": "A robot policy architecture that uses a video/world model to plan future physical states and then maps those states to actions."
+      },
+      {
+        "term": "Action Prior",
+        "meaning": "A model's learned intuition for how actions interact with physics, objects, materials, and robot embodiment."
+      },
+      {
+        "term": "Causal Video Model",
+        "meaning": "A video model where each generated frame depends on previous frames, matching the causal structure of physical motion."
+      },
+      {
+        "term": "Real-Time Inference",
+        "meaning": "Running the video-to-action loop fast enough for closed-loop robot control, such as multiple decisions per second."
+      },
+      {
+        "term": "Resistant Automation Task",
+        "meaning": "A task that traditional automation struggles with because of variability, deformable materials, transparent objects, tight spaces, or messy packaging."
+      }
+    ],
+    "stanford_connections": [
+      "This is a concrete alternative to pure VLA imitation: use pretraining to build a physical prior, then use a smaller amount of task data to specialize.",
+      "It parallels test-time reasoning: the model plans in a latent or visual space before producing actions.",
+      "It connects to sample efficiency: better priors reduce how many robot demonstration hours are needed per new task."
+    ],
+    "practical_caution": "The thesis depends on video models becoming physically accurate at contact, causal over time, and fast enough for control. A good-looking video is not sufficient; small physical errors can destroy a robot task.",
+    "selected_evidence": [
+      "There is no webscale pre-training.",
+      "The right data set for this is actually internet video.",
+      "First it's going to generate a video of the robot grabbing this remote.",
+      "Most video models... are not really physically accurate once you get down into the details.",
+      "We were able to get this task to work with 10 hours of training data."
+    ],
+    "takeaway": "Rhoda's thesis is that robotics needs to move from language-first action models toward physics-first world-action models. The goal is not just better demos, but lower data requirements for real industrial tasks."
   }
 ]

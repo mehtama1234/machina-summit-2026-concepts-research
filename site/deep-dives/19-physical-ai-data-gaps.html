@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jiajun Wu / Stanford and Vasu Sundarababu / Centific: Physical AI&#x27;s Data Gaps</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 19 · Stanford and Centific</p>
+  <h1>Jiajun Wu / Stanford and Vasu Sundarababu / Centific: Physical AI&#x27;s Data Gaps</h1>
+  <p class="lede">The panel explains that physical AI&#x27;s key bottleneck is not simply more data, but standardized, synchronized, multimodal, task-relevant data with reliable evaluation and expert validation.</p>
+  <p><a href="https://www.youtube.com/watch?v=3wjJYci6qgQ">YouTube source</a> · <a href="../talks/19.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Robots need experience from the physical world, but that experience is fragmented across sensors, embodiments, formats, tasks, and companies. RGB video alone misses touch, force, action, weight, temporal synchronization, and failure context.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>Physical AI data is an experience trace. A useful trace should describe what was seen, what was sensed, what action was taken, when it happened, what physical context mattered, whether it succeeded or failed, and why. Without that structure, scaling data can add noise instead of capability.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>The main bottleneck is high-quality physical data, because physical data is expensive, constrained, and harder to generate than digital data.</li><li>The data ecosystem is fragmented: egocentric data, manipulation data, imitation data, tactile data, and sensory data lack common schemas and benchmarks.</li><li>Robotics needs multimodal synchronization across vision, touch, force, actions, proprioception, and time.</li><li>A failure can be high-quality data if it reveals why a robot failed and how recovery should work.</li><li>Bad data includes corrupted or uncalibrated collection, such as cameras that prevent accurate reconstruction.</li><li>Golden datasets should be built around tasks people actually care about, not just tasks a lab robot can already do.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>Experience Data</h3><p>Physical AI data that captures an interaction over time, not just a static image or label.</p></article><article class="detail"><h3>Multimodal Synchronization</h3><p>Aligning vision, tactile, force, action, proprioception, audio, and temporal signals so a model can learn cause and effect.</p></article><article class="detail"><h3>Golden Dataset</h3><p>A high-signal dataset with relevant tasks, calibrated sensors, expert labels, failure explanations, and evaluation-ready structure.</p></article><article class="detail"><h3>Failure-as-Signal</h3><p>The idea that unsuccessful attempts can be valuable when they expose recoverable mistakes and physical causes.</p></article><article class="detail"><h3>Benchmark Standardization</h3><p>Shared schemas, task definitions, assets, and metrics that let the field compare and improve models.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>The panel directly links to Stanford-style benchmark design through task selection, behavior benchmarks, and evaluation data.</li><li>It sharpens the SFT/RL discussion: demonstrations and failures both matter, but only if the feedback labels explain what happened.</li><li>It reinforces the idea that self-improvement needs clean feedback channels, not just more rollouts.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>Do not equate data quality with successful demonstrations only. For robotics, a failed attempt with calibrated sensors and causal explanation may be more useful than a clean success clip with missing context.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>The data-gap thesis is that robotics needs experience datasets, not just videos. The critical missing layer is standardized, synchronized, causally meaningful feedback across tasks and embodiments.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>The high quality data that you can produce in the physical world is very limited.</blockquote><blockquote>The data ecosystem is fragmented.</blockquote><blockquote>Our world is multimodal.</blockquote><blockquote>Failure points can also be good data.</blockquote><blockquote>It is supposed to tell why it failed.</blockquote>
+</section>
+</main>
+</body>
+</html>
