@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jim Fan / NVIDIA: Robotics - The End Game</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 9 · NVIDIA</p>
+  <h1>Jim Fan / NVIDIA: Robotics - The End Game</h1>
+  <p class="lede">The talk argues that robotics needs its own version of the language-model scaling stack: world-state prediction, action fine-tuning, scalable non-robot data, simulation environments, and agentic self-improvement loops.</p>
+  <p><a href="https://www.youtube.com/watch?v=IAmlLgtXJOk">YouTube source</a> · <a href="../talks/09.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Robotics cannot simply copy LLMs by scaling language-first vision-language-action models. Robots need models that understand verbs, dynamics, physics, action consequences, and physical feedback, while also solving the data bottleneck that makes teleoperation too slow to scale.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A robot is an embodied closed loop. It observes the world, predicts possible future world states, chooses actions, observes the result, and updates its policy. If language models learn by predicting next words, a robotics foundation model should learn by predicting next physical states and grounding those predictions in actions.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>Robotics has an analogy to the LLM progression: pretraining, instruction/action tuning, reinforcement learning, and eventually agentic auto-research.</li><li>Vision-language-action models are often too language-heavy; robotics needs models that treat physical dynamics and action as first-class.</li><li>Video/world models are useful because predicting future pixels can teach concepts like gravity, reflection, collision, buoyancy, and planning, even if current models still have physics failures.</li><li>World action models jointly generate future video and robot actions, giving a kind of visual chain-of-thought in pixel space.</li><li>Teleoperation is capped by robot uptime and human operator time, so scalable robotics data needs sensorized human data, egocentric video, world scans, simulation, and neural simulators.</li><li>Robotics can adopt agentic loops: Python sandboxes, multimodal observations, motion-planning tools, auto-evaluation, auto-reset, and policy improvement across robot fleets.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>Great Parallel</h3><p>The analogy between LLM progress and robotics progress: next-token prediction becomes next-world-state prediction; instruction tuning becomes action fine-tuning; RL becomes physical skill improvement.</p></article><article class="detail"><h3>World Action Model</h3><p>A policy model that predicts future visual states and actions together, rather than mapping a frame directly to an action.</p></article><article class="detail"><h3>Sensorized Human Data</h3><p>Human egocentric video, hand pose, wearable, motion-capture, and language data collected without requiring a robot in the loop.</p></article><article class="detail"><h3>Neural World Simulator</h3><p>A learned simulator that predicts future sensor states or frames from actions, potentially reducing reliance on hand-engineered physics engines.</p></article><article class="detail"><h3>Physical Auto-Research</h3><p>A fleet of robots and coding agents trying ideas, evaluating outcomes, debugging, and improving policies with minimal human intervention.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This is the physical-world version of the Stanford self-improvement loop: generate attempts, observe feedback, evaluate, and improve.</li><li>The Python sandbox framing maps directly to agentic tool use and code-execution feedback.</li><li>The fleet auto-research loop is a robotics version of test-time/train-time improvement, with robots collecting new experience instead of just solving text tasks.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>The talk is deliberately frontier-visionary. Its strongest practical point is the data and environment bottleneck; the more speculative point is the timeline and degree to which neural simulators and robot fleets can compound like LLM agents.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>The end-game thesis is that robotics progress will come from combining foundation intelligence, robot embodiment, scalable physical data, simulated environments, and agentic self-improvement. The model sets the floor; the agentic loop raises the ceiling.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>Instead of simulating the next word, we simulate next world state.</blockquote><blockquote>Data collection needs to stay out of loop, fade into the background.</blockquote><blockquote>We need to start collecting environments.</blockquote><blockquote>Simulation and the real robot stack at the end of the day are just code.</blockquote><blockquote>It is a continuous loop that goes from autoreset auto eval to auto policy improvement.</blockquote>
+</section>
+</main>
+</body>
+</html>

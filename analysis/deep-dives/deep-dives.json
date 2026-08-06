@@ -1,0 +1,110 @@
+[
+  {
+    "id": "09-robotics-end-game",
+    "talk_index": 9,
+    "title": "Jim Fan / NVIDIA: Robotics - The End Game",
+    "speaker": "Jim Fan",
+    "organization": "NVIDIA",
+    "one_sentence": "The talk argues that robotics needs its own version of the language-model scaling stack: world-state prediction, action fine-tuning, scalable non-robot data, simulation environments, and agentic self-improvement loops.",
+    "core_problem": "Robotics cannot simply copy LLMs by scaling language-first vision-language-action models. Robots need models that understand verbs, dynamics, physics, action consequences, and physical feedback, while also solving the data bottleneck that makes teleoperation too slow to scale.",
+    "first_principles_model": "A robot is an embodied closed loop. It observes the world, predicts possible future world states, chooses actions, observes the result, and updates its policy. If language models learn by predicting next words, a robotics foundation model should learn by predicting next physical states and grounding those predictions in actions.",
+    "key_claims": [
+      "Robotics has an analogy to the LLM progression: pretraining, instruction/action tuning, reinforcement learning, and eventually agentic auto-research.",
+      "Vision-language-action models are often too language-heavy; robotics needs models that treat physical dynamics and action as first-class.",
+      "Video/world models are useful because predicting future pixels can teach concepts like gravity, reflection, collision, buoyancy, and planning, even if current models still have physics failures.",
+      "World action models jointly generate future video and robot actions, giving a kind of visual chain-of-thought in pixel space.",
+      "Teleoperation is capped by robot uptime and human operator time, so scalable robotics data needs sensorized human data, egocentric video, world scans, simulation, and neural simulators.",
+      "Robotics can adopt agentic loops: Python sandboxes, multimodal observations, motion-planning tools, auto-evaluation, auto-reset, and policy improvement across robot fleets."
+    ],
+    "important_terms": [
+      {
+        "term": "Great Parallel",
+        "meaning": "The analogy between LLM progress and robotics progress: next-token prediction becomes next-world-state prediction; instruction tuning becomes action fine-tuning; RL becomes physical skill improvement."
+      },
+      {
+        "term": "World Action Model",
+        "meaning": "A policy model that predicts future visual states and actions together, rather than mapping a frame directly to an action."
+      },
+      {
+        "term": "Sensorized Human Data",
+        "meaning": "Human egocentric video, hand pose, wearable, motion-capture, and language data collected without requiring a robot in the loop."
+      },
+      {
+        "term": "Neural World Simulator",
+        "meaning": "A learned simulator that predicts future sensor states or frames from actions, potentially reducing reliance on hand-engineered physics engines."
+      },
+      {
+        "term": "Physical Auto-Research",
+        "meaning": "A fleet of robots and coding agents trying ideas, evaluating outcomes, debugging, and improving policies with minimal human intervention."
+      }
+    ],
+    "stanford_connections": [
+      "This is the physical-world version of the Stanford self-improvement loop: generate attempts, observe feedback, evaluate, and improve.",
+      "The Python sandbox framing maps directly to agentic tool use and code-execution feedback.",
+      "The fleet auto-research loop is a robotics version of test-time/train-time improvement, with robots collecting new experience instead of just solving text tasks."
+    ],
+    "practical_caution": "The talk is deliberately frontier-visionary. Its strongest practical point is the data and environment bottleneck; the more speculative point is the timeline and degree to which neural simulators and robot fleets can compound like LLM agents.",
+    "selected_evidence": [
+      "Instead of simulating the next word, we simulate next world state.",
+      "Data collection needs to stay out of loop, fade into the background.",
+      "We need to start collecting environments.",
+      "Simulation and the real robot stack at the end of the day are just code.",
+      "It is a continuous loop that goes from autoreset auto eval to auto policy improvement."
+    ],
+    "takeaway": "The end-game thesis is that robotics progress will come from combining foundation intelligence, robot embodiment, scalable physical data, simulated environments, and agentic self-improvement. The model sets the floor; the agentic loop raises the ceiling."
+  },
+  {
+    "id": "36-deployment-over-demos",
+    "talk_index": 36,
+    "title": "Ali Agha / Field AI: Deployment Over Demos",
+    "speaker": "Ali Agha",
+    "organization": "Field AI",
+    "one_sentence": "The talk argues that physical AI succeeds only when it is reliable in dirty, dull, dangerous real environments, not merely impressive in controlled demos.",
+    "core_problem": "Robotics demos tolerate brittleness. Real customers do not. Field deployments require reliability, uncertainty awareness, safety, workflow integration, multi-robot coordination, and operation without maps, GPS, cleaned spaces, or carefully prepared infrastructure.",
+    "first_principles_model": "A deployable robot brain must combine generalization with risk-aware control. Pure large neural networks may generalize, but physical deployment requires interpretability, uncertainty quantification, and physics-aware constraints so the system can remain safe when it encounters out-of-distribution states.",
+    "key_claims": [
+      "Digital AI can tolerate hallucination; physical AI in high-value industrial environments has almost no tolerance for physical errors.",
+      "The largest robotics markets are dirty, dull, and dangerous environments where assumptions break quickly.",
+      "A general robot brain should work across embodiments: vehicles, quadrupeds, humanoids, arms, hands, sensors, and mission types.",
+      "The practical architecture has layers: local physical AI skills, operational AI embedded in customer workflows, and multi-agent coordination.",
+      "Operational autonomy means not asking customers to clean sites, provide maps, install positioning systems, or predefine exact paths.",
+      "Safe deployment creates the data flywheel: safe operation permits field data collection; data improves the model; better models expand deployment."
+    ],
+    "important_terms": [
+      {
+        "term": "DDD Environments",
+        "meaning": "Dirty, dull, dangerous environments such as construction, energy, manufacturing, infrastructure, and field sites."
+      },
+      {
+        "term": "Field Foundation Model",
+        "meaning": "Field AI's framing for a generalizable robot brain that also embeds physics, risk awareness, and uncertainty quantification."
+      },
+      {
+        "term": "Operational AI",
+        "meaning": "The layer that embeds robot skills into the customer's real workflow, beyond local balance, navigation, or manipulation."
+      },
+      {
+        "term": "Multi-Agent Robotics",
+        "meaning": "Coordinated heterogeneous teams of robots such as wheeled vehicles, quadrupeds, drones, humanoids, and manipulation systems."
+      },
+      {
+        "term": "Deployment Data Flywheel",
+        "meaning": "Reliable field operation generates more data, which improves the model, which enables more deployment and more data."
+      }
+    ],
+    "stanford_connections": [
+      "This talk grounds the Stanford agent loop in physical deployment: plan, act, observe, recover, and coordinate under real constraints.",
+      "It sharply contrasts benchmark/demonstration success with agentic evaluation in long-horizon messy environments.",
+      "The data flywheel connects to continual learning and self-improvement, but with safety as the precondition for collecting useful field data."
+    ],
+    "practical_caution": "The strongest warning is that robotics is not a pure data problem. More data helps only if the system is safe enough to collect it and architected to handle physics, uncertainty, and customer operations.",
+    "selected_evidence": [
+      "We look at it from day one from the deployment perspective.",
+      "Dirty, dull, dangerous environments.",
+      "You have almost no tolerance for errors.",
+      "We don't see robotic as a pure data problem.",
+      "More deployment leads to more data and better models."
+    ],
+    "takeaway": "The deployment thesis is that real robotics progress comes from making autonomy operationally reliable. Demos show possibility; deployments prove whether the architecture, safety model, workflow integration, and economics actually work."
+  }
+]

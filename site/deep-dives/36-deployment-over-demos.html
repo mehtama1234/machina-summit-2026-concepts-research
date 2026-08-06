@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ali Agha / Field AI: Deployment Over Demos</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 36 · Field AI</p>
+  <h1>Ali Agha / Field AI: Deployment Over Demos</h1>
+  <p class="lede">The talk argues that physical AI succeeds only when it is reliable in dirty, dull, dangerous real environments, not merely impressive in controlled demos.</p>
+  <p><a href="https://www.youtube.com/watch?v=al2JMWjnf6Q">YouTube source</a> · <a href="../talks/36.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Robotics demos tolerate brittleness. Real customers do not. Field deployments require reliability, uncertainty awareness, safety, workflow integration, multi-robot coordination, and operation without maps, GPS, cleaned spaces, or carefully prepared infrastructure.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A deployable robot brain must combine generalization with risk-aware control. Pure large neural networks may generalize, but physical deployment requires interpretability, uncertainty quantification, and physics-aware constraints so the system can remain safe when it encounters out-of-distribution states.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>Digital AI can tolerate hallucination; physical AI in high-value industrial environments has almost no tolerance for physical errors.</li><li>The largest robotics markets are dirty, dull, and dangerous environments where assumptions break quickly.</li><li>A general robot brain should work across embodiments: vehicles, quadrupeds, humanoids, arms, hands, sensors, and mission types.</li><li>The practical architecture has layers: local physical AI skills, operational AI embedded in customer workflows, and multi-agent coordination.</li><li>Operational autonomy means not asking customers to clean sites, provide maps, install positioning systems, or predefine exact paths.</li><li>Safe deployment creates the data flywheel: safe operation permits field data collection; data improves the model; better models expand deployment.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>DDD Environments</h3><p>Dirty, dull, dangerous environments such as construction, energy, manufacturing, infrastructure, and field sites.</p></article><article class="detail"><h3>Field Foundation Model</h3><p>Field AI&#x27;s framing for a generalizable robot brain that also embeds physics, risk awareness, and uncertainty quantification.</p></article><article class="detail"><h3>Operational AI</h3><p>The layer that embeds robot skills into the customer&#x27;s real workflow, beyond local balance, navigation, or manipulation.</p></article><article class="detail"><h3>Multi-Agent Robotics</h3><p>Coordinated heterogeneous teams of robots such as wheeled vehicles, quadrupeds, drones, humanoids, and manipulation systems.</p></article><article class="detail"><h3>Deployment Data Flywheel</h3><p>Reliable field operation generates more data, which improves the model, which enables more deployment and more data.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This talk grounds the Stanford agent loop in physical deployment: plan, act, observe, recover, and coordinate under real constraints.</li><li>It sharply contrasts benchmark/demonstration success with agentic evaluation in long-horizon messy environments.</li><li>The data flywheel connects to continual learning and self-improvement, but with safety as the precondition for collecting useful field data.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>The strongest warning is that robotics is not a pure data problem. More data helps only if the system is safe enough to collect it and architected to handle physics, uncertainty, and customer operations.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>The deployment thesis is that real robotics progress comes from making autonomy operationally reliable. Demos show possibility; deployments prove whether the architecture, safety model, workflow integration, and economics actually work.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>We look at it from day one from the deployment perspective.</blockquote><blockquote>Dirty, dull, dangerous environments.</blockquote><blockquote>You have almost no tolerance for errors.</blockquote><blockquote>We don&#x27;t see robotic as a pure data problem.</blockquote><blockquote>More deployment leads to more data and better models.</blockquote>
+</section>
+</main>
+</body>
+</html>

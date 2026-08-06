@@ -41,6 +41,7 @@ def page(title: str, body: str, prefix: str = "") -> str:
     <a class="brand" href="{prefix}index.html">MACHINA Concept Lab</a>
     <nav>
       <a href="{prefix}index.html">Overview</a>
+      <a href="{prefix}deep-dives.html">Deep Dives</a>
       <a href="{prefix}concepts.html">Concepts</a>
       <a href="{prefix}talks.html">Talks</a>
       <a href="{prefix}evidence.html">Evidence</a>
@@ -77,6 +78,11 @@ def render_index(summary: dict[str, Any], concepts: list[dict[str, Any]], eviden
   <p>The summit is useful because it is mostly practitioners discussing the hard part after demos: deployment, reliability, component constraints, customer value, and long-horizon embodied work.</p>
 </section>
 <section>
+  <h2>Deep Dive Route</h2>
+  <p>Start with the paired read on frontier ambition and deployment reality: Jim Fan's robotics end-game talk and Ali Agha's deployment-over-demos talk.</p>
+  <p><a class="button" href="deep-dives.html">Open deep dives</a></p>
+</section>
+<section>
   <h2>Concept Route</h2>
   <div class="grid">
     {''.join(f'<article class="card"><h3><a href="concepts/{slugify(c["id"])}.html">{esc(c["name"])}</a></h3><p>{esc(c["plain_language_definition"])}</p></article>' for c in concepts)}
@@ -84,6 +90,68 @@ def render_index(summary: dict[str, Any], concepts: list[dict[str, Any]], eviden
 </section>
 """
     (SITE / "index.html").write_text(page("MACHINA Summit 2026 Concept Lab", body), encoding="utf-8")
+
+
+def render_deep_dives(deep_dives: list[dict[str, Any]], talks_by_index: dict[int, dict[str, Any]]) -> None:
+    cards = []
+    for deep in deep_dives:
+        href = f"deep-dives/{slugify(deep['id'])}.html"
+        talk = talks_by_index.get(int(deep["talk_index"]), {})
+        cards.append(
+            f"""<article class="card">
+  <p class="quiet">Talk {esc(deep['talk_index'])} · {esc(deep['organization'])}</p>
+  <h3><a href="{href}">{esc(deep['title'])}</a></h3>
+  <p>{esc(deep['one_sentence'])}</p>
+</article>"""
+        )
+        claims = "".join(f"<li>{esc(item)}</li>" for item in deep["key_claims"])
+        terms = "".join(f"<article class=\"detail\"><h3>{esc(item['term'])}</h3><p>{esc(item['meaning'])}</p></article>" for item in deep["important_terms"])
+        connections = "".join(f"<li>{esc(item)}</li>" for item in deep["stanford_connections"])
+        evidence = "".join(f"<blockquote>{esc(item)}</blockquote>" for item in deep["selected_evidence"])
+        body = f"""
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk {esc(deep['talk_index'])} · {esc(deep['organization'])}</p>
+  <h1>{esc(deep['title'])}</h1>
+  <p class="lede">{esc(deep['one_sentence'])}</p>
+  <p><a href="{esc(talk.get('url', '#'))}">YouTube source</a> · <a href="../talks/{int(deep['talk_index']):02d}.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>{esc(deep['core_problem'])}</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>{esc(deep['first_principles_model'])}</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul>{claims}</ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col">{terms}</div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul>{connections}</ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>{esc(deep['practical_caution'])}</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>{esc(deep['takeaway'])}</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  {evidence}
+</section>
+"""
+        (SITE / "deep-dives" / f"{slugify(deep['id'])}.html").write_text(page(deep["title"], body, prefix="../"), encoding="utf-8")
+
+    body = f"""
+<section class="page-head">
+  <p class="eyebrow">Deep synthesis</p>
+  <h1>High-Value Talks</h1>
+  <p class="lede">Detailed first-principles writeups for the talks that best frame the summit: frontier robotics ambition and deployment reality.</p>
+</section>
+<div class="grid">{''.join(cards)}</div>
+"""
+    (SITE / "deep-dives.html").write_text(page("Deep Dives", body), encoding="utf-8")
 
 
 def render_concepts(concepts: list[dict[str, Any]], evidence_by_id: dict[str, dict[str, Any]]) -> None:
@@ -164,10 +232,11 @@ def render_evidence(evidence: list[dict[str, Any]], concepts_by_id: dict[str, di
     (SITE / "evidence.html").write_text(page("Evidence", body), encoding="utf-8")
 
 
-def render_talks(index: list[dict[str, Any]], evidence: list[dict[str, Any]]) -> None:
+def render_talks(index: list[dict[str, Any]], evidence: list[dict[str, Any]], deep_dives: list[dict[str, Any]]) -> None:
     evidence_by_talk: dict[int, list[dict[str, Any]]] = defaultdict(list)
     for ev in evidence:
         evidence_by_talk[int(ev["lecture_index"])].append(ev)
+    deep_by_talk = {int(deep["talk_index"]): deep for deep in deep_dives}
 
     cards = []
     for row in index:
@@ -177,7 +246,7 @@ def render_talks(index: list[dict[str, Any]], evidence: list[dict[str, Any]]) ->
             f"""<article class="card">
   <h3><a href="{href}">Talk {talk_index}: {esc(short_title(row['title']))}</a></h3>
   <p>{row['word_count']:,} transcript words · {len(evidence_by_talk.get(talk_index, []))} evidence anchors</p>
-  <p class="quiet">{esc(row['transcript_status'])} · {esc(row['source_tier'])}</p>
+  <p class="quiet">{esc(row['transcript_status'])} · {esc(row['source_tier'])}{' · deep dive available' if talk_index in deep_by_talk else ''}</p>
 </article>"""
         )
         items = []
@@ -196,6 +265,7 @@ def render_talks(index: list[dict[str, Any]], evidence: list[dict[str, Any]]) ->
   <p class="eyebrow">Talk {talk_index}</p>
   <h1>{esc(row['title'])}</h1>
   <p class="lede">{row['word_count']:,} words · {row['cue_count']:,} timestamped cues · <a href="{esc(row['url'])}">YouTube source</a></p>
+  {f'<p><a class="button" href="../deep-dives/{slugify(deep_by_talk[talk_index]["id"])}.html">Open deep dive</a></p>' if talk_index in deep_by_talk else ''}
 </section>
 <section>
   <h2>Selected Anchors</h2>
@@ -266,6 +336,8 @@ h3 { margin: 0 0 8px; }
 .lede { font-size: 19px; max-width: 880px; color: #34373b; }
 .stats { display: grid; grid-template-columns: repeat(5, minmax(120px, 1fr)); gap: 12px; margin: 20px 0 30px; }
 .stats article, .card, .detail, .evidence-item { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px; }
+.button { display: inline-block; background: var(--ink); color: #fff; border-radius: 8px; padding: 9px 13px; font-weight: 700; }
+.button:hover { text-decoration: none; background: #3b434b; }
 .stats strong { display: block; font-size: 28px; }
 .stats span, .quiet { color: var(--muted); font-size: 14px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
@@ -286,19 +358,23 @@ def main() -> int:
     ASSETS.mkdir(exist_ok=True)
     (SITE / "concepts").mkdir(exist_ok=True)
     (SITE / "talks").mkdir(exist_ok=True)
-    for folder in [SITE / "concepts", SITE / "talks"]:
+    (SITE / "deep-dives").mkdir(exist_ok=True)
+    for folder in [SITE / "concepts", SITE / "talks", SITE / "deep-dives"]:
         for stale in folder.glob("*.html"):
             stale.unlink()
     summary = load_json("raw-material/youtube/summary.json")
     index = load_json("raw-material/youtube/transcript-index.json")
     concepts = load_json("analysis/concepts/concept-atlas.json")
     evidence = load_json("analysis/evidence/evidence-ledger.json")
+    deep_dives = load_json("analysis/deep-dives/deep-dives.json")
     evidence_by_id = {ev["id"]: ev for ev in evidence}
     concepts_by_id = {concept["id"]: concept for concept in concepts}
+    talks_by_index = {int(row["index"]): row for row in index}
     render_styles()
     render_index(summary, concepts, evidence)
+    render_deep_dives(deep_dives, talks_by_index)
     render_concepts(concepts, evidence_by_id)
-    render_talks(index, evidence)
+    render_talks(index, evidence, deep_dives)
     render_evidence(evidence, concepts_by_id)
     render_transcripts(index)
     manifest = sorted(str(path.relative_to(SITE)) for path in SITE.rglob("*.html"))
