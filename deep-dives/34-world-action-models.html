@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Andrew Wooten / Rhoda AI: World Action Models</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 34 · Rhoda AI</p>
+  <h1>Andrew Wooten / Rhoda AI: World Action Models</h1>
+  <p class="lede">The talk argues that deployable learning robots need world action models: models pretrained on internet-scale video to understand physics, then fine-tuned with robot trajectories to convert imagined task videos into real-time actions.</p>
+  <p><a href="https://www.youtube.com/watch?v=paG321NUu64">YouTube source</a> · <a href="../talks/34.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>VLA systems inherit strong language knowledge but weak action priors because most action learning comes from limited teleoperation data. That makes them impressive in demos but brittle in real tasks with deformable objects, transparent materials, clutter, and distribution shift.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>If a model can accurately imagine a physically plausible video of a robot completing a task, action generation becomes a translation problem: convert the desired future motion into control commands. The hard part is making the imagined video both physically faithful and fast enough for closed-loop control.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>Most deployed robots today are still pre-programmed automation rather than learning-capable robots.</li><li>VLA post-training on robot teleoperation data gives language understanding but not enough physical action knowledge.</li><li>Internet video is the closest thing robotics has to an internet-scale dataset for physics, motion, object interaction, and diversity.</li><li>A world action model first generates a task video, then converts that video into robot actions in real time.</li><li>Off-the-shelf video models are not enough because they are slow and often physically wrong at contact points.</li><li>Causal video generation matters for robotics because later frames should depend on earlier physical interactions.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>World Action Model</h3><p>A robot policy architecture that uses a video/world model to plan future physical states and then maps those states to actions.</p></article><article class="detail"><h3>Action Prior</h3><p>A model&#x27;s learned intuition for how actions interact with physics, objects, materials, and robot embodiment.</p></article><article class="detail"><h3>Causal Video Model</h3><p>A video model where each generated frame depends on previous frames, matching the causal structure of physical motion.</p></article><article class="detail"><h3>Real-Time Inference</h3><p>Running the video-to-action loop fast enough for closed-loop robot control, such as multiple decisions per second.</p></article><article class="detail"><h3>Resistant Automation Task</h3><p>A task that traditional automation struggles with because of variability, deformable materials, transparent objects, tight spaces, or messy packaging.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This is a concrete alternative to pure VLA imitation: use pretraining to build a physical prior, then use a smaller amount of task data to specialize.</li><li>It parallels test-time reasoning: the model plans in a latent or visual space before producing actions.</li><li>It connects to sample efficiency: better priors reduce how many robot demonstration hours are needed per new task.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>The thesis depends on video models becoming physically accurate at contact, causal over time, and fast enough for control. A good-looking video is not sufficient; small physical errors can destroy a robot task.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>Rhoda&#x27;s thesis is that robotics needs to move from language-first action models toward physics-first world-action models. The goal is not just better demos, but lower data requirements for real industrial tasks.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>There is no webscale pre-training.</blockquote><blockquote>The right data set for this is actually internet video.</blockquote><blockquote>First it&#x27;s going to generate a video of the robot grabbing this remote.</blockquote><blockquote>Most video models... are not really physically accurate once you get down into the details.</blockquote><blockquote>We were able to get this task to work with 10 hours of training data.</blockquote>
+</section>
+</main>
+</body>
+</html>

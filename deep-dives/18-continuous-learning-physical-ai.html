@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Steve Xie / Lightwheel: Continuous Learning Systems for Physical AI</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 18 · Lightwheel</p>
+  <h1>Steve Xie / Lightwheel: Continuous Learning Systems for Physical AI</h1>
+  <p class="lede">The talk argues that physical AI needs a continuous learning infrastructure built from human egocentric data, simulation evaluation, deployment feedback, and real-to-sim-to-real conversion.</p>
+  <p><a href="https://www.youtube.com/watch?v=H8rM0Tygcfg">YouTube source</a> · <a href="../talks/18.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Robotics lacks the free pretraining site that language models got from the internet and self-driving got from road fleets. Real robot fleets are still too small, physical interaction is much harder than passive perception, and real-world evaluation feedback is scarce.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A robot learning system needs demonstrations, evaluations, and deployment feedback. Demonstrations teach what to do, evaluations tell whether it worked, and deployments expose real variation. Because real fleets are limited, the missing scale has to come from human egocentric data and simulation.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>Physical AI may require vastly more data than self-driving or language models because every manipulation task involves physical interaction.</li><li>Real robot data is only a tiny part of the needed data pyramid; most pretraining data must come from humans, video, egocentric capture, and simulation.</li><li>Data should be thought of as learning rather than fuel: quality, insight, feedback, and curriculum matter more than raw volume alone.</li><li>Continuous learning depends on three coupled systems: data, evaluation, and deployment.</li><li>Simulation is the only scalable path for physical evaluation because it is reproducible, scalable, diverse, and can be made physically accurate.</li><li>Real-to-sim-to-real infrastructure requires solvers, real physical measurements, sim-ready assets, and standards.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>Data Pyramid</h3><p>The idea that real robot data is scarce, while human egocentric video and simulation must supply most of the learning signal.</p></article><article class="detail"><h3>Continuous Learning Loop</h3><p>A loop where robots or models receive demonstrations, evaluation feedback, deployment feedback, and updated training data over time.</p></article><article class="detail"><h3>Real-to-Sim-to-Real</h3><p>Capturing real-world measurements into simulation, evaluating or training in sim, then transferring the model back into deployment.</p></article><article class="detail"><h3>Simulation Benchmark</h3><p>A reproducible simulated task suite used to evaluate robotics models at scale when real-world testing is too slow or expensive.</p></article><article class="detail"><h3>Sim-Ready Asset</h3><p>A digital object or environment asset with enough geometry and physical parameters to support useful simulation.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This gives the infrastructure version of self-improving agents: collect attempts, evaluate, feed back, and improve.</li><li>The emphasis on scalable evaluation mirrors RLVR and coding-agent loops, but physical AI needs simulation instead of unit tests.</li><li>The data-standard and benchmark discussion connects to the Stanford evaluation theme: learning accelerates only when feedback is reliable.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>The numbers in the talk are directional and business-framed. The durable point is the structure: without scalable feedback, robotics cannot compound the way digital agents do.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>Lightwheel&#x27;s thesis is that robotics progress bottlenecks on learning infrastructure. The winners will not only build models; they will build the data, simulator, evaluation, and deployment loops that let models keep improving.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>For robotics, there&#x27;s no pre-training site. We have to build a pre-training site.</blockquote><blockquote>The real robot data is only a very tiny bit.</blockquote><blockquote>Data is not fuel.</blockquote><blockquote>The real learning continuous learning system for physical AI should be based on three major things: the data, the evaluation, and also deployment.</blockquote><blockquote>Simulation is the only scalable path for physical evaluations.</blockquote>
+</section>
+</main>
+</body>
+</html>

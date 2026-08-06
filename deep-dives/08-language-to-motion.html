@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Carolina Parada / Google DeepMind: Language to Motion</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 8 · Google DeepMind</p>
+  <h1>Carolina Parada / Google DeepMind: Language to Motion</h1>
+  <p class="lede">The talk explains how Gemini Robotics turns multimodal foundation models into physical agents by adding action as a model output, then layering planning, tools, memory, safety evaluation, and whole-body control around it.</p>
+  <p><a href="https://www.youtube.com/watch?v=dMvrZzGcREM">YouTube source</a> · <a href="../talks/08.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Traditional robots are bespoke systems: they assume fixed environments, known objects, and hand-programmed task sequences. General-purpose robotics needs systems that can understand natural language, perceive cluttered scenes, reason over multi-step goals, and produce safe robot trajectories across different embodiments.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A useful robot needs at least two levels of intelligence. The high-level agent interprets the human goal, gathers context, uses tools, remembers the scene, and decomposes the task. The low-level action model turns a grounded instruction plus perception and proprioception into control targets, while a controller keeps the body stable.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>General-purpose robots must operate across environments, verticals, object types, and embodiments rather than being programmed one task at a time.</li><li>Gemini Robotics adds actions as a modality to a multimodal model, so the system can output robot trajectories instead of only text, code, or images.</li><li>Agentic robotics is needed because real tasks are multi-step: the robot must reason, use tools such as search or code execution, and call action models as needed.</li><li>Agentic vision lets a model take intermediate perception steps such as zooming, pointing, and calculation before reporting an instrument reading or safety-relevant state.</li><li>Action models can generate text and action tokens together, creating a form of embodied thinking for multi-step manipulation.</li><li>Learning across embodiments matters: the same weights can transfer skills from one robot platform to another when one embodiment has less data.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>Vision-Language-Action Model</h3><p>A model that accepts visual observations and language instructions and directly outputs robot action targets or trajectories.</p></article><article class="detail"><h3>Gemini Robotics ER</h3><p>The high-level embodied reasoning layer described in the talk: it understands the scene, uses tools, plans steps, and orchestrates action models.</p></article><article class="detail"><h3>Agentic Vision</h3><p>Perception as a multi-step process, where the model can zoom, point, calculate, call tools, and verify before giving an answer.</p></article><article class="detail"><h3>Cross-Embodiment Learning</h3><p>Reusing learned skills or model weights across robot bodies such as Aloha, Apollo, quadrupeds, and arms.</p></article><article class="detail"><h3>World-Model Safety Evaluation</h3><p>Using generated or simulated robot observations to evaluate policies in risky situations that should not be tried directly in the real world.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This extends the Stanford agent pattern from text tools into embodied tools: reason, call tools, act, observe, and continue.</li><li>The ER-plus-VLA split resembles planner/executor architectures in agent systems.</li><li>The simulation and world-model section connects to self-improvement because safer virtual evaluation creates more feedback for policy refinement.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>The talk presents a frontier lab architecture, not a simple recipe that any team can reproduce. The hard parts are not just model calls; they include action data, embodiment transfer, safety evaluation, low-level control, and deployment partnerships.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>DeepMind&#x27;s framing is that robotics needs a layered foundation-model system: embodied reasoning for goals and tools, action models for trajectories, controllers for stability, and simulation/world models for safety and scaling.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>Gemini can now produce robot action sequences.</blockquote><blockquote>Most tasks in the real world are complex and they take multiple steps to complete.</blockquote><blockquote>This is a physical agent with memory.</blockquote><blockquote>The model can decide if it wants to read this gauge, it can take intermediate steps.</blockquote><blockquote>The model is generating text and action tokens together.</blockquote>
+</section>
+</main>
+</body>
+</html>
