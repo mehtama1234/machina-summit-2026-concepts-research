@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bright Machines, Roboto AI and Kinisi Robotics: Factory Deployment Gap</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html">MACHINA Concept Lab</a>
+    <nav>
+      <a href="../index.html">Overview</a>
+      <a href="../deep-dives.html">Deep Dives</a>
+      <a href="../concepts.html">Concepts</a>
+      <a href="../talks.html">Talks</a>
+      <a href="../evidence.html">Evidence</a>
+      <a href="../transcripts.html">Transcripts</a>
+    </nav>
+  </header>
+  <main>
+<p><a href="../deep-dives.html">Back to deep dives</a></p>
+<section class="page-head">
+  <p class="eyebrow">Talk 41 · Bright Machines, Roboto AI, Kinisi Robotics, and Kitemaker</p>
+  <h1>Bright Machines, Roboto AI and Kinisi Robotics: Factory Deployment Gap</h1>
+  <p class="lede">The panel explains why factory robotics gets stuck between prototype and scale: operations ownership, data paradoxes, expensive hardware pilots, industrialization, customer expectations, and the fact that the solution is bigger than the robot.</p>
+  <p><a href="https://www.youtube.com/watch?v=muhYoFq5G8I">YouTube source</a> · <a href="../talks/41.html">Talk page</a></p>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Core Problem</h2><p>Factories need reliable automation, but robotics startups cannot test like pure software companies. Hardware is expensive, pilots are few, requirements are unclear, and model performance must be converted into a maintainable industrial system.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>Factory deployment is a systems integration problem. The robot is only one component. The full product includes hardware, workflow, operational data, analytics, maintenance, safety, service, customer success, and manufacturing readiness.</p></section>
+</div>
+<section class="detail">
+  <h2>Key Claims</h2>
+  <ul><li>Operations ownership is a bottleneck when OEMs, contract manufacturers, and robotics providers are split across organizations.</li><li>Robotics has a data paradox: teams have too much raw multimodal operational data to inspect manually, but not enough high-quality curated data to train reliable models.</li><li>Hardware startups cannot run hundreds of cheap pilots like SaaS companies; they must choose pilots carefully because each robot is costly.</li><li>Many real tasks can currently be pushed to deployment only by combining foundation models with classical controllers, monitoring, and hand-tuned recovery logic.</li><li>Customers often expect human-level speed and near-100% reliability even when the technology is still early.</li><li>The robot is not the product; the system, integration, data management, maintenance, and customer service are the product.</li></ul>
+</section>
+<section>
+  <h2>Important Terms</h2>
+  <div class="two-col"><article class="detail"><h3>Data Paradox</h3><p>Robotics teams can generate huge amounts of raw data while still lacking the curated high-quality data needed for training and proof of readiness.</p></article><article class="detail"><h3>Valley of Death</h3><p>The stage between prototype and mass production where hardware generations diverge, support costs rise, and deployments are not yet scalable.</p></article><article class="detail"><h3>Operations Ownership</h3><p>Clear responsibility for operating, maintaining, improving, and integrating the robotic system in production.</p></article><article class="detail"><h3>Industrialization</h3><p>Turning a prototype into a manufacturable, serviceable, reliable product that can be delivered at scale.</p></article><article class="detail"><h3>System Is the Product</h3><p>The deployment value comes from the complete solution, not from the robot hardware alone.</p></article></div>
+</section>
+<section class="detail">
+  <h2>Connection To Stanford Agent Learning</h2>
+  <ul><li>This is the real-world version of evaluation-driven development: operational data proves whether a pilot is ready to scale.</li><li>The foundation-model-plus-classical-controller pattern is a practical hybrid agent design.</li><li>The data paradox connects directly to dataset engineering: raw logs are not the same as training signal.</li></ul>
+</section>
+<div class="two-col">
+  <section class="detail"><h2>Practical Caution</h2><p>Do not assume a factory wants a humanoid. Many repetitive tasks need a system that works, not a generalist body. The correct form factor follows from the operational problem.</p></section>
+  <section class="detail"><h2>Takeaway</h2><p>The factory-gap thesis is that robotics scaling depends on turning prototypes into operational systems. The hard bridge is industrialization, data infrastructure, pilot selection, and customer-success machinery.</p></section>
+</div>
+<section>
+  <h2>Selected Transcript Phrases</h2>
+  <blockquote>The real challenge is no longer how do we make something that&#x27;s impressive.</blockquote><blockquote>More data, but the right data.</blockquote><blockquote>You can&#x27;t... start 100 500 pilots.</blockquote><blockquote>The robot is not the product, the system is the product.</blockquote><blockquote>If a customer says what is your picks per hour... it&#x27;s not a customer that&#x27;s going to be happy with humanoid at the current rate.</blockquote>
+</section>
+</main>
+</body>
+</html>

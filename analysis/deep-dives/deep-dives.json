@@ -322,5 +322,221 @@
       "We were able to get this task to work with 10 hours of training data."
     ],
     "takeaway": "Rhoda's thesis is that robotics needs to move from language-first action models toward physics-first world-action models. The goal is not just better demos, but lower data requirements for real industrial tasks."
+  },
+  {
+    "id": "20-physical-ai-deployment-gap",
+    "talk_index": 20,
+    "title": "Samsara and Fraikin: Physical AI Deployment Gap",
+    "speaker": "Meagen Eisenberg and Yves Pétin",
+    "organization": "Samsara and Fraikin",
+    "one_sentence": "The talk explains how AI becomes operationally valuable when real-time fleet data, standardized architecture, agents, compliance, and workflow automation are connected to concrete ROI metrics.",
+    "core_problem": "Many AI pilots look promising but fail to become operational systems. Scaling from a small pilot to tens of thousands of vehicles or physical assets requires real-time data capture, open integration, compliance, workforce adoption, and measurable business outcomes.",
+    "first_principles_model": "A physical operation is a feedback system. Assets generate telemetry, video, location, maintenance, driver, and environmental data. AI agents turn that data into predictions and actions. The business value appears only when the action changes a workflow: coaching, maintenance, routing, work orders, parts ordering, safety response, or asset tracking.",
+    "key_claims": [
+      "Physical AI deployment starts with data capture; without fleet data there is no AI feedback loop.",
+      "Scaling requires standardized architecture and open APIs so heterogeneous assets can feed one operational platform.",
+      "Real-time data and AI should be treated as a transformation foundation, not as an IT project.",
+      "Safety programs improve when AI identifies who needs coaching, supports real-time driver feedback, and proves most drivers are safe.",
+      "Predictive maintenance becomes workflow automation when agents detect faults, create work orders, order parts, and reroute assets.",
+      "The future physical operation is mixed-autonomy coordination: humans, vehicles, robots, heavy equipment, cargo, and agents operating just in time."
+    ],
+    "important_terms": [
+      {
+        "term": "Operational Feedback Loop",
+        "meaning": "The cycle where asset telemetry produces insights, insights trigger actions, and outcomes feed back into the operating model."
+      },
+      {
+        "term": "Mixed Autonomy Fleet",
+        "meaning": "A fleet containing conventional vehicles, autonomous systems, robots, and human-operated assets."
+      },
+      {
+        "term": "Agentic Maintenance",
+        "meaning": "Maintenance workflows where software agents detect problems, create work orders, order parts, and adjust routing automatically."
+      },
+      {
+        "term": "Transformation Foundation",
+        "meaning": "The idea that real-time data platforms change the operating model itself rather than serving as a narrow dashboard project."
+      },
+      {
+        "term": "Just-in-Time Physical AI",
+        "meaning": "Coordinating people, parts, vehicles, robots, and equipment so the right resource arrives exactly when needed."
+      }
+    ],
+    "stanford_connections": [
+      "This is the business operations version of agentic tool use: agents observe state, choose actions, and update workflows.",
+      "It connects to evaluation because ROI metrics become the real verifier: uptime, total cost, safety incidents, maintenance cost, and yield.",
+      "It shows why deployment agents need integration with external systems, not just better reasoning traces."
+    ],
+    "practical_caution": "Fleet AI is easier to operationalize than general humanoid autonomy because vehicles already produce structured telemetry. The lesson transfers, but robotics deployments may need more sensing, safety, and intervention handling.",
+    "selected_evidence": [
+      "Without data no fitting for AI and no feedback loop to our customers.",
+      "AI and real-time data shouldn't be seen as an IT project but it's a transformation foundation.",
+      "AI helps you scale infinitely.",
+      "The Telmatics AI agent will detect the error code.",
+      "Everything we need arriving exactly at the right time."
+    ],
+    "takeaway": "The deployment-gap lesson is that AI produces value when it compresses operational workflows. The model matters, but the operating system around the model is where uptime, safety, and ROI are created."
+  },
+  {
+    "id": "31-robots-at-work-industrial-frontier",
+    "talk_index": 31,
+    "title": "ANYbotics, Nomagic and Schaeffler: Robots at Work",
+    "speaker": "Peter Fankhauser, Tristan d'Orgeval, Tomas Turek, and Schaeffler panelists",
+    "organization": "ANYbotics, Nomagic, Sunrise, and Schaeffler",
+    "one_sentence": "The panel turns robotics deployment into field reality: slippery floors, flapping trash bags, changing throughput targets, safety integration, stakeholder alignment, and the need to reach production early.",
+    "core_problem": "Industrial robots fail not only because of weak models, but because real facilities contain unmodeled edge cases, shifting production targets, safety systems, IT integration, worker processes, and economic requirements that are absent from labs and demos.",
+    "first_principles_model": "A production robot is part of a socio-technical system. It must fit the physical process, the safety case, the IT stack, the worker workflow, the ROI model, and the maintenance plan. Reliability emerges from repeated exposure to production variation, not from a polished demo.",
+    "key_claims": [
+      "Production exposes edge cases that labs and simulations miss, such as oily floors, vibrations, suboptimal layouts, and unexpected sensor triggers.",
+      "Customer statements about speed, throughput, or requirements should be treated cautiously because requirements change once the system becomes productive.",
+      "Teams should go to production as soon as they can safely afford to, because early production pain reveals the true problem.",
+      "Robotics is as much logistics and operations as it is model capability.",
+      "Industrial systems need high reliability before they even reach the starting line; frequent human intervention destroys the economic case.",
+      "Early vendors often need to deploy directly before handing work to integrators, because the playbook is still being learned."
+    ],
+    "important_terms": [
+      {
+        "term": "Time to Value",
+        "meaning": "The time between installation and the moment the robot creates measurable operational benefit."
+      },
+      {
+        "term": "Production Edge Case",
+        "meaning": "A real-world condition that was not captured in lab tests but affects autonomy, safety, or throughput."
+      },
+      {
+        "term": "Three Nines Reliability",
+        "meaning": "The industrial expectation that a system works with very high uptime before it becomes economically credible."
+      },
+      {
+        "term": "Workflow Integration",
+        "meaning": "The work of fitting the robot into existing production processes, IT systems, safety rules, and worker routines."
+      },
+      {
+        "term": "Deployment Playbook",
+        "meaning": "A repeatable process for assessing sites, aligning stakeholders, installing, integrating, monitoring, and improving robots."
+      }
+    ],
+    "stanford_connections": [
+      "This is what long-horizon agent evaluation looks like in factories: a task is only solved if the robot survives the workflow, not just the benchmark.",
+      "The anomaly-data discussion maps to continual learning: each failure should become training or monitoring signal for the fleet.",
+      "It reinforces the distinction between capability and reliability: pass@1 demos are not enough for production."
+    ],
+    "practical_caution": "A robot that works once is not a product. The deployment system must handle throughput changes, maintenance, safety, customer expectations, and site-specific surprises.",
+    "selected_evidence": [
+      "Never trust that, right? We don't care too much about speed.",
+      "Something you cannot simulate, something you would really not expect.",
+      "There is no model simulation... flapping trash can as part of your product requirement.",
+      "Go to production as soon as possible.",
+      "If it doesn't work with at least three nines of reliability, you don't even get to the starting line."
+    ],
+    "takeaway": "The industrial-frontier lesson is that deployment is where robotics becomes real. The product is not the robot alone; it is the reliable operating process wrapped around the robot."
+  },
+  {
+    "id": "38-building-a-robotics-business",
+    "talk_index": 38,
+    "title": "Dynamic Creatures, McKinsey, TRON and AGIBOT: Building a Robotics Business",
+    "speaker": "Yan Rudat, Ani Kelkar, Kai, Roger Zhou, and Marc Theermann",
+    "organization": "Dynamic Creatures, McKinsey, TRON, AGIBOT, and Humanoid",
+    "one_sentence": "The panel explains that successful robotics companies must balance near-term ROI, durable applications, business transformation, compliance, deployment speed, supply chain control, and realistic customer education.",
+    "core_problem": "Robotics companies face a market-making problem. Customers want ROI and reliability now, while the technology roadmap points toward broader future autonomy. Companies that jump too early into generality risk failing; companies that stay too narrow risk becoming commodity automation vendors.",
+    "first_principles_model": "A robotics business has to sell an outcome, not a machine. The outcome must fit a buyer's workflow, risk tolerance, compliance burden, financing model, and measurable ROI. The company must learn from real deployments while choosing use cases that are useful today and expandable tomorrow.",
+    "key_claims": [
+      "Successful companies balance durable ROI applications with a roadmap toward more complex tasks.",
+      "Business transformation matters because organizations must be prepared for robots before implementation can succeed.",
+      "Many proof-of-concepts become monuments when the spotlight moves, the robot breaks, or operations teams are not prepared.",
+      "Europe and Japan may adopt more slowly because compliance, safety, regulation, and worker councils are central to the buying process.",
+      "Digital twins and simulation help conservative manufacturers try, test, and iterate before touching production.",
+      "Robot-as-a-service can lower upfront capex and shift the sale from procurement pricing toward transformation and outcomes."
+    ],
+    "important_terms": [
+      {
+        "term": "Market-Making Motion",
+        "meaning": "The process of discovering applications that create real ROI while educating customers and building demand."
+      },
+      {
+        "term": "Developer Market",
+        "meaning": "Early robot buyers purchasing for research, entertainment, experimentation, or internal exploration rather than scaled production ROI."
+      },
+      {
+        "term": "Durable Market",
+        "meaning": "A market where robots solve repeatable, valuable problems with enough ROI to justify fleet deployment."
+      },
+      {
+        "term": "Robot-as-a-Service",
+        "meaning": "A subscription model that lowers customer capex and bundles hardware, training, teleoperation, support, and service."
+      },
+      {
+        "term": "Compliance as Feature",
+        "meaning": "Treating CE certification, GDPR, machinery safety, and local regulation as part of the product value rather than a blocker."
+      }
+    ],
+    "stanford_connections": [
+      "This is the commercialization layer around agent learning: capability is useful only when it maps to a buyer's task distribution and verifier.",
+      "The discussion of developer versus durable markets mirrors benchmark versus real-world evaluation.",
+      "Simulation and digital twins provide the experimentation environment before real deployment, similar to sandboxing for software agents."
+    ],
+    "practical_caution": "Humanoid flexibility is not automatically ROI. If a fixed industrial robot solves the task better, the humanoid pitch must rely on redeployability, multiple tasks, or environments where fixed automation does not fit.",
+    "selected_evidence": [
+      "Companies are trying to discover applications that make the durable market.",
+      "A lot of these POCs start becoming monuments rather than proof points.",
+      "The humanoid is not a magic trick that solves all kind of issues in the factory.",
+      "The business case was quite narrow.",
+      "We compete on speed."
+    ],
+    "takeaway": "The business lesson is that robotics companies win by choosing valuable use cases, educating customers, lowering adoption friction, proving reliability, and building a roadmap from today's ROI to tomorrow's broader autonomy."
+  },
+  {
+    "id": "41-factory-deployment-gap",
+    "talk_index": 41,
+    "title": "Bright Machines, Roboto AI and Kinisi Robotics: Factory Deployment Gap",
+    "speaker": "Sviatoslav, Yves, Brennan Pierce, and Vincent Parton",
+    "organization": "Bright Machines, Roboto AI, Kinisi Robotics, and Kitemaker",
+    "one_sentence": "The panel explains why factory robotics gets stuck between prototype and scale: operations ownership, data paradoxes, expensive hardware pilots, industrialization, customer expectations, and the fact that the solution is bigger than the robot.",
+    "core_problem": "Factories need reliable automation, but robotics startups cannot test like pure software companies. Hardware is expensive, pilots are few, requirements are unclear, and model performance must be converted into a maintainable industrial system.",
+    "first_principles_model": "Factory deployment is a systems integration problem. The robot is only one component. The full product includes hardware, workflow, operational data, analytics, maintenance, safety, service, customer success, and manufacturing readiness.",
+    "key_claims": [
+      "Operations ownership is a bottleneck when OEMs, contract manufacturers, and robotics providers are split across organizations.",
+      "Robotics has a data paradox: teams have too much raw multimodal operational data to inspect manually, but not enough high-quality curated data to train reliable models.",
+      "Hardware startups cannot run hundreds of cheap pilots like SaaS companies; they must choose pilots carefully because each robot is costly.",
+      "Many real tasks can currently be pushed to deployment only by combining foundation models with classical controllers, monitoring, and hand-tuned recovery logic.",
+      "Customers often expect human-level speed and near-100% reliability even when the technology is still early.",
+      "The robot is not the product; the system, integration, data management, maintenance, and customer service are the product."
+    ],
+    "important_terms": [
+      {
+        "term": "Data Paradox",
+        "meaning": "Robotics teams can generate huge amounts of raw data while still lacking the curated high-quality data needed for training and proof of readiness."
+      },
+      {
+        "term": "Valley of Death",
+        "meaning": "The stage between prototype and mass production where hardware generations diverge, support costs rise, and deployments are not yet scalable."
+      },
+      {
+        "term": "Operations Ownership",
+        "meaning": "Clear responsibility for operating, maintaining, improving, and integrating the robotic system in production."
+      },
+      {
+        "term": "Industrialization",
+        "meaning": "Turning a prototype into a manufacturable, serviceable, reliable product that can be delivered at scale."
+      },
+      {
+        "term": "System Is the Product",
+        "meaning": "The deployment value comes from the complete solution, not from the robot hardware alone."
+      }
+    ],
+    "stanford_connections": [
+      "This is the real-world version of evaluation-driven development: operational data proves whether a pilot is ready to scale.",
+      "The foundation-model-plus-classical-controller pattern is a practical hybrid agent design.",
+      "The data paradox connects directly to dataset engineering: raw logs are not the same as training signal."
+    ],
+    "practical_caution": "Do not assume a factory wants a humanoid. Many repetitive tasks need a system that works, not a generalist body. The correct form factor follows from the operational problem.",
+    "selected_evidence": [
+      "The real challenge is no longer how do we make something that's impressive.",
+      "More data, but the right data.",
+      "You can't... start 100 500 pilots.",
+      "The robot is not the product, the system is the product.",
+      "If a customer says what is your picks per hour... it's not a customer that's going to be happy with humanoid at the current rate."
+    ],
+    "takeaway": "The factory-gap thesis is that robotics scaling depends on turning prototypes into operational systems. The hard bridge is industrialization, data infrastructure, pilot selection, and customer-success machinery."
   }
 ]
