@@ -1,0 +1,999 @@
+[music]
+>> Hello, a very good afternoon everyone.
+It's really amazing to see such a good
+audience here after a late afternoon. I
+hope everyone is feeling refreshed
+because I can assure you that this panel
+is going to bring some of the most
+insightful sharing in terms of how we
+can bridge the gap between the factory
+deployment, between the technology that
+we see in the market, and bridging them,
+bringing them from pilots to actual
+deployments, right? So, my name is Edwin
+Yap. I'm the founder of 6D Robot, and
+I'm pleased to be moderating today's
+discussion. We have a great panel with
+us today. We have um
+Sviatoslav from Bright Machines, If
+Alberts Stromberg from Roboto AI,
+Brennan Pierce from Kinema Robotics, and
+Vincent Parton from Key Maker. So, the
+topic today is very practical, right?
+Robotics and physical AI advancing very
+quickly. But, the real challenge is no
+longer how do we make something that's
+impressive.
+We're looking at the harder question,
+which is bringing the technology from
+real just demo into real factories and
+making them reliable, integrating them
+into existing workflow, proving the ROI,
+and scaling beyond the pilot. So, to
+start, I'll ask each of the panelists to
+introduce himself, and also tell us
+about what is the biggest gap that you
+see right now in the market between
+pilot and real factory deployment. So,
+if you can just start with Sviatoslav by
+introducing yourself, please.
+>> Thank you.
+It's great to be here. Thanks Edwin for
+moderating.
+So, my name is Sviatoslav. I'm the CEO
+of Bright Machines. Maybe quickly, what
+we do at Bright Machines, we are
+building
+the factories with a new approach with
+robotics and AI first, and we brought
+those factories to assemble complex
+electronics. We focus 100% on what we
+call data center infrastructure, so you
+can think about compute, all the servers
+and racks that go to data centers. We
+assemble them with robots powered by
+AI-enabled software and data. And just
+to understand how we operate in this
+like this segment of the market
+operates, I think the big gap to to the
+point of the panel is the operations
+ownership. Um as you know, as you might
+know in electronics, there are like
+designers of the product that are OEMs,
+and there are like manufacturers that
+are usually called CMs, contract
+manufacturers, and historically uh most
+of the manufacturing has been centered
+in China, and um
+design somewhere in California, like if
+you think about Apple. Um and then, you
+know, some other companies trying to
+provide solutions like robots and
+software to deploy on those floors, and
+because of that triangle actually, it
+it's kind of a bottleneck to uh fast
+deployments and evolvement of robotics
+in the industry. And we can deep dive
+into this later.
+Okay, thank you. Yeah, Yves, please.
+>> Yes, hello everyone. Um super excited to
+be here. My name is Yves. I'm the CTO
+and co-founder of Robot AI,
+and we're building a data analytics
+platform for robotics data. So, if
+you're collecting a lot of data, you
+know, in a manufacturing context,
+drones, self-driving cars, you need to
+analyze all of that data. You need to be
+able to search through it, you could
+curate it, and then we're building a
+SaaS platform to help with that. And um
+maybe some of the biggest gaps that
+we're currently seeing, you know, I
+think we see a lot of pilots that are
+failing because um
+ultimately, they don't really
+achieve the up time and reliability that
+are required for um to operate at scale.
+Um and we see a big part of that is kind
+of that there's not enough data
+available, and I think in two respects.
+On the one side,
+there's not enough data to really train
+these models for like the specific
+applications and make sure they're
+reliable, but there's also not enough
+operational data to really prove to the
+executive sponsors that um you know, the
+system is ready for scaling up. So,
+really kind of more data, but the right
+data. I think that's a big bottleneck
+right now in the whole industry.
+>> Right, very interesting. I think
+definitely we've been seeing a lot of
+mentions about data, whether in every
+panel or even sharing by most of the
+keynotes that we see today. Um Renat,
+please.
+>> Hello, nice to meet you. So, I'm here
+for CEO of Neocities, but also I founded
+multiple other robot companies. I can
+say um historically, if you think of the
+AMR um robots, they're they're basically
+out there. My previous companies shipped
+tens of thousands of them, so it's
+pretty easy. I think if we take this
+more the the future humanoid-esque
+AI, I think we'll get into better
+discussion about how hard it is to bring
+hardware into the real world. I could
+just say
+not only software, but generally it's a
+scaling problem. If you're just a pure
+software SaaS company, you can go out
+and start
+100 500 pilots to really out who wants
+your product. When a robot costs 50,000
+per robot, you can't you can only go and
+do like 20 pilots realistically, and you
+just got to pray and your whole startup
+you know, it's based on will one of
+those companies want that robot? And
+then the other aspects is you keep on
+wanting to update the hardware and now
+you got it like in Canisius my company
+like 10 robots into the field. Now you
+have to keep on trying to update them.
+They all get out of sync. They're all
+different generations. And yeah, this is
+the hard part about the the valley of
+death before you go into mass
+production.
+>> All right, Brennan is definitely the
+veteran of robotic startups. I was
+reading about your recent exit to Bear
+Robotics. Maybe you can share a bit
+about that later as well.
+>> What was that last three?
+>> Sorry, what
+>> Oh, yeah. So, I sold my company 2 weeks
+ago to my previous company. I like to
+say do it Elon Musk. And generally that
+is
+it shows how hard even as a I don't want
+to brag, but you know, I've done
+multiple robot startups. And you show
+it's it's really quite hard to get out
+there, raise money, and actually scale.
+So, it was a quite natural fit to sell
+it to my previous company. They already
+have like 150 sales people. They have
+factory set up in in Asia. They have all
+the infrastructure we needed to scale
+that we would have to try and compete
+ourselves. And at the moment,
+you know, there's about 200 other
+startups basically trying to do the same
+thing. So, it's quite hard to stand out.
+>> All right, thank you. Is that
+>> Yes, well, Vincent and I'm very happy to
+be here as well.
+10 years ago we started Kitemaker here
+actually in Station F. We were one of
+the first startup incubated here.
+10 years later, 300 engineers based in
+Paris, building robots, industrializing
+robots for third party. So, I'm very
+happy to be sitting next to previous
+customer. And I can see some other
+customer in the room here. So, um to us
+industrialization of hardware is
+definitely the key right now when we
+speak about the gap between indeed
+prototype and factory. Industrialization
+is a huge step. That's the value of
+this. And before that indeed what Brent
+was saying, design phase of a version is
+very important. But as the
+Moore's curve is accelerating, people
+are actually, you know, developing
+product faster and more and more and you
+want more feature because you want to
+have the latest technology inside and
+that kills everything. So, to us the
+biggest challenge is how to read the
+future. Nothing will be basically
+customer ready within the next year or
+so, 18 months eventually. But still, you
+will have to deliver something to
+customer that works and works at scale.
+And in the meantime, we know that, you
+know, electronics is an industry that is
+uh fairly outsourced. So, that means
+that you need to manage dependencies
+with CM, with third party, with stake
+providers. And thus managing all that is
+very hard.
+>> Yeah, very interesting perspective on
+managing different stakeholders,
+especially when different industries
+typically have different setup in terms
+of the structure of their teams. So, the
+next question I'm going to I'm going to
+actually come back to a CBET. So, my
+machine talks about intelligent
+manufacturing, right? So, how different
+is it, you know, comparing intelligent
+manufacturing to conventional
+traditional manufacturing? Is Is it just
+as simple as adding an AI element or do
+you have other thoughts?
+>> Not really. Um but maybe yes, one step
+back historically
+as rightfully mentioned, human
+manufacturing depends a lot depended a
+lot on
+contract manufacturers, mostly by the
+way around Asia. China first and then
+for some components in Taiwan. Um and
+recently in Philippines and Thailand. Um
+but the problem is the way they solve
+the problem uh when they get um uh some
+inputs from OEMs or designers is like to
+put people first and try to solve it
+with the flexibility of humans. Um in
+China, if you go to Shenzhen, there are
+like factories that employ
+100,000 people on a given day um for for
+those reasons. The way we approach it is
+from different angle. First, we start
+with design. One of the biggest problems
+is connecting design and manufacturing
+in advance before you start production
+uh because then you can optimize for uh
+robotics and automation. Then we use
+robotics and software for manufacturing,
+then we use um software to collect the
+data that can drive further efficiencies
+and can improve your next generation
+designs because you already know from
+your line how it was built, where the
+failures came from. It could be better
+supply chain and better components or it
+could be different than the worm tools,
+could be different sequence of uh
+operations and so on and so forth. But
+the way the way we look at our which
+that we call a bright factory, we put
+robotics and software first, and also
+AI-powered design. And when you put all
+this together and then you use this data
+in the future for
+future improvements, that's how you
+drive a different approach to
+manufacturing versus what existed uh for
+50-plus years around China and Asian
+regions.
+>> Right. It's It's great that you
+mentioned about data and especially uh
+that brings me to the next question uh
+to to Eef specifically. So, you
+mentioned that one of the biggest gap
+you see today is with data. So, what do
+you think is missing today in terms of
+the infrastructure along, you know,
+trying to build a robotics data and
+filling that gap of uh you know,
+bridging between the vision to to what
+we are now?
+>> I think what we're seeing is like a kind
+of an interesting thing is like we call
+it like a data paradox in robotics where
+on the one side you have too much
+robotics data. So, we see companies
+scaling up, they have bigger fleets,
+more manufacturing robot, they generate
+a ton of data, the data's multimodal,
+you know, can be point clouds,
+image data, time series data. You can
+amass terabytes just in a couple of
+minutes. And these companies actually
+just don't have the tools to automate
+the inspection of all of the data.
+What's happening is that a lot of edge
+cases are slipping through.
+They end up hitting, you know,
+customers. So, that's kind of one part
+of the data problem. And then the other
+part of the data problem, that's what
+we're hearing a lot today about is that
+there's not enough like high-quality
+data to train these models and kind of
+build, you know, generalizable models.
+And what we think, kind of, you know, to
+solve both of these issues, you need
+better data infrastructure that really
+helps you to
+search through all of the data,
+structure data, and find kind of the the
+events and and patterns in all these
+data sets, which are actually going to
+make a difference. So, it's really like,
+um, yeah, you need a data analytics
+engine to to deal with the sheer size of
+this robotics data. And that's a lesson
+that we've also learned from the AV
+community, as well.
+>> All right, data paradox is definitely a
+very interesting term that we hear today
+because a lot of people have been
+talking about data collection. So, not
+many are actually talking about the
+engine that powers how to collect the
+data, annotate the data, and make making
+the data actually useful for all the all
+the AI models, right? So, the next
+question I have for Brendan is, you
+know, after having so many exits and
+getting closer to Elon Musk in his net
+worth,
+definitely more than any of us here
+today. So, how do you decide which
+factory or warehouse tasks are more
+suitable
+for automation?
+>> That's a That's a great question. So, at
+the moment,
+um, we're like inundated with inbound
+from customers that say, you know, we
+need humanoids. I think this is
+like the cryptocurrency or let's say
+it's the blockchain
+uh of like couple of years ago. So, the
+CEOs are like, we need humanoids in our
+factory and warehouse. So, we get like
+inundated. We normally have like this
+gating factor where we chat to them,
+they send us videos. We can actually
+tell them if it's realistic, if it's
+not, how serious they are, what what
+other aspects that goes into it before
+you decide to take on these customers.
+At the [snorts] moment, very boring,
+repetitive tasks and try to like, um,
+cluster them so you You solve one
+customer's problem and sell it to a lot
+of others. For us, it's just like
+driving around picking up totes, doing
+assembly lines. I do think with the data
+paradox, I think it's quite amusing.
+It
+Historically, you couldn't do a lot of
+these tasks cuz you would need a lot of
+engineers to hand code all the tasks.
+But we're finding at the moment most of
+the time with the amount of data you
+need to collect, you could probably
+actually just hand code all a lot of
+these tasks with just classical
+controllers. So, it's a chicken and the
+egg problem. It's It's well as we're
+chatting about how to ramp up, it's also
+you need like
+hundreds and hundreds of hours of like
+training data sets. And if it goes out
+of distribution, it doesn't work. How to
+get it to 100%? It's still like a very
+hard task, I think, to actually see
+these as real robots doing real tasks.
+We We semi cheat now. So, not only do
+you collect the data and get your models
+to about 95% then you can either then
+use Claude and hand code monitoring
+systems using classical controllers
+using like YOLO, SAM, and things like
+that to be like, "All right, if it's If
+this scenario happens, reset it and do
+all these things that you hand You have
+to basically hand tune it to actually
+work and deploy these foundational
+models at a customer site." Which goes
+back to the fact that you could have
+just done this with classical
+controllers for a lot of these tasks.
+But that's obviously a dead end and why
+we're trying to get better at getting
+foundational models to to run. And I
+think the last point as well why you
+haven't seen this is Customers want
+these robots to work fast, efficient at
+100%. We just finished a what we thought
+was a
+successful pilot with a customer, but
+we're about half the speed of a human.
+And our robots are half the cost of a
+human, so it sort of works out. But you
+know,
+we're they're very happy like we
+actually have a robot working 100% can
+do a shift for 8 hours. All our
+engineers like, "This is bleeding edge
+technology." And you see the CEO and the
+executives just looking like, "So,
+when's he going to get faster?"
+>> Right. But that's only the idea is, you
+know, you're starting at 50% now, but
+there's a potential for you to get get
+to 60, 70, or even closer even
+surpassing the speed of a speed, right?
+>> Correct.
+>> Right. So, okay, so that brings me to
+the next question. When we are at that,
+you know, utopian world where all the
+boring and repetitive tasks are being
+done by robots, right? That means
+scaling the robots from I think last
+year the humanoid robots production was
+close to about 15,000 units. So, let's
+say if we get to that vision of millions
+of robots being produced, how do you
+think that uh people are not really
+noticing right now from getting from
+right now to to that utopian that we're
+talking about?
+>> So, first of all, the question and, you
+know, um just answering to Ren
+um are these factories
+uh really needs humanoids at the end of
+the day, you know, most of these
+repetitive tasks at the end of the day
+don't need uh what we call a generalist
+platform, okay, general purpose
+robotics. They just need a task to be
+done. And in general, I think this is
+where we confuse
+most of the thing. The robot is not the
+product, the system is the product, the
+solution is the product. And within the
+product, basically 30% is the hardware,
+but 70% is about integration, it's about
+data management, maintenance, and
+servicing the end customer. And all that
+basically is not ready. It's not ready.
+Why? Because the traditional system
+integrator for robotics are working with
+very fixed environment, very repetitive,
+and reliable uh task. It's not in a
+real-world environment where where it
+comes to a smart data, smart management,
+physical AI, we want everything to be
+seamless for everybody.
+So, uh to me there is a huge gap between
+where we are today and what the market
+needs in term of of pure automation. And
+when we look what's happening in China,
+50 hardware companies are going IPO this
+year. They fight for it. 50 at once
+going IPO. So, I think there would be a
+huge market consolidation. Thanks to
+China, we have a supply chain that's
+here working with reliable components,
+but at the end of the day the customer
+end specification isn't ready. So, I
+think it's time for all of us basically
+to learn, and the first thing to learn,
+as Brandon said is how to run POC, how
+to run pilot phases with customer
+success, how to service customer well in
+that kind of environment, how to engage
+discussion with the CEO where it does
+not expect you to deliver the throughput
+but just understand that you will help
+him learn basically how to use
+technology in the same way that he's
+just learning how to use cloud because
+cloud in 2 years from now is going to be
+completely different. So at the time
+being it's like how do we make this
+entire economy sustaining enough
+with well managed funds so that we just
+don't do all the same and we just come
+with a professional offer at once once
+the market is ready and when we
+until then only then sorry we can start
+to fight with union that are going to
+replace workers.
+>> All right, definitely the acceptance of
+I think Brandon you have
+>> I was going to say when you said how do
+you get your customers
+what Vince was saying is if a customer
+says what is your picks per hour you
+know it's not a customer that's going to
+be happy with humanoid at
+the current rate.
+>> Yeah, cuz earlier we we also talked
+about stakeholders management, right? So
+the people who ordered the humanoid and
+often not a users of the humanoids,
+right? They're not replacing the task
+that being done by that person that
+particular person. So so a lot of this
+really comes down to the acceptance
+level of the society in terms of do we
+really want to get them to replace us so
+that you know we we do nothing and
+there's definitely a lot of discussion
+that revolving around how do we make
+people accept automation, accept
+robotics even more. So I think it's
+interesting that you mentioned about the
+supply chain from China and do you think
+that there is a possibility for them to
+converge in terms of supply chain just
+like how it happened with EV cars, just
+like how it happened with mobile phones
+where there only a few screen makers
+now, there only a few and you know
+microphone makers and battery makers and
+so on.
+>> At the end of the day everything comes
+from the customer request, okay? So if
+you go to China and you go eat you but
+basically you know what they are doing
+right now. They are throwing this little
+Wukong robot in every house because it's
+a robot for children and these guys
+basically in 5-10 years they will very
+welcome robots because they will be they
+will have been playing with it for a
+while, right? And the supply chain at
+the end will follow. At the time being,
+you know, I see like a word that is in
+two parts, China on one side, US on the
+other side, but we all know it's not
+true.
+Uh because you know, there is a lot of
+money and technology flowing from one to
+the other. And what are we doing in
+Europe? Okay, when will we get our first
+GPU ready? When will we get uh ST, uh
+you know, bring a platform that's able
+to compete against Nvidia? We're having
+in France and just recently our first uh
+EV car factory for batteries, so that's
+good. Uh and so on and so on. So, it's
+very difficult to say if everything will
+convert, but I do think that at the end
+of the once every people from its
+personal use will start to welcome
+automation, everything will follow.
+>> All right, definitely can't wait for
+that day to come. So, the next question
+brings me back to Nvidia. So, Bright
+Machines is focused on building the
+infrastructure that powers AI, uh
+including data centers, AI hardware. So,
+how is this AI infrastructure boom that
+we're seeing around that is actually
+changing the urgency and the scale and
+even the complexity of this game now?
+>> Actually in a really positive way. Um
+so, we are 8 years old now and you know,
+we started as a company we built all
+different types of electronics from like
+smoke detectors to drills to coffee
+machines like Nespresso.
+Um but when you build units that are
+like 90 or 80 dollars per unit and
+everybody cares about units per hour and
+like not that much yield because it's
+like a cheap units, the motivation to
+invest in innovation and explore new
+methods was not as high.
+Around 4 years ago we made the bet on
+data centers, 3 and a half maybe. Um and
+then
+a little bit less than 4 years ago
+ChatGPT moment happened and maybe half a
+year afterwards every market in the
+world started looking at how we build AI
+infrastructures to support our needs for
+AI development and the models. And then
+they realized that each server compute
+node that we build can go up to like
+350,000 dollars of components in it.
+Uh the cost of mistake is really high.
+If you break a GPU or like a
+motherboard, uh if you break a GPU it's
+like 30K, if you break a motherboard
+it's like I don't know 10 15K. And then
+the tension is higher and the desire for
+automation and actually excluding people
+from the process loop is is really high.
+And so right now we see a lot of um
+interest in that and that's why we work
+with like leading companies that build
+out AI infrastructure and build
+um
+a lot of servers and and racks for them
+uh with robots first and human second.
+By the way, just maybe quickly to follow
+up on the idea of like, you know,
+creating jobs versus
+taking robots and reducing the jobs. Our
+model is pretty cool because we take
+robots but we still create jobs because
+as I mentioned, the complexity of the
+design is still so far from 100%
+automation, you still need humans in the
+loop. Uh both for assembly but also
+engineers for like, you know, services
+and other things. So actually that makes
+the whole use case of deploying
+automation in the markets where you
+don't have enough labor um in terms of
+skill and also like the scale of that
+labor. Like you take Germany, the US,
+UK, I don't know, France maybe um is
+actually a really good use case. Um and
+that that would resonate with both
+workers and the companies who want to
+put um innovation into operations.
+>> All right, very interesting that
+actually putting more people human in
+the loop and um basically training
+people so that you you know, we we can
+unlock our hands in the future. And um
+the next question is for you um a lot of
+companies talk about data flywheels,
+right? Getting starting early so you get
+more data to improve the model and from
+there you deploy more robots that gets
+you even more data. So what does a real
+data flywheel look like in production,
+not just in a pitch deck?
+>> Yeah, I think it's it's a very good
+question. I think what we see in reality
+is that kind of like most companies
+don't really have a data flywheel. They
+have an issue in, you know, in in in
+operations. They have to kind of
+manually pull these log files, analyze
+them, visualize them and so
+I think what a real data flywheel looks
+like you want to kind of automate as
+much as possible of the whole analytics
+process of your data pipeline. And so
+that starts with automatically getting
+the data off your vehicle, your
+production lines,
+being smart about what data you get from
+your production lines.
+Um then you want to index your data, you
+want to make it searchable, and then
+enrich it so you can start to run
+queries against your data.
+Um
+and then on top of it you want to have
+like automated ways to triage your data
+sets. Like if something goes wrong, why
+did it go wrong? Who should look at it?
+Should the perception team look at it?
+Should the navigation team look at it?
+Where you start to kind of automate a
+lot of of that analysis. And I think
+that's kind of where you're getting to
+really kind of uh a true data flywheel,
+which is a bit different than kind of
+the classic training data flywheel.
+More robots, more data equals better
+uh models, more robots, which is good
+for pitch decks, but I think in reality
+it's it's it's more nuanced than that.
+>> Right. So so do you see like a trend of
+actually having and seeing more data
+engineers in factories right now?
+Because of this shift?
+>> Yeah, and I I think in general I think
+what the industry kind of needs is maybe
+not so much more models or better
+hardware. It's it's more like I think
+something like a devops process for, you
+know, integration. And so it's not just
+a wall of integration. Okay, you have
+all your integrators, they go there,
+they do the pilot, and then hand it off.
+It's more like you need to have like
+yeah, site reliability engineers forward
+deployed, really kind of tuning these
+models, making sure we get the right
+data. I think that's kind of the where
+the industry has the biggest bottleneck
+right now. And I think we could see way
+more actually applications deployed with
+today's hardware and technology if we
+have more of that kind of devops culture
+in robotics as well.
+>> Right. Speaking of hardware, um
+I think Brennan would be in the best
+position to answer this question. So
+what do you think is the danger of over
+designing robots for science fiction,
+you know, looking exactly like a human
+instead of actually building something
+that solves the pain point of the
+customers?
+>> Money. So the problem in robotics is
+it's it is competing with China.
+It goes be time. Um
+At Bear Robotics, you know, we shipped
+like 15, 20, maybe even 25,000 robots
+now. But we're probably still like 20%
+more expensive than Pudu and we build
+them in the same factory. So it's just
+unfortunately with China, they they have
+an unfair advantage or their government
+subsidizes them.
+And then the big problem is CTO CFOs,
+they will look at the cost and it all
+comes down to that. They'll just be like
+no matter how sexy your pilot is, they
+will look at two things. What does it
+cost currently? What does it cost for
+your competitors? So at Bear, you know,
+you even start chatting about
+can you afford to put LEDs in it? Cuz
+when you're shipping that many, you're
+just like, well, you put an LED the size
+of screen, it's $50 here, $50 there.
+You're saying like you do that over
+10,000 a year, you're like that's half a
+million, that's half a million profit
+margin. Or if you're robotics, [snorts]
+you're lucky to have a profit margin.
+And then I think realistically, it's
+getting to the point where hardware in
+the robots is now a sunk cost and you
+never make money in robotics. You have
+to look at making your money back on the
+WMS layer, on the warehouse, on the OS
+layer or some other way where you're
+just like, here is the robots, we're
+going to lose a bit of money on it, but
+if we deploy like 20 to 100 to 200 in
+your factory, we'll also do X, Y, and Z
+and you make the money there cuz it's
+such a cutthroat industry.
+And it's it's just quite hard to compete
+in pure robot world.
+>> It's most likely going to
+sort of like evolve into how we're
+getting our cell phones now, right? So
+basically the phones are free, you're
+just paying for subscription.
+>> Exactly.
+>> same case as robotics as well.
+>> It's I think it's also like the same as
+any electronics. It's like a cutthroat
+industry. You look at washing machines
+and things like that where there's not
+many players cuz there's not many profit
+margins in there. Anything else you get
+to like a 5% profit margin and
+for a dishwasher, you don't need a room
+of 100 AI engineers that competing with
+Google or something for salary and all
+the rest of the engineers for the cost
+cost factors that goes into it.
+>> Right. Okay, thanks so much for sharing.
+So, uh Vincent, um
+what separates a good prototype as we're
+talking about, you know, manufacturing,
+right? What separates a good prototype
+from something that is truly ready for
+manufacturing?
+>> So, I think it all comes to a very
+specific question. You know, engineering
+team will say a prototype, yes, that's
+work.
+But, something that is scalable and
+manufacturable needs to be done a
+thousand time by someone that has not
+designed it. Okay? And to come to that
+stage, basically, that means first of
+all,
+we need to make sure
+that it's uh the end targeting operator
+that is assembling the robot himself to
+understand if your design is reliable.
+Okay? Um a good prototype will be
+something that help you raise money.
+Okay? A good workable product will help
+you, basically, make money out of the
+blue. And that's the entire difference.
+Um and to come to one point to the
+other, it's really a transition phase
+stage matter. Okay? And the biggest
+mistake that we have seen so many time
+in so many company is using your R&D
+engineer to do this industrialization.
+Okay? And the main point, again, coming
+to China is that we have outsourced so
+much of our design and innovation to
+China that we have very very few
+engineers that know, basically, how to
+industrialize a product, make it
+productable, and also just it's a handle
+the pace of industrialization. Okay?
+Because a plastic needs time to freeze.
+Uh you need time for long lead time
+components and everything. And this is
+definitely not the same team to be able
+to handle everything. Okay? So,
+cadencing, planning, everything is key,
+uh basically, to to come to a good
+working prototype and something that is
+manufacturable.
+>> All right, thank you so much for trying.
+So, this um the next question is going
+to be a little bit cross-panel and I'd
+like, you know, any panelists to jump in
+as you like. So, do you think
+manufacturers are focused just too much
+on the ROI, just too much on the
+costing, and they're ignoring
+some important factors such as quality,
+reliability, or even safety?
+>> Yeah, I mean, we are not here, and I
+know that the next panel is going to be
+about cybersecurity and safety, and
+that's going to be a very interesting
+point because this is something that we
+have seen from customer risk request
+just very frequently because a year ago
+everybody was about like, "Okay, I want
+a robot. Whatever is inside, I don't
+care, okay? And I will go see marking,
+whatever certification that is there
+because people will sell pilot." But now
+people are starting to be serious about
+it, and they want a robot that's safe,
+okay? But at the time being, we have
+safe component, okay? We don't have safe
+system, okay? Um so, um this uh entire
+question is is very important. I do
+think that supply chain, process,
+factories, component are there, okay?
+But how to execute well the process to
+reach your market is not there just
+because we don't know where the market
+is.
+>> And also at um
+connected multiple startups in the
+robotics space, I think a classic thing
+that I've done myself before is uh you
+get a robot, you you're happy with it,
+and then you suddenly go to mass
+manufacturing or go to big clients, and
+they're saying like, "Have you got all
+these ISO standards? Have you got all
+this other certification?" You're like,
+"No, I wrote it in ROS with Python, and
+I got a cheap Chinese lidar." And then
+all of these things then uh we worked
+with Vincent and Kick May before at Bear
+when we were productionizing.
+Unfortunately, you're like, "I got this
+really good lidar. We've We've We've
+been using it for about 2 years, and it
+works." Then you suddenly go, "It's not
+[snorts] acceptable. You now need to buy
+a SICK lidar that's four times the cost.
+Um and you need all these
+certifications, and now you also need an
+MCU and all these other things that when
+you get a load of PhD or clever uh
+engineers to build the system that they
+suddenly forget that you there's this
+whole engineering,
+you know, the paradigm of safety
+certification, how can you prove its
+safety? It's even down to
+brakes on the robot and all these other
+things that you generally forget about
+when you're when you're trying to do a
+startup and get something shipped.
+>> Right, definitely. So, uh as I try to
+wrap up this session, I'd like the
+panelists to actually give um your
+opinion on what is that one myth about
+factory robotics deployment that you
+would like to correct, starting from
+Sibi.
+>> I know, I think the the main myth is
+like most of the videos that you look at
+uh and they say like this is the
+deployment is mostly in the labs and
+when you get to the real production,
+it's much more complex and complicated.
+Um but to be fair, I think like this
+general-purpose stuff is like maybe
+nascent. The other camp that we are part
+of like use case-based applications is
+more advanced and we can see actually
+finally how much faster and more
+flexible we became in the recent years
+um moving away from the lab to real
+production and being able to produce,
+you know, hundreds of thousands of um
+units from those robots. You were the
+yield and and throughput. But again,
+when I see many of the videos, it's a
+little bit funny because I know that
+most of them are lab environment and
+hopefully we're going to get to real
+production really soon with that
+technology, but it's going to take
+years.
+>> I'm starting to see some now.
+All right, if
+>> Yeah, I think maybe building on top of
+that, I think one myth that we're
+hearing a lot is just get more data and
+it will solve all the problems and I
+think, you know, sometimes I get emails,
+I'm selling you $500 of robotics data,
+do you want to buy it? You know, I've no
+idea where it comes from and I think
+what we see is, you know, yes, more data
+can help, but you need to be very
+strict about quality
+um and where it comes from and and that
+can really move the needle and too much
+data is also a problem as well. Um so,
+yeah.
+>> Yeah, so I was just talking to, you
+know, one of the SBDs outside. So, I was
+asking them how is it? And then and then
+he just told me like more than 10 people
+have come up to me and said they want to
+sell me data.
+>> Just today, some people approached me,
+they want to buy some data and I like
+what what data?
+>> There's a lot of people that are like
+we're collecting data and I like I don't
+know what data we need. Um great answer
+there. I would just say
+the one thing that surprised me over the
+last couple years is we talk about
+humanoid AI in this. I've gone to big
+companies that have like 500
+factories or warehouses and you walk
+around and you don't see one robot. You
+just see hundreds and hundreds of
+people. So you don't even need to get
+the cool AI or the humanoid robotics.
+You look at it and be like, "Have you
+ever heard of something called an AMR?"
+You know, to me it's like you can buy
+300 AMRs and instantly get ROI and they
+and they decide to skip all of that and
+then talk to humanoid companies which
+always makes me chuckle.
+>> All right. That's for the lot of these,
+isn't it?
+>> All right. I will conclude with a
+sentence proposed by our best friend
+Claude.
+And to conclude that panel basically say
+physical AI is the headline but
+deployment will be the story.
+>> So okay.
+>> I should have done that.
+>> [laughter]
+>> All right. And with that I'd like to
+wrap up the panel. Thank you so much for
+your time today.
+>> [applause]

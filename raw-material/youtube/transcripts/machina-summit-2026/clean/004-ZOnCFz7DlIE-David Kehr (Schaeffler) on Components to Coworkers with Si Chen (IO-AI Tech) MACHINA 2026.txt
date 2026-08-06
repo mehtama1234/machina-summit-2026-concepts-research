@@ -1,0 +1,579 @@
+[music]
+All right, we're really excited to be
+here today. Um, and we have a great
+turnout. So, I'm very excited to welcome
+David and very look uh look very much
+looking forward to this conversation.
+Um, I think there's so much that we can
+learn from Shaun. I think they have a
+very unique positioning in this uh
+physical AI ecosystem. So, just to
+start, um, David, I'd love to just ask
+you a little bit about where do you see
+the physical AI landscape moving today?
+Um, and what do you think is actually
+driving the shifts today?
+>> Yeah, I guess it's no secret it's moving
+fast and it seems every day that it's
+moving faster. And so uh we see that um
+every day more and more opportunities
+come up more and more uh opportunities
+where we can get involved not only as
+someone who is delivering components but
+someone who is also using these physical
+AI robotics inside of our plants. So
+these two areas kind of come together
+and it every day it gets faster. M so I
+really want to dive into more um about
+what Schaefer is doing and I think the
+thing that really draws my attention is
+that you have a really rich history of
+innovation and technological development
+that's actually spanned over 80 years
+and when we think about companies today
+we're often thinking about companies
+that have emerged in the last decade or
+even in the last few years that are just
+starting to build and innovate. Um but
+because of this rich technology that you
+already have, how much of that do you
+think has been a key driver in terms of
+you being able to make this pivot uh
+leverage your existing capabilities and
+really provide an early entry point uh
+into the physical AI space.
+>> Yeah, it's it's it's a great point. So
+it it really is an interesting um
+experience uh having this 80 years
+having all of this DNA and then trying
+to harness it. As I mentioned before,
+this whole physical AI is accelerating.
+So what we have to do is be able to
+extract and utilize the resources the
+competencies that have built Shuffler up
+over these 80 years and we have to do
+that at a fast speed. If if you have all
+these competencies and you can't
+leverage that at a fast speed then it
+doesn't do us any good. So that's one of
+the things we spend a lot of time on is
+yes we have this innovation yes we have
+this manufacturing huge manufacturing
+footprint with over a 100 plants
+globally
+>> all of this resources we have to harness
+this in a fast way and so it's really
+flexible communication it actually
+starts with how we are set up inside of
+our company so my my group does not
+belong to the automotive side it does
+not belong to the industrial side it's
+separated out and we report to the top
+of the house so everything is done with
+agility and speed in Right.
+>> So, it feels like it's very
+strategically important for Shaer to go
+into the physical AI space. Um, and
+you're already doing a lot of work with
+humanoid robots. Can you tell me a bit
+more about why you think it's just so
+strategically important and maybe what
+you're looking to be able to achieve um
+by being that early entrant?
+>> Yeah, I think first of all um from top
+of the house on down uh our CEO and the
+executive board is very bullish on
+physical AI. We see that is it a need uh
+whether it starts with lack of a human
+workforce that we will have. We we
+actually have
+>> issues in in parts of the world today
+finding workers to work on our our
+factories. And so that is an immediate
+need that we have and that is helping
+push us into wanting to deploy these.
+And then on the component uh side uh we
+see this as a natural pivot. We do
+actuators today. We do bearings. We do
+transmissions, e- motors, controllers.
+We have all of this technology inhouse
+for automotive or industrial and it's a
+natural pivot then to carry this over
+into the physical AI space.
+>> I think the actuators component is very
+interesting because you're actually
+building a lot of the components and
+actually working with a lot of what
+people perceive to be the leading
+humanoid companies um in the world. Um
+can you tell me a bit more about what
+you think some of those technical
+challenges are that they're facing today
+and maybe um the role that you're
+playing in actually helping address
+those technical challenges? Yeah, I I
+think the big one out there and it's the
+elephant in the room if we use a term
+out out of America is is scaling. So
+it's nice today everything is built more
+or less like prototypes. It's tested in
+labs and that will change uh with the
+training with the AI improving uh that
+we will be able to deploy these much
+faster and if we want to deploy these we
+will need technologies manufacturing
+technologies that enable scaling and you
+won't be able to put in we say football
+fields worth of machining equipment. you
+will not find the machines and so you
+have to do something different and
+that's where we get into let's form
+parts instead of always machine them and
+that takes seconds instead of minutes to
+to do the machinings and so that's
+really the space that chefller wants to
+play is is how can we scale and that's
+one of the biggest challenges we face
+>> so I think you touched on the fact that
+we need to get from you know prototype
+into production and I definitely see
+that as being one of the biggest
+challenges in physical AI as well so
+everyone is building building building
+um but you know facing challenges once
+you actually start to scale in
+deployment um are you able to share a
+bit more about Stafler and some of the
+use cases that you're working on and how
+you're starting to put this uh into
+production or how some of your customers
+are starting to do this um and you know
+maybe from there uh share a bit more
+about how you think this ecosystem looks
+like in terms of what needs to happen to
+really actually go from being in the lab
+to out there in the real world and
+delivering ROI.
+>> Yeah. So one of the first things we
+learned and and it was one of the first
+things that kind of smacked us in the
+face is you just have to start. So you
+should do some upfront work and what we
+did is we identified use cases inside of
+our factories and we came up with six
+different use cases that is used all of
+these six use cases are used in most of
+our 100 manufacturing plants. What we
+wanted to stay away from is one unique
+maybe cool uh use case that only one
+plant in the world could use and that
+just doesn't make sense. So once we have
+the use cases, you have to then dive in,
+find the right partners and we found a
+number of these partners globally to
+where you can cooperate because nobody
+understands everything today. Our OEMs
+don't, the industry doesn't, chef isn't.
+We're all on this learning journey
+together. And there's no better way to
+learn than to just get started. And so
+the use cases we're looking at, for
+example, is logistics and and carrying
+uh steel uh totes over to a parts
+washing machine that we paid a human
+laborer to do that today. And now we've
+replaced it already in one of our
+manufacturing facilities with a
+humanoid. And that person then is is is
+somewhere else in the plant doing higher
+value tests than what they were doing
+before, just carrying a toad from one
+side of a machine to another. Um, but we
+we learned things about the color of the
+floor. Is the floor shiny over here and
+dull over here? And all of that had an
+effect on on the robots uh sensors, for
+example. The Wi-Fi stability. It was
+fine for the rest of the machines in our
+plants, but it wasn't good enough for a
+humanoid. And so these are all things
+that that we're learning now uh that
+would be much more expensive to learn
+later on and much more uh problematic if
+we learn these later on. So we're just
+diving into it, doing the homework on
+the use cases and then finding partners
+to to execute these use cases inside of
+our plants. Mhm. So it feels like
+basically because you've got this
+deployment scenario and you're already
+deploying this uh into your robots that
+can then actually help you when you
+actually develop the technology um and
+from the start be able to then continue
+to um iterate like is there something
+particular that you've been able to
+change as a result of some of your
+learnings from deployment?
+>> Yeah. for what we see today is is some
+of the products if we talk about
+actuators there may be offtheshelf
+actuators or actuators are
+overengineered and and a real benefit
+for my team who is developing and
+industrializing these components and
+systems for humanoids is we can go next
+door where we're deploying these and we
+can actually collect data we can see
+what our components actually need to do
+what is the torque necessary what are
+the speeds necessary is it overheating
+and we have this data right in our own
+house and so that kind of sharing is is
+really created kind kind of an internal
+uh uh flywheel development flywheel
+inside of Sheffler.
+>> So I think that sounds very valuable for
+your partners because a lot of the
+people who are building don't
+necessarily readily have um those access
+to those deployment environments and a
+lot of this real world experience to go
+and drive that. Um it's interesting
+because right now you know it feels like
+a lot of the work that you're doing are
+you know is with humanoid robots. Uh do
+you feel that that is the form factor
+that is going to be um critical like
+going forward? um a you know what are
+your thoughts on humanoid as the form
+factor? Yeah, the form factor to us and
+we're really agnostic. We want to follow
+a best in breed if you will. So for a
+use case, what is the best application?
+What is the best customer uh uh robots
+out there that can do that most
+efficiently and generate the most value?
+And so form factor isn't so important
+for us. What is a factor is we have 100
+manufacturing plants and we don't need
+150 or 200. to all of these dark
+manufacturing plants, which there will
+be some is important, but even more
+important to Sheffller is how do we
+convert these brownfield plants that are
+already existing that were already
+designed for humans. How do we make the
+humanoids or the physical AI work in
+these factories? And so some cases they
+will need two legs and two arms. In some
+cases, they will need four arms and two
+wheels. Um it just depends on what the
+use cases is and how the plant is set
+up. I guess there are a lot of companies
+that are out there that have, you know,
+similar to Sha 80 years or a very long
+rich history um in their particular
+industries. What what advice would you
+give them in terms of how to make that
+leap forward? Because I think actually
+you're one of the few companies that
+I've come across that has really been
+able to make that jump in terms of
+innovation. So, um, what's different
+that other people should be thinking
+about because they probably have the
+same pain points in terms of, uh,
+challenges with the labor shortage.
+Maybe it's access to the remote
+environments. It feels like these are
+very common problems, but I'm not seeing
+a lot of companies that are actually
+being as successful in terms of solving
+it.
+>> Yeah. And and what you're seeing is a
+result of many many tries that we made,
+many attempts, and they didn't always go
+perfect. So, I I would always encourage
+people, it starts from the top of the
+house, and you need to be brave. So if
+you're a COO, you're an executive here,
+you need to start trying. Yes, do some
+homework up front, but you can't do
+homework for the next two years to try
+and figure out the perfect solution and
+make sure everything is covered. You
+need to just try and be brave. And if
+that's supported from the top of the
+house, from the executive level like it
+is at Shuffler, it makes it much easier.
+Mhm. Um, so is there kind of like a
+balance in terms of how do you trade off
+against trying to innovate and build as
+you fly and actually get to deployment?
+Because some of the use cases that you
+mentioned, it feels like you would have
+invested time to actually find those use
+cases. Um, you know, how what's what
+makes it ready or like good enough for
+you to actually be able to go and
+actually start deploying in that because
+that is actually a big leap, right?
+So what we try to do is is we try to
+identify the use cases. Then we have a
+short planning phase with the customer
+OEM and then we bring them in and have a
+designated area where we perform this
+proof of concept and and we have a great
+team inside of Sheffller that does
+deployment. It's our advanced production
+technology team and they do this ahead
+of installing it directly into a plant.
+So we have robo gyms uh in the different
+regions where we will test this out
+first and then we will bring the PC into
+the plant. So there there is a little
+upfront work, there's a little lab work
+that directly simulates the use case. So
+we have the same machines, we have the
+same conveyor belts, all of the
+environment in that immediate area is
+very similar to what the humanoid would
+find in the plant. And then once we we
+confirm that we're ready to go into the
+plant, then we deploy it into the plant.
+>> Uh tell me a bit more about the robo
+gyms. Um, do you think that's something
+that's like an absolutely critical step
+for you to be able to get from um, you
+know, prototype to deployment? Is that
+something that's on the rise? Um, are
+you building more of these robo gyms? Do
+you think the industry in general will
+use this as a form to get to deployment?
+>> Yeah, I I think so. I think there'll be
+different forms of these robo gyms. If
+you look at China, this will be more
+communal. So, there will be competitors
+as customers that are bringing their
+robots into our robo gyms. And in China,
+we are creating already is is built and
+and and nearly ready to open. We will
+have a grand opening in October where we
+will actually have a robo gym data
+collection and we will produce actuators
+on site for humanoids. So in theory,
+customers will bring in their humanoids.
+They will train our specific use cases.
+They will go around the corner and build
+components for themselves.
+>> Okay. Well, I mean that sounds
+>> that kind of flywheel is going to be
+exciting. We think it's the first one
+like it in the world.
+>> Mhm. Um it it's interesting because I
+mean it feels like now you've got it
+kind of contained an environment where
+you could actually do build and then
+actually go and do the production and
+this based in China. Um I noticed that
+Sha is actually very much global. Um
+you're already operating in over 50
+different countries in the world. Um and
+you have partnerships with companies uh
+across different regions in the US,
+Germany, uh France, China. Um can you
+tell me a bit more about how you're
+utilizing the global ecosystem and
+whether there's you know any interesting
+observations you have about how to work
+with uh different parts of the world and
+maybe what uh special areas of expertise
+of innovation that they're bringing.
+>> Yeah. I I go back to the speed first of
+all. So no matter where we work in the
+world, this industry is fast. So this is
+this doesn't change really. Uh maybe
+some are a little slower, some are a
+little faster, but it's still coming
+quite fast. uh you you see um China and
+the US just because of the AI has
+typically been considered the leaders
+but but don't count out Europe and I
+think where Europe can play a role is
+especially on the safety uh but there
+has to be a balance there can't be so
+much safety and so much regulation that
+it stifles the the humanoid or physical
+AI market here in Europe because there's
+a lot of companies working on it here
+and we have to promote that uh in Europe
+and that that's coming from a German
+manufacturer. We want to see Europe
+succeed. Um you see a lot more service
+robots I would say in China but they
+also are doing industrial robots and you
+see more of a focus in the US on the uh
+manufacturing uh use cases as well. So
+you see a little bit of difference but
+in the end it's all all fast and and
+learning every day.
+>> Mhm. Um I mean aside from the use cases
+right so I think definitely there's
+different focuses in different
+geographies. Um do you feel like from a
+capability or technology perspective you
+also lean on different partners? um for
+different areas of expertise um around
+the world.
+>> Yeah. Yeah. So, so we have different
+kinds of partners. Certainly, we have
+OEM partners who who we work with and
+and and share this this learning
+journey, but we have uh partners like
+Nvidia. And so, every day I hear uh from
+my team about how we're deepening these
+relationships, especially with companies
+like Nvidia. With NVIDIA, for example,
+we're creating digital twins of our
+actuators. So if we talk about speeding
+up training, reducing the sim to real
+gap, part of that is going to be having
+actuators simulated that actually uh are
+simulated like they perform in in the
+real world. And that's what we're
+working on with with some of these
+partners. So this partnerships that we
+created, if it's from Nvidia to all of
+these OEM partners, is is really
+strategic and important for
+>> Sheffller.
+Um I guess like kind of you know looking
+more forward looking, right? uh in terms
+of where do you see the market heading?
+Um what do you think is the next big
+critical step for Shea Laura for the
+physical AI market in general in order
+to get to the next horizon because I
+mean this year is actually the first
+year of Mina. So it's you know still
+very early I think for most people in
+terms of thinking about physical AI
+deployments. Um you know what do you see
+as critical breakthroughs that maybe we
+need to um get to over the next few
+years? um or just how do you see it
+evolving generally?
+>> I I think there's really two areas. The
+first one is safety.
+>> So safety starts with regulations and I
+just talked about bureaucracy and trying
+to minimize some of this, but you need
+safety standards. We
+>> there's nothing more important to
+Sheffller than the safety of our
+employees. So we will not deploy
+anything that's not safe and that does
+not meet regulations and today we don't
+have a lot of regulations on autonomous
+robots in our plants. So any deployments
+we have now are behind glass walls and
+and these these humanoids uh they will
+not bring value if we treat them like
+zoo animals that they just stay behind
+walls then we can put in a cobbot or an
+industrial robot and that's not what we
+want to do. So safety we need the
+regulations and and we need the
+community to come together to create
+smart pragmatic and and safe safety
+regulations. The second uh area I would
+say is training. So today it takes too
+long. It takes too much real data to
+train robots. And so we have to get to
+the point where if Shuffler receives a
+robot uh or a physical AI tool from one
+of our customers that it can be up and
+running by Sheffller within a couple
+hours and not a couple days or a couple
+weeks or a couple months. So these two
+breakthroughs I think will be key to to
+to increasing the deployment rate. Mhm.
+I think um yeah, I mean it feels like
+right now definitely there is still a
+very long training life cycle and you
+mentioned uh the role of data. Um when
+it comes specifically to data um through
+all of your deployment you're obviously
+accumulating a lot of data for the
+training. Do you think we'll get to a
+point because we're all talking about
+the data shortage. We're talking about
+sim to real gap. Um do you think in the
+next 12 months we're going to see any
+significant changes in terms of the
+ability to do that? Um and is that
+something that you're also working to
+solve?
+>> Yeah, so we have different areas trying
+to solve that problem. It's not an easy
+problem. I I I think the problem we have
+is the data sits in different systems
+inside of Sheffller. It depends on the
+region. It depends on the plant and and
+we have to figure out how to get that
+data uh out of our systems and then
+curate it into a form that we can
+actually use it. And that's going to be
+the the real challenge that we have uh
+to to help speed up the training. But
+it's something that we're working on
+with several of these partners and in
+different areas of our plants.
+>> Um, and I guess just like the final
+question because we're kind of getting
+to the end of this session and the timer
+is ticking. Um, but I think the safety
+uh standard is very important and uh it
+feels like it's an underrated kind of
+topic um in terms of a lot of people are
+really just building the plane as they
+fly. they're not necessarily thinking
+too much about um what they can do uh
+and you know once you get to deployment
+um do you think this is something that
+uh you know Sha will be able to lead the
+way in terms of building some
+standardizations are you working with
+partners in order to try and better
+define that because I think that's
+always a big conflict in terms of
+building new technology um and trying to
+be able to govern and um and manage it
+and I think robots because they are
+physically interacting with us the the
+safety is absolutely critical especially
+Especially if we think about going into
+industrial environments uh or even into
+the home.
+>> Yeah,
+>> it will really be solved by the
+community. So, Sheffller, of course,
+we're learning about safety when we
+bring them into our factories, but we're
+also participating uh with with
+organizations that are writing ISO
+standards, for example. So, not one
+company can can legislate or dictate
+what these regulations will be. It will
+be the community that needs to do that.
+And I think by participating in these
+these organizations and these studies to
+create these legislations and then also
+understanding what we see uh boots on
+the ground inside of our factories that
+this puts Shuffler in a unique position
+to support this.
+>> All right. Well, thank you very much
+David.
+>> Thank you for having me. Thank you.

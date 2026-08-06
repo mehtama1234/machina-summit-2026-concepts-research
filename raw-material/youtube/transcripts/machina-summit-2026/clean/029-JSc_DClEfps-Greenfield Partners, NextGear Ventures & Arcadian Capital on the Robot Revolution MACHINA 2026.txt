@@ -1,0 +1,670 @@
+[music]
+Hey, good morning everybody. Uh, great
+to be here in Paris and excited about
+this conference. Uh, it's a great space
+to be in. Uh, just to give a quick
+introduction to myself, my name is
+Philip Lord. Uh, I'm CEO of Bitcoin
+Japan. It's a publicly listed company.
+Obviously, it has a a name that
+everybody knows, but actually we
+primarily invest in latestage growth
+companies. So invested in SpaceX, Figure
+AI, looking to invest in um other
+companies uh you know in the later stage
+uh but excited about the physical AI
+space hence I invested in figure uh and
+uh looking to meet good companies here.
+So let me introduce uh my other
+panelists uh Tao and um was it uh sorry
+Raz so maybe you can give a quick
+introduction to yourselves. Yeah. So,
+uh, hi everyone. Great to be here for
+the first time. Actually, I'm Raz. I'm
+one of the GPS in a fund called
+Greenfield Partners. We're a $2.5
+billion AUM fund based out of Tel Aviv
+in New York mostly focused on uh deep
+tech, cyber, and AI.
+>> Good morning everybody. My name is Tal
+and I'm with Next Gear Ventures and I'm
+a smaller fund invest in preed and seed.
+We are have a presence here in Paris and
+in Tel Aiv as well. Uh we invest in
+mostly physical AI uh deep tech type of
+startups.
+>> Cool. Might I just ask the audience
+who's an investor? Have you put your
+hand up? Who's uh who's looking to
+invest? And who's an operator? A
+business uh business person in the
+space? Anybody investors? Okay, cool.
+And uh building businesses in the space.
+Cool. There you go. That's a good sign.
+You know, we don't want too many
+investors in the room. That leaves
+opportunity for people like us. Um yeah
+so like let's start with the question
+you know have we had our chat GBT moment
+uh on um robots yet?
+um little bit maybe okay I think we are
+we are experiencing a renaissance of the
+robots
+but it's not yet CH GPT for me okay JGPT
+is like wow it works it dances so you
+decide if it's JPT for you or not yet
+>> um look I think uh I don't think there's
+going to be a CHP moment for uh for
+physical AI to be honest I think uh CHP
+moment was mostly focused focus on
+distribution and reach uh at the end of
+the day for consumers. Um I think in
+industrial automation for example we're
+way past the GPT three maybe even four
+but for consumer probably not even close
+to 2.5. Um so I think I think there's
+time for more the consumer and and it's
+very different in a sense of what we're
+seeing in the world of AI in my
+perspective.
+>> Cool. Maybe we can talk about the world
+to invest in at the moment. um you know
+so we have China, USA, a [clears throat]
+lot of other countries that are building
+Europe you've just been telling me about
+as well. Maybe you can just sort of give
+us a quick overview of you know what is
+investable at this stage and where.
+>> Yeah. So look from our perspective
+because we do mostly growth investing we
+need to see proper ROI actual traction.
+Uh we we care about what the customer is
+actually saying and it's not just about
+demos. So in the moment I think uh where
+we spending most of our time is mostly
+in anything that is uh call it like in
+the world of industrial automation
+vertical vertical integration for for
+automation in some capacity. some of the
+picks and shovels of the areas of
+everything in the under layer of call it
+like the infrastructure for robots in a
+sense. Um I think look if you're looking
+at the US probably that's where you find
+like talent around AI in capital. If you
+look at Europe you'll probably see a lot
+of very good talent in the in the
+engineering world. We actually invest in
+a company called Robco based out of
+Munich. Um amazing amazing engineering
+workforce recently actually opened uh an
+office in San Francisco as well. Uh, and
+probably what you see in in in the east,
+um, is some really cool demos that I'm
+not sure that could actually hold up for
+more than a couple of hours. Um, so I
+think yeah, and in Israel because I'm
+I'm actually based in Tel Aviv, uh, we
+see a lot around uh, anything connects
+to uh, semis, sensing, automation,
+around defense. Um, so a lot of
+opportunity there as well.
+So when you talk about
+robots, it's really a manifestation of
+so many type of technologies and
+anything from the brain through the
+body, energy, infrastructure, software,
+fleets, [clears throat]
+orchestration. So it's tons of stuff.
+It's way not aligned right now. are so
+many gaps and some of the things we're
+seeing now is a is some sort of
+renaissance of a
+brand marketing brain
+push but it's really lagging in a big
+way. Okay. So, but some of the lagging
+part are really um nobody talks about.
+Okay. So, we try to invest in what
+nobody talks about. Okay. So the it's
+definitely not the brain
+the brain is mostly in the US somehow
+here
+but what's spread around the world
+nicely is Europe and Israel for example
+not in the US is all the engineering
+technology deep tech the scientific part
+I give an example you look for a modular
+compact energy okay so high density
+reliable
+fit to the autonomous
+So high utilization, quick charging,
+long life cycle. These are the
+requirements that we are looking for.
+Okay. So we're looking for the
+fundamentals that are going to be
+mobilizing the future robots. We are by
+far not there on so many levels. We can
+expand a little bit later on.
+um like can you give us some more
+examples of companies in Israel that
+you're looking at and uh type of uh you
+know ecosystem investments?
+Um
+so let's talk a little bit about the
+infrastructure.
+So for example, we're looking for a
+sensing capability. So I give you like
+two type of sensors, maybe even three.
+Okay. So one says obviously is the is
+vision very clear. Everybody looking for
+vision sensors. So you're looking for
+sensors that has high resolution,
+can withstand some weather.
+So if you look at the borrow for
+mobility, you have all this classical
+radar versus camera versus lighter. So
+we have in our portfolio a lighter
+company that has a very unique
+technology that can absorb light from a
+you know reflection and uh very low cost
+very you know uh low in maintenance as
+well and it really a good fit for both
+industrial automotive even defense type
+of applications. opening name is
+leadwave.
+It's [snorts]
+roundish type of stage. So it does
+didn't appear on RA radar yet. But uh
+that's one example. Another example is
+another type of sensor sensor that sense
+uh gas molecules.
+So
+you have a tiny uh type of sensors that
+are sitting on a chip that has a certain
+tunnel size into them that can fit a
+certain size of molecules and you can
+program the the width of this tunnel to
+basically filter the right level of
+molecules. Hence you can filter for type
+of gas. So you can identify fire safety
+issues and it's very small. It can go
+anywhere. So these are type of
+technologies that are sensing
+technologies that we're looking at.
+Company name is Vokai if you like to see
+that
+>> and and anything particular your end.
+>> Yeah I think again because uh we do much
+more late stage investing and looking
+for actual traction. Um what we want to
+see is is more distribution and actually
+help build it in the US. Um we have a
+company called Exodo actually maps the
+underground without digging. very very
+unique technology that has been built
+over a decade basically connecting five
+sensors together and doing data fusion
+together with AI and basically once you
+use their essentially robots you
+actually get a map of the underground uh
+3D map uh goes uh for mostly
+infrastructure and utilities
+infrastructure in uh utility
+infrastructure projects today so we're
+looking for much more of a distribution
+a lot of what we're looking at I think
+is uh obviously what Tal is investing in
+just needs to see a little bit more
+commercial traction action in a way uh
+in defense. Look uh I think there's a
+lot of lot what to do in physical AI in
+the world of defense in uh in Israel or
+in Tel Aviv. Um and that's a lot of what
+uh we invested as well.
+>> Like if we took as a percentage like B2B
+versus B2C, I mean I want a robot that
+can clean my laundry and everything.
+This is my GBT moment, you know. Please
+somebody build it out there quickly. You
+know, I don't think it's quite there
+yet. But like as an investor, like how
+much of my uh capital should I allocate
+into like B2C, B2B?
+Um, look, you allocated some of it
+already to figure and stuff. Um,
+>> because they're going to do my laundry
+at some point, but I'm sure they're
+going to do a lot more industrial.
+>> Um, look, I would say at at least for
+our stage, it's not interesting to be
+honest. Um, consumer application, I
+think it's uh it has many years before
+we actually get to experience the CHP
+moment. I would love to have someone do
+I love Robbo does my laundry as well,
+but I don't think we're there and I
+don't think we're close. um
+>> hold you to it as well.
+>> Yeah, I always say I don't like to bet,
+but like my job is a little bit betting
+as well. So, uh 10 years probably.
+>> I think it's shorter, but uh but I agree
+with Raz. I think that it's going to be
+much easier to do it in a more
+controlled environment. So we will
+definitely see the the first wave likely
+to see it in a in a more controlled
+industrial commercial environment by
+which you can control fleets limited
+bounding authority and so on and so
+forth before we let them run loose in
+our neighborhoods. So definitely that
+with regards to the
+particular question of of of B2C B2B
+it's going be going beyond that okay
+what we witnessing is a is a increasing
+gap between capability and as you said
+deployment and it it means that
+regulation is is back everybody's back
+cap capability is running the reason we
+are talking about this concept now is
+because capability is way ahead and the
+gap is widening Actually
+why what it means it means that we'll be
+able to commercially control it with the
+B2B much earlier than we we allow it to
+do this B2C before the regulator is
+going to wake up.
+Um like I know there's a lot of builders
+in the room. So like where does
+everybody raise capital? I mean like God
+bless uh Jensen cuz he said physical AI
+and everybody started investing you know
+uh more actively and we've seen the VC
+numbers going up. But like if people
+want to raise capital uh come to VCs,
+where are you seeing the bulk of uh the
+money get deployed? Is it the US? Is it
+China?
+>> Look, for now I think uh unfortunately a
+lot of it is still around the hype uh
+around the more B2C applications. But uh
+I would say there's probably starting to
+see a shift. I think people are starting
+to understand that the TAM for physical
+AI is just enormous and much much much
+bigger than software and I would say
+even bigger than AI potentially. um at
+the end of the day is replacing labor in
+a sense and given the fact that you're
+replacing labor the time is almost
+unlimited. It's basically anything a
+human could do. Um so I think the
+industry for for physical AI is
+everything. Not every single company
+needs to be like a figure or even like
+our portfolio that has to build
+everything vertically integrated from uh
+companies that tal have that do the
+sensing to the software layer to then
+the distribution to then the supply
+chain and everything around it. I think
+there's definitely layers inside that
+people need um a potential company to
+actually do it for them and they don't
+have to go and build everything
+themselves. Um so I think there's
+definitely some of what we define as
+like picks and shovels data sensing that
+Tal is invested in uh in a lot of those
+area. That's for sure.
+>> So I think there's a big problem there.
+I think that uh we seeing a tremendous
+amount of money going to the wrong
+place.
+So and that's what creates the gap that
+is widening between perception or
+perceive and what between this and what
+happened in reality. Okay. Uh there was
+a recent um report I think 24th of June
+came out out of London by very reputable
+consulting company basically naming the
+contribution of the GDP of the AI to the
+GDP is like4%.
+Maybe they're underplaying it, but
+honestly, this is these are these are
+the margins. The the hype is going to
+the brain, to the mind, to the Silicon
+Valley, to the competition among those,
+you know, humanoids and robots that
+obviously they're amazing. But we all
+know it's going to commoditize. Okay,
+it's it's going to be there. But what's
+not going to going to commoditize is the
+layer that is going to be in the
+factories. the layer that was spok
+speaking about the layer that translates
+all this talent all this amazing
+capability into reality. So this is and
+this layer is is the translation of the
+capability into value and we don't know
+nobody's everybody's ignoring it right
+now. Nobody's talking about that. No
+people are doing it. Okay there's
+there's one example of companies is
+doing it actually. It's called Rivian.
+you're familiar with driven the this
+west coast new vehicle company they're
+actually one example by which they
+really I think they really get it they
+get this layer and I give you an example
+what do I mean by get it h they just
+raised it's still stealth mode but they
+raised hundreds of millions of dollars
+uh to a company called mind.ai and what
+m.ai is doing is basically
+uh building a factory for robots and the
+factory is [clears throat] connected
+real live data from the Riven factory to
+mind.ai AI factory basically building
+the robots [snorts] on the go based on
+what the robots and humans are doing in
+reven factory thus creating what I call
+habitat for those type of upcoming
+robots to become ready for the real real
+duty okay when they step out of the out
+of the robot floor so and and and what
+the big misfunding here is that you keep
+funding the robots you don't keep
+finding those layers basically
+>> feels like the LLMs right they get the
+you know hundred billion dollar funding
+and actually you worry about the
+business model later whereas like the
+picks and shovels and the uh like hands
+and everything like that. I mean one of
+the big problems in uh you know robots
+is hands maybe we can discuss you know
+seen any companies invested in that
+space.
+>> Yeah. So uh we invest in a company
+called roco based out of Munich and uh
+now also San Francisco they do fully
+vertically integrated industrial
+automation basically. If you can think
+about those uh those hands instead of me
+taking now um a certain tool and putting
+it in a box, you know, like something
+that usually um very cheap labor, but uh
+ideally you don't want a human to do it.
+You want a human to focus on something
+much more interesting. They're doing it
+at 99.9%
+accuracy, 27 247, no union, no one is
+sick, three shifts a day. basically uh
+hundreds of robots already in deployment
+with major major um
+that's a funny one
+major deployments with some of the
+largest enterprises you can think of
+mostly uh today based in the US and
+Europe um so I think that that is one
+example but they did uh obviously had to
+build all of it is fully vertically
+integrated so they own the software the
+hardware uh the data everything around
+it including the distribution as well um
+but again I don't think that everyone
+needs to do exactly at
+>> uh ju just uh you know remark I I 100%
+agree but I think that and that goes
+back to the to the this missing layer
+there's an there's a concept that we
+kind of gloss over sometimes and that's
+where
+when you have an an automated entity
+like a robot it's not enough to control
+just the automation there's a there's an
+ecosystem by which it has to act and uh
+this ecosystem has to act. It has to be
+ready for this. So it has to uh measure
+what the what the robot is doing. So for
+example uh you know we're doing things
+in mobility as well. So we invested in a
+company called no traffic. Okay. Now
+it's a larger company but um they just
+raised the 90 million. They are doing
+all this all their business right now
+mostly in the US. the traffic management
+system sit on top of a intersection
+doing AI analysis about how to manage
+traffic better. Okay,
+but this is the type of infrastructure
+play that allows the autonomous erh
+autonomous enablement from the
+environment side not from the object or
+the model side. Okay, it basically
+provide the feedback to this now
+[snorts] chaotic robot taxi scene we're
+going to have uh you know in the in the
+United States and soon coming here. I
+say chaotic because everybody's working
+by their own standards. Okay, you don't
+need to have any federal regulation to
+deploy a a level four vehicle in the US.
+just can put it on the road and you can
+go state by state. Maybe you can be uh
+you can be uh limited but there are some
+state don't impose anything. So you
+basically can just let those vehicle
+ride and what we need more of and the
+regulation will pick it up later on is
+those sensing and the software that
+build trust within the public to allow
+those automation to act basically. So
+that's another element of example of a
+sub startup we uh invested in now
+they're generating revenue just serving
+their goal but in the back pocket they
+have already the the autonomous
+supervising type of facilitation. I
+think maybe I'll add something. I think
+that a lot of it's going to uh your
+previous question. Some of what investor
+are missing is that at the end of the
+day there's a hardware component
+involved and you can't do it without
+actual distribution and having it
+outside or at the customer or at the
+consumer one day and without that it
+doesn't mean anything. So even having
+like the best technology doesn't
+necessarily mean that that company will
+be the winning company in that in that
+space. You have to think about how do
+you do your go to market? Where do you
+actually deploy it? How do you do your
+supply chain? How do you get to the
+actual distribution? Do you use SIS? Are
+you not using SI? Do you do it all
+yourself? How do you actually speak to
+the customer? How you get the
+validation? And the more that you have
+deployed in this in the field, you'll
+get even more data where the data loop
+is actually creating a significant mode
+for you. So I think that's something
+that uh maybe some of the investors are
+missing.
+>> Yeah. I mean this these robot companies
+are going to suck up a lot of cash right
+at the front end, right? So you have to
+also like you know us personally we want
+to invest in company a founder that can
+raise cash you know he has to be on his
+mission but he's also got to be
+mercenary and that's where Elon is right
+you know he's uh mission driven
+nothing's getting in his way but he can
+also raise a shitload of cash you know
+um so just for exposure for people at
+the moment we're like limited right I
+don't know what's going on here we need
+somebody send in a robot please we need
+this fixed uh but um yeah like in terms
+of exposure right we have funds like
+yourself. Um, we have a friend of mine,
+Andrew Kang. He's just launched a
+listed, uh, effectively a listed ETF.
+Uh, are there any other ways? You seeing
+any other ways for people to get
+exposure?
+>> Look, I think public market is a little
+bit harder for now because, uh, there's
+not much there. I mean, uh, there's
+obviously SpaceX that wants to do more.
+Tesla wants to build the humanoid. I
+think that's a bit harder. I think, uh,
+at the end of the day, for now, it's
+just the beginning. So, private market
+uh, is the way for now. I think it's
+starting from funds like TAL who are
+actually funding everyone then funds
+like ourselves who are actually trying
+to help the go to market and the scale.
+Um so I think it that will take a little
+bit of time before the regular retailer
+person is able to get full exposure.
+There's some creative ways obviously
+buying secondaries and all those
+secondary platforms and all that but I'm
+I think you need to have you need to
+know why are you buying something like
+that. So I think that that I would be uh
+careful maybe
+>> I mean
+>> the experts
+>> look the first of all you you touch a
+very key point I mean on top of
+everything is about the execution of the
+of the growth of the company and uh
+obviously you have to have capability to
+raise funds in particularly deep tech
+type of long endeavor that we're talking
+here uh you basically have to raise
+money with nothing much to show I mean I
+wish Raz will manage to show this growth
+all the time but it's not that uh not
+that easy but uh so you you expect this
+up and down particularly now because
+what we're experiencing now or I assume
+we're about to experiencing
+so if indeed we are headed for this
+bubble that everybody's kind of
+whispering about or not maybe not so
+much then this is going to be the
+biggest mistake to run away once this
+thing is going down because the real
+thing is going to happen after post
+bubble okay and and and and the and the
+and we we kind of hinted about this both
+of us and also your questions in the
+previous uh few minutes the fact that we
+we having so much money goes and we have
+you know the the the only thing we can
+show for is tokens nobody understand
+what's in the end of the token really
+and then there's a gap widening not much
+impact to the GDP so uh which means that
+probably a lot of the money that goes
+out there is not going to come back.
+Okay. And then so
+the question is going to be slow. It's
+going to be big. What's going to happen
+after? But what's going to happen after?
+We're going to have the infrastructure
+basically. So then then we're going to
+have the winners. So this why you need
+to have patience and capability to raise
+and capability to manage everybody
+around you including investors,
+including your customers or potential
+customers or whatever. So we got a
+couple of minutes left. We're going to
+go some uh crazy predictions cuz like
+look, we're so early in this space.
+Maybe I'll lead with uh two things. I'm
+going to yeah take your 10 year bet. I
+I'm going to say we're going to like my
+clothes are going to be ironed in three
+to five years. You know, I'm going to uh
+be bullish. The other thing that I'm
+concerned about coming from North Asia,
+um you know, where people, you know, I
+saw that robot out there, the companion
+robot, you know, I'm actually concerned
+about human growth rates, you know, in
+the future because I think uh you know,
+somebody will order up a robot and uh
+end up marrying a robot, you know. Uh so
+those are my two predictions. My clothes
+get ironed and people start marrying
+robots in under five years.
+>> I'll uh keep the hat of the conservative
+growth investor here. Uh I would say
+it'll take time but we're definitely
+seeing a lot of value and ROI and
+automation and that's why we're
+investing in it. I think uh maybe in the
+next uh by call it like 2030 a lot of
+what uh companies will sell is
+essentially labor. So you can think
+about it as like labor as a service or
+robot as a service. Um at the end of the
+day the the same way that Tal spoke
+about like tokens what is the end of the
+token. Uh I think the customer at the
+end of the day wants to see value and if
+you're replacing human workers you'll
+just basically price the labor. Um so I
+think that is definitely a trend that
+we'll probably see going.
+>> So maybe I ask you quickly on few
+dimension your question. So number one
+is about us people. [snorts] Okay. So I
+do think that eventually we're going to
+benefit from the capabilities of the
+automation once we we address this
+missing layer that I was talking before
+which will be able to translate this
+capability to value by the way it's a
+layer of trust okay we didn't talk about
+it much but it's a what the robots are
+doing they they're very capable but we
+don't trust them we don't have mechanism
+to trust them we don't have the system
+to trust them once we'll be able to
+trust them they'll be able to iron your
+clothes and do many more other things.
+Then on the on the human side, we will
+have to decide.
+We have to decide what are we going to
+do in our life and what are we not going
+to do. Okay, you know already that
+you're not going to iron your clothes.
+Okay. But some people will, you know, um
+if we don't use capabilities, we're
+going to lose it. So what what do we
+choose to lose? That's a deeper
+question. Yes. And what what are we want
+the machine to do once we trust it? So
+these are the questions that we have
+about 10 years to understand a little
+bit how to answer.
+>> It's an exciting space. I think
+everybody should be involved. I've got
+three young sons, three sons and I was
+just I'm just like go all in on this
+physical AI. So I wish everybody the
+best and thank you for your time today.
+>> Thank you.

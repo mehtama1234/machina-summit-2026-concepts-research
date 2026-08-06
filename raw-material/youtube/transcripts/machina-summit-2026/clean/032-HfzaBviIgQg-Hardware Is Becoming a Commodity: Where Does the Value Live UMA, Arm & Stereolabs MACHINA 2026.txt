@@ -1,0 +1,908 @@
+[music]
+Hello everyone and thank you for joining
+us at Machina today. Uh my name is Z
+Carot. I lead our frontier technology
+division here at Metric Search. We are a
+private equitybacked recruitment
+organization and for the last seven
+years I've recruited into the physical
+AI sector and I'm pleased to be leading
+this panel today on the topic of
+hardware and is hardware a commodity now
+and if so where does the value truly
+lie? I'm joined on stage by an
+exceptional panel spanning core robotic
+building blocks and I'll let Cecil
+introduce herself firstly.
+>> Hi everybody. I'm Cecil Schwarver,
+co-founder and CEO of Stereo Labs. So we
+we make cameras and AI vision for
+robots.
+>> John.
+>> Hi everyone. Great to be here. My name
+is John Corentis. Uh I lead a go to
+market activities in the physical AI
+business unit at ARM.
+>> My name is Robert. I'm one of the
+co-founders and chief robotics officer
+at Dexterity. We build logistics and
+physical AI for or physical AI for
+logistics and warehousing. Now, some of
+our key products are in things like
+truck loading, truck unloading,
+palletizing, depalitizing, and so on.
+>> Hello, my name is Rob Knights. I'm chief
+robotics officer and co-founder at UMA,
+where we are trying to make the world a
+better place with robots for everyone.
+>> It's great for everyone to be here. Um I
+think the key talking point here today
+on this topic is that whilst certain
+components within hardware are becoming
+increasingly commoditized core robotics
+building blocks still remain highly
+specialized and are far from commodity.
+I'll pose a high level question to the
+panel here to each of you firstly and
+that question is Cecile firstly in your
+opinion what components are not yet a
+commodity?
+Um, of course I come from the the
+camera, you know, u ecosystem. So
+definitely I'm I'm I'm I've been working
+on cameras for 15 years trying to
+replicate how we as human perceive the
+world. And I can tell you we we haven't,
+you know, reached the the level of
+accuracy that we have. So there's uh a
+long way ahead of us uh before we reach
+the performance and the quality that we
+need for a perfect replica of the of the
+physical world. So yeah, definitely
+cameras are not, you know, commoditized
+yet.
+>> John, what's your opinion on that?
+>> Tikki, probably not uh going to surprise
+you that I'm going to say compute,
+right?
+Um but, you know, if you think about the
+world of autonomous robots, right? We we
+we look at two particular areas of of
+compute that are really really complex.
+Uh one is what we call perception driven
+intelligence. So that's a robot's
+ability to understand where it is in in
+the physical world and navigate through
+that environment accordingly. Right? Uh
+and the second area is what we call
+interactive driven intelligence. Um so
+looking at the the human robot interface
+um primarily going to be voice in most
+in in most scenarios and that voice
+interaction requires a lot of contextual
+awareness. It probably requires
+understanding of sentiment. um it has uh
+you know quite a high level of reasoning
+capability attached to it. So if you
+think of those two areas
+perception-driven intelligence and
+interactive driven intelligence you know
+they are really really complex compute
+problems we're really scratching the
+surface of how to apply those
+effectively into autonomous robotics
+platforms. So those two areas
+particularly in the in the in the
+overall sense of compute I'd say are a
+long way from being commoditized.
+>> Thank you. And we'll we'll delve into
+each of these topics in more detail, but
+we've got the full stack guys over
+there. So, Robert, you first. Where do
+you see the where where's hardware not a
+commodity right now?
+>> Yeah, I'll give a twofold answer. The
+first one I was just going to say is
+cameras in compute. uh unsurprisingly
+and
+truly the the difficulties are in
+thermals in size. Uh running these
+robots out in the field, you don't
+really have cloud connectivity. Um you
+want data to be transferred from your
+imaging sensors. We've got a dozen or so
+running 10 plus gigabits per camera. Uh
+it is a lot of data to transform and
+then create action out of. And so having
+the right uh physical interface to bring
+in that data and then having unified
+memory and strong um floatingpoint
+operations to run models or even an LLM
+on board is highly critical and is the
+next step for us. Uh and this has been a
+huge problem uh over the last several
+years. And I think the other aspect for
+us is going to be in hands and grippers.
+It's still very up in the air. What's
+the right answer? But also the
+reliability and resilience and
+robustness of these gripping
+technologies is very important. You
+can't be replacing things in the field
+every two or 3 weeks.
+>> Uh yes, indeed. Hands uh remain a
+serious challenge. In terms of the
+bodies themselves, I think we're quite
+near to a low-level commodity with QDD
+drives. It's not that hard anymore to
+buy them off the shelf. You can get
+parts machined online. You can just mail
+order of them. They turn up. You can
+screw them together. You can run Isaac
+SIM. And testament to that is the
+hundreds and hundreds of companies that
+are now producing humanoids and they're
+walking around and doing stuff. Hands
+magnify all of those problems. We don't
+really know what the answers are. We
+don't really even know what the
+questions are. And everything is smaller
+and more compact.
+On top of that, tactile sensing, what
+you do with it, what formats we should
+use. That's still a serious way to go
+and it's going to become a major
+bottleneck at some point. At the moment,
+that's not what's stopping everything
+advancing, but there will come a point,
+I think, where that will really be what
+holds it back.
+Interesting. And humanoid hands and find
+extras manipulation is something that
+we'll definitely delve in on in more
+detail later on in the panel. I think
+one of the talking points I wanted to
+discuss with you two in particular being
+full stack roboticists uh at Dexterity
+and at UMA is with regards to hardware
+and software being defined and
+constrained by each other. you know,
+well-designed hardware can augment or
+reduce the burden on an AI model or on
+software. So, I'll start with you,
+Robert. What are the what design
+decisions have you made on the hardware
+side to improve AI model performance on
+your deployments there at Dexterity?
+>> Yeah, that's a good question. So, a
+couple points. Let's just take one of
+our leading applications, truckloading,
+for example. Humans were never really
+meant to be working on these types of
+very difficult tasks. And in fact, a lot
+of the labor that we're trying to uh
+augment and and potentially replace with
+automation is things that weren't ever
+meant for humans. And you'll realize a
+lot of the ergonomic difficulties that
+humans have, robots and especially
+humanoid robots also have. And we've had
+the need to increase the dextrous
+capability of robots significantly. both
+their strength, their ability to bend
+and be flexible in tight environments
+and get through things um and as well as
+move extremely fast. And so if you look
+at our robot system, we call it the
+mech. They're 8 degrees of freedom per
+arm. There are two arms and they're
+fairly strong with 30 kg of payload, 5.4
+meters of reach and they can still work
+collaboratively and cooperatively in a
+tight environment like a small shipping
+container. And this is really difficult.
+And we have experimented with a lot of
+off-the-shelf stuff over the years and
+the models, the planners, the
+algorithms, they really struggle when
+you don't have the right hardware. And
+so I think the the key thing that you
+have to realize is there's a bar for
+feasibility and then there's a bar for
+what I call superhuman effort,
+superhuman ability. And that's what
+makes customers and the actual
+application um powerful and customers
+willing to actually use your robots. And
+so it really takes another level of
+hardware innovation, kind of looking
+back at your models, what's not working,
+what's slowing down, and then perfecting
+the hardware so that your models can
+perform even better. And so I think the
+shape of the robot, the strength of the
+robot is highly critical um in a lot of
+a lot of different applications. And um
+you can actually share a lot of that
+technology in a set of applications, but
+I don't think there's one form factor
+that's good for all applications.
+>> That's interesting. the need for
+superhuman performance, not just human
+performance, but going above and beyond
+that to improve efficiency. I'll ask the
+same question to you, Rob. Obviously,
+you've been designing hardware now for
+for 25 years. So, what have you seen in
+terms of hardware advancements improving
+model performance?
+>> Um, the advent of uh QDD drives and the
+MIT mode um helped a lot with smoothing
+out that whole process. Um you're seeing
+uh technology that came across from
+drones much higher power densities um
+lower costs um but going even deeper
+into the component level when you talk
+to the manufacturers it takes a certain
+amount of investment to get the volumes
+up to bring down the cost of some
+solution and they themselves are waiting
+to see which solution will work the
+best. So you have an interaction there
+as well. Um, I'm a big fan of tendon
+driven hands and it's still a very open
+question for me how you can control
+those with some of these techniques.
+Most of the similreal approaches which
+work so well for walking, they have a
+simplified approach and when you try and
+actually convert that into a more
+complicated mechanical system that
+causes a lot of issues. Um,
+>> sorry not quite what the question was
+again. it was about novel, you know,
+electromechanical designs and how that
+improves or augments model performance.
+So, I think you've covered that there.
+>> Yeah. No, definitely. So, for the for
+the larger body where you're looking at
+the larger joints, the QDDs have made a
+huge difference on that. Um, but when
+you come across to the hands, it um has
+a lot of problems with heating and it
+doesn't transfer as well. So, for the
+large actions and the kind of hyper
+beyond human performance, machines can
+be better for that. But for the fine
+dextrous tasks, that's still an open
+question.
+>> So it seems that there's still a long
+way to go in kind of the hardware side
+of things, whether that's dextrous hands
+or whether that's novel form factors to
+improve improve the kind of actual
+performance of the robotic platform. So
+in that sense, if it's still playing
+such an important role in improving
+performance or differentiating the
+product, it cannot be said that hardware
+is a commodity right now. Um I'd like to
+move on into the sense that robot
+performance is not just achieved by
+system design choices but also kind of
+subsystem level at the compute and at
+the sensing level. Um John a question
+for you and ARM would be how critical
+are advanced CPUs for modern robotics?
+Yes, super critical actually. If you
+think about um you know in in in the
+world of physical AI probably the key
+metric to care about is the latency
+between sensing and actuation right and
+the systems that that that bridge that
+capability are actually you know they're
+multiple systems and and there's quite a
+lot of complexity in there and you know
+that that uh sensing to actuation needs
+to happen in milliseconds. it needs to
+happen in a reliable way. Um have some
+degree of determinism. Um have safety
+and security applied to it. And so um
+you know if you think about you know
+this the systems that are involved in in
+bringing all of that together you know
+require high levels of real time
+performance uh require very efficient AI
+execution of of AI workloads and require
+functional safety and security all to
+come together. Um and at the heart of
+all of that are CPUs. They're
+orchestrating all of those systems and
+they're present in all of the systems
+across across the robot that that that
+performs all of those tasks from sensors
+to actuators to the main brain. So I'd
+say yeah CPU is critical in the
+orchestration of all of that system
+capability. And
+>> I want to draw a parallel between the
+autonomous driving world where maybe
+they're a couple of years ahead of
+robotics and humanoids in particular.
+What we've witnessed in the AV industry
+is the AV companies co-designing silicon
+to meet the design constraints in their
+work in their realm. Do you expect the
+robotics industry to follow suit?
+>> Um we we expect a blend um you know in
+the same way that we see in the uh
+autonomous vehicle industry. uh
+companies will make decisions based off
+of primarily you know the key things
+that are driving those decisions are
+what's the use case that they're really
+focused on the application that they're
+really focused on um what are the kind
+of volumes that they that they have to
+play with and what does that mean in
+terms of the business case that that
+that they have and so they're the
+they're the kind of the four
+fundamentals that drive the decision
+whether to do you know in-house
+vertically integrated silicon or whether
+to take off the shelf um you know some
+companies will take off the shelf
+um uh available silicon because that
+will be the fastest path to market.
+There's a time to market advantage of
+doing that. Um others will want to go
+fully vertically integrated and design
+their own silicon um so that they can
+optimize for a specific workload. You
+know, talk about software hardware, you
+know, co code co-design at a hardware
+level. you know, in some instances that
+that will that that will really help and
+and but it's a very kind of individual
+choice for for for each of the companies
+whether they go off the shelf or or or
+invest in building their own silicon
+teams and uh and bringing their own
+silicon to market. Um, fundamentally
+tying all of those things together is
+the need for very efficient compute, uh,
+safe compute, secure compute, and that
+has to be done whether you buy off the
+shelf or or or inhouse and, you know,
+needs to be capable of kind of scaling
+and expanding to a growing world of, you
+know, high performance AI workloads that
+need to be executed on those platforms.
+Um, so whether you know regardless of
+the decision you're making, you have to
+have that as your key consideration is
+how you going to be able to really
+efficiently run those workloads. And
+those workloads are going to be, you
+know, potentially your individual uh
+workloads for for a particular company.
+Um, regardless of which way you go, you
+know, ARM has an ecosystem of 22 million
+software developers, right? Building
+software around ARM. and and so you know
+whether you're building in-house silicon
+or taking you know ARMbased silicon off
+the shelf there's already you know a
+full suite of optimized software tools
+AI frameworks that already highly
+optimized to to be deployed for
+development and deployment on on our
+base system. So regardless which way you
+go you got a huge ecosystem ready and
+waiting to to deploy onto your platform.
+>> Thank you for that. And then moving on
+to the the sensing side again I think
+advanced sensing is going to be a key
+robotic building block in unlocking
+advanced performance. Cecile that is
+what stereo labs are doing. You know
+you're developing a sensing and
+perception platform for physical AI.
+What role do you see in advanced sensing
+for improving robotic performance and
+deployment?
+>> Yeah it's it's a very exciting time I
+have to say. So we started this company
+15 years ago. So we we we've seen the
+early stage of robotics and the
+evolution that we've seen during the for
+the past couple of months is uh
+incredible. We have there are so many
+companies you know popping up popping up
+every day with new ideas and new
+approaches
+um
+different types of use cases. Uh for us
+of course at the core uh there is vision
+and perception because the obviously the
+machine needs to see and understand the
+world around the machine. So we have
+been focusing on this for years and um I
+forgot the question Z. [laughter]
+>> It was regarding advanced sensing and
+what improvements do we need to see?
+>> Yeah, exactly. So we have been working
+on this uh for years. So the the
+objective is to have the exact replica
+of the physical world and uh so we not
+only sell cameras but we provide the
+software. So it's a hardware and
+software uh combination where we focus
+on of course latency because this is
+very important uh resolution um frame
+rate [snorts] the depths accuracy
+localization
+uh uncertainty estimation. So those are
+all the things that we are focusing on
+at the moment because and this is why we
+call it advanced because if you you can
+take two cameras that share the same
+SIMOS sensors but they can perform
+dramatically different and uh this is
+what we're focusing on and as you said
+like safing safety is becoming crucial
+especially in some application. So there
+is a whole new world uh for robotics uh
+and it needs to reach this level of
+accuracy and safety that is that is hard
+to reach today. So there's a there's a
+lot of work and uh and this is what
+we're doing today with uh so the company
+we we've fused with ouster beginning of
+the the year. So they they are building
+lighters they have been building
+lighters for a long time. So combining
+both was really important for us because
+we have customers who come to us and say
+oh what vision or perception system
+should I use and it's always the
+customer always makes the decision and
+and they're not perception engineers or
+and we have been doing this for years.
+So our idea with Angus the CEO of Aster
+was to say hey come to us and we'll find
+the best solution for your application
+for the type of machine you have and so
+we can really optimize and give you the
+the the best product. So yeah,
+>> interesting. I like what you said there
+about the camera solutions as well as
+the LAR solutions coming from uh from
+Ster. I again want to draw a parallel
+with the AV industry. Um that again is a
+couple of years ahead of maybe the
+robotics industry. A critical issue
+there is sensor cost as well as sensor
+size and the integration of the sensor
+into an AV platform or into a robotic
+platform. Are you seeing similar
+requirements in the robotics industry
+for smaller and more cost-effective
+sensors?
+>> Um, yeah, of course. I mean, people are
+asking for this, but this the
+performance is more important than the
+cost and the size today. So, they want a
+sensors that perform 24/7 that doesn't
+stop that gives a you know precise depth
+estimation u on the whole range. uh we
+our customers do do sensor fusion. So
+they have a lighter, they have different
+cameras, 2D cameras, 3D cameras, they
+have one you know uh ARM based computer
+with a GPU and everything needs to work.
+So we are seeing that we need to focus
+on the system not only just the modules
+today because every module can work you
+know by itself but when you combine
+eight or 10 cameras and and you want to
+have a a high performance uh system this
+this becomes much more challenging. So
+we always have this approach of you know
+making sure that everything works
+together and uh yeah
+>> and you mentioned it there already
+actually but sensor and compute
+integration is becoming more and more
+important. What are you doing there at
+stereo labs on that topic? I mean we
+definitely work uh hand inhand with
+Nvidia and and ARM uh our compute
+especially for us because we we sell the
+hardware but all our software tool is uh
+on the host uh computer and and we
+definitely uh work very closely with
+Nvidia. So of course uh as I said it's a
+system. So we we not only develop
+cameras we think about the system that
+the our customers are going to use and
+we want to and the cost becomes uh
+important here because the compute costs
+are getting are increasing very fast. So
+this is something that we always make
+sure we we yeah we it's important to uh
+to understand the cost that uh the
+machine needs to have. It depends. If
+you have a small robot that cost, you
+know, you sell it for $1,000, of course,
+you're not gonna, you know, you're going
+to decide on different type of compute
+and different types of sensor. If you
+have a a larger uh machine, as you know,
+we see at Dexterity, for example, there
+they have different expectations. So, we
+need to have this flexibility and
+sensors and compute definitely work
+together. Uh yeah, you can have one
+without the other one. So, big
+optimization here.
+>> Thank you. Uh and John, we've spoken
+about this and I think Cecil just
+covered that, but you expect an
+evolution in sensors for physical AI
+applications. How do you see that
+impacting compute requirements moving
+forward at ARM?
+>> Yeah, I think I'd echo a lot of what
+[clears throat] Cecil said. Um you know,
+if you think about where we are in the
+the life cycle of very capable
+autonomous, you know, humanoid quadriped
+robots, we we're fairly fairly early on
+in that life cycle. There's a lot of
+exploration happening. I think as we
+move more towards um commercial scale
+out um we're undoubtedly going to see
+cost reductions in some of those
+sensitives
+have liars on them today um and you know
+they're fairly expensive components
+right so as you go to more towards
+commercial scale out you know we could
+probably expect that you know lower cost
+LAR sensors are going to come into play.
+Um there will be scenarios where you
+only have vision sensing. You know, you
+have a fairly constrained environment,
+maybe a factory floor that's well well
+understood and well mapped and maybe
+just vision sensing is is enough and you
+don't you don't need a liar. Um but in
+terms of you know um optimizations in
+respect to compute, I think there's a
+there's a tendency to think that as we
+on this path to create more capable
+autonomous robots, we need to throw more
+compute at the problem. we need to throw
+more advanced AI models at the problem.
+Um, but the reality is these systems are
+really constrained by two two critical
+factors, power and thermals. And you
+know on a humanoid robot you're limited
+in terms of battery capacity and you're
+limited by the amount of actual physical
+cooling active cooling that you can that
+that you can have and and and and mount
+on onto the robot. So, you know, those
+two things being the limiting factors
+leads us to think that actually there's
+a big piece of work to do in terms of
+overall system optimization. I think
+we've all kind of touched on touched on
+the point in in different ways here, but
+that system optimization, being able to
+efficiently run AI models on a
+constrained environment with battery and
+power, you know, thermals taken into
+account, I think is really the next big
+thing. So it's taking that complete
+sensor um to uh brain and and actuator
+system and making that entire pathway
+more efficient and being able to deploy
+models in a very very efficient way uh
+that that run very efficiently on that
+on that main kind of NVIDIA platform
+whatever the main the main brain of the
+computer is.
+>> Thank you. And it's interesting you
+mentioned that we've seen a a wide array
+of robotic form factors out there today
+and you're fortunate enough to visit a
+lot of robotics labs around the world.
+What have you seen in terms of novel
+designs to improve compute or improve
+power efficiency?
+>> Um yeah, I fortunately I do visit a lot
+of robotics labs. I think one thing I
+would say is that um there is a there is
+a carpenter somewhere making a lot of
+money out of building wooden staircases
+that go to [laughter] lead to nowhere
+deployed all over the robotics labs in
+in Europe. Um on on a serious point I
+think you know
+there are you know certain design
+choices to to to be made in terms of the
+form factor of a robot you know there's
+a lot of um you know focus on biped um
+by bipedal humanoid robots but in a lot
+of applications that probably may not be
+may not be required you know depending
+on the use case in the application it
+may make sense to have you know a
+humanoid form factor but on wheels um
+that probably is a safer platform to be
+around particularly around you know in
+an environment with with with lots of
+people around probably safer um but also
+allows you the capability to maybe put
+more compute into the base of that base
+of that platform um or more battery
+capacity into the base of that platform.
+So I think there you know a lot of
+exploration in terms of in in terms of
+uh form factors going on. Um they
+ultimately as we've said already
+ultimately all of those things are going
+to be driven by the specific use case of
+the robot. We were talking about, you
+know, a robot deployed in a hospital
+application environment earlier.
+Absolutely makes sense for that to be on
+wheels and not a biped, right? Because
+it's walking into oncology, you know,
+children's oncology units and and it's,
+you know, much much safer to have that
+on a on a fixed wheelbase than than a
+than as a biped. So, a lot of the the
+form factor choices will be um will be
+dependent on the end use case and
+application for the robot, I think. And
+we'll stay on the topic of form factors
+and we'll speak to to Robert and Rob
+over there about their form factors. You
+touched on it earlier, your customers,
+Robert, uh, FedEx in particular looking
+for superhuman performance for their
+deployments. What novel approaches have
+you taken? You mentioned about the the
+additional elbows, but can you share
+more more on that topic?
+>> Yeah, I'll again give a twofold answer
+both from the compute perspective as
+well as from the mechanical perspective.
+uh when
+you've got to move in tight spaces and
+you want to be able to both compute
+faster your motions as well as execute
+them faster. Uh we've had to go through
+a lot of optimization on robot shape and
+robot strength. It's really like a a
+trade-off. I liken it to like building a
+rocket. you have to always carry your
+fuel to the uh next stage. And you can
+build a bigger rocket, but you'll have
+to carry more fuel. And so it's a it's a
+race to the bottom. And the similar
+story goes for robotics as well. You
+want a stronger robot, you want stronger
+wrists, you'll have to carry those
+motors at the end, your distal end of
+your robot. And so your um your base
+joints are going to have to be much
+stronger or much heavier. And so there's
+a delicate balance of how much strength
+you need, how much dexterity you need,
+and playing with that as well as
+understanding from the manufacturer's
+perspective. We work with Kawasaki for
+example, what is possible, what isn't
+possible. That creates a uh very unique
+PTO optimal for us to be able to choose
+the right shape and the right strength
+for the robot. Um we generally uh look
+for a little bit better than OSHA
+requirements, right? OSHA only says you
+can lift what 22 lbs or 25 lbs until you
+get to two people that can lift double
+that. And we want to be able to handle
+at least two people's worth of tasks. We
+don't need to do too much beyond that.
+uh but we don't want to go too low as
+well on in terms of uh compute though uh
+again we're very power and thermal
+constrained but we have so many imaging
+sensors from RGB RGB and depth and LAR
+and the data is very dense and it's tens
+to hundreds of megapixels of data flying
+in all at the same time. If you're going
+to sequentially go through all of them
+it is impossible to make a decision. The
+problem with say neural networks and a
+lot of things is you're spending your
+brain power on all the data all the time
+and maybe 90% of the data is not very
+useful and so I've got to give a cue to
+programming frameworks like CUDA and
+whatnot to be able to really easily
+ingest the data in parallel filter out
+or create features from the important
+aspects ignore the non-important aspects
+so you can give your model a chance to
+actually perform well without having to
+waste your flops on absolutely
+everything and getting the data from the
+camera into the memory layout and that
+is possible for that parallel computing
+directly in one stage without any sort
+of transformations and then programming
+your compute to be able to use that
+memory layout has been super important
+to be able to handle the influx of all
+of that data and make a decision really
+fast. So really good programmability,
+really good parallelism, really good
+direct sensor to memory transfer has
+been completely revolutionary for us. Uh
+and then of course apply the right
+mechanical design and you can build a
+very superhuman robot in both decision-m
+speed as well as actual execution speed.
+>> Thank you for that. And there's one
+thing I want to hone in in on there in
+particular and I want to ask the
+question to you Rob because we spoke
+about it earlier and that question is
+regard to actuators. Actuators play a
+key pole key role in robotic movement
+acting like the muscles of humans
+essentially. What is the situation with
+actuators right now and are they a
+commodity?
+>> Up to a certain level they are. Um, if
+you look at some of the open source
+projects we did, um, they're just using
+off-the-shelf actuators. There's
+definitely a gradient though. And if you
+want to push up to higher performance,
+you can't just go and buy those. You
+can't order those online. Going back to
+the general point of talking about now
+though, I for me what I'm thinking as
+you're talking about these things is
+that there's a tension between the
+specialization and the generalization.
+It's always been sensible to make
+specialized machines because you can
+home them and you can ignore data you
+don't need and you can focus them on the
+task at hand. But the kind of vision
+we're talking about where you can
+elevate a society through a mass
+generalization of automation, can that
+be achieved [clears throat] through a
+series of specializations or do we have
+to fundamentally move towards a
+technology we don't yet have? And I as
+everyone's talking it makes me wonder if
+if we just keep sequentially making more
+and more specialized machines surely
+that's heading away [clears throat] from
+generalization.
+Um so that's the kind of tension I think
+we need to address. It it it makes sense
+if you want to do a certain thing you
+design it a certain way you can make it
+superhuman but this machine which can do
+all of these things that we want so that
+you can really alleviate lots of
+different tasks and you can swap them
+into lots of different roles. Um, I
+wonder if we can get uh the way we're
+presently going.
+>> Exactly. And that's something Robert and
+I discussed actually that generalist
+robots I think we're still very far away
+from, but robots for specific tasks is
+possible and are being deployed across
+the US and across Europe. Now, um, I
+want to touch on some of the key areas
+that maybe humanoid robots in particular
+lack on. And this was something Rob, you
+and I discussed. Rodney Brooks, who's
+probably developed more humanoid robots
+than than anyone else in the world. He
+believes that deployable dexterity, so
+dextrous man manipulation hands are are
+pathetic. His words, not mine. Um, but
+is that another example of of hardware,
+you know, being crude in comparison to
+to what we are capable of as humans?
+>> Yes, I suspect it probably is. Um, all
+of the problems are magnified when you
+try and make them into hands. It's uh
+it's smaller, it's more compact, the
+thermal gets harder, the power gets
+harder. Um and again, if you look at it
+from a civilizational level, our
+civilization was was literally built by
+hands. So, if we're going to enable this
+next era, then we have to solve this
+problem. Um the physics ends up that you
+either have to is it easier to get rid
+of heat or is it easier to transmit
+mechanical power? Um both have their
+their their issues particularly in
+maintenance for tension driven systems.
+But Rodney talks about deeper problems
+that we don't have even a language to
+describe what it means to be dextrous.
+We can't describe tasks. We can't
+therefore talk coherently about the data
+we need. We can't really even describe
+the problem yet. So that's where he's
+coming from. But he's quite a
+pessimistic fellow. Um if you've
+[clears throat] ever met him,
+I'm more optimistic. Um but maybe
+[snorts] I'm just naive. I I like to
+think that if we have enough uh
+innovation and we have enough
+collaboration that these techniques can
+be applied and that something will
+emerge from it which is more than we are
+expecting. So we're just going to keep
+pushing it along and hopefully we can do
+it faster than he thinks we can.
+Certainly that's what we're going to do.
+Um but that's partly because I enjoy
+designing hands. So we we just keep
+designing and building them and we keep
+applying techniques. Um, but you can
+look at how LLM's emerged that it was it
+was laughable even a few years ago to
+think that we could do what we can do
+now with AI. It was pipe pipe dream and
+then all of a sudden it pops up and
+suddenly we're taking these things very
+seriously and we're designing
+medicines and solving protein problems
+and we can do real things with them. Um
+[clears throat] so things can emerge if
+we have this collaborative system. If we
+have uh a lot of people working together
+on these on these hard problems as
+hardware prices continue to come down we
+get some aspects of uh commodification.
+We get um shared uh benchmarks then I'm
+hopeful that we will we will get there
+faster than he thinks.
+>> Thank you. Thank you for sharing that.
+And I'm conscious on time. We're running
+towards the end, but I think to
+summarize this across sensing, across
+advanced compute, across certain key
+robotic building blocks, hardware is
+still not yet a commodity. And I think
+the old refrain is true. Hardware is
+hard, but hardware and software are
+still constrained and defined by each
+other. And we really need to champion
+the next generation of hardware builders
+because they will play an integral part
+in enabling the safe and mass deployment
+of physical AI systems. Um, thank you
+for joining us today. Uh, it's been a
+pleasure to host this panel. Uh, and
+enjoy the rest of Machina. Thank you.

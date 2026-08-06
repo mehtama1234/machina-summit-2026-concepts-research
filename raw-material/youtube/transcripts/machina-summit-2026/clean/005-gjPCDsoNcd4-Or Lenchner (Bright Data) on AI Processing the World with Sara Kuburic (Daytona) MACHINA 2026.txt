@@ -1,0 +1,450 @@
+[music]
+We're going to do things a bit different
+this time. First of all, we're not going
+to sit. Second, I'm going to speak very
+loud so everyone will hear. And third,
+I'm going to start with telling you
+about a near-death experience I had uh
+almost 20 years ago. Before that, I'm
+Orcher. I'm the CEO of Bright Data. And
+together with me in a few minutes on
+stage, Dr. Sarah Kuber will join. Now,
+while I'm talking about my near-death
+experience, and you'll understand why
+I'm doing that in a few minutes, I want
+you to think about your own that thing
+that might happen to you in the past
+that every time you're telling that
+story, you get the goosebumps. To me, it
+all started in 2009
+when I uh started I I went to fulfill my
+childhood um dream, which is surfing the
+east coast of Australia as an avid
+surfer for many years. And I bought a
+camper van and I drove through the
+Australian coast and I surfed in every
+spot I could find until I got to the
+Gold Coast and I kind of stuck there.
+Sorry.
+And I kind of stuck there for a few good
+weeks. And one day I misread the ocean
+and I went into into a surfing session
+and the waves were way too high for me.
+And after like 30 minutes of surfing. I
+uh I I realized I made a mistake and a
+huge set of huge waves just came in my
+way, pounding me over and over again
+until it broke my leash, took away my
+board and I was just left out there in
+the ocean. And I started swimming to the
+beach just to, you know, try to get
+there safely. And it felt like eternity.
+And I swam and I swam and I left all of
+the energy in my body. And I remember
+that experience that I felt completely
+helpless, nothing I can do about it. I
+felt that I have no energy left in my
+body. And the worst experience I had is
+kind of even an acceptance that I'm
+might going to take the last breath in
+my life. And while I swam to just take
+that last breath, in the corn corner of
+my eye, I saw my board all of a sudden.
+So, I gave it a few less strokes and I
+was able to get to the board and I
+drifted to the beach and I survived. And
+this still gives me the goosebumps when
+I'm telling it almost 20 years after.
+But let's park that fun story for a
+second and get uh starting to talk about
+robots.
+So, to know the world, robots needs to
+see the world and to to operate in the
+world, they need to understand it. And
+that's actually a solved problem if you
+think about it because seeing the world
+basically what we're doing right now is
+becoming easier every day. I'm being
+recorded talking to you. This will be
+live in the internet in a few hours
+time. And this is public information,
+public content, visual content that
+robots can train on. If they want to
+walk in an event in Paris in two years
+from now, they can get this data. And
+this data is available for everyone. And
+many of the people here are already
+doing that and training the robots on
+publicly available information as the
+data provider for most of the robotics
+companies at Bright Data, the visual
+data provider. Talking about videos, 3D
+imagery, images, everything that has
+pixels in it. This is growth we haven't
+seen in the entire lifetime of the
+company. We're talking about thousands
+and thousands of pabytes of visual data
+being collected from the open web and
+distributed to many of the companies
+that are uh presenting here in the
+Mckina event.
+So with this data robots can as you know
+understand spatial awareness really
+well.
+They can grasp depth and distance to
+make sure they are walking here and uh
+not bouncing into anyone.
+They can understand which product they
+need to choose if this is the test they
+were given
+and they can experience dexterity in a
+very accurate manner and a lot more a
+lot more than that.
+The thing is that in a few years time
+maybe less than that they will be all
+around us. They will live with us. They
+will work with us. They will serve us
+247.
+And they will also absorb a lot of new
+context that they couldn't train on. How
+can you train a robot on everything that
+is happening in the world if the world
+keeps on changing? Think of two
+humanoids going out from the same
+factory in the same batch, trained on
+the same data, grounded on the same
+data. One is being shipped here to Paris
+to serve a family in in a Paris home.
+The other one is being shipped to
+Minnesota to an elderly house to help
+the staff there. There's a reunion of
+these two humanoids after a year. How
+they will react to the same scenario?
+How they will react to different
+scenarios if the context they absorbed
+over this year is completely different.
+We can actually
+um imagine how this will be or how
+frustrating it can get because we're
+working with robots all day long, right?
+We're working with these virtual AI
+agents all day long every day. And you
+know the feeling that once you started
+working with them, it's like magic. But
+actually after a while when you have
+like you know mutual history together
+working you and your agent and you're
+adding more and more context over time
+to the agent and you're giving it more
+and more tasks then it's starting to
+lose focus sometimes on simple tasks
+that a week ago it was perfectly fine
+with and it's starting to drift
+sometimes and you're experiencing what's
+called context rot but this is all
+virtual. what will happen with these AI
+machines will have arms and legs and
+they will live with us in our homes.
+When I started thinking about that, I
+thought that there might be a solution
+to it from the data side of things which
+we're um experts in, but I couldn't
+fully realize how these humanoids are
+going to experience the world on the
+human level. And the only person I uh
+had in my mind to ask is an expert in
+what we call lived experiences. And I
+called my dear friend Sarah. And the
+first conversation was both funny, fun
+and absolutely terrifying. And we kept
+talking about that and I told her that
+we need to do it on stage. So everyone
+please welcome Dr. Sarah Kuboric.
+[applause]
+>> Hello.
+This is really fun as an existentialist
+to be at an AI conference.
+So,
+a lot of people come to me concerned
+about the progression of AI because if
+it can do a lot of the things we can do
+such as neural processing and adapt to
+context and much more, what makes us
+uniquely human? Are we at some kind of
+risk? And what I find fascinating is
+that currently the conversation has done
+two things. One is that we have
+humanized AI really rapidly and even the
+way we talk about it has become human in
+its essence and at the same time we have
+dehumanized humans. What I mean by that,
+we keep talking about the human function
+of like stimuli and response. Amazing.
+Um, what is the function of a human?
+What is the brain of the human? And we
+are kind of forgetting about the mind,
+the essence, the spirit of the human,
+which does differentiate us just a
+little bit from the current progression
+of AI.
+I love or story. He jumped on a Zoom
+call and was like, "Let me tell you
+about a time I almost died." He's like,
+"Cool. Okay." Um, and what I loved about
+it is because let's pretend that there
+is a humanoid in the ocean and there is
+ore in the ocean. Both are experiencing
+the same context. That's what we would
+want to say. But the reality is that
+they are both in the same context.
+They're not experiencing the same
+context. And I think that that's a
+really important distinction. I think we
+have become a little sloppy with the
+vocabulary that we have used which has
+then confused the field and has also
+alarmed a lot of individuals.
+Why do we do this? There is nothing
+scarier for the human mind than the
+unknown. This is why we fill in the
+blanks a lot about a lot of things. And
+what we do is we often attribute human
+characteristics and behaviors to uh gods
+to objects sometimes to dogs. And we do
+these things because it helps us deal
+with the unknown. And we have now
+essentially done the same thing with AI.
+So what do I mean when I say this? So
+language that implies things that aren't
+actually there.
+Okay.
+AI understands, known, believes
+something when it's pattern matching on
+tokens. It decides when it's producing
+probabilistic likely outcomes. That was
+a mouthful.
+Now we get into like the fun ones. AI
+hallucinates it, but it actually
+generates plausibly sounding but
+inaccurate text with no perceptual
+experience to distort. AI can't smell,
+hear, taste, see, or feel things.
+Therefore, he can't actually hallucinate
+in the way that we have used this word
+in psychology and psychiatry.
+It gets confused when he actually just
+produces incoherent outputs, not a
+mental state. It tries to do something,
+but there's no effort or intention. It
+refuses. I love it when he says, "No,
+Sarah, I can't do that for you." It
+generates a token sequence that
+declines. It's not an act of will.
+and it lies. It produces inaccurate
+outputs without knowing that they're
+false. So, is it a lie if it doesn't
+know that it's false? And lastly, I like
+it when AI apologizes to me. But it's
+not an apology. The word appears in
+output, but there's no remorse. These
+are really important distinctions. It's
+like looking at a picture of a fire. It
+might be beautiful. It might be
+accurate, but it will never burn you.
+Therefore, it is not inherently fire.
+So, AI can know about things, but it
+can't actually experience things. And I
+think that this is what makes us
+irreplaceable as human beings. I think
+it's interesting that AI can produce the
+word grief or it can process and learn
+about grief, but it cannot grieve. It
+can look at me and go, she's on stage
+here. her mannerisms. Here's her voice
+pattern. Here's what she's saying. And
+yet, it does not know what it's like to
+be me on this stage.
+AI can know about things, but it can't
+experience things. And the one big
+distinction is the lived experience
+involves the felt sense of being in your
+body in time in relationship. I don't
+know if you've ever experienced walking
+into a room and knowing something was
+wrong with zero proof that something was
+wrong and then you'll find out something
+was wrong. I think this is really
+incredibly important.
+And why it's important is that we need
+to understand
+we are much more than just biology.
+So I'm going to teach you about
+phenomenology,
+something that philosophers have played
+with for a really long time. It's a
+study of structures of consciousness as
+experienced from the first person point
+of view. So instead of saying what has
+happened to this person, it's saying
+what is it like to be this person?
+Instead of asking the question of what
+causes us to see the color red, which by
+the way is neuroscience, it's saying
+what is the nature of experiencing the
+color red? That's phenomenology.
+I love phenomenology because it's
+inherently human and it's not just about
+sharing information. Um I think
+phenomenology teaches us that change is
+possible with encounter but change is
+not experience.
+What I mean by this is that a rock can
+be changed by water. It can change its
+shape because of the water pressure but
+it doesn't mean the rock has actually
+experienced the water. These are two
+very different processes.
+Marlo Ponti uh famous French philosopher
+talked about embodiment and the fact
+that it's not just mental. The human
+experience is not just mental, it is
+also physical and that's very different
+than just having sensors. It is very
+different to know what fear is versus to
+experience fear being in the ocean. I
+also think it's really important to
+understand that you can have a flight
+simulator
+show you what turbulence is like, but
+the pilot's not going to be scared
+because the experience is absent.
+So let's briefly talk about four
+existential givens.
+This is according to Irvin Yellum who is
+a existential psychiatrist. He talks
+about these four things making humans
+different and without experiencing these
+things there is no human experience. So
+one of them is death. The tension
+between the wish to continue existing
+and the fact that we're one day not
+going to exist. The freedom, the fact
+that there is so much freedom in this
+world to shape who we are in our
+experiences and it's up to us to figure
+out what those are going to be.
+Existential isolation. the fact that no
+matter how deeply someone wants to get
+to know you, your spouse, your friend,
+they're never going to fully understand
+what it's like to be you. And that's
+incredibly isolating and
+meaninglessness. The fact that this
+world is arbitrary and potentially
+um absurd and that it's our job to find
+meaning within it. The argument is that
+without AI having to experience these
+things, they're going to show up in the
+world a lot different. Your nervous
+system is not just impacted by the
+world, he also has stakes in it. And
+that's the difference.
+The machine is exempt from all four as I
+said and not because it transcends them,
+but because it was never inside the
+human experience to begin with. The
+absence is not neutral. It is the
+fundamental difference.
+So the process is not enough
+and I think it's important to know that
+if it cannot be in it, what impact can
+it have within it? I think that AI can
+be incredibly useful without trying to
+be human. I think that the danger is not
+that it's going to replace us, but that
+the humans are going to forget what
+makes them irreplaceable.
+I think that the speed and the pattern
+recognition is not the problem. It's the
+problem is when we forget that the human
+capacity is more than that. It's about
+suffering. It's about love. It's about
+meaning something to someone else. And I
+think that we can live alongside AI as
+long as we're very cleareyed about what
+the distinction is. So if AI can't
+experience, what can it do?
+>> I'll answer that.
+>> Yeah. [laughter]
+>> Thank you, Sarah. So the team at Bright
+Data has been working in the last few
+months on a very unique solution future
+looking not as a way to
+create experiences in robots to Sarah's
+point but in a way to keep the robots as
+close as possible to knowing like a
+person
+and we've taken a lot of the public
+information that we've been collecting
+over so many years and process that into
+a visual database a very unique visual
+database that you can just prompt and
+search. In this examples, a person is
+looking for scenes for visual scenes of
+someone washing the dishes. And thanks
+to this new product that we're about to
+launch, the video search index and video
+search API, you can actually find the
+scenes that you need in order to get
+that machine, the brain of the machine
+that you're building closer to knowing
+what it is to become a human, probably
+without actually having those human
+experiences.
+And you can get that with the exact
+timestamp of the scene that you need
+perfectly aligned with the prompt that
+you've added. download it through our um
+bright data infrastructure and I believe
+that this will be a crucial part of the
+reinforcement learning processes that
+these humanoids will need to go through
+every single time that they're getting
+new context they haven't been trained on
+when I'm showing that to lots of people
+everyone are talk saying yeah okay it's
+like the Matrix when Neo got plugged
+into the machine and all of a sudden he
+knows kung fu so we switch Neo with this
+humanoid but this is exactly what we're
+talking about think about a humanoid
+that needs to do something it wasn't
+trained on. He will be immediately
+connected to a fast connection to the
+internet, prompt the visual search
+index, get the data that he needs, the
+visual data that he needs, and after a
+minute, he will know how to react to
+this new scenario he wasn't trained on.
+Finishing with that, I have a question
+for Sarah and then we're done. Um, do
+you think that these parallel lines, me
+representing in this case the the robot
+as the tech person and you the human
+will ever cross?
+>> Um, no. And I think that that's the
+point to me. They're not parallel lines.
+It's a line and a mirror. And a mirror
+that's getting very precise, very
+convincing, very uh producing very
+amazing reflections. But the at the end
+of the day, just because it represents a
+human, it doesn't mean it will ever
+become one.
+>> But we'll stay friends, right?
+>> But we'll stay friends. [laughter]
+>> They'll stay friends as well.
+>> Yeah. Yeah. This is my favorite.
+>> Thank you for listening, everyone.
+>> Thank you.
+>> Awesome. Thank you so much.

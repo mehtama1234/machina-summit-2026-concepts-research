@@ -1,0 +1,426 @@
+[music]
+Uh, I'm Helena Chow, managing director,
+head of venture capital and crossover
+coverage at Bank of America, and I'm
+delighted to be here today with Path
+Robotics CEO Andrew Lonsbury.
+>> Hey, morning everybody.
+>> Full house.
+>> Yeah, it looks like it. It's packed.
+So Andrew, we've moved beyond asking
+whether physical AI is possible. What's
+changed over the past 18 to 24 months
+that makes this the moment when it's
+finally beginning to scale commercially?
+Finally.
+>> Finally. Yeah. See, finally is the key
+word here. So um I would assume almost
+every speaker that's talking today has
+spent 10 years plus working in this
+space.
+This hasn't just been an overnight
+success for basically any of us. I
+started path in uh 2018, but really I
+started in 2014 doing my PhD in legged
+robotics. So, it's been 12 years. 12
+years of grinding.
+>> You're an OG. An OJ.
+>> Yeah. Yeah. So, what's changed? So, what
+what do I think has really changed in
+the last 18 to 24 months? There's
+probably three things. So, top thing is
+just notice that this market is real and
+that this is possible. So, OpenAI and
+Tropic have truly shown what AI can do
+and where that ceiling can go. So, the
+belief that this is real. Again, over a
+decade ago is when we did the DARPA
+challenge and legged robotics in the
+United States. A decade ago and it went
+extremely poorly. It's taken this much
+time to really get to this point. So,
+one, I think there's a revitalized
+belief that we can get there. two,
+there's energy, time, and people really
+going into this. Obviously, this room is
+a a good catalyst for what the rest of
+the world is looking like in terms of
+putting their energy into it. And then
+I'd say three, compute. Fact that we all
+have access to actual compute at this
+point at at scale is really really
+accelerating the development. And then
+finally, the most important thing is the
+flywheel of data. I'm sure you're going
+to hear about data all the time at this
+conference, but it is the most vital
+piece of this entire puzzle. To build a
+foundation model, you need a foundation
+data set. To get a foundational data
+set, you need to collect data at mass.
+And a lot of groups are doing it through
+a lot of different techniques. But the
+fact that a lot of us have started to do
+deployments, get robots into the field,
+and actually turn on that flywheel for
+continuous data collection, continuous
+learning. This is a really good early
+inflection point around we are starting
+to see early scale, but what we're going
+to see over the next three to five years
+is going to be mindbending.
+>> So, what what inning do you think we're
+in right now? Do you think we're still
+in the first inning?
+>> Oh, definitely definitely definitely
+first.
+>> 1.5,
+>> maybe first batter still. This is where
+we're at. And so, again, as we get deep
+into this, it's going to be incredible
+to see.
+>> So, as you mentioned, Path was founded
+in 2018, right? So, you've been doing
+this for years. You've been, you know,
+you spent years deploying physical AI in
+real manufacturing environments. What
+have those deployments taught you about
+what it actually takes to move from
+prototype to commercialization and
+ultimately to happy customers at scale?
+>> Yeah, happy customers.
+That's a that's a really hard thing to
+do in robotics, just to be totally
+frank. You see this time and time again
+where you hear a big name and you see
+that they're delivering to you a Fortune
+10 customer and then you see that their
+robots are no longer deployed or they're
+left at one robot or they're left at a
+handful and they're not scaling. Getting
+to a happy customer is probably one of
+the hardest thing in robotics. robotics,
+tech stack, hardware, software, AI, all
+of those things matter. But the final
+thing at the end is can it actually
+deliver value to a customer and is that
+value something that you can tangibly
+measure, tangibly show, and get
+conviction to scale past it. So a lot of
+people ask me, I might jump to a later
+question, ask me why I didn't do general
+purpose. Why did I not go after the
+robot and the brain that can do
+everything?
+mainly because we want to first start
+and focus on how do we make the
+economics truly work? How do we make
+customers happy so that they're buying
+more, buying more consistently? I can
+tell you in the last 15 months, PATH's
+revenue has 15xed and our net revenue
+retention is over 200%. So all of our
+customers in the last 15 months have
+doubled their bet on us at least. And
+why they're doing that is because we
+started in an industry where there is
+real pain. Not an industry where it's a
+nice to have. Not an industry where
+maybe I want it. It's an industry where
+if I don't have this, my company may
+die.
+Starting there with a customer painoint
+is ultimately the way to make the
+economics work for you which is
+ultimately the way that you can actually
+funnel and fuel growth through your own
+business which is where we all have to
+get in the end. So for us it's a big
+reason to start and focus on customers
+with true painpoint that are going to be
+pulling. When we think about the data
+flywheel and everybody is forecasting in
+their in their decks that the last the
+the vast majority of their data is going
+to come from customers. The only way
+that is true is if the customer is happy
+enough to keep it and scale it. If
+you're going to have a data farm and
+expect that to cover your entirety and
+totality of data, you're going to be
+fundraising tens of billions of dollars
+on repeat. It's not possible. You have
+to get the flywheel going from the
+customers. You have to start with a pain
+point where they're pulling so you can
+deliver it and it can be a little rocky,
+but they're there for it for the long
+term. So that flywheel kicks off and
+they see the progression from day one is
+the worst day ever. Year two is much
+better. Year three, it's at the point
+where they're extremely happy and they
+want to buy this at scale.
+>> Can we can we kind of drill deeper? So
+across industries like heavy
+fabrication,
+energy, you know, ship building and
+defense, what common pain points are
+your customers trying to solve? And why
+do you think physical AI is uniquely
+suited to address these pain points?
+>> Yeah. So we go after energy, AI, data uh
+and uh defense. Those are three major
+verticals. Why? Every single one of
+those vertical has an extreme demand.
+There is going to be $3 trillion spent
+in the next 5 years in just those three
+in the United States.
+That is causing a huge demand of
+products needing to be produced.
+Ultimately then our customer has this
+backlog. They have the buying signal.
+They have the demand that they need.
+It's time to go build. But they can't.
+They physically do not have the labor to
+actually build. It recently came out.
+They asked the ship builder, if you were
+given$10 billion dollars and just
+given$10 billion, could you hit your
+demand schedule? Could you hit your
+capacity plan? They said no. $10 billion
+hires every welder possible and that's
+still not enough. So they physically
+have this extreme pain point and they
+have this need a need for labor right
+now. And that's what we're seeing across
+all three. They have the demand. They
+have the capital. What they don't have
+is the production. What they don't have
+is the labor. They need a way to augment
+it.
+>> I'll even go into one use case really
+quick. Okay.
+>> All right. So, one use case on this. So,
+like this is a real case, a real
+customer of ours in Canada.
+>> They make um skids for data centers. So,
+data centers are becoming much more
+modular, which means there's a platform,
+there's a housing, there's a frame.
+Their skid prior to PATH took 150 man-h
+hours of welding.
+They would have had to 10x their
+workforce to make their production needs
+happen. Instead, they went to physical
+AI. They went to uh intelligent robotics
+that could be taking on this hard job.
+They moved their manual hours from 150
+down to 9. 91% savings. And that was the
+exact metric they would need at 10x to
+hit their capacity and that's what we
+were able to deliver to them.
+>> Wow, that's amazing. Um, you know, as as
+investors evaluate this category, I'm
+just kind of curious like what
+distinguishes companies that are
+building exciting technology from
+companies that are really building
+durable, longlasting platforms.
+>> Yeah.
+It's a good question. Um,
+it's tough in robotics.
+It takes a long time to get to a durable
+platform. Straight up. It just takes
+time. So, almost everybody and probably
+most of the speakers today, they're
+going to be talking about the demo.
+They're going to be talking about
+something exciting. They're going to be
+talking about the vision as they need to
+point somewhere and they need to give
+themselves time to get to durability.
+In my opinion, having the best model is
+just one piece of it. Really
+understanding your customers pain
+points. How is the system going to show
+up every day? How are you going to
+support this system? And how does it
+solve the actual issue at hand for them?
+In the end, robots is going to be a
+services business. And you have to be
+incredible at service to actually
+deliver on that. You don't get to just
+be great at tech. You don't just be
+great at collecting data and training a
+model. You have to be in the weeds with
+your customers every single day. And so
+I think that I think you're going to see
+a lot of the shift from the conversation
+which still today early innings. It's
+about the vision. It's about general.
+It's about going where we can or our
+imagination can take us two years, three
+years from four years from now. It's
+going to be about delivering value.
+That's where the conversation is going
+to start shifting. And we're starting to
+see that shift now. It's just still
+early days and when people start to talk
+about the value creation for customers
+that's when I think we'll start to know
+that durable companies are being built
+in this space.
+>> Where where are you kind of seeing the
+most I guess push back or reticence from
+your customers? I mean are there any
+concerns around you know job
+displacement or is it really that they
+literally will not be able to produce on
+time if they don't use path?
+>> Yeah. To me like so our our 100% of our
+conversations about production. We have
+never had a single customer lay off a
+laborer because of us. This is nothing
+to do with cost savings. This is
+everything to do with revenue growth,
+production growth. That's the
+conversations that we have with these
+customers. Um, even so much a lot of our
+customers are in manufacturing,
+they give incentive bonuses to the shop
+floor on a weekly or monthly basis. It's
+about hitting quota. If you hit quota,
+everybody gets a bonus.
+Getting that and that was something that
+was taught to us and then we've helped
+ingrain that into our customers that
+this is the way to do this. Doing that
+has helped a ton of buyin for why the
+robot should be there, why it's
+ultimately helping keeping this c
+company in business and also filling the
+pockets with more money for the people
+on the shop floor. So incentivizing
+production on the floor shop floor and
+having robots help accelerate that. We
+have gotten a massive acceptance of our
+bots on the shop floor. None of our
+customers are the ones talk and none of
+our customers laborers are the ones
+talking about jobs being replaced by
+robots. They're the ones talking about
+jobs being created and companies being
+accelerated by robots. So that's what we
+talk about and that's what we hear all
+the time. It's not the other way around.
+So obviously you know everyone at
+Machina today is very bullish optimistic
+about the future of physical AI but what
+do you think the industry still
+underestimates
+about building and scaling successful
+you know successful uh physical AI
+companies?
+>> Yeah I think everyone's underestimating
+the operational lift. The operational
+lift is huge. Um truly deploying at
+scale turning on continuous learning. I
+mean even the hyper
+even the extremely large model providers
+are still trying to figure out how to do
+continuous learning. This entire room is
+betting on continuous learning.
+Continuously able to collect data from
+the customer, clean it, train it,
+potentially fine-tune, post-train a
+model, and then deliver it to that
+specific bot and do that thousands, tous
+thousands, hundred thousands of times
+over until your model can be run without
+post training. It's a huge operational
+lift. And then even on the the dream
+state the dream state where it's one
+model that does everything flawlessly
+with mo with no post training
+that is going to be hard to get and that
+is going to be really difficult to
+actually see come to resolution. So if
+you really to take a bet and you're
+going to bet on anything, you're going
+to bet on post training. And if you're
+going to bet on post training, you
+should be betting on MLOps and general
+operational scale of how to collect,
+clean, and do continuous learning at an
+individual bot perspective. It's a huge
+operational lift, but that is what we're
+going to see truly deployed in the next
+three to five years.
+Um,
+so I guess look looking ahead, you've
+kind of answered this already, but where
+do you think, you know, where do you
+believe the greatest value in physical
+AI will be created over the next 5
+years? And are there additional
+industries that you're thinking about
+going into in addition to the three that
+you guys are currently serving today?
+>> Yeah, so for us, um, we see industrial
+manufacturing and we want to help
+provide solutions to all of it. um a
+really exciting recent launch for us. So
+we make a model, it's called Obsidian.
+It gets delivered onto robots. It allows
+us to be agnostic of robot and robot
+type. And so for the past, you know,
+seven, eight years, we've been
+delivering on tra traditional arms, six
+off, seven off arms with a little bit of
+mobility, but really meant to be on
+indoor manufacturing under a ceiling
+covered by, you know, with power, easily
+accessible parts that come to the robot.
+Um, we recently launched our new
+platform off of uh called Rove. It's
+essentially our brain that's running
+Boston Dynamics Spot. And at the end of
+it, we've attached a welding torch and
+given the system eyes, ears, and a brain
+to think on the edge. This is enabling
+us now to think past indoor
+manufacturing and to think going to the
+site. So going to the shipyard, onto a
+ship, into a ship around a ship, going
+to an actual data center site. Instead
+of us just making parts indoor that was
+shipped to a data center, we're now
+physically going to walk robots to a
+data center, we're going to help them
+weld the the beams and the columns that
+erect the entire facility. We're going
+to help them weld the final HVAC lines,
+the final piping that actually goes
+around the entire facility. So, we see a
+huge opportunity for robots to leave
+indoors, to be unchained, and to go
+outdoors. And we see legs as actually an
+opportunity to get a lot of value. It's
+been tough to make the argument for
+where legs are going to be useful in
+robots on indoor manufacturing. It just
+has been.
+It's really easy to make the argument
+once you leave, once you go outside,
+once you open the door, once you're on
+rocky terrain, once you're on an
+environment that's continuously changing
+with stairs, with levels, it's a really
+exciting opportunity. I think we're
+excited to see what is going to come of
+Legged Robotics in here in the near
+future.
+Very exciting. And with that, I think we
+are out of time. Thanks, Andrew.
+>> Thank you very much.

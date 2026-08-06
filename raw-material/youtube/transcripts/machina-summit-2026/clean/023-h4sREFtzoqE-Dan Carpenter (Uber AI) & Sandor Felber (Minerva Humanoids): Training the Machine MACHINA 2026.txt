@@ -1,0 +1,509 @@
+[music]
+Quick show of hands. How many of you
+have used an Uber to get here today?
+>> I guess quite a lot. Actually,
+>> less than I expected. [laughter]
+>> Yeah. So, we all know Uber and Uber Eats
+as our everyday go-to apps for traveling
+and getting food. But behind the scenes,
+there is something much bigger
+happening. Uber was built to move people
+and things but is now running an AI
+business using its global ondemand
+network as a data engine for autonomous
+vehicles, robotics and generative AI. So
+to pull the curtain back on that and via
+worldwide gig network is the ultimate
+foundation for an AI data business.
+Please welcome the global head of the
+global head of Uber AI Dan Carpenter.
+>> Thank you. Yeah, I appreciate the time.
+So funny story, Uber was actually
+founded here in Paris in 2008. One of
+the reasons that initially was
+instantiated is Travis Kalanick could
+not find a taxi in the middle of the
+night when it was raining outside. And
+so there's a relative coincidence
+speaking today relative to the company
+founding.
+>> Yeah.
+>> Yeah. So the first topic is why is Ubero
+the right foundation layer for a massive
+AI data business and how does sort of 70
+billion plus trips help you guys
+effectively be the next AI data and
+robotics all-in-one provider. Yeah, I
+mean if you think back in the last 10
+years where Uber's been spending a lot
+of time in the AI space, it ranges
+everything from rider management to
+routing and telemetry and matching
+people with the right location and the
+right car and and also scaling
+applications to global levels across
+many different markets. And so we saw an
+opportunity very similar to what you
+know AWS found inside of Amazon to
+externalize a lot of these platforms and
+make them available to outside
+customers. So we spent the last three
+years building out this team known as
+Uber AI solutions to make these
+available ranging from data annotation
+and labeling to mapping to autonomous
+vehicles to model evals and agentic RL
+gyms and a lot of these things you know
+we're working with many of the
+hyperscalers and the foundation labs uh
+on physical data collection activities
+as well which is really relevant for the
+audience here today and so you know we
+scale that through Uber's entire
+platform of 9 million earners globally
+which really gives what we think a
+relatively unprecedented scale and
+ability to get to not only kind of scale
+data collection but also edge situations
+that are important for a lot of robotics
+training in the market today.
+Awesome. Is there something that
+particularly surprised you about the
+overlap from Uber to Uber AI? Yeah, I
+think that um you know we can talk more
+about this but and folks have likely
+seen the announcements around Uber AV
+Labs which is one of our sister
+organizations internally that's spending
+a lot of time with our autonomous
+partners and not only enabling the
+broader ecosystem but also collecting
+very significant amounts of of global
+data across many different sensor types
+and and modalities and we found a
+natural transition of that physical data
+collection effort to what we actually
+need to provide in robotics especially
+for real world navigation world models
+HD mapping among other things that three
+years ago, you know, we wouldn't have
+said this was a big bet for the
+business, but has really been an area
+that we've been pulled through uh
+overall and are really kind of scaling
+in this area more broadly.
+>> I mean, from your perspective, from
+robotics standpoint, what have you guys
+found to be some of the big challenges
+you're facing? Yeah, I mean one of the
+biggest challenges is collecting data,
+finding sort of the right hires, racing
+racing for hires with open AI, deep
+mind, some of the big players
+um kind of not only on the mission but
+also on capital as well as kind of just
+building our core system. So all of
+those are important for us. Um I wanted
+to ask about um how you guys kind of see
+data collection at Uber. So obviously
+LLMs had the internet to train on but
+for robots that's not going to work. We
+have seen several times today that we
+collect data in several different ways.
+Everybody has their own thesis of
+collecting data.
+>> Yeah.
+>> What do you guys do to address the data
+scarcity problem?
+>> Yeah. I mean at risk of repeating some
+of the other presenters that have
+already been on stage today. I mean I
+think physical intelligence put it well
+in the fact that there is not an
+internet for you know physical robotics
+and collection right. you have over 300
+million tokens of text and and video
+that's available for training LLM
+systems. And I think that this is an
+area that is really a you know frontier
+that a lot of folks are trying to figure
+out. I mean if we were to collect enough
+data for what would be a true you know
+robotics model it would be 80 million
+robots running 24/7 for 3 years right
+and that's not something that is
+scalable or or cost uh sensitive right
+and so we view not only scaled
+collection is important but also the
+quality of those collection activities
+where we can actually go get data the
+different modalities and types whether
+it's people's homes or or outside in the
+physical world moving around and in your
+case really specialized use cases like
+oil and gas and government applications
+and whatnot that you know we think
+there's a tremendous frontier ahead of
+us that really no one has scratched the
+surface of yet from an overall uh you
+data quality and excellence perspective.
+>> Yeah, makes sense.
+>> Yeah.
+>> Yeah. Min, we do a lot of tele operation
+as well to collect data.
+>> Yeah.
+>> And finetune it and then clean it, prune
+it and get it ready to actually being
+used. It's quite quite a hassle.
+>> Yeah. Um
+is there any sort of specific in
+infrastructure that you guys have built
+out to generate or prune data for
+yourself internally?
+>> Yeah, so unfortunately we've been asked
+today if Uber is making any of its
+compute available to some of the parties
+out there and unfortunately that's not
+something we're selling just yet, but I
+know that there would be a lot of
+appetite for that. But I think you know
+we have the ability to not only use
+Uber's internal ecosystem from a um you
+know compute perspective for a lot of
+the annotation lab and labeling work
+that we're doing but we also have the
+benefit of Uber's uh entire application
+ecosystem for onboarding a lot of the
+folks that we have involved in these
+tasks. So if it's a relatively, you
+know, lowkilled, high volume task, we
+can use many of the same rails that Uber
+uses for drivers. That includes payment,
+IP verification, uh, identity
+verification, among many other things
+that allow us to not only have security
+around what it is that we're collecting,
+but also knowing who's on the other end,
+which is extremely important. And then
+ensuring they get paid on time, on task,
+and that we can bring repeatable uh
+efforts forward to them. And like one of
+the things that is really interesting is
+especially for people who maybe don't
+have the ability to drive or who don't
+have a car, this presents new economic
+earning opportunities for them too. And
+that's really resonated a lot especially
+with governments that are finding you
+know new earning opportunities for their
+citizens. And so we're really excited as
+we're you know currently available in 30
+countries worldwide uh to continue to
+expand that and find you know
+integration opportunities with local
+municipalities to you know expand this
+even further.
+>> Yeah absolutely. I think in the future
+we will see a galore of these platforms
+that just connect remote workforces
+across the planet kind of forcing the
+pricing function of money
+>> into the economy and serving as a
+platform for for remote teley operation
+effectively.
+>> Yeah. Yeah.
+>> Do you see that being useful in a way to
+also collect and label data as well?
+>> Yeah. So I think edge cases are the name
+of the game, right? someone uh in
+autonomous vehicles, you have situations
+whether it's snow, hard breaking, right
+turns, difficult cities to navigate in
+certain areas of Southeast Asia. There
+aren't even street names, right, to work
+on. And so that's where, you know, we've
+learned a lot from our autonomous
+labeling work, whe whether we had Uber
+ATG back in 2018 and have since
+progressed that into the partner
+ecosystem. There's a lot of ways that we
+have to kind of find specialized
+opportunities to provide to our
+customers. And so in the case of
+robotics, we're seeing much of the same
+thing where not only edge case
+collection is important, but also the
+searchability of that, right? How do we
+surface things that may be useful for
+their model that they may not be able to
+get through other sources? And so that's
+an important avenue we're continuing to
+to poke on. But I think, you know, edge
+cases more broadly is one. The second uh
+two is the modality at which people
+collect, right? whether it's phone based
+harness based VR headsets uh some
+particular application we try to be as
+flexible as possible but I think there's
+a lot of opportunity for more um
+continuity and similarity among the way
+that people are collecting data and how
+we can make more open ecosystem there
+too which is something that I'm
+personally really excited about
+>> makes sense how would you rate
+simulation to real world data what's
+your current mixture of bags that you
+use for most clients is there sort of a
+rule of thumb that you
+or depends on sort of
+>> not necessarily I mean I think in a lot
+of cases because we're involving a lot
+of parties that haven't previously done
+data collection before I mean we want to
+get to a place where you can call an API
+have data collectors go out and do the
+work for you but we're not quite there
+yet from a customization perspective. So
+unfortunately a lot of cases it's a it's
+a case by case interaction with
+customers and very servicesoriented but
+I think that that gives us an
+opportunity to again really kind of meet
+customer demand and then learn along the
+way so we can develop a better platform
+and product right and that's kind of
+within our DNA uh from a the original
+BTOC business and what we can build from
+a B2B perspective as well.
+>> Amazing. And do you see sort of in the
+future an avenue to pull data from real
+Uber rights or potentially Uber Eats of
+how a pizza is being delivered?
+>> Yeah.
+>> In sort of solving that problem
+autonomously.
+>> So today many of the partners within the
+Uber ecosystem that we're working with
+at uh in the autonomous vehicle sector,
+you know, do have external sensors that
+we're not collecting any of the internal
+car data, but what they are seeing
+outside of it. And so that allows us to
+not only scale to multiple
+municipalities, but also get many
+hundreds of thousands of hours of
+aggregate data overall and many
+different situations on the same street,
+sunrise, sunset, traffic, no traffic,
+etc. And again, that's that's something
+that we view having strong applications.
+Now, can we move to a place where we
+also have sensors on backpacks, on Uber
+earners, on potential humanoids running
+delivery opportunities for us? Yes,
+those are things we want to explore and
+and are actively finding opportunities
+within that space. Makes perfect sense,
+right?
+>> And do you have any advice for the
+general audience on how to sort of solve
+the edge case problem as sort of
+procedurally or at a high level?
+>> I mean, I think diversity of data is
+important. I know that there's many
+companies here locally that are
+providing a ton of different data
+collection activities. You know, we've
+heard that in certain markets there's a
+lot of saturation, right? And so, I
+think especially in Southeast Asia,
+there's lots of people reusing and
+repackaging the same data or using the
+same people kind of overall. And so I
+think expanding that to many different
+loces is extremely important as we look
+to various different model types and
+different home types, different kitchen
+layouts or different places that the
+robotics robots may go. I think all of
+that's really key and so you know we're
+happy to work with other partners in the
+community that may have access to things
+that we do not and find ways that we can
+co-sell together as well would be you
+know tremendous opportunities. I mean we
+want to build a a broad market within
+this space and really as we've done in
+autonomous systems be an aggregation
+layer for a lot of you know robotics
+opportunities down the road.
+>> Makes sense. Do you guys deploy globally
+or is it more of an American or European
+focus? I
+>> I would say today a lot of our requests
+I mean Uber AI solutions itself operates
+in 30 countries right now. Um I would
+say much of our robotics data collection
+work has primarily been centered in the
+United States and Southeast Asia. Um,
+we're getting a lot more requests for,
+you know, other Asian markets like Japan
+and Korea in addition to, you know,
+areas that are super difficult like
+subsaharan Africa, right? I mean, those
+are things that are tough edge cases,
+but that we, you know, are trying to
+find ways to to scale into. And I think
+that there's a lot of markets that are
+maybe not in the top 20 from a from a
+physical collection perspective that we
+view an ability to move into fast and
+and find ways to leverage our local
+population there that we think would
+benefit everybody.
+>> Makes sense. Yeah.
+>> Is there anything you do to sort of you
+mentioned scaling so you do things
+sustainable as you scale through you
+know these millions of hours of training
+data?
+>> Yeah I mean I think a lot of these ear
+the the people we call them earners who
+we interact with I think this is a first
+time opportunity for a lot of them.
+They're learning how to collect data.
+They're learning what good looks like.
+And the more repeatability we can give
+to these folks um the better. So we may
+identify a population in a particular
+market of a couple thousand people that
+have done this before.
+>> The more this flywheel spins for us, the
+more customer requests we get. The more
+we can keep them on the platform and
+give them more opportunities to scale.
+And that that I view is important. Just
+giving someone a one-off $5 task is not
+super exciting, right, or engaging. And
+so we want to again increase that
+velocity. And that comes with us scaling
+the business, bringing on more customers
+and and finding ways to again find find
+uh different methodologies for the
+collection effort. Right. Makes sense.
+And where do you see the main
+bottlenecks in scaling up that business
+operation? Is it more in sort of the
+physical kind of toughness of the
+problem? It being hard to just make good
+hardware or is it more about or capture
+data or is it more about sort of the
+lack of compute or more about like lack
+of data?
+>> I think I mean compute is constrained
+for everybody whether it's a standard AI
+case or robotics use case. I don't need
+to repeat that. But I think that one of
+the things that we've seen challenges
+especially is headmounted collection,
+right? It's uncomfortable for people to
+wear a headband, it's awkward, it looks
+weird, right? And so I think the more we
+can move toward something that is
+comfortable for an order to wear person
+to wear long term. Uh grippers that are
+easy to distribute and get back, right?
+A lot of those things from a device
+commonality perspective I think will be
+better for the human experience part of
+it. So we're exploring a lot of
+different kind of logistics uh
+approaches there. And then I think the
+second thing is which we didn't expect
+from the get-go is in certain locations
+internet speed is a challenge right
+someone's filming you know a 1080p video
+over long form 10 plus minutes and they
+either have challenges uploading it or
+or uh the video does not upload in
+totality and have to go back and do it
+again or we've even had people that are
+going to coffee shops to upload their
+videos. So that's something that isn't
+within our control, but we want to try
+to validate ahead of time that they have
+the right infrastructure in their home
+or in the location they're going to to
+actually conduct the collection
+activity. And and I think the last thing
+is quality, too. I mean, volume is one
+thing, but getting people actually to do
+something well, the video looks good.
+It's not choppy. It doesn't cut out.
+That requires, you know, both agentic
+work, working through a model to assess
+the quality, and then a second layer of
+human in the loop that we all have to
+get more efficient about over time.
+Yeah,
+>> makes sense.
+>> And have you seen something that sounded
+like science fiction sort of 18 months
+ago?
+>> Yeah.
+>> Like something that would have sounded
+like it was science fiction 18 months
+ago and is now a reality at Uber AI.
+>> I think a lot of people are talking
+about household robotics. I mean, I
+think that's a given of having a helper
+around the house long term. I think that
+there's been a couple of customers we
+met with here and folks speaking earlier
+working in the industrial space. I'm
+particularly bullish on the A sector. I
+think there's not been innovation in A
+for 20 plus years. There's tremendous
+monetization opportunities across every
+geography for cropbased science,
+fertilizers, you know, carbon robotics
+from from my home state in Washington is
+really exciting. And actually, my my
+brother's a wine maker and he's testing
+out carbon robotics right now at his
+winery from a weed control perspective.
+And so, I think the more those aren't
+necessarily a humanoid modality, but
+there's so many different applications
+and and sizes and shapes and things that
+I I'm really looking forward to seeing
+kind of how it progresses in the next 5
+years.
+>> That's awesome. And my last question is,
+do you actually see a certain form
+factor having more of a potential than
+other form factors across all these
+applications?
+>> Well, personally, I think, you know, I
+know you're doing a lot of work in the
+humanoid space with legs, right? And I
+think the the thing that's interesting
+is is how robots with legs navigate hard
+to reach areas, areas that are moving or
+changing under them and whatnot. And so,
+I think I see kind of a dichotomy
+between wheeled robots versus legs. But
+overall, I think we're seeing from a lot
+of the trends here that legs seem to be
+witting out. But, uh, you know, it'll
+take some time to fully get a a fully
+st, you know, uh, stable, I guess,
+platform overall in a lot of the edge
+cases you guys are working in.
+>> Makes sense.
+>> Yeah.
+>> Thank you. Appreciate the time.
+>> Likewise. Thanks.
+>> All right. Thanks everyone.
+>> Thank you all.

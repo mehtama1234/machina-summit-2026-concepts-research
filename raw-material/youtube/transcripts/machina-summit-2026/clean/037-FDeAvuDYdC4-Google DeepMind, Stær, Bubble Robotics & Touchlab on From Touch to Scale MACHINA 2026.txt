@@ -1,0 +1,890 @@
+[music]
+Hi everyone, thank you for joining our
+very exciting session with the three new
+companies that are looking to do very
+different things but very exciting
+things. Uh so I would like to uh first
+of all I'm Slana Grant. I am a strategic
+partnerships manager with Google deep
+mind. working very closely with the
+robotics companies and working very
+closely with multiple partners who are
+helping us to bring AI in robotics to
+the real world developing foundational
+models and we have recently started
+working with several exciting startups
+uh as part of the Google accelerator
+program and today we have uh three of
+them and they're going to tell us all a
+little bit about the technologies
+they're developing about the use cases
+that that they're building and also some
+of the interesting challenges that uh
+their particular use cases are
+presenting. Um so I have today um from
+from your um from your right from my
+left uh doc Dr. Zakis Hussein who is the
+founder and CEO of Touch Lab. Uh we have
+Patricia Apostl who's the CTO of Bubble
+Robotics and we have Jan Eric Sullen who
+is the CEO of co-founder of stair. So
+three companies very different. Um I am
+going to probably let you talk a little
+bit about uh your individual companies.
+You each have very different
+experiences. You know some of you are on
+your ends startup third fourth. I mean
+there have been a few some of the some
+some of the um uh exciting exits have
+already taken place. So that's that's
+great. I hope you you can mention some
+of that. Um and uh Patricia, some of you
+are also doing some of the incredibly
+hard things that are very remote and um
+you know, completely um far from the I
+guess from the civilization looking to
+to explore and um monitor the oceans. Um
+you know, touch lab is developing iskin
+tactile sensors. That's kind of the new
+um I guess uh the new border of the
+robotics. So coming on top of all of the
+um computer vision and all of the
+manipulation and uh now kind of a new um
+a new push for for the robotics
+companies to add intelligence to to the
+robots and uh Yaneric you are moving
+from the world of maps and various
+various roles that looked after the maps
+and open source community now moving
+into a kind of more indoors and more
+enclosed factory type of environment of
+of and the world of digital twins. So a
+little bit of a different setup. So all
+of you are facing your your interesting
+um new challenges and um I'm going to
+give you a minute each um tell a little
+bit about your companies. Um yeah,
+Zachi, we are going to start with you
+please.
+>> Sure. Thank you very much. Um yeah, so
+I'm Dr. Zaki Hussein. I'm the CEO and
+founder of Touch Lab. Uh we're actually
+a company based in Scotland uh in
+Edinburgh and um we make basically skin
+for robots, tactile sensing skin that is
+thinner than human skin and that means
+we can integrate it pretty much
+everywhere on a robot. Um one of our
+integrations that we're scaling up now
+is robot fingertips which we would like
+to be on as many robots as possible very
+soon. Um, but we also work on the the AI
+layer, um, which is really to understand
+what touch represents, what it means,
+what are these tactile features, how do
+you do reasoning, how do you plug them
+into a VA, for example. Um, so I think
+that sort of summarizes it. My
+background is really doing a PhD in this
+field of electronic skin. I've been here
+for 12 years. 10 years ago, people said,
+"This is crazy. This is never going to
+happen. There's no point." And now
+people are getting excited. So that's
+great.
+>> Thank you, Patricia. Over to you. Yes.
+So, hi all. I'm Patty. I'm CTO of Bubble
+Robotics. I am a first-time founder, no
+exits, and aerospace engineer now
+tackling the ocean space. So, yeah, at
+Bubble, we fundamentally believe that
+the ocean holds the key to the biggest
+challenges of our century from, you
+know, renewable energy to things like uh
+national security. And it's just that
+scaling anything in the ocean today,
+given that the surfaces are way larger
+than they were before, is extremely
+expensive. and extremely extremely
+unsafe. It's a really harsh place out
+there, maybe even harsher than space.
+And I never thought I would actually say
+that. So, at Bubble, we're trying to
+build robots that can live in the sea.
+So, our vision is building sort of cube
+sets of the ocean that can today see and
+hear underwater and down the line also
+act in order to be able to actually
+perform those extremely safety critical
+tasks. And yeah, that's where we are
+today.
+>> Great. Thank you, Patty. Yan, Eric, over
+to you.
+>> All right. Uh hello everyone. I'm
+Yoneric uh CEO and co-founder of Stair.
+Uh yes, I am on my nth startup. Um I've
+been in computer vision my whole life
+and fortunate enough to build some uh
+some fun companies that exited to Apple
+and and Meta in the past. And uh so I
+come into robotics with a mapping
+background and um we build self-updating
+3D maps for mobile robots and we help
+warehouses with observability figuring
+out where everything is flows and and
+things like that how things are moving
+around in their space and uh also
+coordination of both human and robotic
+workers.
+>> Great. Thank you very much. So three
+different companies. Uh I will open the
+floor at the end for more questions. So
+um if you have one burning um stay with
+us and we'll give you an opportunity to
+ask it. But let me let me start with a
+couple of questions that that I've been
+keen to explore. And um Zachi if I can
+start with you uh I mean we you know uh
+we call them VA so vision you know
+language automation and uh action models
+and um you know you are dealing with now
+the haptic touch and and a slightly
+different beast of of data um you know
+for robots that have relied on imitation
+learning and on motion learning and
+teleop and so on. um how do you see this
+type of data incorporated into the new
+robotic models and what are the types of
+challenges that you are dealing with?
+>> That's um that's a great question. So
+in a way um yeah this tactile
+information basically that we're that
+we're obtaining is it's sort of um more
+physical than what we're used to. So
+obviously it's required for robots to
+basically in my opinion the simplest way
+I could summarize it is for them not to
+be clumsy and to be able to dextrously
+handle real world items. Um so
+traditionally I mean every time you go
+and grasp an object um once you've grasp
+it you get a visual occlusion. You don't
+actually see exactly what's happening
+with the contact physics. Um you need to
+you need to feel it. Um and of course um
+yeah so this is kind of justifying why
+we're using this. Now the there's sort
+of I would say almost three different
+layers to how you can interpret actile
+information. Um the first one is trying
+to make sure that you can get something
+like a VTLA uh vision tactile uh
+language action model
+>> where you incorporate tactile into it.
+So um the first VA I think was made by
+by Google deep mind in 2023 the RT2 and
+now VALA's are very common um in the
+industry because you need to incorporate
+all of this data and do reasoning on it.
+So the next question is how do you bring
+that tactile data in? How do you
+represent it? So the first layer is
+building the hardware to to gather your
+ground truth data. um really there
+hasn't really been great tactile
+hardware out there period to gather uh
+really accurate ground truth data. So
+this is why we you know I set out at
+building skins skins that are extremely
+robust extremely accurate can are
+durable to millions of cycles. This this
+had been done maybe a little bit in
+other spaces but not not in a skin
+format. Uh again there are other sensors
+out there. Um, so you get the raw data
+from the sensor and you can look at it
+as a sort of a matrix array of data. You
+can even sort of flatten it out and
+almost look at it as visual data
+frankly. So there are a few different
+ways you could plug it into a VA. If you
+represented as vision type data where
+you just have a matrix array of, for
+example, vectors or RGB data, you can
+actually process and learn off it in a
+similar way as you would uh from vision
+based data. This is why the first
+tactile sensors that came out are vision
+based. they were basically cameras
+because you can use all the same tools
+that you normally use. But when you have
+a more accurate type of tactile sensor,
+you might need to uh custom train AI
+models. So this is what we are currently
+doing. There's a couple of different
+layers as I said. First is the raw data
+layer. Then it's something called um
+tactile feature extraction or
+understanding. I'm going to call this
+tactile intelligence. And then the top
+layer is the VA layer. What do you do?
+What do you reason? What does this
+information actually tell you? One
+feature that we're working on very hard
+on that tactile feature extraction
+middle layer is the understanding of
+slippage. When does an object slip? Can
+we identify all the different objects
+that are going to slip? Um, and can we
+react to those? Because in the human
+body, you're not reacting from your
+brain. You're actually your spinal cord
+processes part of that data and reacts
+faster than you consciously even
+realize.
+Right? So we need to program in
+reactions at a layer that is embodied
+and processed locally in the body of the
+robot, not in the brain to be fast
+enough. VAS are too slow. They are
+they're too slow at the moment to
+process that level of data and react.
+Um, so I was very happy that this year
+we did a unique demo at the biggest
+robot conference in the world. We are
+able to grasp melting ice and prevent
+the ice from slipping while it's
+melting,
+right? So this is pretty hard, but we
+can do that with a robot now.
+>> Yeah. Okay. And in this new world of
+VTLAS, welcome to a new acronym. um in
+um I mean there's not a lot of haptic
+data still available and you know I know
+data is one of the big uh challenges I
+guess for training the uh the robotic
+models when do you think we're going to
+have enough to train the models and do
+you already see sort of the
+breakthroughs coming or are there more
+challenges for you to address
+>> that's a that's a great question so I
+think the whole industry is now talking
+about a a data bottleneck Um, when it
+comes to learning, having enough data to
+train your model, I think there's a few,
+um, again coming from the tactile
+perspective, there's a few different
+things. I don't think anybody knows what
+kind of data and how much data they
+need. We're on a we're leading the
+tactile efforts of Arya, which is the
+advanced research and invention agency's
+efforts in the UK. And the the question
+that we're basically trying to answer
+the question, what type of data, how
+much data do you actually need? Um I've
+been in the business for a while now. Um
+and a lot of the time clients would tell
+us we need this very high spec of this
+or that and then they'd tell us
+something else when we delivered that
+spec and then again we'd end up in this
+never- ending code development cycle. So
+we started building our own robot
+systems, our own applications. Uh we've
+got our own dextrous rig with a shadow
+robot hand in Edinburgh and our
+fingertips and our senses all over it.
+Um so yes, one thing is gathering the
+right type of data. Uh you may have
+heard Burnt talk about data gloves out
+there. So he wants to give um people uh
+in like individuals data gloves which
+you can train your own robot to do stuff
+using your own data in your own
+application. I think that's a really
+interesting idea.
+I actually think that a lot of the time
+we don't need um necessarily
+the right data. We need good ground
+truth data, but we might not need the
+resolution of data that humans have.
+We have thousands of sensors per cime
+squared in our fingertips.
+Um, and I think we don't need that to do
+95% of the tasks out there. Maybe we
+just need very good few sensors in the
+right areas of the body or the hand or
+the finger. And we need to process that
+data fast enough and we need to
+understand what it represents well
+enough. Um and again yeah so I think I
+think it's quite interesting there's a
+data bottleneck but I actually don't
+think the industry necessarily
+understands it's not just data quantity
+and volume you need to train a model and
+then there's another side of it which
+maybe we'll come to later is online
+learning. If you look at humans we
+actually learn um we don't train our
+model initially and then go test it out.
+We continuously learn by interacting
+with the environment. A baby learns by
+putting stuff in its mouth and feeling
+it and it starts to understand the 3D
+world around it. So I think that online
+learning when it when it happens is
+going to be a key as well to unlocking
+some of this.
+>> Okay. Amazing. Thank you. And with a lot
+of emphasis now on dextrous and on
+manipulation, I think that's that's
+quite an important development and we
+hope that we can see exciting things
+from you. Um moving on to Patricia. Um
+uh you you mentioned that that you're
+looking really to operate in one of the
+most hostile uh environments. Um it you
+know it it it's a it's an environment
+that that is going to um have a robot
+basically disconnected from any networks
+and working with the models that have to
+live I suppose on that on that robot. I
+mean, how do you see that whole paradigm
+of having access to to the model
+somewhere in the cloud as well as the
+model on the edge? Where where do you
+see the that sort of optimal combination
+for for you?
+>> Yeah. So um I'm going to give a bit of a
+more let's say boring or or customer
+centric uh answer to this and that is
+there is no optimal level um at at
+bubble because we actually operate on
+hugely critical infrastructure
+where seeing what's going on in the loop
+before you can go around with super
+fancy edge stuff is extremely important.
+Um but before that you're probably
+wondering like what does this robot that
+lives in the sea look like? So, it's
+actually again a little bit maybe more
+standard. It's a two-part system. So, we
+actually have a sort of pretty small,
+we're strongly working on
+miniaturaturization mother ship at the
+surface that then can deploy various
+types of sensors subsea, but
+specifically another underwater robot to
+gather closer up uh data to certain
+assets or for instance the seabed. And
+these two for the moment remain tethered
+and will remain tethered for a long
+period of time especially as we derisk a
+lot of the algorithms on edge moving
+towards untethered uh systems. This
+means that fundamentally we actually can
+run absolutely everything on board the
+mother ship and so the mother ship is
+actually connected to shore pretty much
+247. we have a let's say triple
+redundant communication system and once
+we lose communication to the mother ship
+we stop all operations right so if we
+lose it on the data side we consider the
+backup system if the backup system
+doesn't work um we essentially stop we
+perform a sort of let's say goaround
+type of maneuver where we try to regain
+connectivity we don't we turn on our
+light and someone comes get us it's as
+simple as that it's it's not so so AI
+oriented where we do use or I guess
+somewhat because where we do actually
+use a lot of of our edge algorithms is
+more about the certain checks. So I
+spoke about losing connectivity to the
+mother ship or the so-called bubble
+dock. Uh but we can also lose
+connectivity to the bubble bot the
+underwater system. And in that case
+super simple we we essentially have to
+reperform our docking maneuver which is
+not so simple to actually be able to
+tell you know is it docked or not. So
+there we can actually use a lot of our
+perception algorithm board, our actuator
+checks and let's say our sort of status
+checks to make sure that happens and
+then we abort the mission and simply
+just move on. So that is sort of how the
+the critical the critical and safety
+aspects are handled. Um yeah otherwise
+no one is going to let you operate near
+your asset. There is no way.
+>> Right. So you have a plan B and a plan C
+and a plan D.
+>> Yeah.
+>> And then you basically come up for air.
+That's great.
+>> Plan D is you stop. You hold. Yeah.
+Okay. And I have to ask you a data
+question as well. I mean, you know, um,
+again, we're talking about the the need
+for data to train the models. How do you
+work around the challenge that very
+little of that data exists, uh, for, you
+know, for the oceans and for the type of
+data you really need to train?
+>> Yeah, absolutely. So, what we're
+fundamentally building is the full
+solution to that challenge. So when I
+said that we're building cubats for the
+ocean or robots that live at sea, I
+really do mean robots that live at sea.
+So we're targeting up to 12 months of
+operation of continuous data acquisition
+247 both at the surface and subc in
+order to directly actually address that
+um data data bottleneck, right? Which is
+extremely hard to get because a lot of
+the terrestrial models today or you know
+VA's foundational models are trained on
+terrestrial physics, right? So friction
+coefficients and sort of heat behaviors
+right well subc things are a lot slower
+which is kind of nice but are completely
+different right or can only be nicely
+solved with something like the Navier
+Stokes equations. So by building
+something resident we can actually
+facilitate that from the ground up and
+then also facilitate more challenging
+tasks as we shift towards those
+manipulation settings down the line. Um
+now yes of course we need simulation
+especially because we're looking at
+deploying very much in a marriage
+between the surface system and the
+underwater system. So the interaction
+between those two really matters in
+terms of the efficiency of how we
+actually inspect these critical um
+offshore assets but limit uh limitation
+but simulation is really limited. So you
+can use something like Majoko from from
+Deep Mind on sort of like basic physics
+like for instance our whole like docking
+uh docking cone counter cone uh type of
+hardware that works really nicely but if
+you're looking at things like perception
+underwater you have to create these
+really simil simulic realistic
+environments um and yeah we are working
+on that in house but you're you're still
+limited nothing is going to be compared
+I mean the the the sea is so stochastic
+it's the most stocastic environment you
+can be in it's more stocastic than you
+know being in space orbit. So yeah,
+that's that's why we're building this
+foundation from the ground up.
+>> Okay. Okay. Exciting. So from one
+stochastic environment to um yik to your
+your area of the environments where you
+have a lot of things changing all the
+time. Uh the virtual environments, how
+are you dealing with this sort of
+challenge with a lot of data that
+presumably goes um stale and very
+obsolete very quickly?
+Uh yeah, I I mean my heart warmed a
+little bit when you said Navier Stokes.
+It's it's pretty good for a for an
+oldtime mathematician. Um yeah, so in in
+the warehouse, I mean we build this like
+self-updating representation that tries
+to keep track of where everything is. Um
+not just the state of all the robots or
+trucks or whatever moving around, but
+also like the individual objects around
+the facility. And um one of the big
+challenges there is u is that you only
+have partial observability. So it
+doesn't matter how many cameras and and
+robots you deploy on the site, there's
+always going to be changes that you
+didn't actually observe the change. And
+so from from a challenge perspective,
+then it becomes you basically two things
+that you uh you need to worry about is
+like you need to be able to reidentify
+something. So, if it's not in the
+location where you thought it's supposed
+to be and you pass by and it's not
+there, then if you see it somewhere
+else, you need to be able to to match
+and say it was the same thing. And in
+some cases, it's a simple problem if
+there's text or or a QR code or a
+barcode on the thing. But if there's
+not, then you have a pretty challenging
+general object matching problem. Um, but
+then there's the other thing is that if
+it's not where if you didn't observe it,
+were you supposed to see it?
+>> Uh, were you occluded? Was there like a
+like a pallet on on the truck that drove
+by and that's why you didn't see it? And
+so there uh there's actually no good
+solution for that today except uh for a
+bunch of huristics which I I think is a
+there's a interesting challenge here to
+be solved maybe by by some a gentic
+system uh or maybe with something that's
+more fundamental than than figuring out
+sort of the logic manually.
+>> Yeah.
+>> Yeah. Okay. Interesting. And let me ask
+you also a slightly different question.
+I mean we've heard from some of the uh
+keynote speeches also that you know from
+uh the deployments where we have a
+couple of robots in a particular
+environment. Now we're looking at fleets
+of robots operating. So presumably again
+you're going to deal with this
+environments with many many robots of
+different types moving around. How do
+you address that that challenge?
+>> Um it's a good question right? It's uh
+and it's again back to this the question
+you asked about edge versus cloud. There
+there are certain things you absolutely
+need to run on edge like if if you're
+moving robots around or vehicles around
+in an industrial environment like real
+time localization, real time safety
+features like not colliding into things
+and like all all of those things need to
+run on edge, right? You can't move it
+somewhere else because of latency. But
+then all of the important things where
+where you add value by aggregating all
+the observations into a consistent
+representation needs to happen on the
+cloud side because every single observer
+doesn't have the context it need to to
+do the compute right so all of those
+things you need to run on on cloud and
+uh it could be agents reasoning over the
+days activities it could be like
+performance metrics it could be um
+updating the location of where things
+are you can't do that on edge that needs
+to happen
+in an aggregated sort of environment
+where all the data is centralized.
+>> Okay. So, kind of from where you sit
+looking at at your use cases and your
+industries. What I'm curious, we talked
+a little bit about data, we talked a
+little bit about, you know, some of the
+hardware needs that that are emerging.
+We talked a little bit about the models
+and how they integrate all of this uh
+data and interacts with the hardware.
+Where do you think we need to make the
+most I guess uh progress to see this
+whole AI based robotics basically uh get
+to the scale and get to the proper
+commercial deployments? Where do you
+think the biggest bottlenecks are and
+where do we need to make the biggest
+push? Data, hardware, AI models,
+something else.
+>> Well, yeah. So, I can uh I can uh jump
+in about hardware. I think uh there's
+there is a gap currently when it comes
+to industrial-grade high resolution
+cameras. It's like in general there's a
+pretty good uh positive shift in the
+industry with more and more cameras
+being deployed from a traditionally like
+LAR based robotics ecosystem. So, more
+cameras. Good. I love it. But there's
+still no industrial-grade camera that
+will give you images of the what you
+would get with your smartphone that what
+you're holding in your hand. Basically,
+there's nothing even close to that
+available on the market. And uh I think
+it's it's the demand is there and I'm
+I'm hoping that the manufacturer will
+catch up eventually.
+>> Okay, good one. Y
+>> maybe if I can quickly add to that.
+Yeah. So, I I fully agree. It's it's
+hardware, but it's also sort of how do
+we actually deploy the hardware and
+solve those let's say also connectivity
+issues which allow you to recover
+systems somewhat remotely fundamentally
+and I'm not even my co-founder but it is
+fundamentally a money game. So the
+moment you send people out there to fix
+stuff to always replace stuff, this is
+never going to work out from a lucrative
+business perspective as long as even if
+your hardware costs drop substantially
+and so on, right? So I think like sort
+of fixing this like the way we deploy,
+how we build things slowly, tackling
+tasks that are simple and robust first
+before like shooting a thousand VAS at
+something and I'm a bit the sort of the
+bad cop on AI here, although I of course
+fully embrace it. um is is super
+important and I I really think like we
+underestimate this. It's actually what
+we really quickly did did a bubble or
+trying to bubble like we're throwing
+things out there before they're ready to
+understand how robust it is. I mean we
+started without a solution to the
+problem sort of and you know now we're
+there but yeah think about things the
+way things are deployed from a hardware
+perspective is for me the biggest bo.
+>> Okay.
+>> Yeah, I would uh I mean we build we
+build hardware uh tactile hardware. It's
+arguably the hardware that's in most
+contact with the environment. [gasps] So
+I would say like what was limiting the
+entire field was durability of the
+hardware. Uh this year actually a few
+months ago we we launched about a month
+ago we launched our first like scalable
+tactile fingertip which can go to like
+scale of thousands tens of thousands in
+volume. But we didn't optimize for the
+most cutting edge resolution for that
+sensor. We optimized for the thing that
+had not been sold in industry which was
+high durability and you know in
+industrial settings. So like a million
+contact cycles you know hit it with a
+hammer kind of thing. Um and still
+maintain you know some ability to sense
+and touch uh the the world around it. So
+I think I think from again coming from
+like a bit of a humanoids standpoint I
+would say there is still a hardware
+bottleneck but very soon afterwards
+there's a software one which is how do
+we understand all of this new data like
+how do we incorporate it into reasoning
+and all of all of that side of things.
+Um, so yeah, I think it's a bit of both,
+but right now I would definitely say
+hardware. And again, from again very
+niche perspective of like dextrous
+hands. Last year the the the bottleneck
+was actuators. This year it's tactile
+sensors. And I think that's almost the
+last hardware bottleneck. Once we've
+overcome that at scale, then uh then we
+can start worrying about how to how to
+control. That will be the only problem.
+And the intelligence sort of
+interpreting and driving that.
+>> Great. Thank you. Um I think that that
+moment of asking your question is upon
+us. So if you have a burning one, please
+raise your hand.
+I'm happy to keep asking mine, but this
+is your chance.
+>> Adam
+Yeah. Yeah. Absolutely. Um so where to
+begin on the challenges of of ashore
+robotics? Um so there's always like the
+surface challenge, right? So especially
+from a harder perspective for us like
+we're saying we want to live at sea.
+Basically it means we need to be
+completely self-riting. we need to never
+capsize. Uh we need to be able to like
+restart if we have a system failure and
+so on. So I think that's one of the
+challenges. If we look subc the
+challenges vary a lot with um depth. So
+for instance if you're tackling kind of
+shallow waters which we are initially
+and by shallow waters I mean you know in
+the 50 to 100 mters close to assets
+you're dealing to with high currents
+right and sort of these currents
+increase close to your assets. So then
+you need more bulky systems. More bulky
+systems means more expensive systems
+means higher energy usage means like we
+want to do robots to live at sea. Oh no,
+higher energy usage is we're screwed.
+Well, we're trying not to be screwed and
+we hope we hope to be to be addressing
+that with bubble. But so that's for
+instance in the shallow water areas,
+right? At the same time there the
+turbidity is extremely high. So
+basically to answer your question, we
+can use camera data you know 20 30% of
+the time but we always have to augment
+that with sonar data which is a
+different type of data structure which
+we then have to interpret in line with
+what you were saying uh newly in sort of
+the upcoming models right and then
+there's the deep sea which we're not
+tackling just yet and there it's very
+much more of a pressure and light
+problem right because most things that
+go deep sea now are are going to be
+tethered so it's about you need big
+bulky systems you have one atmosphere of
+pressure increase with every 10 meters.
+If there's divers out there, you would
+know you basically want to scream louder
+and louder exponentially. Um, so yeah,
+so I think you have to kind of separate
+those two worlds. And actually, a lot of
+the systems we have today, just to
+finish off, are designed for that deep
+sea world, but a lot of the assets that
+we have today emerging are in the more
+shallow water cases. So they don't scale
+costwise at all. Um, so yeah, just to
+quickly answer your question,
+>> thank you.
+a great question. If you didn't hear in
+the back, it was about uh human and
+robot coordination to be efficient.
+paraphrasing a little bit. Um, how did
+we solve it? Well, we didn't solve it
+yet, but we're working on it. Um, um,
+but no, I mean, it's it's like the
+foundation for for um an efficient
+automation of a of an industrial
+facility is knowing where everything is
+and having that knowledge shared with
+all of the workers in the area. If they
+are humans driving forklifts, if they're
+robots manipulating things or moving
+things, they need to share and have that
+same understanding. And and even today,
+like in a lot of facilities, they don't
+like you don't even know the location of
+your humans doing the work. So you don't
+like if you're assigning a job, you
+don't even know who to give it to. Uh
+you might give it to the person that's
+furthest away from the actual task. And
+so there's sort of like basic things
+like that. If you keep track of where
+all the workers are, where all the
+robots are, where all the things that
+they need to work on are, and you share
+that information, that's like step one.
+How we solved it to make it like perfect
+and efficient, like ask me again in 12
+months.
+>> Thank you.
+And yeah, I'll just jump in here. Uh, by
+the way, we made tactile sensors for
+tidal turbine blades in the beginning uh
+to sense water flow. Um, but yeah, but
+that has challenges. So, uh, like like
+air bubbles. Anyway, laminating them
+onto the the title. Um, I mean, I just
+want to say like I think VALAs are
+interesting, but um, I haven't really
+spoken at all about applications of um,
+tactile that will have the most impact.
+I think human robot interaction will be
+have the most impact. I think it's the
+biggest unrealized market. Putting
+robots in hospitals. We're really
+interested in doing things like
+catheterizing patients where you have to
+feel what the tube is doing inside the
+body, but you have to feel it on your
+fingertips outside the body at the
+moment. Um, like I think VA's have a
+long way to go. If you really look at
+these kind of tasks, they're all being
+teleoperated today. Like you still have
+a human in the loop and yes, we have
+haptic gloves. The human can feel what
+the robot feels, but VALA's are not able
+to do that. So, I think there's still
+quite a long way to go where we have
+like robots going into these
+unstructured environments. We're getting
+close, but they need to be able to uh to
+handle more of this this kind of data
+and really understand what's going on.
+That's my two cents.
+>> Last last question.
+Sorry. Can I
+So the question is yeah is there work on
+force estimation and
+>> so we're working on uh several other uh
+tactile features. So weight estimation
+would be one of them uh really precise
+like we cal we calibrate our sensors so
+you can get precise forces as well as
+shear forces as well if you want that
+kind of sensor variant. So sideways
+shear forces, normal forces. Um
+calibration is a big challenge we've
+been trying to crack for for many years
+at scale. So we can discuss that
+separately. Um but yeah, tactile
+features would include things not only
+slip but hardness of the objects, uh
+vibrations,
+textures,
+you know, whatever we classify as pain
+and reacting to that, which is not up
+here again. It's uh somewhere else the
+compute for for going on for that. So
+edge compute you could probably call it.
+So yeah, this would kind of all form a
+middle layer. We're actually trying to
+make the first open-source model in the
+world that works across all tactile
+sensor transduction modalities and can
+generalize across them and we're going
+to be releasing that with Arya at some
+point. So not just PZO resistive skins
+that we build, but also capacitive
+sensors, magnetic based tactile sensors
+and of course vision based sensors which
+are the easiest to work with. Um so
+absolutely all the tactile features over
+time need to be understood and then the
+question is how do you translate that to
+the VA right now we're playing with
+translating it into language as well but
+language is slow but VALA's are also
+slow so if we react at a lower level and
+extract some features can we just plug
+into VAS anyway I'll leave it at there
+we're doing a lot of stuff and
+experimenting with a lot of things there
+>> okay thank you very much thank you for
+your questions and thank you very much
+Zaki Patricia and Yaneric. Uh, everyone,
+>> thanks.

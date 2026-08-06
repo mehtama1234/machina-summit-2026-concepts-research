@@ -1,0 +1,503 @@
+[music]
+Mojo. Good afternoon, ladies and
+gentlemen. My name is David Beachch. I
+am the principal of Cresmon Investments,
+a private equity firm based in New York
+City. We structure direct investments
+into businesses serving energy,
+healthcare, and industrial sectors. and
+over the past several years have become
+convinced that physical AI represents
+one of the most important investment
+themes of the next decade. So I'm
+honored to be joined by two business
+leaders who bring complimentary
+perspectives
+as builders and users
+for uh with Sophocles Zulas founder
+chairman and CEO of Zenith Shipping who
+spent decades leading one of the world's
+premier shipping companies and Dr.
+Nicholas Radford, uh, one of the
+pioneers of industrial humanoid robotics
+and CEO of Persona AI.
+So, gentlemen, we'll jump right in. So,
+let's see.
+So, we have three questions today. We'll
+go through and let the conversation go.
+So for our first question, given your
+collective experience in ship building,
+energy and infrastructure, why do you
+think that these industries will become
+major adopters of physical AI? I'll let
+you start first off.
+>> I'll take that. Can everyone hear me?
+>> Okay, he can hear me. You can hear me.
+So um we want to do something a little
+different for everyone here today. I
+don't build robots. I'm not a tech
+person. I have spent almost 40 years in
+heavy industry,
+specifically shipping in an industry
+that moves 90%
+of the world's goods every day.
+And for 20 years, as a user, as as
+someone who needs this technology, we've
+had labor shortages, inefficient
+logistics. I mean, you see what's
+happened just with the Straits of
+Hormuz. Things that disrupt my world
+disrupt the entire world. And I see
+physical AI as the the hinge point that
+my industry's been waiting for for 20
+years. And I think the moment is is now.
+And we will get into the details uh in
+this chat.
+>> I think I think mainly because the
+numbers are just staggering. Um
+there's a there's there seems to be like
+a controversial bifurcation in the
+embodied AI space specifically around
+humanoids. Uh one from the platform
+perspective and that's a whole another
+we can go have a beer and debate that
+and it's a fun debate to have but it's
+whether these robots are going to be
+adopted first in domestic use cases that
+might look like the home folding laundry
+serving coffee or are they going to be
+adopted more in the industrial segments.
+Um if you look at if you look at the
+numbers there's about 3.5 billion
+workers on the planet about one in four
+of them are in the infrastructure
+industrial complex. Think everything
+that made this building to the goods
+that Sophocles was talking about being
+shipped around the world to the energy
+that's pumped out of the ground to the
+cars that are made. That's a billion
+workers. So let's say they work 2,000
+hours a year. That is do the math a
+trillion I think that's right right no
+two trillion two trillion hours two
+trillion hours of industrial labor so
+let's say that uh let's say we're
+building some automation technology like
+a humanoid we can capture 1%
+no investor typically wants you to
+capture 1% of a market but here it might
+be okay 1% of that market is 20 billion
+hours if we assume that there's a $50
+loaded cost $50 per hour loaded cost
+that is a trillion dollars, guys. A
+trillion dollars of revenue per year
+capturing 1% of the industrial energy
+complex. The the math is just insane.
+So, I know we want to put one robot in
+every home, and that sounds really
+compelling, but we're talking like $2 an
+hour. We're thinking that we might be
+able to put a a robot into the home.
+That that the arbitrage in the
+industrial segments versus the home, it
+doesn't even make any sense. It's like
+you would go industrials all day long
+>> if I if I because it is World Cup soccer
+or football. Sorry.
+>> Can we avoid the game for the US?
+>> I'm going to bring it I'm going to bring
+it into I'm going to bring it into
+industry. So right now today there are
+2,800 ships on order that frankly have a
+three-year backlog
+because there are not enough people to
+meet the needs of the world. Okay. And
+if we were to line up football fields
+one after the other, that's the
+equivalent of 10,000 football fields of
+welding that needs to be done today with
+the current three-year orders. 10,000
+football fields that there are not
+enough. We have a declining workforce
+and an increasing need. This is not a
+nice to have problem everyone. This is a
+survival that we need to do to meet the
+economic demands of the world for the
+next 50 years.
+>> That's just one
+>> that's just one example.
+>> That's just one example
+>> and and the world's economies are
+replete with that example over and over.
+>> So speaking to that point, let's talk
+about the difference between industrial
+needs, declining labor, uh yet the
+ongoing demand for industrial
+applications, ship building in
+particular. uh just spend a minute on
+that before we move on to the next
+question.
+>> I think it's we all talk about the labor
+scarcity problem, right? I mean it's
+there's not a good embodied AI pitch out
+there that doesn't propose to the
+investors uh the declining workforce.
+But if you really dig into the numbers,
+it's so much worse than that. So the
+world's population is probably going to
+hit about 9 billion people before it
+peels over and starts to be in decline.
+We're not really sure where it's going
+to come down to, but we already know
+replacement rates in countries are are
+are are not where it needs to be to
+sustain the current levels of
+population. So, we're looking at uh in
+the next 25 years about So, today
+there's one in 11 people in the world
+over the age of 65. In the next 25
+years, that worldwide average is going
+to be one in six. It's going to be one
+in four in the US. It's going to be one
+in three in Europe. It's going to be one
+in three in Korea. It's going to be one
+in three in Japan.
+So the problem that we have is that we
+have a massively aging society. The
+numbers are already set in stone. We
+couldn't change it if we wanted to.
+That's it's a fat company. So we have a
+massively aging society. Plus we have
+the nature of work is changing. We all
+want to be YouTubers and influencers. We
+don't want to be welders. Right? So now
+you have this crashing problem of the
+demographics that are collapsing and the
+nature of work has changed. But we all
+like to have conferences in these
+buildings. We like to have goods shipped
+across the sea. All the clothes that
+everybody is wearing came on those ships
+and there's not going to be anybody to
+sustain it. That is the existential
+crisis we're really looking at.
+>> I if I could just from a like real
+>> this is a really happy presentation. I I
+understand that solution.
+>> There's depressing. It's depressing with
+a happy ending. Okay. So from a use case
+perspective,
+we cannot order ships that we need today
+because the shipyards say, "Sorry, we
+don't have the labor." That's my
+problem. That's not this conference.
+That's a reality that I'm facing running
+my business today. And not only that, I
+think what I hear in the social
+narrative is, "Oh, but humanoids or
+robots are displacing human labor. the
+social cost of automation well in heavy
+industry heavy industry is begging for
+this solution. I can't talk about the
+auto uh factory floor or I can't talk
+about other markets but in heavy
+industry mining energy global
+transportation infrastructure by the way
+infrastructure is about 50 years old and
+that needs huge capex dangerous I think
+a perfect home for for this solution
+here
+>> we move on to the next question so just
+to summarize industrial
+capex is massive, demand is increasing
+and labor shortage is real. So, so what
+has changed to make uh physical AI more
+commercially viable today versus a few
+years ago, 10 years ago? What makes it
+work now?
+>> There's been there's been some
+appreciable tipping points. So, a a
+market typically moves on three major
+factors. You have a technology tipping
+point, you have a social tipping point,
+you have an economic tipping point. And
+so if we unpack those three things, we
+can we can try to understand why this
+market's moving now. Technologically,
+which is what everyone's focused on,
+it's hard to walk around and not be uh
+aed, frankly, by the advancements in the
+last 5 to seven seven years. So compute
+has gotten just super powerful. We can
+now house enough compute to do the
+inferencing activities that help tell
+the robot what to do. It's as simple as
+that. So now we can create robust action
+in real time uh in an environment. The
+supply chain, the component pieces of
+the technology have appreciably gotten
+lower. When I was building humanoids at
+NASA, I spent 15 years at the agency. 10
+of those I was leading the humanoid
+development lab and we built a a robot.
+It was a lab prototype. It was Robonaut
+and Valkyrie. Uh those robots were about
+$2 million a piece for [snorts]
+prototypes, right? When we flew it to
+the space station, it got a lot more
+expensive than that. But at the
+prototype level, you were still talking
+about a multi-million dollar humanoid.
+We're able to build these now for a
+couple hundred grand in quantities of
+one. And that's before we start looking
+at manufacturing techniques to reduce
+the the price points. So, we've got the
+economies of scale kicking in. We've got
+the technology tipping points around
+compute. Vision is basically a solved
+problem. Uh if you guys remember during
+the DARPA Robotics Challenge, um maybe
+some of you don't because some of this
+crowd looks pretty young, but when I was
+there, uh you could take a camera into a
+room and a few minutes later, literally
+a few minutes later, you could try to
+assess the objects in the room and you
+might be able to understand the position
+of those objects and then you might be
+able to understand how to actually
+approach those objects with a humanoid
+manipulator. Now today you can take a
+camera into a room you can identify all
+the objects the pose of those objects
+you can you can uh plan those
+trajectories on how you would approach
+and grasp and use them and you're doing
+it at frame rate which is 30 times a
+second. So if we went from 2 minutes to
+30 times a second. So compute, vision,
+componentry, and now the social side. So
+humanoid robots have or embodied AI
+agents depending. Uh they've invoked
+some serious emotional visceral
+responses. Uh but today there's much
+higher social acceptance. We're now
+walking around automation and and
+rolling automation. There's a there's a
+car there's a AMR out there delivering
+coffee, right? These are just starting
+to become accepted pieces in our social
+architecture. So those three tipping
+points have made it so that the time is
+exactly right and we cannot forget the
+very for uh fourth important part which
+is part of the economics which is the
+financeers. So now within every huge
+market opportunity comes the
+technologist to fill that and it has to
+be financed and so we actually have an
+absolute perfect storm between all three
+of those things happening right now. I I
+would add a fifth point to that which is
+for 30 years heavy industry has not been
+very receptive to technology. [snorts]
+This is the first time in my career, and
+I've been doing this a long, long time,
+that not only is heavy industry
+receptive to technology, they are
+begging for it because they are at
+critical choke points in being able to
+not just lower the cost, but increase
+production at a time that they have
+labor shortages across the entire
+industrial complex. So, so if if I could
+add, I think the ground is fertile,
+right? We've set the stage, but we still
+have to deliver. And the robotics
+community, let's all be very honest, has
+been very long on promises and short on
+delivery for a long time. But in my
+view, this has been turning around
+rapidly because of the aformentioned
+advances that that I spoke about. And so
+that doesn't preclude the realities of
+manufacturing at scale, driving out the
+cost, creating a machine to put in the
+field reliably. AI is uh it's close.
+It's not exactly all the way there there
+yet, especially from the embodied level,
+but it's close. It's close enough that
+we can see the light at the end of the
+tunnel and it's not an oncoming train.
+So, I think we're we're getting there,
+but but the the robotics community, we
+still have to deliver and we frankly
+have some lost ground to make up for.
+>> Excellent. So, Sophocles, I believe, and
+you and I have spoken about our mutual
+opinion that we are in a
+once-in-a-lifetime investment
+opportunity.
+uh is early movers in the phys in
+investing into physical AI companies. So
+for both of you, can you elaborate and
+describe how you envision physical AI
+will reshape the global industrial
+complex over the next decade?
+>> I'll start on that one. So it was
+interesting from an investment
+perspective. I was sitting where you all
+are earlier this morning and one of the
+presenters said
+there are almost no public opportunities
+to invest in what we're talking about
+today. It's all in the private space
+because it's so early. Um, in terms of
+opportunity, David, just to give you a
+um another metric, that 2800
+10,000 football field long order that's
+coming that's coming out in the next
+three years, that represents about 220
+billion dollars of value today that is
+having is struggling. So if even you
+could tap a little bit of just the
+three-year production of just one
+industry within the entire industrial
+complex, forget energy infrastructure
+rebuild, all the all the sort of u you
+know the 106 trillion that needs to be
+funded by 2040. The need is not a
+10-year need. It's a today need. So I
+think it's it's something that's
+actionable now. I know I could use it
+today.
+>> Okay. Excellent. So, we have some time
+for questions. Uh if if not or we can
+continue on with our discussion.
+>> Questions.
+Somebody from
+the first one. Is there consensus that
+there needs to be a layer like a super
+brain coordinating the different levels
+the use case you don't want to have
+robots going upstairs
+you guys buy that you need a neur
+we have at least two billion
+How much has changer
+to just change policy
+or is that a crazy
+>> I can take question.
+>> Please do
+>> or maybe I shouldn't take question two
+because you want
+>> I'm gonna I'm gonna take at least three
+minutes and five seconds on question
+one. that okay we don't have spare
+humans but you know what I'm saying we
+have still a high birth rate in Africa
+lots and lots of people
+>> I can answer I can address that from an
+industry perspective do you want to go
+first
+>> I'll I'll I'll try to do question one uh
+it is so
+yes but uh it's over what time period so
+it is not uh it is not
+um it is not inconceivable to think that
+there is a a global executive and It's
+called something different by every
+company because of marketing
+departments, but at the end of the day,
+there's a there's a global executive
+which is coordinating action and we're
+we're aware of it. We're trying to
+address it. Um, but it's also part of
+your go to market. It's also why we're
+not going into the most complex
+environments. Uh, the home is chaotic.
+Everybody's home is different. uh
+depending on how many assets of
+automation you're trying to coordinate
+in environments that look like that,
+there's going to have to be a lot more a
+little bit more world knowledge uh
+understanding about what's going on. You
+could however take the next incremental
+step from industrial automation. So, uh
+you've got robot arms on assembly lines
+doing their thing. What happens with the
+next step of that when you've got uh
+activities that can be a little bit more
+siloed that are extremely value ad that
+are hard to hire for that have good
+economics good use cases that you don't
+have to have global neurovverse
+coordination with. So our plan is we're
+going to increment slowly to the more
+and more complex and and more and more
+asset coordination. So fleet management
+is a is a big topic in the industry. So,
+um, it's a it's a huge question to
+unpack, but my my succinct answer is
+yes, they're not wrong. Over what time
+scale and over what environments?
+>> Question two, am I regretting I'm
+answering this? Okay. So, staying
+apolitical from an ind industry
+perspective. Look, I've been on the
+board of one of the biggest insurance
+companies in the maritime space and my
+number one concern, the biggest claims,
+the saddest claims are loss of life or
+or or injury. Uh because these are harsh
+environments. You know, you you have no
+noxious gases, you have hard
+environments, long work hours. So this
+is where um automating those tasks where
+humanoids working with humans makes um
+humans safer, less claims, higher
+output, which is a better social benefit
+for the world. So I I think um one of
+the exciting things having my background
+in insurance as well is this is a really
+welcome element for the human condition.
+>> I want to follow that up that minefield
+up with one small addition.
+>> I hope I answered your question.
+>> Yeah, I I guess so. I just uh you know
+from from a global perspective somebody
+might ask you you have still regions
+with massive birth rates over population
+and we're complaining oh we don't have
+enough workers it begs the question
+>> let me let me check
+>> offline I'll talk to you
+>> yeah so so Jeban's paradox is going to
+apply period so the more efficient you
+make an operation the more you tend to
+need more of that operation so it's
+going to be robots and people so what
+we're trying to say is the demand is so
+big right now that it's going to outpace
+both those is that going to outstrip
+both of those. So, it's going to be a
+robots and people conversation. Um, and
+there's another aspect to it where the
+nature of the work that they're doing to
+Sophocles's point, let's strip away a
+layer of things that are killing people
+and let's move people into higher
+cognitive functions, training them into
+higher cognitive skills, higher
+educations. That's actually what you
+should be focused on.
+>> Thank you. and we would love to connect
+with like-minded investors interested in
+physical AI and humanoid robotics and
+interested in this space. Thank you.
+Thank you, David. [applause] Thank you,
+everyone.
+>> Thank you.
+[music]

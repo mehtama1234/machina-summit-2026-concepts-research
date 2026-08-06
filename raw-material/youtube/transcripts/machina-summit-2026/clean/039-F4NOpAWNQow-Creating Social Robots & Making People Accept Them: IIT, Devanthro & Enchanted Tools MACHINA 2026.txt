@@ -1,0 +1,706 @@
+[music]
+Good afternoon everyone. Uh thank you so
+much for joining on this uh very
+important panel discussing about social
+acceptance layer. As we know all of
+these beautiful technology is actually
+integrated into society and today we
+have some of the world's experts and
+entrepreneurs that are doing it very
+very successfully. So I'm going to
+please kindly ask you to introduce
+yourself and talk a little bit about
+your companies and what is the unique
+value proposition that you have on the
+market.
+>> Is it me? Okay. Okay. Okay. Okay. Um so
+first of all I'm not a company. I'm not
+from a company. I lead a research
+institute and we doing human robotics
+since 20 plus years. And um well um what
+we doing? We designed robots and uh
+specifically at least for today what
+happened is that we started
+investigating the a topic called human
+robot interaction and during this
+investigation we discovered they're
+super interesting to look at the humans
+in the human robot interaction and use
+robots to probe how we react to robots
+how we create certain bonding and what
+it means to interact with the machine
+and when the machine can substitute to
+the human in the interaction because we
+react in the same way. Um, luckily there
+are ways to measure this. Um, cognitive
+neuroscience tells us how to do it. So,
+EG or reaction times, there are gaze
+tracking. These are all technologies
+that can be used to exactly understand
+how we see the robot, how we interact
+with the robot and uh maybe in the
+future when the robot can in fact engage
+with us in a certain way that allows
+optimal control, optimal shared action
+um and why not optimal companionship.
+>> Thank you.
+>> Uh yes, I'm Rafael. Uh so this is our
+robot and in 5 years each one of you
+will have one of have one of our robots
+in your private home and that's because
+in 3 years we'll be caring for your
+elderly parents if you have them. Uh so
+we found a very unique approach to
+basically start deploying humanoids into
+private homes today. In fact, we've been
+deploying humanoids in private homes
+since 2024.
+And we do it and we found a way to do it
+very early um through really using
+teleoperation not just as sort of this
+kind of necessary evil kind of everyone
+has to do it but actually using it as a
+feature. As you can see the robot has my
+face and that's basically whoever
+operates the robot that's the face the
+robot has. So for the elderly it's not
+like for my parents it's not oh this is
+my robot this is actually their son
+being with them physically and that
+makes all the difference. uh we use that
+to get into homes to collect the data
+the most unique data that's really
+interaction of the elderly with the
+robot and use that to train the robots
+to make them autonomous and um yeah
+we'll have 20 robots by the end of the
+year people living with them full-time
+being cared by the robots and I think
+that's sort of uh the way to do it at
+least in our hypothesis and at least one
+of the people already call it their best
+friend so after one week of deployment.
+So, I think it's a good start.
+>> Um, I'm Morgan Pope. I'm a creative
+director at Familiar Machines and Magic.
+We are a company founded by Colin Engel,
+who was the CEO and founder of iRoot. U
+making the little Roombas that roam
+around. And, uh, one thing he observed
+in 30 years of doing that was how
+attached we become to the little things
+that move around our house. And, uh, he
+wanted to bring them to life in a more
+um, powerful emotional way. uh that we
+can do now thanks to uh reinforcement
+learning for the for leged locomotion
+and thanks to uh large language models
+for a deeper understanding of human
+social environment. So we're making the
+first one we're making called it a
+familiar it's cute it's little it's
+four-legged uh it's going to learn about
+you and uh spend time with you and
+hopefully just be charming.
+>> So hello everybody I'm Monso, founder of
+Incendi Tools. That's a company we
+founded back in 2021.
+So we are creating a robot human wheel
+robot mounted on the on the ball which
+is make it very convenient in
+interaction with people. You can just
+bring them somewhere in very easy way.
+It's really safe because we are
+deploying mainly in hospital with kids
+with elderly but also in assisted living
+and and such places. Uh our point is uh
+we need to build a people facing
+humanoid humanoid robots that could be
+understandable from by the the the user.
+I mean very easy way pointing at
+something asking something bringing the
+robot somewhere and keeping the a
+positive interaction not feeling being
+with a machine but feeling being with
+something that could bring something to
+our life kind of experience something
+that that makes sense in in the way we
+live you know and we are talking about
+the user that could be they are not like
+PhD in robotic they are grandma kids
+nurses direct worker so the the the
+point is how could they understand the
+way it works and and and how could we
+match the uh imaginary and the uh
+expectation that they could have.
+Hopefully we have done thousand of robot
+in the past uh and and we met thousand
+of of client who ask crazy things on on
+the robot and we tried to combine that
+into this uh uh this robot and you can
+meet him is there there's two version
+like Miroa and Miroi the the boy and the
+girl and they have 20 cm here they do
+not pretend to be a human because if we
+do so people expect much more than what
+the device can really do but If we
+present that as a as a more an animal
+like kind of robot, you do not
+overestimate what this robot can do. And
+then there is a positive surprise that
+is coming with with this. So today we
+are accumulating uh 400,000
+minutes of usage.
+So it's which represent a lot of days
+that you count. Um and uh we have um uh
+produced uh uh more than uh 70 uh units
+and we are about to produce hundreds of
+them.
+>> Wow. Thank you so much. Um wonderful. So
+you are coming from different
+backgrounds from academia from industry
+and we know with the robotics at the
+beginning people are very impressed and
+they want to understand how it's built
+how it works. So I want to understand
+from your points of view when did it
+come from impressed to actually
+experiencing acceptance with the robots
+that you are building or the robots that
+you are researching? So Morgan have you
+had any experiences where you were
+looking into the acceptance se segment
+of the human robot interaction with
+familiars? Yeah. So I we're uh a lot of
+what Jerome said I think is important
+which is this idea of setting
+expectations at a level that you can
+then exceed. Um because uh I think
+[sighs and gasps] it's it's a uh this is
+this is a challenge I think we see
+across uh all sorts of technology but
+especially um one of the dangers of uh
+of using large language models is that
+the when you start uh having a
+conversation with something and it feels
+very human then when it starts going off
+the rails when it starts behaving badly
+then it's very frustrating. I've said
+some terrible things to my Alexa. Um
+because it sounds so much like a person
+that when it stops listening to me, I
+get very, you know, I get very angry. Um
+and so, you know, a lot of our design
+has been about trying to make something
+that's far enough away from something
+that you're familiar with that when it
+behaves intelligently, when it behaves
+in a lifelike way, it feels like a
+pleasant surprise and you're not
+expecting it to do more than it can. And
+so that's a really important design
+challenge which you know we have a first
+uh prototype of and we're starting now
+to put into into contact with users.
+We've done multiple studies and uh we
+think we're in the right area but it's
+definitely a place where we're putting a
+lot of attention to see if we get it
+just right.
+>> Great. Thank you Jerome.
+>> Yes. So so we are deploying robots. So
+we have a lot of situation where people
+react to the presence of the robot. But
+first I would like to say that accept
+acceptance should not be a goal. It
+should be um I mean if you do that it's
+like if you try to manipulate people and
+make them accept something you know if
+you want to to create a design that
+makes sense you have to come with the
+hurt and trying to to make something
+that that comes with some beautiful
+interaction and that is that should be
+the the goal not manipulation you know
+with acceptance and and we got a very uh
+amazing feedback by the user um some
+people are uh very happy to to meet
+again the the robots I'm crying to so
+happy to to to to meet it again and we
+are doing things like um we are entering
+the for the kids who have concert in
+south of France uh the the robot is
+entering the bunker you know the
+radiotherapic room the kid is attached
+on the table so it's very traumatic and
+they are so afraid about that you know
+uh and and and they should be alone
+because the parent cannot enter that
+room doctors and so the robot is
+entering the room with the the kids and
+he's not feeling alone anymore and uh
+and that's an amazing uh experience and
+we got so fantastic feedback that that
+make us understand that we cracked
+something in in that uh um in the
+interaction and and I could add
+something on top of that because from
+years you know with robots like now
+robot or pepper robot I tried to put
+life in the robot and and honestly it
+was still a puppet uh still you get the
+robot here and you do not feel um the
+interaction really working and and I
+realized later on that that what
+[clears throat] the robot should do is
+reflecting the people life. They should
+feel they exist into the robot eyes and
+this is monatory for what you do. This
+is absolutely mandatory for what we do
+and and it works well today. We have
+some concrete proof that people need to
+feel they exist into the robot eyes.
+That's a simp simple things but that
+pretty complex to develop.
+Great. Thank you, Georgia.
+>> Um I think um what is most important or
+what we discovered through the studies
+on human robot interaction is that um
+there's indeed a way you can manipulate
+um your how we perceive the machine. Um
+we develop a scale that allows us to
+measure how much you believe the robot
+has intention. And this concept of
+intentionality is very fundamental in
+our understanding of the robot as an
+agent. Then if you think the robot is an
+agent
+um yeah at that point you treat the
+robot differently. Can be positive or
+negative here. It's not a judgment of an
+ethical judgment. It's just a fact. Um
+the scale correlates with certain
+signals in the EG. we can reliably
+predict whether you are going to see the
+robot as an an agent as a an intentional
+agent rather than just a machine uh just
+a car just a device. Um I think it's
+super interesting because of course
+opens also ethical questions uh but um
+also allows us to understand really how
+we design the robot and if we want to
+design robots that interact naturally to
+the point that they're um interpreted as
+something else more intelligent than
+what they are which can be may have pros
+and cons depending on the situation. Um
+and the other thing is that um for
+instance in this scale when you try with
+roboticist
+um there's no intentionality there
+because of course the designers of the
+robot have no
+um misunderstanding of what the robot is
+made of. Um on the other hand um we
+found particularly useful to have the
+robot interact with children uh
+diagnosed with ASD for instance autism.
+Um and it works very well in that case
+probably for various reasons. It's it's
+better to interact with a to with a toy
+than a person. Um and it's also um the
+robot is very repetitive. There are
+various things but the robot is very
+effective in um showing the kids how to
+behave in certain situation and they
+learn a lot from the robot. They don't
+learn as much from people. So I mean how
+we want to develop these machines is up
+to us. But um I I mean there's a
+scientific way to measure what is
+happening and it's very cool I think
+because it tells us a lot about us uh
+from the neuroscientific point of view.
+That's super interesting. Uh we should
+talk about it. Uh because one of the
+most like around acceptance most
+interesting we've been deploying with
+people with dementia was a dementia
+group. Um and one thing that was that
+stuck with me they kind of intuitively
+knew if the robot was alive and
+controlled or not. Like they walked to
+the robot they knocked the face shell.
+It was off at that point and like oh
+nobody home. And walked away. Um and
+then when it was on and they basically
+was interactive with them like despite
+some really really strong cases of
+dementia they were supernaturally
+interacting with it. They were playing
+games they were uh you could guide them
+and this was sort of the basis that we
+then actually used to be able to do a
+pilot with a person that has dementia in
+their private home. Um and that like she
+called it her best friend after a week
+and I was and I think that's something
+we saw like people very quickly
+normalize the robot in the deployment
+like day two the latest is kind of
+normal to have the thing there and it's
+very surprising for us like and I was
+also asking them don't you think it's a
+bit scary at night when it stands there
+and the answer was no actually she feel
+protected by it uh so very quickly we
+see this kind of normalization and it
+comes also with a risk uh so very
+quickly people trust the robot too much
+and we saw this in deployments. So uh
+where one situation was kind of
+interestingly it was uh the robot was
+making dinner. So at the working at the
+fridge and then suddenly on the operator
+view you see the hand of the elderly
+lady grasping into the door of the of
+the fridge taking something out and
+walking away. So she assumed this is to
+totally safe from a roboticist
+perspective. I was very nervous at that
+point. I mean we designed the robot safe
+and as a soft and swan but this is not
+sort of what intent what it was intend
+at the end of a pilot she was like ah I
+made this cake can you cook can you
+slice it with the robot so she took out
+this huge knife and was like here give
+it to the robot can you slice it like no
+I'd rather not and then it was like no
+no no but that's look I keep my distance
+so now she did it and then of course she
+couldn't take her distance and it's I
+think that's very something also very
+interesting um in the deployments uh
+what you discover when you actually have
+them in the field and and see people
+react to it. Also with dementia like we
+can guide the people. We saw this
+acceptance very quickly but then also
+you thinks like one thing they do is is
+she kind of she thinks this is how you
+continue and then even though this might
+be completely wrong and she then does
+that and you kind of need to find a way
+to stop them and like okay no this is
+actually not how you should do this
+task. uh let's go two step back and like
+for example we're doing um cupcakes uh
+and then in the microwave and sort of
+that's a concept you didn't know so
+basically cupcake was out she took a
+spoon and was stirring it so it was gone
+um but again sort of I think that's
+really shows people very quickly
+normalize on the robot it's there you
+get used to it uh and then it's really
+also our responsibility to make sure
+that within that use case it remains
+safe
+>> yeah thank you for sharing that it comes
+down to the responsibility on the
+designers and the builders of this
+technology and so you've been sharing
+different utility relationship segments.
+What about uh the attachment what we've
+been seeing right now we are moving from
+the economy of uh having so much
+presence on social media and digital
+medias but right now with the robotics
+we are creating this new layer of
+relationships in between humans and
+machines which can take a form of an
+attachment. So I would love to hear from
+you from the academic standpoint and
+from the industry standpoint how are you
+engineering for it and what are some of
+the risks and the opportunities that
+you're seeing in terms of human machine
+attachments.
+Um I can start by saying that we're not
+doing much in that direction but there's
+an element continuing the discussion uh
+there's an element that I think is
+important and this is a a true
+experiment that we've done um you know a
+very powerful feeling in humans is
+called this sense of agency which means
+when we do something to be understand
+that there's a consequence and the
+consequence relate to what we've done we
+press the button the light goes off. Um
+there's a way to measure that um whether
+we have that feeling. Um for instance,
+if you're pressing a button and instead
+of pressing yourself um you receive I
+don't know a TMS discharge which is a
+tool to disturb the the brain and you
+press um without willing to press the
+button button get pressed you don't get
+the same feeling. It's not you
+controlling the light to go off. Um now
+um there's another thing which is called
+the sense of joint agency which is when
+you interact with another person and we
+can replace the other person with a
+robot of course and the thing is that um
+you feel part of a joint action and
+imagine every day being having that
+feeling that the robot is working for
+you is doing something for you. Um I
+think that
+gets to the attachment point because the
+robot feels completely as an extension
+of your body a bit like another person
+will feel. So not completely you but in
+a sense you can interact in such a way
+that the robot does something for you.
+Um and again this relates to
+intentionality. So you have the effect
+only if you believe the robot is
+intentional is an autonomous agent
+doesn't work for uh a simple tool. Um
+and I think well we getting there we
+start to put together all these elements
+uh at least from the research standpoint
+um from from the scientific point of
+view that um if we build things in a
+certain way then um you get even
+attached to the robot. Again it raises I
+think a very important question that is
+ethical in origin. Um shall we do it or
+better we stay away from that?
+>> I I can jump on on that. Um so that's a
+a very important question. So as a robot
+designer we should ask ourself um what
+is this um what is the mission? What do
+we want to bring to the people? Do we
+want to bring them a slave that is hiden
+near the the wallet and and acting
+during the night with no face with no
+interaction with just doing something
+because we want that to be done or and
+and and what is the limit of the
+knowledge of that? What is the um the
+the reality of this? Is that a actual
+real being or is that something else? I
+think we should answer that question as
+designer of humanoid robot and the way I
+I decided to to to address that point is
+is uh accepting that there's machine are
+uh designed by human like like in the
+movie like in the video game like
+everywhere. So in the movie, in the
+video game, you have to define the
+story. You have to make people
+understand that this is a story. When
+you go to the movie, this is not an
+actual real situation. That's just a
+movie. So here, that's just a robot, a
+character from a story that believe this
+body is in the story, you know, trying
+to that's an ethical point of view. I
+don't want user to believe that this is
+an actual real being with a fully
+autonomous way of thinking things. Uh
+because I'm designing that, we are
+designing this. We are putting into that
+robot the the barriers, the trust, the
+knowledge. So we are making a choice. Uh
+in French we say editorialization.
+It's editorial editorialized
+uh choice, you know. uh and and we are
+all doing that and we should not lie
+this is what we do and in order to make
+things understandable for the user the
+story has always be uh a way to do that
+and I think what what is true about that
+for the human robot is also true for an
+AI what is the limit do they have an
+opinion in politics do they I don't know
+uh have a bias on on the world so we
+should define much more uh that kind of
+things and and um the way we designed It
+is um you know a robot have a strong
+limitation. The robot is only in the
+place where the robot is. So could we
+define the story where the um character
+have an opportunity to use that body but
+can also use your phone or your use a
+screen or uh web or whatever. So in the
+story we um use the ID of a character
+living in a far far away planet that
+find a way to communicate with us and
+sometime you can use electronic device
+like a phone like a like a computer
+which allow many more people to have a
+good experience with the character
+itself.
+>> U yeah I mean this is a crazy important
+question. Um, I think uh to to some
+extent there's nothing wrong with
+forming an attachment to something
+that's inanimate or that isn't human. We
+form I mean I have very attached to
+several of my books in my library. I'm
+very attached to uh even attached to
+things that pretend to be people like
+the the characters in uh you know in
+Star Wars or something like that. The
+those are all things I form attachments
+to but I do understand at a fundamental
+level kind of what the relationship is.
+I think that's the important thing we
+have to do because I I think many of us
+can relate to having loved somebody who
+didn't love you back and maybe taking a
+while to figure that out. It can feel
+good at the beginning and then at the
+end it feels very bad. And I think we
+want to make sure that we don't produce
+that experience where uh what we want is
+sort of the
+there is ultimately I think an intent as
+designers that we put things out in the
+world because we care about people and
+that we do want people to have positive
+experiences. So there's a reality of
+care behind the design, but there's also
+a reality of limitations of how that
+care can be expressed through
+technology. And so I think that it's
+easy for people to form attachments.
+We're wonderful at forming attachments.
+And one of the main jobs that we have is
+to give people the information that will
+make that attachment fulfilling and
+helpful and and uplifting and not
+ultimately dissatisfying or or
+manipulative. Yeah, it's not an easy
+question. Yeah, maybe I think one thing
+we haven't talked yet that I would like
+to add in terms of attachment is I think
+there's more than one type of
+attachment. One comes from this kind of
+emotional and social attachment.
+Something that like you're building kind
+of a friendship and then the other comes
+from the basically utility you draw from
+the system. Um like if we help a person
+live independently, if we give elderly
+back sort of some freedom, that's also
+some attachment. And um what we saw is
+also like they kind of be traded for
+each other to some extent as well and
+they can like influence each other as
+well. And the sort of that's sort of one
+thing we try to leverage is basically f
+create both types of attachment to some
+extent um to be really robust and then
+also uh maybe compensate of some of the
+utility of the like that sort of
+developing itself. Like the robots right
+now we have they're not great yet
+honestly. uh they can't do proper
+cooking and whatever they cook is kind
+of well it's not a four-star uh menu. Uh
+so we really we can use the other form
+of attachment and turning it into
+someone you work with instead of who
+works for you and use that then to cover
+up some of the shortcomings of the
+robots to some [snorts] extent and that
+works really well in practice what we
+saw.
+>> Thank you. Thank you. Very very
+interesting insights. Um I want to take
+us a little bit to the future. Let's
+imagine uh five years from now and uh
+humans and machines are living in
+harmony. What would be some of the
+design decisions that you think are
+going to be very obvious that we did
+wrong at the beginnings? Like there's a
+lot of conversations about the form
+about does it need legs? Does it need
+ears? What does it actually for which
+purpose? So I would love to take a
+little bit of a future guess from you.
+What do you think are going to be some
+design decisions that we made wrong or
+that we are about to make right?
+>> I I think we'll find that uh motion is
+way more important than we thought to
+and you see this also like in the
+animatronics that like the way it moves
+is so important and I think it will turn
+out that how it looks actually is less
+important than we think.
+Uh, I think maybe the biggest thing that
+I see is doesn't feel like a a long-term
+thing that will that will survive is the
+this feeling of convergence onto right
+now there's a lot of convergence onto a
+form. A lot of the robots out there kind
+of look the same their human plan and I
+feel like uh I don't know of a I don't I
+think life tends to be divergent. I
+think that good innovation tends to be
+divergent and I feel like the idea that
+everything will be solved by a single
+form factor is a very uh I think it's a
+a nice early idea but I don't think it
+will stand the test of time. I think the
+divergence of forms uh to the different
+functions and the different ways that
+are going to help our lives is going to
+be the thing that will ultimately win
+out.
+Uh yeah so that's a very difficult
+question because we have to understand
+what what is going to to happen. Um from
+my point of view the user interaction is
+something that is definitively key. So
+um the way you touch robot, the way you
+move the robot, the way he react when
+you do so, the way he look at you, what
+how he cooperate with you, um um doing
+an action, you ask for and how could you
+ask in very intuitive way things that
+this robot should do in a very safe way
+too. And uh today we have a very uh
+spectacular show uh with humanoid robot
+doing amazing things and techn
+technically it's a really impressive but
+uh but at the end uh what will be in the
+earth in in in five years it's us it's
+my grandma it's my kids it's and there
+are the people who will have to face
+that kind of technology. So what do we
+do for them? How do we design a humanoid
+robot? So then is usable by anybody.
+>> Um I think it will take more than five
+years. But having said that um I think
+we'll regret using so much metal and
+electric motors and we say why we
+haven't thought of different materials.
+>> Thank you. Okay. Last question. In one
+word, what would you say is one of the
+most important factors in human robot
+design? What are you factoring for when
+you're designing a yoto? But one word,
+>> moving eyes, heart,
+>> expectations,
+eye to eyes.
+>> Great. Thank you so much. Really enjoyed
+this one. Thank you guys.

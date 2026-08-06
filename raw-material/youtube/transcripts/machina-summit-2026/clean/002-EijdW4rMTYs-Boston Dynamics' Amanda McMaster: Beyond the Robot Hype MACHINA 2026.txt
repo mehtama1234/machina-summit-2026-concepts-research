@@ -1,0 +1,420 @@
+Morning. [music]
+I'm Helena Chow, head of venture capital
+and crossover coverage at Bank of
+America, and I'm delighted to be here
+this morning with my friend Amanda
+McMaster, interim CEO and CFO of Boston
+Dynamics.
+>> Thanks, Helena.
+>> To be here with you today.
+>> So excited to be here.
+So, seven months ago at CES, Boston
+Dynamics was the darling of the show. I
+mean, it literally felt like we're
+waiting in line for a Disney ride to get
+into your booth. The production Atlas
+revealed on Handai stage, plus the
+partnership with Deep Mind was a very
+powerful combo. It was also the moment
+that Boston Dynamics went from the
+company that makes incredible robot
+videos to actually shipping a real
+product.
+So, how do you think about what Boston
+Dynamics needs to become in the next
+chapter versus the company that built
+the reputation?
+>> Yeah, thanks Melina. Um, you know, we
+came out with, you know, amazing
+prototypes for years. Um, we've been
+working on humanoids for the last 20
+years. Um and when we made the decision
+to productize this technology, it was
+really important that we incorporate,
+you know, everything that we learned
+over the last say 6 years
+commercializing spot and then stretch.
+So what some people might not know is
+that this is the third product we've
+productized, third robot in one decade.
+So we have spot which is our our
+quadriped stretch which works in um
+warehouses and does box moving and then
+now we're moving into you know our
+humanoid product. Um and the way that
+we've really been thinking about this is
+there's four pillars we believe that you
+know anyone who wants to be in the
+humanoid market needs to be thinking
+about and they're I'll give them for
+you. So it's does it perform? Is it
+reliable and is it safe? That's
+critical. Does it do something that's
+actually important? Is it useful for
+customers? Is there a customer ROI? Do
+they have a plan for AI and the way that
+you're going to capture the data needed
+for these robotics foundation models and
+scale? And then do you have a plan for
+scalability? You know, we're so lucky in
+in having Hyundai as as part of our
+family, which we get to benefit from
+both the vertically integrated supply
+chain, customer relationships, um, and
+and the entire ecosystem that they're
+building, um, which is very unique in
+the industry.
+>> So, you came into this role from the CFO
+chair. So you've had a front row seat to
+the cost side, right, of this in a way
+that most CEOs haven't. Um, which I
+think is really interesting. And so when
+you look at the trajectory of building
+Atlas at scale, what is actually bending
+the curve? Is it the design, the the
+supply chain, is it the volume or is it
+something else? And also how does
+Hyundai factor in as your owner as your
+first customer and your supplier base
+allin one?
+>> So the answer is yes [laughter] it it
+from the cost side it all matters right
+and and I think going back to this idea
+of having done this before we understand
+you know how important it was to create
+a robot that was scalable right from the
+start. So if you look at the design of
+Atlas, you'll see that each of the arms
+and the legs are interchangeable. These
+are considered field replaceable. So our
+customers and and even me, they let me
+try to uh to to fix these and I can do
+it in under five minutes and I'm not an
+engineer. Um so you know, we've we've
+thought about this because what are the
+inhibitors to scale? What are the
+challenges to making money? And it's can
+you simplify simplify simplify? and can
+you make this easy to service, easy to
+manufacture? Um, and we've had, you
+know, that in mind from the beginning of
+Atlas. Um, even the head as new chips
+are released, this is field replaceable.
+Um, and we can be updating and not
+redoing an entire robot design. Um, and
+then of course, as I said, you know,
+Hyundai, it it's great for us that, you
+know, part of where you get that cost
+inflection is enough scale and being
+able to purchase at scale and then
+produce at scale. um they're s they have
+signed up as our first customer. They're
+going to take between 25 and 30,000
+worth of demand right off the top which
+and build us a facility um they're
+calling it robotics in America. So we
+will have a manufacturing facility in
+the United States um that is producing
+all of our robots and really allowing us
+to hit cost targets. So just to give you
+an idea um between the the prototype and
+D1 that was revealed at CES um we
+simplified the design from eight
+actuator types in the prototype to two
+in D1 and we've seen cost savings
+between 60 and 80% on some of the key
+components utilizing the Hyundai
+relationship.
+>> That's amazing. That's super super
+powerful and I think it it's really what
+makes you guys stand out amongst your
+peers. Thanks.
+>> Um, Carolina Prada from Google DeepMind
+is is also on stage later today. So,
+your partnership pairs Boston Dynamics
+physical AI with Google Deep Mind's
+foundation models, but I know that you
+said it's not as simple as the body
+meeting the brain. How do you see that
+division of labor evolving? And and
+also, where does the long-term advantage
+sit in your opinion?
+>> Yeah. Um, I' I've asked this question a
+lot. They're like, "Isn't you know,
+isn't the, you know, Google Deep Mind,
+the brain, the the robots, just the
+chassis? It's it's not valuable." So, we
+put this together to try to demonstrate
+some of the differences here. Um, we
+think about it as, you know, again, not
+an engineer. I keep it simple, which is
+there's really two brains. There is the
+the physical skills that are necessary.
+So, think about this in terms of what
+Boston Dynamics is known for and we've
+been doing for years. This is the
+physicality of the robot, the ability to
+um manipulate the environment, its
+ability to have reliability. Um that is
+purely ours. Um and when we think about
+um uh the physical, so the uh physical I
+mean sorry the u the semantic
+intelligence so understanding the world
+the reasoning models that's what we're
+jointly developing with Google deep
+mind. And then there's a third piece
+that folks haven't really been talking
+about yet that's embedded in that which
+is how does it interact with the the
+customers, the facilities, how do you
+build tools and workflows or we've been
+calling that the job harness piece of
+this and that's very um customer
+specific information that would
+integrate into their environments. So
+you need all of that for this to be
+useful. And again, if one of our pillars
+is customer ROI, building something
+that's not just a cool prototype, but
+that is actually useful in their
+environments, we really believe you need
+all of these layers.
+So, um, 1X and Agility are also speaking
+today and you're obviously, you know,
+constantly compared to Figure and Tesla
+Optimus.
+>> Um, but Boston Dynamics has made a very,
+uh, deliberately different bet. So the
+design um the fully rotational joints
+you know being enterprisegrade rather
+than volume first. Can you share the
+thinking behind this approach?
+>> Yeah, I mean I think even though um it
+we we seem like we're a little slower. I
+would say it's really coming from years
+of knowing that if you put a robot in
+the world that isn't valuable and
+doesn't solve a problem, it's it's not
+going it's not going to be valuable for
+our customers. they're not going to buy
+it and we need them to buy it at scale.
+So that's the first piece. And then in
+terms of our joints and and and the
+decisions we made for this is we don't
+really want to be encumbered by the idea
+of what our human body is capable of
+doing. The idea is to be superhuman,
+right? The reason to have robots is that
+it can do things in a way that humans
+cannot um and augment human labor. So we
+don't need a replacement for humans. We
+need something that's different. Um, so
+we've been really focused on pushing the
+boundaries of performance and seeing
+what what we can make and we think, you
+know, the efficiencies you get and being
+able to turn the joints 360 degrees is
+pretty amazing.
+So, um, the question underneath all of
+this, so for the operators and the
+investors in the audience here is when a
+humanoid actually pays for itself,
+where do you see Atlas crossing that
+line first? And what should leaders be
+doing now to plan their workforce and
+factories around it?
+>> Yeah. So again, key learnings from
+putting mobile autonomous robots in the
+world is we really aim to have a 2-year
+ROI on spot. We found that that's kind
+of the the sweet spot for our customers.
+They can really justify that. Um it
+makes a lot of sense. It's the way they
+think about industrial tools. And so
+we're aiming for two years or less um
+ROI for our customers.
+And and that will be when when Atlas is
+is able to cross over.
+>> Got it. Um and I guess like a year from
+now, so when this room is back together
+next year, what's the one concrete
+milestone that would tell everyone here
+that physical AI has genuinely turned
+the corner from promise to proof?
+>> I think it's who has robots in the
+world. Have you done real deployments?
+If you don't have robots in there, then
+we haven't really me met the inflection
+point, but I we're prepared for it. So,
+we're ready to put them in. We have our
+spots in the world. We're going to start
+working with um we're calling it a
+skills development lab next year. Um
+outside of just Hyundai, we will have um
+Atlas in customer hands. So, I think
+that's going to be the mark for
+everyone.
+>> Can you maybe talk a little bit about um
+where Spot is currently deployed? I
+mean, you you'll all get to meet Spot in
+a few minutes, but where where is Spot
+currently being used?
+>> Sorry, I'm going into other people's
+presentations. Give me one second. Um,
+so you're going to meet Spot in a
+minute, but um we have Spot in um
+industrial settings right now,
+manufacturing facilities predominantly,
+um anything in food and bev any anywhere
+you have high value assets that you want
+to do inspections on. So we do both
+visual inspections um acoustic and
+vibration detection and then you know
+heat we call it thermal detection. Um so
+we've we've seen a lot of um benefits
+with within say Nasley Purina is one of
+our um our key accounts you know they
+have food manufacturing facilities and
+so this is very helpful for them. We're
+in Intel um where you're seeing us do a
+lot of um inspection of their old
+facilities. So, while they've made a lot
+of renovations maybe on what we'll call
+the second floor, the basements are
+still largely, you know, dark and um
+they have not been renovated and it's a
+great use case for robots. You really
+don't want to be putting humans in those
+facilities. Um and so we're able to
+provide value. Um we have a we have some
+something north right of now of 600
+customers over 46 countries. So there's
+there's actually not another mobile
+autonomous robot on the planet being
+used as much as Boston Dynamics there.
+We have somewhere around two million
+inspections per quarter.
+>> Wow. That's really powerful. Can you
+maybe talk also about the you know
+potential applications for Atlas? I mean
+I would imagine it's similar type
+facilities but with a different
+>> Yeah, we're applications.
+>> We're starting with Hyundai as you would
+imagine. um you know as they've
+committed. So we're going to start in
+auto manufacturing. The way we're
+thinking about the application journey
+here is start where it one we know that
+the tasks are repeatable. Um there's
+been a lot of work done in those
+facilities around safety and what it
+means for humans to work along with
+machines. So we feel like this is
+repeatable, scalable activities. So
+we're going to start in um in
+automanufacturing
+um with Hyundai. Um, we're going to be
+working on job sequencings, part
+sequencing, um, and then moving into
+machine tending. And then, of course,
+we're going to have other customer
+applications outside of Hyundai, which
+really aligns to the where Spot is
+today. So, we imagine manufacturing
+facilities will have very similar needs.
+Um, that's the conversations we're
+having today, and yeah, we're looking
+forward to it.
+>> So, on that note,
+>> shall we have the audience meet Spot?
+>> Yeah. Does everyone want to meet Spot?
+I'm like, where is Abby? We have our
+wonderful robot wrangler, Abby. We'll be
+bringing out a spot up to the stage.
+Everyone, this is Spot.
+Hey Spot, what's going on? Good morning.
+You excited?
+Fist bump.
+Um so spot is our mobile quadriped.
+We have five sensors um stereo cameras.
+Two in the front, one on each side and
+one here that we finally call the robot.
+[snorts] Um and there's also one in the
+uh the gripper.
+The way that you know as we said we're
+we're using this particular morphology
+um to do visual inspection. Um the the
+arm allows for manipulation like opening
+doors, turning valves, picking up almost
+anything that you'll see on the floor.
+And um if you've seen some of the recent
+um videos we've put together with Google
+Gemini, um we're doing um AIVI, so AI
+visual inspection that allows for even
+more manipulation tasks and
+understanding of the world.
+Very cool. Um,
+>> and there's there's different
+attachments, right?
+>> Yes. So, we have different payloads.
+Right now, we have an arm on there. If
+we were putting this together for a
+manufacturing facility, for example,
+we'd likely have an acoustic sensor. um
+we might have a thermal sensor on the
+back and that allows for it to read
+gauges or read um you know if there is a
+gas leak air leak in any of these assets
+um and report back. So the idea is goes
+out into the facility it collects all of
+this data very repeatably every single
+time it can unlike a human it can go and
+have the same exact position from
+anywhere it is and then we feed this
+into what we call orbit AI. So, this is
+our platform where we're running all of
+our data through. Um, it both serves as
+a place for our customers to see like a
+single pane of glass for them to see
+where their robots are, but also allows
+for them to engage with the robot. So,
+for example, if I were to say, "Spotco,
+take a take a visual inspection of this
+facility. Tell me anywhere there were
+puddles." You know, today it's pretty
+hot. There's probably no puddles, but I
+said, "Tell me if there's any puddles.
+and also tell me anytime you find a
+puddle and we're going to put this into
+the into the system and figure out how
+we can avoid this. You know, is there a
+leak somewhere? Same thing with, you
+know, when we start thinking about
+health and safety, um, fire protection,
+it can go and do those inspections and
+then you have a Google street view. Like
+imagine that you you click in, you can
+get a 360 rotation of what your facility
+looks like at any time. Were there
+people in your facility that you didn't
+want in there at a certain point? You
+know, um did someone leave a ladder in
+front of a door? There's a lot of
+information you can gather um while
+Spot's doing these inspections and
+you're doing it and experiencing it all
+through the Orbit AI platform.
+Yeah. Thank you, Abby. Hi, Spot.
+>> Very cute.
+And you'll notice um Spot's a champ at
+stairs, but likes to go down backwards.
+It's a little bit safer. It utilizes uh
+those cameras that are in its butt.
+Is there anything else you want to say?
+>> No, I think so.
+Well, I think we're just about out of
+time, but um please join me in thanking
+Amanda for her time.
+>> Thanks everyone. So happy to be here.
+Thanks, Elena. [applause]

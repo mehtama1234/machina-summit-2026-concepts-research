@@ -1,0 +1,493 @@
+[music]
+Okay. So, thank you very much for uh for
+coming and thanks for the organizer of
+Machina 2026 for the invitation. So,
+I'll be speaking about uh well the title
+of my presentation is a bit uh say
+controversy but uh yeah I didn't find
+better to say whether humanoids are
+ready for the job. Okay. So it's the
+question I can give you the answer
+quickly right away. It's no. Okay. And
+probably you will I will try to argue
+why and what is missing. Could you bring
+this technology into the to the stage?
+So I think that the turn on human robots
+started basically after the uh disaster
+of Fukushima. So uh uh in fact uh Japan
+was under shock and uh the question and
+the society as well because the people
+couldn't understand why Japan who were
+leading basically robotics and human
+robotics at that time was not able to
+provide a solution for having what
+researchers used to write in the papers
+were meeting robots to send them into
+hazardous environments and to
+environments where it's dangerous for
+people to go. But at the end, okay, we
+end up sending these white guys, okay,
+to to do the job, the dirty job. And
+most of them, of course, was a bit old
+because uh they didn't take young people
+for the reason of high radiation, as you
+you might guess. So the other point,
+okay, of uh a disaster, let's say, now
+uh this is the uh forecast of what is
+the scenario for the growth of the
+population in Europe. Okay, I I better
+not show you the one in Japan because
+then it's really more alarming than this
+one with three like scenarios like in
+terms of immigrants. Okay, whether we
+keep the statu or we have four time of
+the statu and two times of the statu and
+this curve speaks by itself about the
+problem that are facing most of the
+major industries uh even in France okay
+that they are difficulties to hire
+people okay in some particular tasks.
+So um are you one who's ready for the
+job? What jobs? From my experience more
+long years working on on this field as a
+researcher uh I see three main okay
+applications or possible applications
+for this. So large scale manufacturing
+uh human assistance and also the defense
+and security for uh this um my opinion
+okay this is just my opinion is that if
+you have to put money now especially for
+countries like France it's better to put
+it on manufacturing because
+manufacturing will major the technology
+uh will solve a lot of problems that you
+might have as a gap between bringing
+that kind of technologies to the
+assistive okay and the social which is
+about 30% of the GDP in France or to the
+military in terms of theization which is
+about 2% of the GDP. So um if I was like
+a stakeholder and if I was a government
+I would put a lot of money on
+manufacturing and this robot
+manufacturing to promote first okay
+solving a lot of hard problems and
+industry could put money for that. Um
+this is um so a few experience of what
+we have done so far. This was in 2019.
+Okay. Uh where we gathered the team
+around uh um one of the first deployment
+of human as a as a as a proof of concept
+if you want and uh it was with Airbus.
+Okay. So Airbus was looking for
+automating their manufacturing. Okay.
+And they didn't find a solution for
+obvious reason. You cannot have fixed
+robot as you have in car industries and
+uh so the robot has to go into all the
+three floors and do a myriad of tasks at
+that time. Uh Pabris V I'm not sure
+whether he's here or not. Okay, he's
+there. He was part of the team and he
+was responsible for the working okay for
+the working expertise that you have. So
+the guy is sitting right there and uh so
+at that time we were really okay the the
+the main thing was to gather the best of
+the technologies we have in terms of
+control contact planning visual
+surveying um like um perception slam and
+we gathered all this to try to see
+whether we can have one use case in
+Airbus okay going into the floor etc.
+But you see when Honda for instance saw
+this demo okay they they confessed that
+they were not able to replicate it.
+Okay, at that time Honda was in the top
+for for IMO and we were looking uh into
+of course people who can help okay to
+design this robot because at the end of
+the project if Pabris remember Airbus
+was saying okay we are happy with this
+it was in 2019 but who will provide this
+robot okay because we are not able to do
+it ourself we don't want to do it so uh
+and the lesson I get from this first was
+that if you have a good technology if
+you are too early it's not good and if
+you are too late it's not good as well
+so you need to have the timing in terms
+of innovation. This was followed by
+Mishla. Okay. Also a big company as you
+say tire company in France. They gave us
+also a use case where you have to roll
+this mobile around in the factory and
+then mount it in what they call this
+unwinder machines. Okay. And you see all
+these demos were extremely complex to
+realize and we had at that time only
+prototype humanoids. Okay. We didn't
+have like the humanoid with high
+technology that we have now. And still
+we were this one was about not just
+walking and go to the place and do
+something but it was also about walking
+and doing so local manipulation
+basically with human robots. This bins
+uh weighs a lot around like 100 kg okay
+each and the robot has to locate itself
+in the factory and then go and
+manipulate these things okay all
+together.
+So with Honda, Honda have only B2C.
+Okay. The philosophy of Honda is we do a
+product for consumers. They don't they
+don't want to do business to business.
+So they they told me, okay, if you want
+to work together, we want to have robots
+that really help people to stand up. And
+this is also a first. We did it like
+last year we finished the project and it
+was about how can we make robots to help
+people to stand chair and the idea is to
+bring these people at houses. The
+problem is uh what I said to Honda is
+really that um it's not a matter of
+technology here. You have to build the
+whole environment. Okay. The liability,
+the insurance, uh the whole story that
+is beyond your control basically. So you
+have to accompany this. But even if you
+have this solution readily available in
+a box, okay, you can deliver it to the
+people, the people will not be able to
+to deploy it really at houses because
+you have to build also the whole
+ecosystem, okay, around it. And uh so I
+told them you better wait also that the
+technology is maturing in manufacturing.
+So they want to do that. Now they told
+me okay we can do things but we do it
+B2B inside Honda. Basically they will do
+a B2B first inside Honda and then okay
+they will see if we can deploy it uh
+this all these demos have been done with
+this software which is open. It's
+basically the gathering of all the
+knowledge we have uh since long. Okay.
+And it is free to upload. We don't
+control only human widths. control any
+kind of things as far as you have the
+URDF model of your robot. Okay, you can
+reproduce part of these things.
+So I wanted to come back to uh to
+aircraft because uh there is a common
+thing with all these applications. Okay,
+the people have really worked hard to
+design what they call what are the
+non-added value for the for the workers
+or even for the nurses or even for
+whatsoever. So I think the good starting
+point is to go about what are the
+non-added value tasks so that you really
+work [clears throat] on automating this.
+It was easy also for industry and the
+other reason for why it's good for
+industry because they have CAD models
+for basically everything. They know what
+they are manipulating. They have strict
+rules. Okay, even for the workers when
+it's much more easy to deploy the
+technology first in manufacturing to
+major it and after to consider other
+aspects. Um so what I have learned okay
+from all this is um that the good
+software and the would not compensate
+for uh for a poor mechanical design.
+Many of the things that we did was not
+good and the people also the workers in
+Honda mission say oh why your robot
+cannot do this why your robot cannot do
+that and and each of the time is the
+robot was lacking the degrees of
+freedom. Okay. Uh because most of the
+the right use cases for humanit is
+really to work in cumbersome
+environments and when you need to enter
+a product and get out of the product.
+Okay. If if like if you take the
+[clears throat] car manufacturing for
+instance you have uh the cars even if
+they are fixed or not okay the robot
+will work outside basically the product.
+But if you need a technology that goes
+inside your product, get out of your
+product that needs mobility and then in
+this case humanit are generally the best
+solution you might have even for for
+cars. I have seen a lot of demos on
+YouTube for cars BMW Mercedes. But you
+see I think all the people are say
+always the same thing but taking this
+object putting it there is okay. You can
+just put the wheels okay you put two
+arms on the wheels and it does the job.
+It's flat. You don't have stairs. You
+don't have things that to that you have
+to bypass. So the the optimal solution
+will be rather this than okay a human
+robot uh with legs. But in any case if
+you need to work in cumbersome
+environment you have to design your
+architecture so that you are able to
+reproduce the the motion inside the
+human space because most of the cases
+like in air bus etc. uh you you when you
+enter this environment if you don't have
+the right degree of freedom or if you
+don't have the right kinematics you end
+up touching and colliding everything
+basically and then the system is not
+able okay to move in the way the human
+moves
+um so this is uh what he's showing
+another one I learned is uh of course
+that uh now you have a lot of knowledge
+in terms of robustness in walking okay
+through thanks to a
+problem for this is that in industry you
+cannot go with your blackbox neur
+network and say okay just put is on your
+robot and that it's okay if your robot
+do a mistake from time to time. This
+doesn't go to work. It's not going to
+work. Okay, you need to you need
+certifications, you need explanability
+of whatever you have to develop and
+whatever you develop. So, we have taken
+another route from what is the trend
+now. So, I don't have time to go into it
+but uh at least that is for the local
+manipulation like a tremendous advances
+thanks to RIL and AI for but in robotics
+the control has never been the problem.
+Okay, the problem has always been the
+perception. Okay, and in fact my advice
+is to use datadriven approaches and
+blackbox policies in parimony. Okay,
+when you when you want to do this uh on
+the robot because okay they you need to
+have this part of certification
+explanability and it's better to say
+that you know the whole thing is
+something that I know how to explain but
+there is some few parts that are data
+driven so the controller can be aware of
+okay I I know that this part is not
+something I can rely on 100% so I can
+prepare like strategies to recover for
+that um so slam now is kind of a major
+technology so there's a lot of advanc
+classes I don't like uh I don't
+recommend industries to put money on
+that there is big groups already working
+on this it will be mature and you can be
+using it even with the semantics which
+we didn't have at that time it mean the
+slam that can understand what's around
+the environment and locate the robot
+very nicely um so the execution
+performance is another bottleneck so now
+you see all this robot are working
+slowly okay too slowly for the industry
+they say okay I want it is good but at
+least can it do the things at the human
+pace at human speed Okay, if not so the
+the industry will not bite, okay, to be
+honest. So you have to do like demos but
+uh or or controllers that works at least
+at the human speed and human pace. Um
+and of course last but not least uh if
+you develop a humanoid technology
+without having a digital twin like
+nearby or a management system that can
+allocate the task for this humanoid
+robot. So it will be extremely hard to
+deploy it. So in the case of Airbus they
+have of course if you take this robot
+whether even if it's really reliable and
+good at 100% if you cannot connect it to
+any digital twin or to management who
+can allocate the task automatic
+automatically uh it will not going to
+fly okay so that's why I think that uh
+what industry likes also wants and part
+of the requirements is to have a turnkey
+solution to integrate human into the
+manufacturing
+so safety is also something that not
+many people looked at okay But in
+industry you cannot and even at houses
+you will not bring any technology
+without safety and the safety is not
+just a matter of software okay it's all
+first of all a matter of hardware you
+have to build a smart hardware okay that
+and with sensing and all the things that
+make your robot safe okay in all cases
+safe means that it's safe for the human
+workers it's safe for the environment so
+in airbas for instance let me okay if
+your robot fall and it will touch the
+fusage and then it destroy the fus leage
+it's 200k for me reparation Okay, if
+your robot goes down in the on the
+stairs, it's falling, there is a worker
+there. How do you guarantee that your
+robot will not harm the workers? So
+these problems are really important and
+they are of the heart of if you want to
+deploy this technology to in terms of
+things to solve. So there is also one of
+the things we we were speaking about is
+so you can integrate really cheap
+sensing. Now tactile and capacitive are
+really there is really cheap solutions
+that you can cover all your robot with.
+Also there is no reason why the cover of
+the robot is rigid. This is a heritage
+of uh of automation robots like Faluk
+etc. So I have spoken since years to
+okay this robot now there is there is no
+reason why they need to have a cover
+which is rigid okay and it will make it
+softer and it will make it safer okay if
+it fails etc. So we work also a lot on
+on how we can design the robot with soft
+cover and soft structures also uh inside
+an inner bone of course but uh at the
+upper part or the outer part there is no
+reason why your robot should be rigid.
+So there is also a lot of discussion
+about whether we embed the batteries and
+the compute. Okay. And uh for me uh the
+batteries after talking with industries
+they don't need to have really long
+time. Okay. So people spend a lot of
+time of doing batteries that that stands
+long but in fact you don't need it. Uh
+obviously if the robot needs how know
+how to plug itself there is wires
+basically everywhere in Airbus Mishla
+and in all the case even in the houses
+the robot can't just take this and plug
+it if he knows of your robot knows how
+to plug itself then the problem is
+basically solved in indoor of course if
+you are targeting military applications
+that's another story okay it's the same
+for the compute now 6G will be gamecher
+basically and uh there is no reason why
+to embed okay a lot of compute in your
+robot you can have in a factory the
+computer that is localized somewhere
+okay and then communicate with your
+robot through 6G or through the
+networking so basically you need a
+minimum setup this makes your robot
+already safe uh not very expensive okay
+and something that it's practically can
+be deployed
+um the modality is also an important
+point uh so this I discovered also in
+industry so you there is no reason also
+why you build a human robot with fixed
+hands fixed head fixed feet okay um
+there is uh there is uh in Airbus mini
+most of the cases the workers have hands
+to grab tools okay they don't grab
+something else sometimes you need hands
+if you want to assemble things this but
+in most of the cases I see the workers
+will take tools so if you know if you
+want if you know how to change tools
+very quickly heads also and also the uh
+even the the the the part this is what
+we are doing with shuffler now I advise
+shuffler to to design new one that are
+extremely modular so that you can change
+the base for the locomotion you can
+change also the arm you can change uh
+many things but you need to design okay
+a system for changing mechanism that can
+that can stand okay the mechanical
+stress robustness change on the fly okay
+uh without the need of turning off your
+robot for instance uh to automate
+updates of the field bus which is not
+easy with the uh with all the field
+buses to make them uh to update them of
+course uh to automate of course the
+control and the policy without the need
+of learning again and uh no full
+retraining or programming this is also
+very important.
+So the challenge now what I have from
+industries is basically is how can I
+program my robot without having someone
+dedicated to that. Okay. And this is
+where AI is bringing a lot of things uh
+here like you you show what the robot
+has to do from a video and then you are
+able to play it right on the fly. So we
+have good results on that that are being
+patent now and uh we have standing a
+paper that will go into it because we do
+it differently. We don't generate
+blackbox policies. So we use AI but to
+generate codes that are explainable.
+Okay. And that can program your robot on
+the fly. Um of course local manipulation
+skill is one of the things which is hard
+to to train because you need to train a
+robot to walk and to manipulate
+together. So you need like a technology
+which is uh able to do that. And of
+course the third point which is not uh
+which is not which is important as well
+is to be sure you can make sustainable
+and eco-friendly hardware software.
+Okay. Um so this is some concluding
+remarks uh because many people are right
+now now they show deos okay which is on
+YouTube cycles and they work a lot on
+the AI and the compute and the digits
+okay but this is a long way to go to
+robots like okay who can do 1 million
+cycle because if you bring your robot
+okay to industries you really need okay
+to have uh more than a million or 200k K
+cycles where your humanoid robot is
+doing the job without uh of course
+failures and this is not a matter of
+bites okay this is a matter of atoms and
+molecules
+Japan if you unblock your robot okay if
+you say my robot is made in France or
+made in China I would like to know where
+are made the components okay because the
+Japanese have worked a lot spend a lot
+of time to know okay what is the right
+material material okay for my gearbox or
+for the for the flex of your gearbox
+okay and they are able to process uh
+like a steel which has zero default and
+this is about the process it's not about
+these things even China cannot reverse
+engineer it they have spent years to
+know what is the best lubricant okay
+that will allow you to have the cycles
+okay and this is a matter of atoms and
+molecules not a matter of bites thank
+you for listening and this is just the
+sponsors for for for the So,

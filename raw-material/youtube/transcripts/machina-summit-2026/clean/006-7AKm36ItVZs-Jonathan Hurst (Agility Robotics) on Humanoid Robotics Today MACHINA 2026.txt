@@ -1,0 +1,435 @@
+Hello. Bonjour. Good morning.
+Uh thank you for having me.
+I'm Jonathan Hurst. I'm chief robot
+officer at Agility Robotics. Uh this is
+our machine, Digit, humanoid robot. And
+I'm going to talk today a little bit
+about um how we go from the ambition of
+having humanoid robots that are part of
+everyday human life, multi-purpose,
+useful in many, many places.
+Um but how we start with that. How we
+have real-world impact right up front on
+our path towards this this big dream.
+I think that this is the best crowd to
+really um agree with me and not argue
+too much that embodied AI is the future
+of labor.
+We're going to have machines that can
+physically do most of the things that
+people can do, and then many, many more
+things beyond that. And that's going to
+fundamentally change how we do labor.
+Now, today, it starts in things like
+logistics and warehousing and simple
+simple, more focused tasks. But over
+time, it's going to gradually broaden
+towards more manipulation tasks, better
+and better dexterity, and other things
+to get out into more and more broad
+markets.
+And there's two big, main ways in which
+I believe that embodied AI, broadly, but
+also humanoids, are going to impact our
+economy. Number one is basic capacity.
+Just the limit that many of these
+industries have on the services that
+they can provide to customers because
+there are not enough people to do the
+jobs and do the roles. Especially with
+demographics changing and especially
+with population shifting, uh this is a
+really important one. But also basic
+capability. You can ask the question,
+"How many blacksmiths does it take to
+build a laptop?" And of course,
+blacksmiths can't build laptops. You
+have to ladder up the technology to get
+to the point of creating something like
+that. And embodied AI is going to do
+that. Now, that's the hardest to
+predict. It's hardest to know what we
+are going to be building in the future
+that these embodied AIs allow us to
+build, but I do believe that this is
+going to be a major
+important factor in our economy.
+So, the big question is really important
+to ask, and it's important for anybody
+building humanoids to ask this is why
+are why a humanoid? And um is it even
+the right way to do it, or should it be
+something else? And I would say we are
+building human-centric robots because we
+want to operate in human environments.
+And this is really a new era of
+robotics. Robots in the past have really
+had to you've had to design the
+environment around the robots.
+Industrial robot arms, you design the
+process, even AMRs, autonomous mobile
+robots, you have to have an environment
+and a space that's really suited for the
+robots. But having human-centric robots
+is what allows them to be much much more
+general purpose, more multi-purpose
+because so many workflows have been
+designed around us. We've designed the
+workflows around us. So, having a robot
+that can just walk in and do that
+workflow is very very useful.
+Now, we have also found at Agility as
+we've really looked into this that it is
+useful to have kind of a rough form
+factor like a person. You want two arms
+to pick up big things.
+Um you need to be balancing in order to
+be able to lift big things up high and
+do it in narrow spaces like hallways and
+go through doorways. Uh to do that, you
+have to be balancing. Uh you have to be
+dynamically stable. And a pair of legs
+is the best way to be dynamically
+stable. Legs can be more stable than any
+other solution that we've seen or that
+we know about in order to be balancing.
+So, upright torso, balancing, bipedal,
+two legs, and bimanual, two arms. And
+then because this is human-centric,
+having a face, having something to be
+able to interact with people. But that's
+kind of where I think some of the
+similarities may end.
+And a big question is on hands. We see
+so many five-fingered hands, for
+example, but why are we building
+five-fingered hands? I don't believe
+anybody knows the answer to that. Um
+dexterity is one of the grand challenges
+in robotics. Uh we don't do it well in
+robotics right now, certainly nowhere
+near human dexterity. And I think when
+you copy it, it's kind of like the the
+Disney Hall of Presidents. It's an
+animatronic. It maybe looks on the
+outside a bit like a person, but it's
+missing all of the most important things
+like force control and compliance. And
+of course, the intelligence in order to
+create that dextrous behavior, even if
+the hardware is physically capable.
+We found with Digit, for example, there
+was no five-fingered hand on the market
+that could do what it does. It's lifting
+25 kg bins. It's very difficult,
+actually, to grasp it like that. And so,
+we did build very powerful, strong
+manipulators. Um but we have generality
+because now you can swap manipulators
+out. A humanoid robot has the ability to
+use different tools for its task.
+Now, I think down the road we may be
+going by two or three fingers to start
+with.
+We see in like the Cybathlon, which is a
+competition in Europe where disabled
+people can augment themselves
+technologically by adding whatever uh
+they want. And so, amputees can have
+manipulators. And then they do a
+manipulation challenge, which is just
+measuring pragmatically, what can they
+do? And the winner the last 2 years has
+been a parallel jaw gripper, a very
+simple parallel jaw gripper with a one
+or two degree of freedom wrist. So, that
+tells us something about if we really
+want to achieve dexterity, we've got to
+think about this from the first
+principles approach and not just copy
+the way that people look.
+Now, the intelligence is a huge part
+also of how you need to solve this grand
+challenge of manipulation and whole body
+control and locomotion, all of these
+things.
+And I think it's very important to point
+out that there is no single silver
+bullet. There is no black box of AI.
+There is a big tent of computational
+tools that are all very valuable in um
+creating the behaviors that we want. And
+different tools are useful in different
+locations. So, I already talked about
+the hardware really has to be special.
+Um, you have to get the physics right of
+the mechanical system. It has to be
+back-drivable, have good force control,
+be able to have good compliant
+interaction with the world to make it
+even possible for any software, no
+matter what it is, in order to um,
+locomote and and manipulate things in
+the world. Um, at the high level, at the
+very top of this stack, we see large
+language models and vision language
+models and things like that that can be
+trained off of the entire internet. Um,
+and that helps with context and solves
+perception and so many things. But, it
+cannot control an individual robot. It
+cannot control the torques to all of the
+individual motors
+um, at every instant in time given the
+particular sensor inputs cuz there is no
+source of data that provides examples or
+correct examples of that. That has to be
+discovered. So, there's two ways to do
+that. One is you teach the robot via
+teleoperation or animation or motion
+capture or other examples. And we see
+that for teaching the robot sort of
+complex skills. How do you grasp things?
+A learning from demonstration. But, then
+robots have to practice. Robots have to
+use reinforcement learning in simulation
+and real life um, on physical robots in
+order to refine that in order to
+actually get to the high performance
+that that robot is going to be able to
+achieve beyond what a person controlling
+a robot would be able to do.
+So, all of these things, there's a lot
+here.
+So, the question is how do we get to
+this? If we solve these grand challenges
+in robotics, we can have these machines
+working with us and helping us in our
+homes. I certainly hope to have this um,
+by the time
+uh, within my lifetime. Uh, but today we
+can start with picking up bins, picking
+up totes, um, doing things in warehouses
+and logistics, doing useful work that
+customers are willing to pay for right
+now that provides a return on investment
+and lets us learn all of the very hard
+things about deploying robots. There's a
+lot about um information security, about
+all the metrics of uptime and servicing
+these robots, and
+um safety is the big one I'll talk
+about.
+So, we have deployed Digit uh doing work
+like this is in a GXO warehouse. You can
+see that Digit is picking up bins off of
+the autonomous mobile robot and putting
+it on a conveyor belt. This is something
+we've been doing for almost 2 years now,
+and um this is this is a commercial
+deployment.
+Here it is at Amazon stacking totes. You
+can see it's a different workflow, but
+very similar in many ways. So, we're
+kind of scoping a multi-purpose task
+within a range of scope and can
+gradually build that scope over time.
+Here it is at uh Schaeffler loading, you
+know, dirty oily parts into a a washing
+machine. So, these are fairly heavy.
+These bins are sometimes damaged.
+They're always a little bit different.
+They're always a little bit different
+weight. They're shifting weight inside
+of it. Um
+and and Digit's just doing this basic
+workflow.
+So, what's the real blocker? Yes, we've
+deployed and we've been deployed for a
+couple of years, but really it's it's
+safety.
+Um I'll go back a couple and see there's
+a work cell around this robot. There's a
+physical barrier that is separating this
+machine from any people that would be
+nearby.
+This is the only way that we can operate
+within the existing regulatory
+environment that we know of.
+Uh any dynamically stable, any balancing
+machine is going to need to be behind a
+physical barrier like this, which really
+limits its utility. A robot that has to
+be in a cage is not very multi-purpose.
+It's not utilizing the benefit that a
+humanoid robot can actually utilize.
+Being human-centric requires being safe.
+It requires being able to go out into
+unmodified human environments, and
+safety is the blocker right now because
+these robots can do the physical work.
+So, step step one well, I'll start with
+this.
+You know the robots will fall. That's
+unavoidable. That has to be acceptable.
+It has to be okay if a robot, you know,
+the robot can't land on somebody's foot
+and cause even a basic injury like that.
+Basic pinch point kinds of things,
+right?
+Um but beyond the basic pinch points and
+hot surfaces and the robot falling,
+judgment errors when a robot is making
+intelligent decisions in an environment.
+Like you don't want it to pour hot
+coffee in your lap or start the dryer
+when there's a kid hiding in there
+because they're playing hide-and-seek or
+any number of things like that that we
+haven't begun to envision. The world
+hasn't begun to envision yet, but will
+be necessary before we can deploy these
+in homes and environments like that.
+And there's a lot of rules about even
+social rules, but also basic safety
+rules. A robot has to make intelligent
+choices about whether it touches you on
+the shoulder or the eyeball. And which
+one is okay. And it has to do that not
+just 90% of the time, but in sort of a
+statistically, you know, true 99. some
+number of nines percent uh validated by
+third parties
+uh such that insurance companies can
+understand the risk that they're
+undertaking. It is a huge very, very
+high bar
+to get there. And they cannot do this
+now.
+So, step one is operate inside of the
+safety cage. But a whole bunch of other
+things like a control pendant, safety
+rated power electronics, safety rated
+data bus so that when you hit the e-stop
+you have a a well-known and
+well-understood behavior that again a
+third party has validated. It's not just
+you stating that this should work. It's
+somebody else who's gone through this
+design with a fine-tooth comb and it's a
+lot of certification.
+Step two
+and this is what Agility is releasing
+later this year with our Digit V5 robot
+is a machine that can detect people
+around it and change its behavior as
+people approach. So, the robot can slow
+down, it can stop what it's doing, set
+its load down on the ground, and even
+get down on the ground and sit down and
+turn power off before a person can touch
+the robot. This allows a robot to get
+outside of a safety cage, outside of a
+work cell, and still operate in human
+environments, in human spaces, near and
+among humans.
+Now, that's a necessary step in order to
+get to step three, which is where we'd
+really like to go, is robots being able
+to make those intelligent decisions
+about what they can touch and how they
+can touch them. And we believe that this
+is going to follow a similar path to
+what we've seen from autonomous
+vehicles. Now, in autonomous vehicles,
+we had safety drivers and collected
+millions of hours of data and start to
+be able to predict what a pedestrian or
+a bicyclist will do and be able to react
+appropriately to that in a way that
+actually allows these robots to be
+autonomous. Now, of course, with a
+humanoid, the complexity is vastly
+greater than cars on the road. Cars have
+two degrees of freedom. They can go
+faster and slower, and they can steer
+right and left. Humanoids, of course,
+have so many more degrees of freedom.
+And roads are far more structured than
+homes and workplaces and social rules in
+human environments.
+And we cannot have safety drivers on a
+on a robot. There's no real way to have
+a robot be safe and also productive if
+you have a person controlling it the
+whole time.
+So, that's why I say step two is
+important because now we can have a
+fleet of thousands and thousands of
+robots deployed doing useful work,
+collecting data, while we build the
+safety setup for the intelligent
+decision making of a robot and build the
+statistical case that shows reliably
+that these robots do what we expect them
+to do and make the intelligent choices.
+That's how we get to robots that operate
+safely among us in human environments
+and even get to the point where you can
+hand them something and physically
+interact with a humanoid robot, which is
+not possible today.
+So, we want to start with what robots
+can do right now, and that's logistics
+and warehousing and that kind of
+semi-structured industrial work that's
+still too unstructured for automation to
+serve right now. People are still doing
+this task, but Digit can walk in and
+start doing this job and be a source of
+automation
+without installing additional
+infrastructure. And then, we continue to
+build out the use cases in terms of each
+picking and dexterous manipulation and
+safety
+and get into broader and broader markets
+and start to cover more and more of kind
+of the general labor and doing physical
+work in the world. This is the path.
+In order to get to broad, in order to
+achieve this general-purpose dream, we
+need to start with focus. We need to
+start If you're going to do 100 use
+cases, you start with one use case, and
+then two, and then three, and you work
+your way up. And what's really exciting
+about humanoids that is not the case
+with autonomous vehicles, an autonomous
+car has to be fully safe and fully
+autonomous and above a certain bar
+before it's useful. A humanoid robot can
+be in more semi-structured environments
+today and step out of the work cell
+today and be useful and get to the scale
+of hundreds of thousands of robots and
+be a huge market even very early here in
+doing logistics and warehousing and
+manufacturing and and that sort of
+thing. Um but then, building on all of
+that, you start to expand out into
+retail markets, and you imagine a robot
+working in a grocery store
+palletizing, depalletizing in the back,
+but then also unpacking boxes and coming
+out and being able to stock shelves and
+being able to start to operate close to
+people. And then, through that path,
+eventually getting to the point of
+hospitals and construction sites and
+home and everything else.
+Um and that's where I'd like to stop.
+Thank you for your attention. Uh we're
+very excited about humanoids getting out
+into the world.
+Thank you.

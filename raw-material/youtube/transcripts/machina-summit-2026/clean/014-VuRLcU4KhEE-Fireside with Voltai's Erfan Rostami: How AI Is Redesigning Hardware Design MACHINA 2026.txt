@@ -1,0 +1,481 @@
+[music]
+We have Eran Rostami the CTO of Volulti
+which are building the AI for chip and
+electronics design serving
+semiconductors industry. Thanks for
+having you here man.
+>> Of course pleasure to be here. Good
+afternoon Paris.
+>> Do you want to do like a short
+introduction of yourself? I think you're
+doing it best.
+>> Sounds good. Uh hey everyone. Uh my name
+is Aron. always having fun. Uh started
+Voltai two years ago. Uh with the belief
+that infrastructure is the barebone for
+everything in AI. I was a researcher at
+Stanford University. Later I worked at a
+semiconductor company called Cyber
+Systems. They built a wafer skill chip
+as big as my head and that gave the
+passion to basically figure out how can
+we use uh reasoning models intelligence
+for designing complex
+electronics and semiconductors and glad
+to be here.
+>> Yeah man I think that's a great
+introduction. We've got some challenging
+questions too.
+>> Go for it
+>> for you. So let me start with the so
+we've got the three sections for this
+panel. First of all will be the
+invisible bottleneck of hardware where
+we will be explaining about like what
+are the challenges when it comes to
+designing hardware. Second AI native
+chip design
+let's talk about chips that AI
+>> we can talk about that
+>> and the third one will be what it means
+for the physical AI builders. I would
+love you to expand and go more into
+details in that topic but let's start
+with the invisible bottleneck of
+hardware. So the first question like you
+know you're a CTO of a company building
+AI for one of the most technically
+complex domains right on earth
+semiconductor and electronics design. So
+the question would be for the people in
+this room and most of them are actually
+building in the physical AI space and
+systems why should they care about what
+happens earlier in this talk.
+>> So the question is what why should you
+care about the electronics and
+semiconductors?
+Um
+couple years ago when I started a
+company the belief was that
+um
+everything that we touch from automotive
+rockets medical devices and most
+importantly nowadays AGI these are all
+things in my view bottlenecked by our
+abilities in innovating at the hardware
+layer. And fast forward three years
+later, we see that the world's most
+valuable company, Nvidia, is a is a
+semiconductor company. Had you just
+invested then, you would have been rich
+by now. And the companies in this space
+who focus on this critical bottleneck
+have gone to change not just the economy
+but also countries. TSMC has changed
+Taiwan, Shenzhen has changed Taiwan, uh
+has changed China, Nvidia is changing
+United States. And I believe that for
+the next frontier as well for I guess
+robotics the folks who are going to be
+focusing on the very low level the most
+complex part of the stack which is the
+intelligence that runs on the hardware
+the electronics and semiconductors
+that's the part that would be the
+critical bottleneck and whoever who's
+building in that will be the guess most
+uh fortunate as well [clears throat]
+benefit from it.
+>> Yeah.
+Um
+I guess that uh and until 2030 2031
+my prediction is that the world is going
+to be uh mostly move away from being
+bottlenecked by power being bottlenecked
+by silicon and I guess TSMC being the
+biggest choke hole for the world
+continues to be one while we have
+addressed many other bottlenecks and I
+think that would be also true for
+robotics Well, we have solved all the
+problems in the mechanical design. We
+have solved all the problems within the
+actuators. But then all of these
+mechanical aspects are the wrapper for
+the electronics part of it. And
+I think what Elon is doing with Terrafab
+is the right thing to focus on where
+long-term that is probably going to be
+the world's most valuable company.
+>> Okay.
+Fair enough. You know right now when you
+look at the appliance and devices like
+all of them are labeled with the AI
+stamp on it like what does really an AI
+breakthrough in hardware design actually
+look like from your perspective from the
+CTO perspective?
+>> Great question. So one right now when
+you look at the design process uh
+traditionally takes about three years
+and this is why a lot of the I guess the
+silicon providers and hardware companies
+need to do the job of predicting the
+future that the hardware that you're
+building today is it going to be
+relevant 3 years from now or not four
+years from now or not but then uh the
+reason that it takes so long to design
+It is uh the manufacturing process
+actually takes about 6 to 8 months but
+the majority of the those three-year
+period is spent on making sure that
+whatever you're designing is correct.
+The amount of logic is very dense and is
+very little but if there is a bug we're
+talking about billions of dollars in
+recall of the hardware silicon and
+electronics that you've designed and
+then recalling them. So how about
+we can reduce that three-year timeline
+into 9 month into 5 month where we no
+longer have to play the guess of where
+are the workloads are going to go into
+the future where are the model
+architectures are going to be what is
+the demand going to look like where we
+can enter a more reactant a a reactive
+mode where whenever we see an
+architecture a model architecture that's
+I
+uh getting more popular being the VAS,
+the VLMs and energy based models,
+diffusion models and all of that. We can
+change the underlying hardware as fast
+as possible. So we can like deploy that
+to have the most efficient hardware to
+run the most efficient model. Um
+that is that is a paradigm that the
+world has not seen. To put it into
+perspective, imagine
+when we built the internet, updating a
+website would take three years.
+What would the world would look like
+today? I don't I don't think we will be
+here if updating a website was like
+this. It would take three years. But
+this is how it is in the hardware world
+where the next generation of uh kyber
+that we're talking about ultra rubin
+racks that we're talking about are going
+to like take 3 4 years to get out there
+and then get updated. This is why I
+believe that the world is fundamentally
+bottlenecked by our abilities to iterate
+and innovate fast at the hardware layer
+which is ultimately also limiting our
+ability to innovate at the model
+intelligence architecture.
+Okay. Um, I think we are in a great
+space where people really get what
+you're talking about, especially in the
+physical AI space. I mean, these people
+are used to iterate over hardware, which
+is not as easy as iterating over
+software, of course. So, I I'm sure they
+got your point very well.
+>> Yeah. I mean I think the other mental
+model to adopt here is that the ultimate
+user of these whatever we're building
+here being the models we're training the
+robots we're building the data centers
+we're uh commissioning are actually not
+going to be humans the ultimate user are
+going to be the agents and the
+intelligence
+and that's when we enter a world of
+infinite usage where we're no longer
+bottlenecked our abilities in the number
+of people who could instantiate the
+agents to go do the work but an agent
+could instantiate a thousand sub agent
+under itself to do the job to do the
+task and I think that's the part that
+where the hardware becomes the
+bottleneck
+and the models as well do the
+architecture exploration on what is the
+best model to train what is the best
+intelligence to to discover rather than
+humans
+And after that the other the way we have
+seen in scaling loss uh there is the
+number of parameters that matter is the
+amount of data that matters. A lot of it
+now the world is running out on data
+that is available on the internet and we
+are relying on verifiable domains to
+generate data that practically will be
+better than humans and I think that
+would be the ultimate test for
+intelligence where we're no longer bound
+by the quality of the proprietary data
+that you collect from enterprises or
+humans but actually we can generate the
+data uh based on the fundamentals of
+physics.
+and the first principles of the world
+and that is going to be all dominated by
+also the compute layer where the compute
+is going to be the biggest contributor
+of generating highquality data better
+than what humans can do. So both at the
+intelligence layer where the where the
+agents will do the model exploration
+will discover new architectures and also
+at the data layer. Uh I think that's
+kind of like where the infinite there is
+going to be infinite demand for
+inference for hardware but then the the
+world is going to be bottlenecked by
+silicon.
+>> Okay. Um let's go back to the second
+part about the AI native chip design.
+Can you walk us through a specific
+concrete example of where AI native
+design tools change the outcome in
+actual hardware timelines?
+>> Great question. U
+I'm pretty sure you guys all familiar
+with companies like Brock. They're a two
+trillion dollar company. Um,
+actually not a lot of people know what
+they do. They're very secretive about
+what they do. Uh, they're most well
+known for taking care of physical
+design, for building the AI accelerators
+for some of the world's most smartest
+companies.
+We're talking about the TPUs designed by
+Google. We're talking about jalapeno
+design by open AAI where they take care
+of the front end and the logical design
+aspect of things while a lot of the
+backend and the physical design when you
+have the logic you need to turn it into
+like physical implementation at the
+foundaries is mostly done by Broadcom.
+Why is that the case?
+When you look at the
+node processes from TSMC for seven
+nanometer and below,
+the error rate that you see produced by
+the simulation tools is about 15 to 20%.
+error rate. Meaning that uh whenever you
+have a standard cell and you have
+voltage going through the metal that
+excites the metal creates an
+electrostatic field around itself. You
+can almost be sure that most often time
+when you like manufacture that piece of
+hardware it's going to have 20% error
+rate that it's actually wrong. And a
+company like Broadcom has decades of
+experience of manufacturing these
+things. So they know the guard bands in
+the design process that how far they can
+push the limits on the physical design
+before they start failing where they
+produce a silicon that is actually not
+functional and doesn't bring up or has
+crazy parasitics and RC extraction RC
+problems.
+They have that they have
+capitalized on that knowledge and the IP
+that they've developed around this.
+Hence why they have an advantage to be a
+$2 trillion company. And I believe that
+when it comes to being an AI native
+workflow, how does it change that
+process is when we can reduce that error
+rate and the architecture exploration
+that you do to less than 1%.
+the possibility of you turning the logic
+when you to the physical design and then
+having an error when you can do direct
+numerical simulation with AI that allows
+for higher fidelity and higher degrees
+of freedom of simulation and for the AI
+to be able to do the all the ex
+exploration around the architecture to
+get to an error rate than less than 1%
+is going to enable designs in the future
+in a way that the world has not seen yet
+because the current status quo operates
+on a 15 to 20% error rate but then if we
+can reduce that to 1%.
+We're going to see a lot of exciting
+designs.
+>> Okay man, perfectly summarized. Thanks
+so much. Um considering we have so many
+physical AI builders and robotics
+builders here, I would love to focus a
+little bit on them in the last part of
+our session. So to all the founders and
+the engineers from the physical AI space
+building humanoids, building industrial
+robots and physical AI systems, what
+should they understand about the cheap
+design layer that most do not? Is there
+a direct implication for how they think
+about the hardware strategy specifically
+these people?
+>> Okay. Um
+I I will touch on two points on when it
+comes to like the physical AI builders
+in this room.
+the things that I'm talking about what
+does that mean to you so I will touch on
+two points one is the extreme code
+design across the stack and the second
+piece of it is that
+u I think the world is going through the
+robotic space is going through the same
+wave of innovation that we're seeing at
+the data center space so let's talk
+about the extreme code design when we
+look at the
+Intel Xeon
+32 nanometer the ratio of logic core to
+the LLC cache used to be around 70%.
+That we had when you look at the die 70%
+of the D space was dedicated to logic
+cores while the rest was given to more
+like SRAMM and cache type of
+architectures. But then when you go to
+from 32 nanometer to 7 nanometer that
+ratio drops to around
+uh 20%. Why is that the case is because
+like we had less logic per die area
+compared to the LLC cache because
+at 7 nanometer and below the level of
+thermal density that you get
+produced by the logic core was so high
+that you simply not be able to do the
+thermal removal from it as efficiently
+as possible. So people put less logic
+and they put a lot more cache around the
+logic because that takes it's more uh it
+has a lot more space around it so it
+produces less heat and
+uh so they just put more cache around
+the logic but then what happened was
+with the grace hopper designed by Nvidia
+they introduced the liquid cooling
+technology that allowed that ratio to go
+back up to 70% again. Meaning that a
+change at the at the data center
+architecture level which was introducing
+liquid cooling and instead of air
+cooling data centers allowed the
+designers the chip designers at the very
+low level and instead of being
+constrained by the thermal limits uh and
+then using less logic to like actually
+pack as much as logic while being able
+to remove as much as heat as possible.
+So let's take that analogy also for the
+robotic space where u again on the data
+center space we saw that Google went to
+design their own TPUs open AAI went to
+design the Jalapeno we see that
+anthropic is doing a deal with Samsung
+to do the next generation of chips as
+well
+>> and I think this is where the robotics
+is also going to go where right now you
+guys are using the rock uh the Jen
+uh chips you're using the Qualcomm ons
+you're using the rock chip and you're
+using offtheshelf hardware. But if
+you're going to be a successful company,
+the lesson that we learned from Steve
+Jobs was the best companies in the world
+who like build the best products
+ultimately build very verticalized
+design in a sense that they the way that
+they build the best iPhone was
+eventually when they went to building or
+the best MacBook was when they
+eventually like built the M1 chip, the
+M2 chip, the M3 chip, fully vertical
+integration to build the best product.
+This is what Tesla also did. uh this is
+what BYD is doing and I think we see we
+will see the same thing with robotics
+that right now everybody is using
+off-the-shelf hardware but my hypothesis
+is that if you want to have robotics to
+run trillion parameter models with much
+more reasoning cap capacity with much
+less latency and a lot less power
+to like start building custom hardware
+and custom ASIC and custom PCB that
+gives you an advantage antage a
+competitive advantage compared to any
+other I guess robotics and physical AI
+company out there.
+>> This hasn't happened yet because I think
+we're still like very much early in this
+process. Uh the model architectures are
+not set yet the VAS and the VLMs. I
+think there's a lot of like change on
+that. But in future if we want to have
+robots with extremely high reflexivity
+I don't think we can like fully rely on
+just internet access
+uh and just like deal with the kind of
+problems that we deal like you your
+iPhone when you still like use it it
+still struggles with changing network
+access between the Wi-Fi the internet
+and all of that and if you're just
+relying on the cloud to do inference of
+intelligence to the robot
+uh most likely your robot is going to be
+very low quality. The only way you're
+going to have the best experience is
+when we you can do edge inference and do
+vertical integration
+of the model and then building custom
+ASIC for that. So you have low latency,
+low power and high intelligence.
+Uh and this is a trend that we will see
+very we'll see in the future more and
+more of it. If you do that, we're here
+to help you guys. We build intelligence
+to build electronics and semiconductors.
+We have built a hardware team that is on
+par with the OpenAI robotics team. A lot
+of them were used to be colleagues,
+colleagues at Apple. Some of them went
+to OpenAI. Some of them came to Voltai.
+>> And if you have the ambition, the robot
+that you're building, you wanted to uh
+build custom PCB, custom async and all
+of that. We are here to help you.
+>> Awesome, man. That's fantastic. We are
+running a little bit out of time, but we
+>> Okay, we've answered all the all the
+critical questions we wanted to answer
+and address.
+Thank you so much for coming here from
+SF, right?
+>> Yeah.
+>> Um, so that was a long way. So, ladies
+and gentlemen, that was the fun CTO of
+Volti. Big applause for him. Thank you
+so much for coming again. It was a
+pleasure. Thanks for having me. Thank
+you.

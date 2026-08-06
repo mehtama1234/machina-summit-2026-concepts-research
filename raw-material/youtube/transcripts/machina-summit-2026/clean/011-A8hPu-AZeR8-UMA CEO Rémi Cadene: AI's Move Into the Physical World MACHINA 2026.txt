@@ -1,0 +1,296 @@
+[music]
+This is our AI.
+We develop it at UMA. It control a
+standard robot arm to automate the task
+of picking and sorting anchors of
+various colors.
+It's a single nural network.
+So here, nothing here is scripted.
+No pre-programmed trajectories, no
+hardcoded rules that tell it where to go
+or what to pick next.
+These robots sees the world's raw pixels
+and decides what to do next.
+Perception to action, end to end. It's a
+bit like you and I when we reach out for
+a cup without even thinking about it.
+Yeah, this kind of behavior, it's always
+amazing to watch.
+What's special with this AI is that it
+can operate for hours robustly with
+precision,
+adapting to what it sees.
+And so
+what you see here is the beginning of
+something profound.
+AI is moving into the physical world,
+embodying the next generation of robots.
+Robots that are mobile, they can move
+around, dextrous, they can manipulate
+different type of objects. And they are
+smart. They learn and adapt.
+And these robots will help us in our
+daily lives. They will be in
+manufacturing, in agriculture.
+They will be even in services and in
+your rooms.
+In labs, they will turn years of
+research in just a few months.
+We won't be limited by our capability to
+make, but only by our imagination.
+We are entering an era of limitless
+creativity.
+This might feel like a distant future,
+but it will happen much quicker than we
+expect because soon enough those robots,
+they will be absolutely everywhere and
+they will be absolutely needed.
+And this is because
+we are facing three crisis in our
+generation hitting us at the same time
+and converging on one bottleneck that
+these robots will solve.
+And so we need to build these robots now
+and we need to build them right. And
+that's why nine months ago I co-ounded
+UMA to build the universal mechanical
+assistant.
+So let me tell you
+about this crisis through a series of
+examples that might be a bit confusing
+at first sight. So first crisis
+demographic.
+In this image, you can see a factory in
+southern Germany.
+Profitable but shutting down.
+Not because demand fell, but because
+they could not hire the machinists, the
+welders, the technicians.
+They tried to raise wages. They tried to
+pay for relocation, but nothing worked.
+And this is a well doumented phenomenon
+happening right now across Europe and
+accelerating.
+Second crisis environmental
+the fact that we know how to stop
+climate change. The technology exist.
+We need to adapt and build the
+infrastructure quickly enough. And for
+this you need someone that manufacture,
+assemble and install the the technology.
+And so in this picture, we illustrate
+that
+families
+stopped their plan to install solar
+panel on the roof because it just became
+too expensive when the labor is missing.
+The third crisis, it's about economy.
+It's linked to
+supply chain organization worldwide. So
+I'm sure you remember co
+um we discovered that among the most
+powerful nations on earth some were
+struggling to manufacture their own
+masks and we are just talking about a
+piece of paper and elastic.
+Another example is the US canal
+blockage. one ship stuck the all uh the
+world economy for two weeks
+and and then maybe recently you try to
+purchase a new cell phone or a new
+smartphone the price uh went up and
+that's because of a single choke point
+in uh Asia for the manufacturing of RAM.
+So
+most of the goods that the world
+consumed today are manufactured in just
+a few places which create massive
+dependencies and geopolitical tension
+and we are in a in an era where we need
+to avoid this at all cost.
+So the few examples that I mentioned
+they might feel unrelated but they are
+not
+three crisis
+demographic environmental
+economic
+and they converge on one bottleneck
+which is labor its availability and its
+cost
+and this is accelerating. So if you have
+to remember only one statistic it would
+be the number of children per family
+across every continent
+it's going down
+and we are almost below the replacement
+rate that's the number at which the
+global population of the world just
+decreased. So this is a a normal
+phenomenon just societies evolved.
+But for your information,
+the US, Europe and China are well well
+below this rate already.
+As a result, 85 million workers will be
+short in less than four years from now.
+And this is the equivalent of 8.5
+trillion in economic value just gone in
+less than four years. And and this can
+be compared to the GDP combined the
+combined GDP of the UK and Japan.
+So three crisis
+and one solution.
+We need to build this next generation of
+robots as quickly as possible. because
+they will address the labor shortage and
+fill this gap.
+So what are the challenges?
+First challenge it's building the robot
+brain.
+This means that we need the ability,
+I mean those robots need the ability to
+learn as quickly as possible, as
+efficiently as possible the task that we
+do. And so at UMA, we took a unique
+approach.
+Even before scaling data and compute,
+we came back to the fundamentals
+and develop and focused on a radically
+efficient learning approach. We call it
+realtime learning and it is inspired by
+how you and I, we learn.
+Do you remember the first time you
+learned how to tie your shoes?
+I'm sure that u your parents teach it
+teach you how to do it like she just
+show you the task then you fumbled you
+try again you practiced and at some
+point your hands just knew and that's
+real time learning.
+So now please have a look to this video.
+So this is our AI controlling two robot
+arm
+and automating the task of picking and
+sorting various items. Actually picking
+and scanning and dropping various items.
+four items that are extremely
+challenging with today technology inter
+robotics. So the first item is cables
+that are deformable. Then you have
+shampoo quite slippery. You have mouse
+pad super thin and then you have those
+bags that need to be handled with care
+because they are fragile.
+So you see the the AI retry retry and
+then I get it.
+Here we are messing with it.
+It's amazing to watch. No.
+And finally it succeeded.
+We really tried hard to mess with it and
+still it figures out.
+And
+this is how you go from one robot doing
+one task to billions of robots doing
+almost anything.
+So now second challenge building the
+body of the robot.
+Atuma, our conviction is that to learn
+like us, to automate the task that we
+do, these robots need to be humanoid.
+They need a body to navigate our space
+and hands to handle our tools.
+And so today
+I'm extremely excited
+to unveil
+our northstar design.
+We designed it to be approachable,
+calm, and competent.
+A robot you would feel at ease having
+around in your workplace but also at
+home. And here you can see it wearing
+clothes like futuristic looking kind of
+clothes
+and
+we design it with three safety design
+principle.
+Safety
+is fundamental. It's it is at the core
+of what we do at UMA. And it means
+caring for people and looking after
+them.
+And first safety principle, it is
+lightweight,
+less mass, less kinetic energy. We baked
+safety into the physics.
+Second, we borrow from iOS space
+redundant independence layers of safety
+that reinforce each other term of
+software systems.
+Third, our own world models is dedicated
+to safety. before any action.
+Our world model predict the outcome
+and then it's just enable the movement
+only when the path is clear.
+And I'm sure that the companies that win
+at robotics are not the one that ship
+the most units today.
+They are the one that earn the trust on
+the long term.
+And at TUMA we are building the safest
+but also the more capable most capable
+robot starting with our very first
+prototype
+develop in our lab to validate the
+fundamentals.
+We call it version zero.
+I like
+AI software hardware a small team 9
+months
+designed and assembled in Paris
+and so I often get asked why did you
+start UMAR in Europe
+it's because it's the best market.
+That's where the situation is the most
+critical.
+Highest demand in term of automation,
+highest cost of labor. That's why we
+started Umar in Europe and North America
+and Asia will soon follow.
+In term of go to market,
+three steps. First, logistics. That's
+where we have control environments.
+We can deploy hundreds of robots at a
+single site and demand is im immediate.
+Second step manufacturing that's where
+the requirement in term of dexterity is
+higher and third homes where this
+technology will increase the
+quality of life for everyone.
+So now we know what to build, how to
+build it, and where to deploy. But how
+do we build these robots quickly enough
+to address the crisis I talk about?
+Let me tell you about smartphones.
+From the first iPhone
+to as many as people on earth, it took
+the industry only 12 years.
+But
+a smartphone cannot build another
+smartphone. A robot can.
+So each generation of UMA robots
+is going to build the next one
+more capable,
+safer
+and at a speed which is exponential
+robots building robots. That's how we go
+quickly enough.
+So this next generation of robots,
+it is about making sure that the work
+that holds our society and our life
+together still gets done and done for
+every one of us.
+Every generation faces challenges that
+shape the future. And this is our turn.
+And at Tuma, we build this future with a
+deep sense of responsibility, humanistic
+values, and passion.
+Thank you.

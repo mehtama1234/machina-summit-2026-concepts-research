@@ -1,0 +1,655 @@
+[music]
+We're going to keep this uh panel
+conversational, but maybe to kick us
+off, do each of you maybe want to talk
+about your business for and yourself for
+20 seconds so that the audience know uh
+who we're talking to.
+>> Yeah, happy to and excited to be here.
+Uh I'm Ani Kelkar. I'm a partner with
+McKenzie from our Boston office. I
+globally lead McKenzie's robotics and
+physical AI efforts which gives me the
+privilege of serving the ecosystem from
+investors to technology builders to
+pertinent to this conversation a lot of
+the end users who will adopt robotics.
+>> Hi uh I'm K uh from Tron KKK Japan. So
+we are working as some system integrator
+of physical AI and technology
+distributor. So we distribute cutting
+edge uh physical AI technology from all
+over the world into Japan and we are
+working to realize their manufacturing
+physical application with the Japanese
+enterprise uh customers mainly
+automotives.
+Thank you very much.
+>> Yeah. Hello. Good afternoon. My name is
+Roger Roger Joe. I'm representing this
+AGI bot company here in France uh with
+uh double targets. The first target is
+to develop the market around our
+solutions which is mostly in the
+humanoid robots and second one is to
+build active ecosystem here in France.
+Yeah, glad to meet you all.
+>> Hi everyone, my name is Yan Yan Rudat.
+I'm the chief growth and revenue officer
+with Humanoid. That means I run the
+commercial parts of the company and also
+the partnership elements. Have more of
+an automotive background. Was an early
+employee with Tesla. Scaled the business
+from zero to the first billionaire and
+hope to do the same now in this new tech
+space.
+>> Amazing. What a great panel. Anie, I'm
+going to start with you. Um, robotics
+and humanoids has attracted billions of
+dollars is of investment. what separates
+uh the successful companies from the
+ones that won't be here in a couple of
+years.
+>> I I think there is a fundamental sort of
+market making motion that's underway
+right now. um which is companies are
+trying to discover applications that
+make the durable market. the market that
+has a return on investment that leads to
+a fleet of robots being deployed whether
+it's a manufacturing site or a logistics
+site while at the same time trying to
+generate revenue in the near term from
+this developer market where a lot of
+people are still purchasing robots
+largely in entertainment applications or
+research applications and so I think the
+successful companies will have the right
+portfolio mix between creating
+applications that are more enduring
+things like you see with Boston Dynamics
+with the inspection application. You saw
+with DJI bot with sort of their pick and
+place applications, things that are
+adding value to customers today while
+keeping a road map to much more
+complicated tasks in much more
+unstructured environments but not
+jumping the gun too early.
+So maybe to the panel, each of you sit
+in a different part of the value chain.
+What does it mean to build a flourishing
+business in your part of the business?
+Yan, why don't you start us off?
+So I would say we have a different
+approach. Um what we do is more some
+sort of business transformation um with
+companies. So we're not uh leading
+through classic uh automation, pricing,
+costbook, etc. conversations. It starts
+maybe more higher up in the organization
+with thought leaders and and chiefs and
+discussing more the educational part and
+the consulting part you know um with
+them about what for example it could
+mean to have a third shift without
+hiring people you know or whether they
+have like a certain uh strategy around
+dark factory. So, and from there um then
+I mean lead the uh conversation more
+towards the actual product and what it
+could mean for them. But it's definitely
+more centered around business
+transformation elements and consulting
+around that.
+>> Yeah, we noticed that at Boston Dynamics
+also that when you don't prepare the
+organization for what's about to happen,
+it often fails, right? Um so in the end
+we ended up putting posters up and
+telling people, hey, there's robots that
+are that are coming. So I think you're
+right successful implementation will
+require business transformation as well.
+Maybe just to add I think we we had
+surveyed u executives across different
+verticals around why they had not
+automated at scale and just to give
+people dimension only 6% of factories in
+North America have any robotics at scale
+and just in last year you know China is
+now installing 10 times as many
+industrial robots than the US and um
+when you ask executives the largest uh
+respondents or largest share of
+respondents come back with, well, the
+business case was quite narrow, right?
+You had to like squint your eye. You had
+to think about the business cases. This
+is a longerterm investment. This isn't
+going to be a 2-year payback period. The
+second biggest one was the internal
+capabilities and change management. It
+was we did a first P. It was great.
+People got excited about it. Then the
+spotlight shifted. The robot broke. We
+didn't know what to do with it. We
+didn't know what, you know, how to tell
+the operations manager, hey, you're
+living with this. We're here to help
+you. We'll make sure the robot is up and
+running. And so, a lot of these PC's
+start becoming monuments rather than
+proof points that the technology works.
+>> Yeah. Roger, obviously you're in charge
+of France for Agi bot, but um when you
+hear stories from from China, is it
+similar there or is it much faster in
+terms of adoption and um business
+transformation?
+>> I think there are uh clearly certain
+similarities. I think in the two nation
+we are pmatic people, right? uh we do uh
+step by step to trial it to get a P done
+and to scale up to get a measurable
+payback the ROI and before you know
+deploying uh large scale. Uh however in
+China the difference is we compete on
+speed. Yeah. We want to deliver as many
+as humanoid units to different scenarios
+uh to have real feedback from the dehan
+from the field and to realeimont to
+refeed you know the the loop to improve
+uh here in Europe. My feeling is uh uh
+we need to you know look into uh the
+compliance the regulation which we took
+very seriously as a feature uh of the
+product. I can give you an example.
+Before we shipping out even the first
+piece in Europe, we anticipate a lot of
+certifications including the C
+certification. We have people looking
+into the GTPR uh data role uh machinery
+safety directives to make sure that it
+plays in our favor. It is a feature not
+a barrier. And then step by step I think
+uh we're going to see uh as in China for
+the past six or 12 months uh different P
+in the real field. Yeah.
+>> Yeah. I hear that from so many robotics
+companies that you go to America the
+first question is what's the ROI going
+to look like? And in America and you
+come to Europe and they want to talk
+about the CE certification and some
+government regulation and their workers
+council. So it it seems like the scale
+of adoption in Europe will be slower
+because of that and one wonders as a
+European I find that sort of scary.
+Uh if you do the comparison it seems
+slow but I think we are moving steadily
+forward. Uh at this moment we are not
+chasing the speed. Yeah I think we are
+preparing the future uh even by taking
+you know small steps as Ali just
+mentioned. Yeah, we are not going to
+take you know a moonshot. The humanoid
+is not a magic trick that solves all
+kind of issues in the factory. We need
+to be specific to find those use case
+where uh if you compare the investment
+and the return on investment is pretty
+much reasonable and also the uh cost of
+trying of saying yes is reasonably uh
+low. That's where we need to put our
+effort so that we can, you know, nurture
+the market within the next coming
+quarters and preparing the future.
+>> Kai, your company combines humanoid
+robotics with digital twins. Why combine
+the two and not sell them separately?
+What's the benefit? Uh yes, uh the Japan
+is the same situation. So if we want to
+bring the human robot in action in the
+factory, the many people against about
+it. What is the ROI? What is the safety?
+Do do you want to stop their production
+line? So, but if we cannot try anything,
+we cannot find any use case.
+So, then our digital twin is one of the
+key future. So, if we can utilize the
+digital twin, we can make data
+correction and model development and
+testing. So, we can do the quick
+iteration in the simulation. Then our
+customer can move into the real action.
+So this is a really uh important the
+thing especially for very let's say the
+slow uh company like Japan. Yes. So this
+is a reason why we sell the human and
+robot and digital team simulation
+solution together.
+>> So they can derisk the deployments in
+the simulation first and then launch it.
+>> Uh yes it depend on the case. So the
+shimulation uh the P on the simulation
+is just P. So but the many people want
+to do what will happen in the factory
+floor. But ultimately if we think
+[snorts] or to deploy as many as tasks
+with a humanoid we cannot do every task
+in real robot with a real robot that
+time we must need digital twin
+simulation in advance.
+Y that sort of ties back into you talked
+about business transformation as one of
+the cores of how you go to market.
+What how does that manifest itself in
+how you sell and how you measure
+success? Um maybe let's start with the
+alternative classic capex purchase or
+sell. So if you do that then you
+obviously talk to a procurement manager
+you know you have your price book um and
+you talk specifications and then you're
+measured down to the cost right and this
+is a um yeah race [clears throat] to the
+bottom basically so that's why we came
+up with the uh business transformation
+narrative um because also the companies
+they need more education and and
+consulting around that as mentioned
+before um but everything which follows
+then changes as well a bit um the
+adoption in order to make that easier on
+the price points. For example, there is
+a monthly subscription robot as a
+service as we call it a turnkey solution
+where everything is in including the
+training and tailor operation service
+for example um for clients. So, so
+everything which follows then also
+changes and on your question about the
+matrix. Yes, throughput speed is part of
+that conversation like with other
+automation solutions but it goes beyond
+that given humanoids can be much more
+flexible. They can do a use case in the
+morning and it's something different in
+the afternoon or a third use case or
+whatnot. So we discuss also elements
+like the redeployment times and
+integration in new environments and so
+it's more holistically um yeah also um
+derived from the flexibility the
+solution offers.
+>> So all your customers are on a
+subscription so nobody buys the humanoid
+robots they they are on a subscription
+basis.
+>> Yeah at the moment definitely. Um we're
+thinking about maybe changing that uh
+and at the right time let's say uh maybe
+the right time is also when system
+integrators etc come into the game but
+right now it's uh um everything is
+discussed in the robot as a service
+subscription part yeah
+>> that's different for argot roger right
+you guys sell robots or you do both
+[clears throat]
+>> yeah in fact we have a different uh
+business tracks we sell of course
+hardware and we do data business also uh
+thanks to the massive production uh
+capability we have delivered 1,000 piece
+of humanoid robots in our data
+collection center constantly working on
+the real world tasks and we open sourced
+also one good sample through the brand
+of AG bot world under hugging face uh
+the third one is also as you have
+mentioned we have this um RAS business
+also yeah robot as a service and
+mentioned in order to enable customer to
+decide launching a pock uh the RAS model
+is clearly also a way to lower down the
+capex in the beginning. Yeah. So anid we
+hear so many different ways to go to
+market. We we've heard so many different
+applications throughout the day for
+humanoid robots. Um what brings positive
+ROI and what are you seeing from your
+clients? Yeah, it's a it's a very hard
+question because I think a lot of the
+ROI conversation today is very context
+specific. Um I think most of the ROI
+conversation today is constrained by
+capabilities of the robots. What can you
+actually perform in a production context
+reliably at the throughput at the
+quality level required? And within the
+current sort of capability domains of
+robots, you're seeing a lot of visual
+inspection tasks meet that metric. But
+visual inspection is valuable only in
+certain contexts where asset uptime is
+extremely valuable and it's often a
+situation like a refinery or a you know
+chemicals plant where the operator is
+sitting in the operator's room is doing
+multiple tasks during the day and isn't
+the highest ROI for the operator to walk
+around and inspect you know pumps and
+compressors and others. I think that's
+that's one use case that is coming up. I
+think a second use case that is coming
+up is missions around um inspection
+related to maintenance, but these are
+lighter inspections. This this isn't
+necessarily someone, you know, repairing
+an entire engine that is broken down.
+This could be someone going in, you
+know, pressing a few buttons, turning a
+new fan on. Those types of tasks in
+unstructured environments are seeing
+ROI. And then in the factory setting, a
+lot of the automation tasks that
+humanoids are being deployed in are not
+necessarily the hardest bottleneck tasks
+in the production line. To Kai's point,
+no one's going to be willing to have the
+line stop because a humanoid robot made
+a mistake. A lot of these tasks are
+where a full standard fixed robot
+solution would not make sense. But the
+skill required of the robot is simple.
+And so the flexibility of the robot is
+what makes the ROI work where if
+something changes you can always go back
+to a manual line. These are largely sort
+of tending tasks whether it is machine
+tending tool tending kitting. Um those
+also seem to have ROI again when priced
+appropriately at the right business
+model.
+Roger I want to come back to you. Uh
+Agiot went rapidly from starting the
+company to mass production. What did you
+have to believe and what did your
+customers have to believe to go from
+from very early to mass production so
+quickly?
+[clears throat]
+>> Uh yeah I think um we definitely qualify
+the description moving fastly. Yeah,
+just to give you a figure that uh after
+one year of the creation of the company
+in beginning of 2024 uh we started our
+first factory one year after 10,000
+piece in January 2025 until end of June
+this year we delivered 15,000 units of
+humanoid robots. I think um the secret
+lies into that is um um the
+repeatability and the reliability. Uh
+because we can all have one robot, you
+know, working uh in on the stage impress
+people once or in a demo showroom. Uh
+yeah, demonstrate a wellprepared
+showcase. But here we set the bar at
+really um uh more flexible environment
+with a a big uh important variety of
+different missions uh with a certain uh
+you know uh suplex so flex flexibility
+capable of uh handling different
+missions well maintained reliability
+that's where we you know start to say
+okay we are ready from you know uh small
+quantity of production to mass
+production.
+Yeah, it's super impressive. Um, you're
+amongst friends here and we won't tell
+anybody, but tell us what broke first.
+What broke first when you went from zero
+to 15,000?
+Uh, I understand that question as what
+would be the challenging part? Um, I
+would say uh the supply chain and the
+quality control. uh the supply chain
+because uh in China if you do the
+counting I think there are at least
+maybe 150 50 companies or even close to
+200 launching themsel into the humanoid
+robots industry. Uh we are not queuing
+as them uh in front of the different
+suppliers. We do in-house design for
+most of the important hardware
+components such as uh you know the
+joints, actuators, reducers, sensors,
+lighter etc etc. So that makes us you
+know uh the owner of our own um how say
+quality control mechanism and the road
+map of our products. So I think that's
+uh that was a challenging part and
+that's how we deal with that challenge
+and of course the quality control when
+you scale from a 10 piece where uh
+hidden uh flaw would be you know
+invisible and not impacting that much
+when you deliver 10,000 pieces. Yeah. If
+you do not do a high quality high
+standard quality control in your factory
+I think the problem will you know you
+will be how say enon day um how to say
+the word in day
+drawn you'll be drawn in all the quality
+issues after that
+um yan you spent a decade with Tesla as
+EVs were ramping up what are the biggest
+learnings uh from that scale to the
+robotics industry.
+>> Well, I would say there are a lot of
+things you can compare. Um, for example,
+the adoption curve. I think when I
+remember about 10 years back, obviously
+you had the early adopters, the
+pioneers, right? But also like the
+skeptical people and that's something I
+see here as well, right? Um you have
+companies now with a humanoid strategy
+already in place you know doing tenders
+or how big they are that's questionable
+but they're they're um in this space and
+others you know who do not have even
+like a plan about uh implementing
+anything. So the adoption is definitely
+one part um goes a bit to to his point.
+So the whole vertical integration um it
+was the same 10 years back right there
+was no battery pack for automotive right
+uh today you go to a CL or to anyone and
+you have like performance battery packs
+or more um you know range and charging
+capabilities and whatnot and this is
+something we see as well that's why we
+are full stack company um founded two
+years ago there was not a lot in this
+space right so you have to you know go
+down a different path and invent
+yourself right So there are a lot of um
+similarities here. Things which are
+obviously completely different is uh
+consumer brand is is differently led and
+built and and through you know the
+celebrities back in the days and whatn
+not but here we're discussing a bit more
+complex uh B2B sales cycles and and
+conversations. So there's a different
+different industry obviously we're
+tackling.
+>> Yeah. Why don't we have celebrities yet
+in Right. We need we need more
+celebrities. Um Kai talk to us a little
+bit about in Japan the manufacturing
+culture is so very different. What does
+it take to be successful in a in a
+Japanese environment and what what's
+different?
+>> Okay. So if we talk uh with the customer
+I found the customer has customer
+misunderstand
+someone bring the solution with uh
+challengings. So which means the
+customer expect hey what should we do
+with a human robot? Customer expect
+someone tell the killer use case and the
+killer scenario
+[laughter]
+>> the room is literally falling apart like
+but for the human robot so the most
+advantage of the human robot is a
+flexibility. So if we do the only the
+pick and place we just do that with a uh
+industry robot. So if we think about the
+flexible multiple task scenario the only
+the user can comes up with the use case
+and the scenario but user doesn't think
+about it because you user doesn't know
+about the technology trend. So uh this
+is the biggest the hurdle to deploy the
+human robot in the factory. So to s to
+be successful in the human robot uh
+industry the most important thing right
+now is to find killer use case but this
+killer use case this knowledge only come
+from the users and the data as well. So
+important thing is to let's say enlight
+this truth to the customer and cooperate
+with the users to generate data and use
+case. So
+I think it's amazing that you're
+building an integration company for
+these modern robots because it's
+definitely needed because there aren't
+the existing integration companies uh
+are not ready to do this yet. But how do
+you structure partnerships with uh
+innovators um so that they see you as a
+partner of success when when they want
+to go to market?
+>> Um yes. So the evolution of the physical
+AI is so quick so rapid. So there is no
+room to compete do the small compete by
+reinventing their wheel. So I keep
+telling about this and try to combine
+the every technology together. So this
+kind of their explanation is very
+important to make the person sip the
+right partnip.
+>> Spinning the topic wheel a little bit.
+Anie, um,
+so many new entrance into the market.
+Uh, as, uh, um, as Roger said, there's
+probably 200 in China, there's probably
+20 in Europe, 20 in in the US.
+You're starting a company. What should
+you focus on in the first 18 months to
+make sure that you're setting up a
+foundation for success? Yeah, I think
+this is a very expensive market to try
+and be a meto competitor where you are
+trying to do exactly what someone else
+has already built because that someone
+else has not scaled yet. So the person
+you're trying to copy is also sharpening
+their playbook trying to discover the
+applications. So doing the same is a
+fool's errand because you're just behind
+on the learning curve. I think the key
+thing here is to find a differentiated
+value proposition while sticking to some
+of the principles that the incumbents
+have laid out. And the differentiated
+value proposition might be a difference
+in sort of vertical that you target. It
+might be your focus more less on
+industrials and more on services or
+consumer robotics. It might be to take a
+differentiated approach with how
+training and sort of you know data is
+run out. But again keeping the
+principles in mind that we heard which
+is you want to control your destiny as
+much as possible. You want to keep the
+customer sort of value in focus because
+after the first uh you know showcase you
+will need to answer questions whether
+it's the CEO or the plant manager on
+what the long-term roadmap for value
+creation is. So keeping those principles
+constant but finding something that is
+truly an unmet need in the market I
+think is increasingly important.
+So with the last couple of seconds uh
+left, I'm sure the audience has heard so
+much today. So everybody's getting
+overwhelmed uh with with input. Give me
+the 30 secondond elevator pitch for each
+of your companies. So what should the
+audience remember about um about your
+company? Y want to start us off?
+>> So um on Nani's point, I like what you
+said. You need a differentiator. So
+we're not like a broad humanoid company.
+We are more what entropy is for AI
+meaning having an um industry focus.
+That's exactly what we're doing with the
+business transformation partner coming
+in solving your specific use cases in
+the space and we only leave once that is
+done. Right? This is our pitch.
+>> Roger. For me I think uh we
+differentiate compared to others with a
+full portfolio with our data capability
+continuous innovation and here the
+message to the audience is uh nobody can
+afford and turning their head around to
+to not looking at the humanoid. So we
+think uh if you look uh harder enough we
+will find the killer use case as Kai
+mentioned where we can find a concrete
+payback. If the uh feedback on the
+payback is reasonable uh starting from
+that day I think everything will became
+much more real.
+>> Yes. So um the message is we need more
+invest effort and money for user side.
+So for the vendor site there is a many
+genius right here and there is a many
+investors but for user side only the
+user can create the kira use case. So we
+have to invest much much more to find uh
+kira use case to users. So this is my
+message today.
+>> Yeah and I think building on what guy
+said I think the long-term potential of
+humanoids and advanced robots is really
+high. the near-term path is quite
+uncertain and that's really where you
+know McKenzie has played a role with the
+end users to try and help them cut
+through the hype cut through the noise
+and think about what their road map
+needs to be and then for the ecosystem
+to learn from the mistakes of the EV and
+solar buildout and maybe this time do it
+much more cost- effectively and for
+investors as well there is multiple
+billions of dollar rounds that are being
+raised some of those are going to pay
+back heavily most of those won't so
+that's that's kind 12.
+>> Thank you everyone.
+>> Thank you.

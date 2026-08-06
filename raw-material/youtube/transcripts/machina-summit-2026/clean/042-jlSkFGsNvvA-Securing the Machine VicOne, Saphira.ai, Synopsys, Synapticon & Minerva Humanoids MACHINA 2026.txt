@@ -1,0 +1,673 @@
+[music]
+So, I'm Sandar Fabber from Minurva
+Humanoids. Uh, we're building humanoid
+robots for the most dangerous jobs of
+the planet, including oil and gas,
+energy sector work, public safety work,
+disposing of bombs, chemical units,
+hazardous material disposal. Um and
+we're on a mission to do that with
+deployments actually before the end of
+this year and some scaled real product
+available sometime towards the end of
+next year. So um before I start with the
+opening frame, I'd like everybody to
+give a quick oneliner of of each other
+and then I'll introduce the panel.
+>> Yes, thanks for the introduction. I'm
+happy to start. My name is Florian
+Visat. I'm from Synapticon. So we are
+Germany stood based uh company uh
+providing components to humanoids from
+uh drives actuators and also full system
+safety solution. My background is in
+yeah software engineering for mobile
+robots since 15 years and of course that
+can drag along uh to humanoids. Now
+>> hi everyone I'm Tolchinsky. I represent
+Synopsis. Uh we provide software
+solutions for simulation covering
+everything from silicon to systems
+complete systems. Uh my background is in
+aerospace engineering. I used to do
+design. I've done software particularly
+safety critical software. So I have that
+perspective and now I'm the product
+manager for AI for synopsis.
+>> Hi everyone. Uh I'm Arnab from Sapphira
+AI. We are a Silicon Valley based uh
+company working on automating functional
+safety and security workflows. So we
+spend most of our time really trying to
+bridge those two worlds and make sure
+that embodied AI is an inherently safe
+and secure product. Um my background is
+I've spent most of my career as a
+systems engineer in automotive and
+robotics. Um and yeah that's basically
+what uh we're now moving into the
+humanoid uh world as well.
+>> Hi everyone. Uh my name is Jason CTO of
+Vig One. U V1 is a subsidiary of T micro
+and specialize in physical AI security
+such as automotive security or robotic
+security and prior to V1 uh I was the
+chief architect of T micro. Thank you.
+>> Amazing. Thank you all. So I would like
+to introduce the panel which is about
+securing the machine um and also about
+safety. So, first I would like to
+outline those two concepts and maybe
+have you guys also pitch in a little bit
+and helping me build an understanding of
+what safety and security means and how
+they are different. Firstly, um our
+perspective or my perspective has been
+that security is the attack path, but
+safety is actually hurting people next
+to you potentially and making sure that
+you're not actually falling on them. So
+security really concerns itself with,
+you know, potentially the building
+burning itself down by some malicious
+attack vector surfacing itself within
+your humanoid robot and doing things
+that are not great to your building.
+Whereas um safety is more about how do
+we make sure that during normal
+operation and potentially when uh
+compromised how do we make sure that
+humans around the robot do not get hurt
+and just generally more about the public
+safety as well given the fact that we're
+doing a lot of work in that space. Um
+yeah so would you guys agree with that
+concept? Is there anything you guys want
+to add to this?
+>> Yeah I think the the functional safety
+part that cares about the the human. So
+the only thing we care about is that uh
+no human gets injured and the the
+security part that's also for protecting
+data protecting values but in in the end
+uh function safety uh is just about
+preventing humans from being injured.
+So we don't care if the borrow breaks
+and if the building uh breaks down it's
+just about humans inside that
+environment.
+um as systems get more and more complex
+and we start adding more layers of
+autonomy and AI into these systems the
+security risks also start growing
+exponentially. So it is very important
+to understand and manage your systems
+security and safety risk. Right? So what
+security
+uh compromise leads to what safety
+event. If it is a safety event that
+doesn't affect your safety case, you
+probably don't have to pay attention to
+it. But you need to know that
+consciously, right? This is about making
+sure you understand your security and
+safety posture. Make sure that you have
+a clearly defined security and safety
+posture with the product you're putting
+out there and understanding how you're
+going to actually make sure your product
+complies with that. It's not just about
+building guard rails for your AI, but
+it's also about making sure that when
+those guardrails fail, there is an
+actual safety mechanism that stops the
+robot from, as Florian said, hurting
+human beings or violating your safety
+case that you set up. So having this
+whole system end to end in a dynamic
+fashion that lets you make decisions at
+rapid speed um is important because
+hackers don't stop, right? People are
+going to keep trying to hack systems.
+There are there are different ways to
+spoof systems these days. The more
+intelligence you add, the more
+opportunity you open up for different
+security vulnerabilities. So keeping on
+top of those and making sure you
+understand their impact is is absolutely
+key.
+>> I second on that. Uh I think security
+and safety cannot be two separate work
+working workstream. Yeah. So safety is
+about deterministic failure and security
+is about undeterministic failure
+manipulated by attackers. Yeah. So I
+would say um security especially cyber
+security is is one of the fundamental
+pillar of safety.
+May maybe just to add that when I think
+about the interaction between the two
+security is dealing with a malicious
+threat right safety is often considered
+just like you say accidents happening
+making sure your system is going to be
+behave and uh not cause any injuries but
+you really have to consider malicious
+threat and its impact on safety.
+>> Absolutely. Thank you guys. So three
+years ago um to just take a look at what
+this space looks like at the moment.
+Three years ago it really was data was
+really the final the final layer of all
+um kind of safety and security problems.
+Robotics weren't really going to come
+out of the labs and now they are right.
+So now that that data poisoning or red
+teaming attack um that is a lot more
+serious that can actually become a whole
+issue. um it can literally take down not
+just a single company but potentially
+investor um kind of belief and
+confidence in the entire sector. So we
+all sort of have this um responsibility
+and this mutual care for for not doing
+that but at the same time we also don't
+have defined standards that we need to
+abide by and there is clear market
+competition that's global right so
+that's that's the pressure under which
+most robotics companies operate today
+and I think one of the really important
+aspects of this is really how can our
+robots be abused or or potentially uh
+put to something that's that's malicious
+so I would like to ask to the panel
+um what an attacker can do to an
+intelligent potentially humanoid or
+other form of a human of a robot that is
+um that can be potentially malicious.
+How can we mitigate these threats and
+what has really changed over the course
+of the last three years? What has been
+the biggest trend that you guys have
+seen that's really exposing that
+vulnerable that that threatening surface
+that we need to protect ourselves
+against from a from a security
+standpoint?
+>> Yeah. Uh I think vehicles are probably
+the first uh connected intelligence
+machines deploy at scale in the real
+world. Yeah. And vehicle already tell us
+what can go wrong. I I just give an
+example. In March this year around 100
+Apollo go robot taxi froze
+simultaneously on the elevator highway
+or the major intersection in Wuhan,
+China. Um the due cost uh was not
+disclosed but we know there must be a
+mechanism that can freeze the entire
+fleet at once right. Yeah. And talking
+about robotics uh we all know that last
+year there was a warmable uh Bluetooth
+vulnerability discovered in the unitary
+robots. Uh actually they have a booth
+out there but I believe they already
+patch it and you just need to compromise
+one robot and that robot become a moving
+attacking station. Right? Imagine that
+robot return to the shares charging
+station and that robot can use exact the
+same Bluetooth vulnerability to
+compromise the rest of the fleet right
+yeah so a physical proximity is no
+longer an excuse to ignore that's that
+kind of threat and I think in recent
+year the trending is about AI nobody
+will argue about that and we all know
+that AI models are not perfect it can be
+fooled by prompt injection or several
+image patches and and we'll soon be
+seeing that people start to deploy AI
+agent onto onto the robot to handle more
+complex uh tasks and you know that will
+introduce new risks like indirect prompt
+injection malicious skills or MCPS right
+and actually there worth over 300
+malicious scale discovered in this
+February on the cloud hub the open cloud
+uh registry this February yeah so you
+don't even need to compromise the robot
+you just interact with them right yeah
+you can then you can mislead them so I I
+What I want to say is um those attack
+services and threat and attack
+mechanisms are there. They are real, but
+this time it's about safety and you
+don't want to wait until it happens,
+right? Yeah.
+>> And may maybe to add to that, you said
+that the uh the humanoids are much more
+complex and much more capable today
+compared to three years ago. So that's
+also what we see as a difference
+compared to industrial robots, cobalts
+or AMRs because if you have an
+industrial robot that's typically uh
+screwed to the floor or to the ceiling.
+So if that um gets hacked and gets uh
+unexpected movements, you will know that
+the uh uh area where you can have people
+injured is limited. That's similar
+[snorts] for AMRs. So they typically are
+big, bulky, so they just have a limited
+operating space. So they probably have
+few chances to escape the actual factory
+hall or climb upstairs or go down
+somewhere. But if you think of humanoids
+today, they might just climb the stair.
+They might just open the door and then
+they can basically be everywhere. So the
+the risk is not uh only is
+[clears throat] not anymore limited to a
+certain area where you operate the
+robots. Um they can basically operate
+everywhere and that's what what I see as
+a big difference for the functional
+safety part. So uh yes
+>> um and I think just to add to everything
+my colleague said here uh we have to
+keep in mind the way you actually
+threaten or create threat pots to these
+machines is also evolving right so you
+have the very sophisticated attacks
+where you could build agents to attack
+uh but you can also actually just misuse
+the intended function uh just as an
+example uh you know couple like last
+year people in San Francisco were buying
+t-shirts that had a stop sign on them
+and standing on the side of the road
+when a Whimo passed by and the car would
+break. Right? That is not a failure.
+That is actually what if the car sees a
+stop sign, it is supposed to stop. But
+people were now spoofing this, right?
+This is obviously security is a
+non-deterministic thing, right? No one
+who worked at Whimo thought that this
+was going to be the issue they'd be
+fighting, but that was the issue you
+start fighting. So, your threat
+landscape is going to evolve. Um, and
+the number of threats you're going to
+have to deal with also will evolve. Now,
+as a company, as a robot manufacturer,
+as a humanoid manufacturer, you have to
+really make sure you're prioritizing
+correctly, making sure that the uh the
+safety issue caused by these security
+events is something that you should be
+mitigating. Uh or if there are ways
+around where you think that is not a
+part of your safety case, maybe those
+are not the places you should spend your
+time. So, uh it does also come back to
+an optimization problem, especially as
+you scale your product.
+I think we're we're in a phase where
+we're discovering the unknown unknowns,
+right? And uh it will take us some time
+to uh for these things to surface and
+I'm confident we will address them as
+they come.
+>> Awesome. Thanks. So for a case study
+that the audience might be familiar
+with, we have seen a powerful model
+being um kind of uh tricked into writing
+um safety critical software for sort of
+against a government a national security
+uh system and it was able to achieve
+really impressive results as a result of
+which the government under under which
+that company was operating they decided
+to take down the model for three weeks
+and then put it back on the open market.
+My first question to you regarding this,
+can we actually prepare for a future
+attack by an AI model that has
+capabilities that we are not aware of?
+>> I think we have to be prepared for uh
+for events like that. Um in general,
+again, you know, the guardrails that we
+build around the system is probably step
+zero. We cannot send a system that
+actually interacts with the physical
+world without guardrails. But we need to
+make sure we have mechanisms in place
+that actually make sure the system is
+safe when those guardrails fail. Now
+understanding what the failure of that
+guardrail can lead to and what the
+proliferation of that can be in terms of
+safety events. That is where uh this
+becomes key. Um earlier you could have
+very deterministic linear safety events.
+Right? So if a brake fails those are the
+things that happen in terms of safety.
+If there's a misdetection for a vehicle
+or a misdetection for a humanoid, the
+the following things are are an issue.
+But as we scale these these models and
+essentially get them to start hacking
+the systems, we need to make sure we're
+tracing that full chain of safety events
+as well. So to make sure that we
+essentially don't violate our own safety
+cases and for this, it again goes back
+to making sure you have a very
+comprehensive and important uh safety
+case that you're actually working
+towards.
+Yeah. So my answer to that would be I
+think the approach should be that we
+clearly separate the AI system from the
+safety system so that if the uh non-safe
+AI eventually gets hacked or does
+something unexpected that we still have
+a second layer which can jump in which
+is deterministic which is proven by stat
+statistical measures uh and have
+eventually a TV a certification for
+something that uh that really was
+undergone a validation
+process and those system they have to be
+prepared to jump in if something happens
+on the layers above.
+I
+>> think we need to figure out the the
+governance right things will happen and
+we won't need to be able to jump in but
+with time again we need to figure out
+how we decide when we let's say pull the
+plug and who's in charge and
+what we need to react to.
+>> Exactly. Okay, so my next question was
+going to be actually should a government
+be able to put a plug on an AI model if
+if they don't work out and and how how
+does that work? Right? So in our case, I
+mean in Munar where we deploy humanoid
+robots on critical assets like oil rigs.
+If you put the plug on the humanoids,
+then they just collapse and actually
+create a massive like safety hazard. So
+that obviously is not a solution to the
+problem and there's not really an
+obvious solution. What do you guys think
+about this? who should be able to pull
+the plug and how should that work?
+>> I I personally I I prefer to assume the
+attackers they will have access to those
+powerful model. Yeah. At least with the
+similar capability. Yeah. So the defense
+really cannot depends on the the tool
+availability or model availability to
+the to the attackers, right? We get to
+be prepared and unfortunately there
+there is no single silver bullet. So
+what we're doing is uh we're trying to
+build a a system for our security loop
+engineering. Yeah, attackers will scan
+your source code or your binary using
+those powerful model. So why not you
+scan first, right? You you raise the
+bar, right? You try to minimize the test
+service for those unknown and uh you you
+try to detect those unknown unknowns by
+anomaly detection in the wrong time and
+you try to generate the security
+incidents uh with context what happened
+before and after in your continuous
+monitoring system and you keep improving
+through the cycles right so so that's my
+answer we cannot depends on the
+availability the tool availability to
+the attackers so you ask what should
+happen if somebody pulls the plug so my
+view on that from the functional safety
+perspective is it doesn't matter who
+pulls the plug. If there's a a power uh
+failure, if there's a communication
+failure, if the system got hacked, if
+somebody uh uh shuts it down uh on
+purpose, uh what we have to make sure is
+that if this happens that if you have a
+balanced humanoid, it does not fall over
+uncontrolled. So our approach is to have
+it uh fall at least nicely. So we cannot
+prevent that this goes wrong but at
+least we can make it fall away from
+persons for example or crouch in a
+compact position instead of full speed
+crashing towards a person on the floor.
+So that will this is all measures to
+prevent the uh uh risk we u expose to
+humans.
+I think in in addition to that we also
+need to have a governance and
+regulations in terms of what a fail a
+safe fail state is. So for a humanoid if
+you know if it just collapses if you
+have a home robot you definitely don't
+want that to collapse on a child or
+something or or anything along those
+lines. You want to make sure that you
+know as an industry as we deploy these
+technologies get them to proliferate
+more into industry into consumer uh
+spaces uh as a regulatory body and as an
+industry we really define how these
+systems are supposed to fail uh when
+those fail measures go go live and as
+Florian said earlier making sure we have
+an architecture in place that allows the
+system to fail. So if something is
+compromised, a backup system can take
+over and ensure the correct failure and
+the intended failure instead of a um of
+an unintended failure.
+>> I don't think I have much to add, but I
+do strongly feel there should be a
+second redundant separated system from
+the AI that can pull the plug and also
+come to a say safe landing.
+So to summarize there there should be a
+certifiable way of having some safety
+procedure that we follow in case there's
+a breakdown and if there's a breakdown
+then there should be a lower layer
+safety level that should be potentially
+defined in the silicon or in the
+hardware. What would that look like or
+what does that look like at synopsis at
+the moment?
+>> Yeah, I mean we we really focused on
+introducing the safety layer at the the
+silicon level, right? And then you have
+uh things being stacked on top. So then
+you have firmware uh you have the
+operating system you have the the AI AI
+model itself and um if something goes
+wrong you really need to set you need to
+set up processes so that if something
+goes wrong you can really trace where
+the problem came came from so you can
+work towards resol resolving it making
+sure it doesn't happen in the future.
+Yes, I I support it this uh safety
+functional safety is a parame. So you
+have to start from the hardware layer uh
+from the the compute uh from the
+firmware from the actuator uh safety
+features and then you can stack on top
+of that u maybe safe camera inputs and
+then add software layers for uh
+detecting uh persons for calculating
+kinematics of a humanoid for letting it
+fall uh in a nice way and then
+everything on top of that uh sits the AI
+uh which potentially also needs a
+monitoring system on the safety Right.
+But you you cannot start you cannot have
+a safe humanoid if you don't start with
+the lower level of of these uh safety
+pyramid with safe actuators with safe
+camera inputs.
+No chance. So safety is not just a
+sticker you can put on a a ready
+deployed humanoid. You have to start
+from the beginning. I think on top of
+the hardware loot of trust is it's also
+important to run software in the loop
+simulation with your actual robot UD
+URDF or USD in a simulation environment.
+That's the only way you can tell uh can
+your robot fail safe when a certain
+software component is being compromised.
+Yeah. And I think the more layers of the
+stack that you add uh and if you don't
+run your safety workflow through these
+layers, you're just pushing it deeper in
+uh which later adds to a compounding
+problem. So um in the design process,
+this needs to be uh something that is
+taken into account uh as as the product
+is built up.
+>> Great. There seems to be some
+disagreement actually in the panel about
+whether safety and security should be
+coupled or whether it should be
+separated and whether there is benefits
+or sort of potential threats arising
+from them them being coupled or
+separated. So I actually want to ask the
+question can we honestly certify a
+system um being secure without having a
+steady certification on it or vice
+versa. Can we actually do a
+certification for one but not the other?
+Should that be a possibility or should
+we only have certifications for both at
+the same time?
+that that that's a good question. So you
+cannot have either or uh I think it
+needs both uh in the end. It's just a
+question of how are they stacked on top
+of each other. So in in our opinion the
+functional safety part. So making sure
+that if something fails that we fail
+safe uh and don't create risk for
+humanoids. That's that's the very lowest
+layer and then security probably comes
+on top of that to prevent that something
+somebody gets access to the humanoid at
+all. I I agree with Flurry and I think
+it is a layered system, right? So if you
+do have a certifiable safe a functional
+safety system, so that tells you how the
+system is supposed to fail exactly what
+your safety goals are. You can then add
+the security layer to make sure that in
+the event of those being triggered, you
+have a failsafe mechanism. In an ideal
+world, you never see your functional
+safety mechanisms and work because you
+know things are secure, your security
+system is as good as it can be and no
+one's ever hacked it. But the truth is
+that in some cases they they will be
+hacked. Uh and when they are we want to
+make sure that there is a security
+system that a safety system that comes
+in to to save the day. So it is a
+layered stack and I do believe that the
+entire system needs to be certified with
+a safety and a security flow.
+I I think
+>> um yeah I agree you need to have both in
+in my mind security can be done it can
+be isolated from safety in terms of
+establishing
+if system is secure or not but then the
+safety part analysis has to uh say
+assume that security has been breached
+right and then make make sure that you
+handle it in the best way I mean in in
+my mind I I'm thinking of you know the
+aerospace fields or even even driving
+right we have humans in the loop which
+we cannot fully predict the behavior of
+I mean somebody may just fall asleep at
+the wheel or you know have a heart
+attack at the wheel the safety system
+needs to handle such a situation so for
+me it's a similar thing where we cannot
+guarantee what the AI will do but we
+need to create a safe system nonetheless
+>> awesome so just in test of time uh my
+final question is what do you guys see
+as the biggest gap that industry is
+currently ignoring ing where you think
+that that gap should be bridged ASAP.
+>> Uh from my perspective it's about cyber
+security. Yeah, I know most of the robot
+makers they are still focused on
+functional safety. That's the reality.
+Yeah. But again, I think uh cyber
+security is the foundation of functional
+safety, right? So without cyber cyber
+security, it's really hard to guarantee
+uh your function safety can work under
+undeterministic cases. Yeah.
+Yeah, I think bridging the security and
+safety gap is what the industry isn't
+working on right now. The typical
+process is build what you have first uh
+do a safety certification because that's
+what you need to deploy and then last
+step you'd run a security workflow. Um
+as these models get more complex and the
+products get more complex, I think that
+is something that would set you up for
+failure. So having this be an integrated
+process where you're able to actually
+make sure that your safety and security
+are linked, you understand your
+end-to-end uh safety and security
+posture is going to be very important to
+deliver a successful product.
+Yeah. So maybe I'm oversimplifying now,
+but what does it take to build a
+humanoid? You need the physical AI. So
+the the AI part that's data and AI
+models. I think that's covered today in
+industry. So at least everybody's
+talking about that. uh also building
+physical robots. Uh that's what
+everybody is doing. So that's solved.
+But what is not addressed today is the
+functional safety part. And that's the
+third dimension which I think you need
+to address to get the humanoids out of a
+a cage and operate in a factory
+environments in semi-public environments
+and eventually also in private homes
+someday.
+>> I'll just second that. [snorts]
+>> Awesome. Thank you all very much for
+your input. Really appreciate this chat.
+Thank you all.
+>> Thank you.
+>> Thank you. Thank you.

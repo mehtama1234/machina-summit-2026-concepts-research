@@ -1,0 +1,372 @@
+[music]
+Thank you everyone. I'm Eric. I'm one of
+the co-founders of Encord. Encord is a
+data layer for physical AI. So we work
+in all different types of physical AI in
+robotics, autonomous vehicles, drones,
+manufacturing, logistics, etc. And
+what's very exciting about where we are
+is that we get to see the frontier of AI
+in the real world across many many
+different domains. But I personally
+didn't start there. Originally I started
+uh in physics. So my background was in
+particle physics. I was doing research
+there and one of the great particle
+physicists is Murray Galman and he has a
+quote that's always stuck with me which
+is everything that that's not forbidden
+is compulsory.
+So what this says is that in particle
+physics if physics says it's not
+prohibitive it not only can happen it
+will happen.
+So I've taken this forward in starting
+an AI company, a technology company and
+it's worth thinking about uh what in AI
+is forbidden and what is compulsory.
+So we're currently on a trajectory in AI
+um to what Dario Mod says will be a
+country of geniuses in a data center. So
+what problems will this country of
+geniuses be able to solve?
+Well, you take this country of geniuses,
+this superelligence and you put it in a
+box and it will solve the greatest
+mathematical puzzles of our day. So, I'm
+sure it'll prove or disprove the Reman
+hypothesis. It'll be great at
+literature. So, it'll bring it'll write
+poetry. That will bring even stoic
+technologists to to tears. It'll be a
+better developer than all of us. It'll
+win every coding competition.
+But this super intelligence in a box, it
+won't be able to learn how to ride a
+bike. So this is a demonstration of of
+Moravex paradox.
+And if you spend a lot of time in the
+Bay Area, which which I do, a big
+question is will is the trajectory that
+we're on going to bring us to AGI,
+right? And AGI is a it's a very abused
+term. Um, but I think it can be useful.
+However, this question is the wrong
+question. It's not if the trajectory
+that we're on will bring us to AGI. It's
+which AGI will it actually bring us to
+because AGI will actually happen twice.
+It'll happen once in the digital world
+and once in the physical world. And
+digital AGI is AI systems that will
+command and control all of our
+information systems. So everything that
+we see now with the scaling of LMS that
+will bring us to digital AGI. But I
+think a much more interesting and a much
+more compelling vision of the future
+will be in physical AGI where AI systems
+command and control the actual physical
+world around us. And this will will be
+what takes us from the society that we
+live in today to a society of science
+fiction to one that we can't even
+imagine.
+But digital AGI will happen first. Okay.
+So why will it happen first? Well, there
+are three core concepts, three blockers
+uh which I put into three equations that
+we need to satisfy before we get to
+physical AGI.
+So we'll go through the three equations.
+They're kind of huristic demonstrations
+of what we need to conquer before we get
+to this um you know immense vision of
+the future.
+So first equation,
+this equation is probably the most
+important equation of the decade. Uh
+literal trillions of dollars of economic
+activity are sitting on the back of this
+equation. It's probably the thing that's
+propping up the entire global economy.
+I'm talking about the chinchilla scaling
+law. Um so it's a pretty simple equation
+that I'm sure most of you know. There's
+only four terms. There's the loss term
+which very roughly speaking is the kind
+of accuracy rate of the model. The lower
+the loss, the smarter the model. There
+is an entropy term which we can't do
+anything about. So we will just ignore.
+But then there are two terms that we can
+do something about. One is the scale
+term. So this is this n as the model
+scale increases the loss goes down as a
+power law of that scale. And then
+there's the data term. So as data
+increases the loss also goes down as a
+power law of the data. All right. This
+equation was empirically derived about
+uh half a decade ago and is the implicit
+assumption behind hundreds of billions
+of dollars of capex spend now in AI.
+What does this tell us about physical
+AI? This is for pre-training of LMS. Um
+why is this relevant?
+Well, one uh we are starting to see
+actual scaling laws in physical AI. um
+which is quite exciting uh with the the
+work of of NVIDIA and others. But I
+think this equation is a great
+demonstration of the immense head start
+that digital AI has had compared to
+physical AI because they have what I
+call the great data subsidy.
+300 trillion tokens of free data that
+was compiled organically over decades on
+the internet. Tens of millions of books,
+basically all of human written language
+was there almost for free for these
+models to ingest and establish a base
+level of intelligence.
+And unfortunately, physical AI does not
+have the same luxury. There is no
+internet level scale of data that we can
+use to train in these physical AI
+systems. The largest robotics data set
+is uh 270,000 hours. It's about
+equivalent to my lifetime. So that's one
+person's lifetime versus all of human
+written language for LMS.
+But uh there is a lot of video of the
+physical world, right? There's the
+YouTube data set which doesn't even fit
+on the slide. It's like uh the size of
+the sun. So uh why can't we just learn
+from that? Well, physical AI now it
+can't just learn purely from the pixels.
+Digital AI has the uh luxury of having
+the same substrate of prediction and
+training. It's tokens in and tokens out.
+Whereas physical AI systems, they
+actually have to act in the real world.
+They have actuators and sensors.
+But now there's a lot of this work in
+world models that that should solve this
+problem, right? The solve the data
+problem. Well, this brings us to our
+second equation.
+So uh what does chaos theory tell us
+about physical AI? So equation maybe uh
+not everyone knows is the leapun
+exponent equation.
+This is for small perturbations in
+initial conditions for certain systems
+they can grow exponentially in time. So
+that means um small differences in
+initial conditions they will have vastly
+different global trajectories.
+So this is the uh the butterfly effect,
+right? A butterfly flaps its wings in
+Japan and six months later there's a
+hurricane in Florida.
+So it this also exhibited in pretty
+simple physical systems. The double
+pendulum, right? A single uh pendulum is
+a problem that a first year physics
+student can just solve in a classroom
+their first semester. But you add one
+more mass to it and suddenly you get
+completely chaotic unpredictable
+behavior which you cannot uh condense
+into a set of parsimonious equations.
+Reality itself is incompressible
+and what's more is that small errors
+because of the leaponov exponent
+equation they compound exponentially in
+time. So if you get a small error in
+measurement wrong that will lead to a
+very large error in the future and
+models models are filled with errors.
+Models are approximations. Uh every
+model is wrong. Some models are useful.
+So a world model that has these
+approximations for these chaotic
+systems. They are by definition wrong.
+They will be much more wrong in time for
+these chaotic systems. which means world
+models can never fully capture the
+physical world. This is um just thinking
+about the chaos of the real world. Does
+that mean world models are completely
+useless? No. Um it just mean well first
+I'm talking about physical AGI so
+general intelligence across all physical
+systems. The second is that world models
+will be necessary but not sufficient.
+What you need to complement is continual
+measurement to actually reflect reality
+because these small errors will lead to
+large errors. You need to continuously
+ping the real world to ground back to uh
+the the actual real state. So we need
+physical grounding for these systems to
+actually work. We need actuators. We
+need sensors. Physical AI cannot live in
+your head. Digital AI can. All right. So
+why don't we just deploy a bunch of
+physical AI systems into the real world?
+Well, this brings us to our third
+equation uh which is the societal risk.
+This is used by uh nuclear safety
+regulators. It's used in the EU. Uh what
+does this equation tell us? There's
+three terms. There's the f term, so the
+frequency of a failure happening.
+There's n which is the number of people
+harmed in that failure. There's C which
+is some societal threshold and there's
+alpha which is the societal risk
+aversion and in practice regul
+regulators tend to set alpha to two
+which means that for an event that harms
+two people it should happen at one
+quarter of the time of an event that hap
+that hurts one person. So for an event
+that hurts 10 people it should happen
+100th of the time. These things are not
+linear they're quadratic.
+Which the bad news for physical AI is
+that this N term per air is much higher
+than in digital systems.
+So uh physical systems they're on our
+roads. They're drones above our head.
+They actually have the ability to
+properly harm us if they aren't uh
+controlled properly. And what the
+societal risk criterion says is that the
+physical AI system reliability needs to
+scale quadratically with the failure. So
+quadratically against digital AI
+systems. And you can see this
+subjectively in um how this manifests.
+Uh digital AI failures, they they go
+into memes and LinkedIn posts. Uh
+physical AI failures, they literally
+make headlines. And I was at a picnic
+recently and I was talking about Whimo
+and how great Whimo was. And the person
+uh at the picnic, the only thing they
+knew about Whimo was the time that it
+drew drove through a um an active crime
+scene.
+Compared to Adams, bits are cheap, bits
+are more predictable and bits are safer.
+So does does this mean uh so AGI will
+type before it walks? So does this mean
+that physical AGI is impossible?
+uh physical AGI there's a lot of work
+being done in architecture and
+algorithms in hardware and control
+systems but the scaling laws tell us
+that there's actually a very simple
+answer there's a very simple recipe
+which is the data and importantly closed
+loop systems with the data so you need
+models to go out act measure and learn
+and you need to do this continuously
+simulation will be a complement to this
+process
+But what chaos theory tells us is that
+simulation is not sufficient. You need
+these AI systems to actually be out in
+the real world and learn continuously.
+This is what we do at Encord. We've
+worked with hundreds of teams to build
+this loop. And what we find from our
+experience is that the uh the cycle time
+the iteration cycle is proportional to
+the probability of the AI system
+actually being successful. So the faster
+that this loop is the more likely that
+your AI will actually work.
+And the good news is that there's
+enormous progress that's being made in
+this field. Now with robotics, some of
+them here, these things are actually
+starting to get into the real world in
+production and um creating these closed
+loop data systems.
+And what's very exciting for me in
+particular with that uh is that robotics
+is actually um it's not the endgame for
+physical AI. We might be um uh
+converging to the endgame of robotics,
+but robotics is just the beginning of
+physical AI. It's the bellweather. It's
+the canary in the coal mine. This is the
+proof of concept of us building physical
+systems that can continuously interact
+and learn with the physical world.
+That's actually what we're looking for.
+If this works in robotics, then this
+opens up the floodgates to all other
+physical systems that uh that we work
+with. So physical AGI what this will
+mean is that it will mean complete
+disruptions and transformations in every
+physical system that we know about in
+chemistry in biology, in engineering, in
+aerospace, in scientific discovery.
+This will completely transform our world
+in ways that we cannot imagine. We'll
+get to digital AGI and that will be
+great, but physical AGI will be what
+takes us to Star Trek to science fiction
+and above. I can imagine a world where
+there's swarm intelligence that
+optimizes all the energy efficiency of
+every building and all the traffic and
+there's 3D printers that instantiate any
+type of object uh buildings within
+minutes, right? This is the dream that
+physical AI AGI um can bring us. And it
+sounds far-fetched, but 10 years ago
+talking to a robot uh in a conversation
+that also sounded far-fetched.
+So physical AGI will bring us to this
+dreamed of a prompt to reality. You have
+an idea and you can actually instantiate
+it in the real world.
+So that's the dream. That's the type of
+AGI that I'm looking forward to. one
+where there brings human abundance,
+prosperity, wealth, welfare, uh health
+care, everything if we do this right.
+But there is one more equation uh to to
+walk through which is that happiness is
+reality minus expectations.
+And now there's quite a lot of
+excitement and energy um and hype in
+physical AI which is bringing this
+expectations term up. And the only way
+for us to stay happy or to get happier
+is if we also work on the reality term.
+We have to bring that up faster than our
+own expectations. And that means being
+realistic about the uh the bottlenecks
+that we're seeing in these physical AI
+systems. So the bottlenecks in data in
+chaos and unpredictability and
+measurement and risk. But we can solve
+these things. And I'm 100% confident
+that we will solve it and that we will
+bring physical AGI. And why is this?
+Well, all the equations that I went
+through, they showed why it's hard, not
+why it's impossible. And again,
+everything that's not forbidden is
+compulsory. Physical AGI is coming.
+Thank you. I'm Eric. Uh, thanks
+everyone.

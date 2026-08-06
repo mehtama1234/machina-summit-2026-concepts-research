@@ -1,0 +1,4000 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.654 --> 00:00:07.430 align:start position:0%
+ 
+[music]
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+ 
+ 
+
+00:00:07.440 --> 00:00:10.150 align:start position:0%
+ 
+Hi<00:00:07.759><c> everyone.</c><00:00:09.040><c> It's</c><00:00:09.280><c> great</c><00:00:09.440><c> to</c><00:00:09.679><c> be</c><00:00:09.760><c> here</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+Hi everyone. It's great to be here
+ 
+
+00:00:10.160 --> 00:00:12.629 align:start position:0%
+Hi everyone. It's great to be here
+connecting<00:00:10.559><c> with</c><00:00:10.800><c> everyone</c><00:00:11.360><c> in</c><00:00:11.840><c> Europe</c><00:00:12.320><c> and</c>
+
+00:00:12.629 --> 00:00:12.639 align:start position:0%
+connecting with everyone in Europe and
+ 
+
+00:00:12.639 --> 00:00:14.230 align:start position:0%
+connecting with everyone in Europe and
+the<00:00:12.800><c> entire</c><00:00:13.200><c> robotics</c><00:00:13.679><c> community.</c><00:00:14.000><c> I'm</c>
+
+00:00:14.230 --> 00:00:14.240 align:start position:0%
+the entire robotics community. I'm
+ 
+
+00:00:14.240 --> 00:00:16.310 align:start position:0%
+the entire robotics community. I'm
+Karolina,<00:00:14.880><c> an</c><00:00:15.120><c> elite</c><00:00:15.440><c> robotics</c><00:00:15.839><c> at</c><00:00:16.000><c> Google</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+Karolina, an elite robotics at Google
+ 
+
+00:00:16.320 --> 00:00:18.710 align:start position:0%
+Karolina, an elite robotics at Google
+Deep<00:00:16.560><c> Mind.</c><00:00:17.359><c> I'm</c><00:00:17.600><c> going</c><00:00:17.680><c> to</c><00:00:17.840><c> be</c><00:00:18.000><c> talking</c><00:00:18.320><c> today</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+Deep Mind. I'm going to be talking today
+ 
+
+00:00:18.720 --> 00:00:21.109 align:start position:0%
+Deep Mind. I'm going to be talking today
+a<00:00:18.960><c> bit</c><00:00:19.199><c> about</c><00:00:19.600><c> how</c><00:00:20.000><c> Gemini</c><00:00:20.560><c> can</c><00:00:20.720><c> power</c><00:00:20.960><c> the</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+a bit about how Gemini can power the
+ 
+
+00:00:21.119 --> 00:00:25.269 align:start position:0%
+a bit about how Gemini can power the
+next<00:00:21.359><c> generation</c><00:00:21.760><c> of</c><00:00:21.920><c> helpful</c><00:00:22.400><c> robots.</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+next generation of helpful robots.
+ 
+
+00:00:25.279 --> 00:00:27.189 align:start position:0%
+next generation of helpful robots.
+I<00:00:25.519><c> think</c><00:00:25.600><c> we</c><00:00:25.840><c> all</c><00:00:26.000><c> agree</c><00:00:26.240><c> in</c><00:00:26.480><c> this</c><00:00:26.640><c> room</c><00:00:26.960><c> that</c>
+
+00:00:27.189 --> 00:00:27.199 align:start position:0%
+I think we all agree in this room that
+ 
+
+00:00:27.199 --> 00:00:29.669 align:start position:0%
+I think we all agree in this room that
+robots<00:00:27.680><c> today</c><00:00:28.000><c> are</c><00:00:28.240><c> doing</c><00:00:28.560><c> incredibly</c><00:00:29.279><c> useful</c>
+
+00:00:29.669 --> 00:00:29.679 align:start position:0%
+robots today are doing incredibly useful
+ 
+
+00:00:29.679 --> 00:00:32.150 align:start position:0%
+robots today are doing incredibly useful
+things.<00:00:30.480><c> They're</c><00:00:30.880><c> helping</c><00:00:31.199><c> in</c><00:00:31.439><c> manufacturing</c>
+
+00:00:32.150 --> 00:00:32.160 align:start position:0%
+things. They're helping in manufacturing
+ 
+
+00:00:32.160 --> 00:00:34.389 align:start position:0%
+things. They're helping in manufacturing
+lines.<00:00:32.880><c> They're</c><00:00:33.040><c> in</c><00:00:33.280><c> logistics,</c><00:00:34.160><c> in</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+lines. They're in logistics, in
+ 
+
+00:00:34.399 --> 00:00:37.350 align:start position:0%
+lines. They're in logistics, in
+automotive.<00:00:35.600><c> They're</c><00:00:35.920><c> navigating</c><00:00:36.320><c> our</c><00:00:36.640><c> moon,</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+automotive. They're navigating our moon,
+ 
+
+00:00:37.360 --> 00:00:39.030 align:start position:0%
+automotive. They're navigating our moon,
+and<00:00:37.600><c> they're</c><00:00:37.920><c> even</c><00:00:38.160><c> doing</c><00:00:38.480><c> really</c><00:00:38.800><c> cool</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+and they're even doing really cool
+ 
+
+00:00:39.040 --> 00:00:41.990 align:start position:0%
+and they're even doing really cool
+acrobatics.<00:00:40.399><c> However,</c><00:00:40.800><c> these</c><00:00:41.120><c> robots</c><00:00:41.760><c> have</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+acrobatics. However, these robots have
+ 
+
+00:00:42.000 --> 00:00:44.229 align:start position:0%
+acrobatics. However, these robots have
+been<00:00:42.239><c> programmed</c><00:00:42.719><c> to</c><00:00:42.960><c> do</c><00:00:43.200><c> these</c><00:00:43.520><c> particular</c>
+
+00:00:44.229 --> 00:00:44.239 align:start position:0%
+been programmed to do these particular
+ 
+
+00:00:44.239 --> 00:00:46.389 align:start position:0%
+been programmed to do these particular
+task<00:00:44.559><c> sequences.</c><00:00:45.600><c> They</c><00:00:45.840><c> make</c><00:00:46.000><c> a</c><00:00:46.160><c> lot</c><00:00:46.320><c> of</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+task sequences. They make a lot of
+ 
+
+00:00:46.399 --> 00:00:48.069 align:start position:0%
+task sequences. They make a lot of
+assumptions<00:00:47.039><c> about</c><00:00:47.360><c> everything</c><00:00:47.680><c> in</c><00:00:47.840><c> their</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+assumptions about everything in their
+ 
+
+00:00:48.079 --> 00:00:50.069 align:start position:0%
+assumptions about everything in their
+environment,<00:00:49.120><c> every</c><00:00:49.360><c> object</c><00:00:49.680><c> that</c><00:00:49.920><c> they</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+environment, every object that they
+ 
+
+00:00:50.079 --> 00:00:52.069 align:start position:0%
+environment, every object that they
+touch,<00:00:50.879><c> or</c><00:00:51.200><c> they</c><00:00:51.360><c> might</c><00:00:51.520><c> be</c><00:00:51.680><c> remotely</c>
+
+00:00:52.069 --> 00:00:52.079 align:start position:0%
+touch, or they might be remotely
+ 
+
+00:00:52.079 --> 00:00:53.990 align:start position:0%
+touch, or they might be remotely
+operated<00:00:52.480><c> by</c><00:00:52.719><c> humans.</c>
+
+00:00:53.990 --> 00:00:54.000 align:start position:0%
+operated by humans.
+ 
+
+00:00:54.000 --> 00:00:55.910 align:start position:0%
+operated by humans.
+This<00:00:54.320><c> makes</c><00:00:54.559><c> robots</c><00:00:54.960><c> today</c><00:00:55.199><c> incredibly</c>
+
+00:00:55.910 --> 00:00:55.920 align:start position:0%
+This makes robots today incredibly
+ 
+
+00:00:55.920 --> 00:00:58.950 align:start position:0%
+This makes robots today incredibly
+bespoke<00:00:56.640><c> still</c><00:00:57.360><c> and</c><00:00:57.680><c> difficult</c><00:00:58.079><c> to</c><00:00:58.239><c> deploy,</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+bespoke still and difficult to deploy,
+ 
+
+00:00:58.960 --> 00:01:00.790 align:start position:0%
+bespoke still and difficult to deploy,
+often<00:00:59.359><c> taking</c><00:00:59.760><c> many</c><00:01:00.079><c> months</c><00:01:00.320><c> in</c><00:01:00.480><c> order</c><00:01:00.640><c> to</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+often taking many months in order to
+ 
+
+00:01:00.800 --> 00:01:04.469 align:start position:0%
+often taking many months in order to
+deploy<00:01:01.440><c> a</c><00:01:01.760><c> new</c><00:01:02.000><c> application</c><00:01:03.199><c> or</c><00:01:03.440><c> a</c><00:01:03.680><c> new</c><00:01:04.080><c> or</c><00:01:04.320><c> a</c>
+
+00:01:04.469 --> 00:01:04.479 align:start position:0%
+deploy a new application or a new or a
+ 
+
+00:01:04.479 --> 00:01:07.510 align:start position:0%
+deploy a new application or a new or a
+new<00:01:04.640><c> task</c><00:01:06.080><c> only</c><00:01:06.400><c> to</c><00:01:06.560><c> have</c><00:01:06.720><c> to</c><00:01:06.799><c> do</c><00:01:06.960><c> it</c><00:01:07.119><c> all</c><00:01:07.280><c> over</c>
+
+00:01:07.510 --> 00:01:07.520 align:start position:0%
+new task only to have to do it all over
+ 
+
+00:01:07.520 --> 00:01:09.429 align:start position:0%
+new task only to have to do it all over
+again<00:01:07.920><c> when</c><00:01:08.320><c> something</c><00:01:08.640><c> changes</c><00:01:09.040><c> about</c><00:01:09.280><c> the</c>
+
+00:01:09.429 --> 00:01:09.439 align:start position:0%
+again when something changes about the
+ 
+
+00:01:09.439 --> 00:01:11.910 align:start position:0%
+again when something changes about the
+task.<00:01:10.400><c> At</c><00:01:10.640><c> Google</c><00:01:10.960><c> Dem,</c><00:01:11.360><c> we've</c><00:01:11.600><c> always</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+task. At Google Dem, we've always
+ 
+
+00:01:11.920 --> 00:01:14.870 align:start position:0%
+task. At Google Dem, we've always
+believed<00:01:12.320><c> that</c><00:01:12.640><c> AI</c><00:01:13.040><c> will</c><00:01:13.280><c> transform</c><00:01:13.760><c> robotics</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+believed that AI will transform robotics
+ 
+
+00:01:14.880 --> 00:01:16.870 align:start position:0%
+believed that AI will transform robotics
+in<00:01:15.360><c> so</c><00:01:15.520><c> we've</c><00:01:15.680><c> been</c><00:01:15.840><c> at</c><00:01:16.000><c> the</c><00:01:16.159><c> forefront</c><00:01:16.640><c> of</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+in so we've been at the forefront of
+ 
+
+00:01:16.880 --> 00:01:19.109 align:start position:0%
+in so we've been at the forefront of
+building<00:01:17.439><c> foundation</c><00:01:18.000><c> models</c><00:01:18.560><c> in</c><00:01:18.799><c> order</c><00:01:18.880><c> to</c>
+
+00:01:19.109 --> 00:01:19.119 align:start position:0%
+building foundation models in order to
+ 
+
+00:01:19.119 --> 00:01:22.070 align:start position:0%
+building foundation models in order to
+build<00:01:19.520><c> and</c><00:01:19.759><c> enable</c><00:01:20.400><c> truly</c><00:01:21.040><c> intelligent</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+build and enable truly intelligent
+ 
+
+00:01:22.080 --> 00:01:24.950 align:start position:0%
+build and enable truly intelligent
+general<00:01:22.479><c> purpose</c><00:01:22.880><c> robots.</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+general purpose robots.
+ 
+
+00:01:24.960 --> 00:01:27.429 align:start position:0%
+general purpose robots.
+What<00:01:25.200><c> we</c><00:01:25.360><c> mean</c><00:01:25.520><c> by</c><00:01:25.759><c> this</c><00:01:26.240><c> is</c><00:01:26.560><c> robots</c><00:01:27.040><c> that</c><00:01:27.280><c> can</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+What we mean by this is robots that can
+ 
+
+00:01:27.439 --> 00:01:30.710 align:start position:0%
+What we mean by this is robots that can
+go<00:01:27.680><c> on</c><00:01:27.920><c> any</c><00:01:28.240><c> environment</c><00:01:29.360><c> that</c><00:01:29.600><c> can</c><00:01:30.159><c> operate</c>
+
+00:01:30.710 --> 00:01:30.720 align:start position:0%
+go on any environment that can operate
+ 
+
+00:01:30.720 --> 00:01:33.270 align:start position:0%
+go on any environment that can operate
+across<00:01:31.119><c> many</c><00:01:31.520><c> different</c><00:01:31.759><c> verticals,</c><00:01:32.799><c> do</c><00:01:33.040><c> a</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+across many different verticals, do a
+ 
+
+00:01:33.280 --> 00:01:35.749 align:start position:0%
+across many different verticals, do a
+broad<00:01:33.520><c> range</c><00:01:33.759><c> of</c><00:01:33.920><c> tasks,</c><00:01:34.560><c> and</c><00:01:34.799><c> handle</c><00:01:35.200><c> objects</c>
+
+00:01:35.749 --> 00:01:35.759 align:start position:0%
+broad range of tasks, and handle objects
+ 
+
+00:01:35.759 --> 00:01:38.149 align:start position:0%
+broad range of tasks, and handle objects
+they<00:01:36.079><c> have</c><00:01:36.240><c> never</c><00:01:36.479><c> seen</c><00:01:36.799><c> before.</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+they have never seen before.
+ 
+
+00:01:38.159 --> 00:01:40.550 align:start position:0%
+they have never seen before.
+We<00:01:38.400><c> also</c><00:01:38.720><c> mean</c><00:01:38.960><c> robots</c><00:01:39.360><c> that</c><00:01:39.520><c> are</c><00:01:39.680><c> intuitive.</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+We also mean robots that are intuitive.
+ 
+
+00:01:40.560 --> 00:01:42.870 align:start position:0%
+We also mean robots that are intuitive.
+So,<00:01:40.880><c> anyone</c><00:01:41.520><c> in</c><00:01:41.840><c> their</c><00:01:42.079><c> environment</c><00:01:42.640><c> should</c>
+
+00:01:42.870 --> 00:01:42.880 align:start position:0%
+So, anyone in their environment should
+ 
+
+00:01:42.880 --> 00:01:45.350 align:start position:0%
+So, anyone in their environment should
+be<00:01:43.040><c> able</c><00:01:43.200><c> to</c><00:01:43.360><c> task</c><00:01:43.680><c> the</c><00:01:43.920><c> robot,</c><00:01:44.720><c> adapt</c><00:01:45.119><c> the</c>
+
+00:01:45.350 --> 00:01:45.360 align:start position:0%
+be able to task the robot, adapt the
+ 
+
+00:01:45.360 --> 00:01:48.550 align:start position:0%
+be able to task the robot, adapt the
+robot,<00:01:46.159><c> improve</c><00:01:46.640><c> the</c><00:01:46.880><c> robot.</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+robot, improve the robot.
+ 
+
+00:01:48.560 --> 00:01:50.710 align:start position:0%
+robot, improve the robot.
+This<00:01:48.799><c> also</c><00:01:49.119><c> means</c><00:01:49.439><c> robots</c><00:01:49.759><c> that</c><00:01:50.000><c> are</c><00:01:50.159><c> safer</c>
+
+00:01:50.710 --> 00:01:50.720 align:start position:0%
+This also means robots that are safer
+ 
+
+00:01:50.720 --> 00:01:52.069 align:start position:0%
+This also means robots that are safer
+because<00:01:51.040><c> they</c><00:01:51.360><c> understand</c><00:01:51.680><c> what</c><00:01:51.840><c> they're</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+because they understand what they're
+ 
+
+00:01:52.079 --> 00:01:53.830 align:start position:0%
+because they understand what they're
+trying<00:01:52.240><c> to</c><00:01:52.479><c> do.</c><00:01:52.880><c> They</c><00:01:53.200><c> understand</c><00:01:53.600><c> the</c>
+
+00:01:53.830 --> 00:01:53.840 align:start position:0%
+trying to do. They understand the
+ 
+
+00:01:53.840 --> 00:01:55.990 align:start position:0%
+trying to do. They understand the
+context<00:01:54.159><c> in</c><00:01:54.399><c> which</c><00:01:54.479><c> they're</c><00:01:54.720><c> operating.</c><00:01:55.759><c> If</c>
+
+00:01:55.990 --> 00:01:56.000 align:start position:0%
+context in which they're operating. If
+ 
+
+00:01:56.000 --> 00:01:57.830 align:start position:0%
+context in which they're operating. If
+anything<00:01:56.399><c> changes,</c><00:01:56.880><c> they</c><00:01:57.119><c> can</c><00:01:57.280><c> adapt</c><00:01:57.680><c> because</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+anything changes, they can adapt because
+ 
+
+00:01:57.840 --> 00:02:00.550 align:start position:0%
+anything changes, they can adapt because
+they<00:01:58.159><c> understand</c><00:01:58.880><c> what</c><00:01:59.119><c> has</c><00:01:59.360><c> changed.</c><00:02:00.399><c> And</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+they understand what has changed. And
+ 
+
+00:02:00.560 --> 00:02:02.709 align:start position:0%
+they understand what has changed. And
+these<00:02:00.799><c> are</c><00:02:00.960><c> robots</c><00:02:01.280><c> that</c><00:02:01.439><c> are</c><00:02:01.600><c> drop</c><00:02:01.920><c> in</c><00:02:02.560><c> that</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+these are robots that are drop in that
+ 
+
+00:02:02.719 --> 00:02:05.270 align:start position:0%
+these are robots that are drop in that
+they<00:02:03.040><c> come</c><00:02:03.439><c> with</c><00:02:03.680><c> a</c><00:02:03.920><c> broad</c><00:02:04.159><c> range</c><00:02:04.399><c> of</c><00:02:04.640><c> skills</c>
+
+00:02:05.270 --> 00:02:05.280 align:start position:0%
+they come with a broad range of skills
+ 
+
+00:02:05.280 --> 00:02:07.350 align:start position:0%
+they come with a broad range of skills
+that<00:02:05.600><c> can</c><00:02:05.759><c> adapt</c><00:02:06.399><c> to</c><00:02:06.719><c> objects</c><00:02:07.119><c> and</c>
+
+00:02:07.350 --> 00:02:07.360 align:start position:0%
+that can adapt to objects and
+ 
+
+00:02:07.360 --> 00:02:09.510 align:start position:0%
+that can adapt to objects and
+environments.<00:02:08.479><c> And</c><00:02:08.720><c> more</c><00:02:08.879><c> importantly,</c><00:02:09.280><c> they</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+environments. And more importantly, they
+ 
+
+00:02:09.520 --> 00:02:11.589 align:start position:0%
+environments. And more importantly, they
+don't<00:02:09.679><c> need</c><00:02:09.759><c> to</c><00:02:09.920><c> know</c><00:02:10.080><c> everything</c><00:02:11.039><c> from</c><00:02:11.360><c> the</c>
+
+00:02:11.589 --> 00:02:11.599 align:start position:0%
+don't need to know everything from the
+ 
+
+00:02:11.599 --> 00:02:13.510 align:start position:0%
+don't need to know everything from the
+start<00:02:11.840><c> because</c><00:02:12.160><c> they</c><00:02:12.400><c> can</c><00:02:12.560><c> learn</c><00:02:12.879><c> and</c><00:02:13.120><c> improve</c>
+
+00:02:13.510 --> 00:02:13.520 align:start position:0%
+start because they can learn and improve
+ 
+
+00:02:13.520 --> 00:02:16.229 align:start position:0%
+start because they can learn and improve
+over<00:02:13.840><c> time.</c><00:02:15.040><c> This</c><00:02:15.280><c> is</c><00:02:15.440><c> what</c><00:02:15.599><c> will</c><00:02:15.840><c> transform</c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+over time. This is what will transform
+ 
+
+00:02:16.239 --> 00:02:19.110 align:start position:0%
+over time. This is what will transform
+robotics<00:02:17.040><c> from</c><00:02:17.360><c> one</c><00:02:17.599><c> application</c><00:02:18.160><c> at</c><00:02:18.400><c> a</c><00:02:18.560><c> time</c>
+
+00:02:19.110 --> 00:02:19.120 align:start position:0%
+robotics from one application at a time
+ 
+
+00:02:19.120 --> 00:02:22.229 align:start position:0%
+robotics from one application at a time
+to<00:02:19.360><c> the</c><00:02:19.680><c> ultimate</c><00:02:20.080><c> tool</c><00:02:20.959><c> for</c><00:02:21.360><c> humans</c><00:02:21.840><c> in</c><00:02:22.080><c> the</c>
+
+00:02:22.229 --> 00:02:22.239 align:start position:0%
+to the ultimate tool for humans in the
+ 
+
+00:02:22.239 --> 00:02:24.710 align:start position:0%
+to the ultimate tool for humans in the
+physical<00:02:22.640><c> world.</c><00:02:23.520><c> And</c><00:02:23.760><c> this</c><00:02:23.920><c> is</c><00:02:24.000><c> what</c><00:02:24.239><c> we</c><00:02:24.400><c> care</c>
+
+00:02:24.710 --> 00:02:24.720 align:start position:0%
+physical world. And this is what we care
+ 
+
+00:02:24.720 --> 00:02:28.229 align:start position:0%
+physical world. And this is what we care
+about<00:02:25.840><c> at</c><00:02:26.160><c> Google</c><00:02:26.400><c> Deep</c><00:02:26.720><c> Mind.</c><00:02:27.760><c> Our</c><00:02:28.080><c> mission</c>
+
+00:02:28.229 --> 00:02:28.239 align:start position:0%
+about at Google Deep Mind. Our mission
+ 
+
+00:02:28.239 --> 00:02:31.350 align:start position:0%
+about at Google Deep Mind. Our mission
+at<00:02:28.480><c> DeepMind</c><00:02:29.200><c> is</c><00:02:29.440><c> to</c><00:02:29.760><c> build</c><00:02:30.160><c> AI</c><00:02:30.640><c> responsibly</c>
+
+00:02:31.350 --> 00:02:31.360 align:start position:0%
+at DeepMind is to build AI responsibly
+ 
+
+00:02:31.360 --> 00:02:34.229 align:start position:0%
+at DeepMind is to build AI responsibly
+to<00:02:31.680><c> benefit</c><00:02:32.080><c> humanity.</c><00:02:33.280><c> And</c><00:02:33.440><c> in</c><00:02:33.599><c> the</c><00:02:33.760><c> robotics</c>
+
+00:02:34.229 --> 00:02:34.239 align:start position:0%
+to benefit humanity. And in the robotics
+ 
+
+00:02:34.239 --> 00:02:36.550 align:start position:0%
+to benefit humanity. And in the robotics
+team,<00:02:34.640><c> our</c><00:02:34.879><c> goal</c><00:02:35.280><c> is</c><00:02:35.519><c> to</c><00:02:35.760><c> bring</c><00:02:36.000><c> this</c><00:02:36.239><c> mission</c>
+
+00:02:36.550 --> 00:02:36.560 align:start position:0%
+team, our goal is to bring this mission
+ 
+
+00:02:36.560 --> 00:02:38.869 align:start position:0%
+team, our goal is to bring this mission
+from<00:02:36.800><c> the</c><00:02:36.959><c> digital</c><00:02:37.599><c> screen</c><00:02:38.319><c> into</c><00:02:38.640><c> the</c>
+
+00:02:38.869 --> 00:02:38.879 align:start position:0%
+from the digital screen into the
+ 
+
+00:02:38.879 --> 00:02:41.670 align:start position:0%
+from the digital screen into the
+physical<00:02:39.280><c> world</c><00:02:39.760><c> in</c><00:02:40.000><c> a</c><00:02:40.160><c> way</c><00:02:40.319><c> that</c><00:02:40.480><c> is</c><00:02:40.720><c> helpful,</c>
+
+00:02:41.670 --> 00:02:41.680 align:start position:0%
+physical world in a way that is helpful,
+ 
+
+00:02:41.680 --> 00:02:44.949 align:start position:0%
+physical world in a way that is helpful,
+that<00:02:41.840><c> is</c><00:02:42.080><c> safe,</c><00:02:42.720><c> and</c><00:02:42.959><c> that</c><00:02:43.200><c> is</c><00:02:43.440><c> empowering.</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+that is safe, and that is empowering.
+ 
+
+00:02:44.959 --> 00:02:48.229 align:start position:0%
+that is safe, and that is empowering.
+In<00:02:45.200><c> fact,</c><00:02:45.920><c> our</c><00:02:46.239><c> goal</c><00:02:46.560><c> at</c><00:02:46.720><c> Google</c><00:02:47.040><c> Demine</c><00:02:47.519><c> is</c><00:02:47.680><c> to</c>
+
+00:02:48.229 --> 00:02:48.239 align:start position:0%
+In fact, our goal at Google Demine is to
+ 
+
+00:02:48.239 --> 00:02:50.550 align:start position:0%
+In fact, our goal at Google Demine is to
+nothing<00:02:48.560><c> less</c><00:02:49.040><c> but</c><00:02:49.120><c> to</c><00:02:49.360><c> solve</c><00:02:49.760><c> AGI</c><00:02:50.319><c> in</c><00:02:50.480><c> the</c>
+
+00:02:50.550 --> 00:02:50.560 align:start position:0%
+nothing less but to solve AGI in the
+ 
+
+00:02:50.560 --> 00:02:52.949 align:start position:0%
+nothing less but to solve AGI in the
+physical<00:02:50.959><c> world.</c><00:02:52.239><c> What</c><00:02:52.480><c> does</c><00:02:52.640><c> that</c><00:02:52.800><c> mean</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+physical world. What does that mean
+ 
+
+00:02:52.959 --> 00:02:54.550 align:start position:0%
+physical world. What does that mean
+anyway?<00:02:53.280><c> To</c><00:02:53.440><c> solve</c><00:02:53.680><c> AGI</c><00:02:54.000><c> in</c><00:02:54.160><c> the</c><00:02:54.239><c> physical</c>
+
+00:02:54.550 --> 00:02:54.560 align:start position:0%
+anyway? To solve AGI in the physical
+ 
+
+00:02:54.560 --> 00:02:57.190 align:start position:0%
+anyway? To solve AGI in the physical
+world.<00:02:55.440><c> Well,</c><00:02:55.760><c> it</c><00:02:56.000><c> means</c><00:02:56.480><c> that</c><00:02:56.720><c> we</c><00:02:56.879><c> want</c><00:02:57.040><c> to</c>
+
+00:02:57.190 --> 00:02:57.200 align:start position:0%
+world. Well, it means that we want to
+ 
+
+00:02:57.200 --> 00:03:01.190 align:start position:0%
+world. Well, it means that we want to
+build<00:02:57.360><c> an</c><00:02:57.519><c> AI</c><00:02:58.560><c> that</c><00:02:58.959><c> can</c><00:02:59.760><c> in</c><00:03:00.160><c> infuse</c><00:03:00.640><c> a</c><00:03:00.879><c> robot</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+build an AI that can in infuse a robot
+ 
+
+00:03:01.200 --> 00:03:02.949 align:start position:0%
+build an AI that can in infuse a robot
+with<00:03:01.440><c> human</c><00:03:01.760><c> level</c><00:03:02.080><c> intelligence</c><00:03:02.640><c> and</c>
+
+00:03:02.949 --> 00:03:02.959 align:start position:0%
+with human level intelligence and
+ 
+
+00:03:02.959 --> 00:03:05.430 align:start position:0%
+with human level intelligence and
+physical<00:03:03.360><c> abilities</c><00:03:04.400><c> so</c><00:03:04.560><c> that</c><00:03:04.800><c> robots</c><00:03:05.200><c> can</c>
+
+00:03:05.430 --> 00:03:05.440 align:start position:0%
+physical abilities so that robots can
+ 
+
+00:03:05.440 --> 00:03:07.589 align:start position:0%
+physical abilities so that robots can
+understand<00:03:06.000><c> the</c><00:03:06.319><c> world</c><00:03:06.560><c> and</c><00:03:06.879><c> reason</c><00:03:07.200><c> about</c><00:03:07.440><c> it</c>
+
+00:03:07.589 --> 00:03:07.599 align:start position:0%
+understand the world and reason about it
+ 
+
+00:03:07.599 --> 00:03:10.229 align:start position:0%
+understand the world and reason about it
+the<00:03:07.840><c> same</c><00:03:08.000><c> way</c><00:03:08.239><c> you</c><00:03:08.400><c> and</c><00:03:08.560><c> I</c><00:03:08.800><c> can.</c><00:03:09.760><c> Not</c><00:03:10.000><c> only</c>
+
+00:03:10.229 --> 00:03:10.239 align:start position:0%
+the same way you and I can. Not only
+ 
+
+00:03:10.239 --> 00:03:12.470 align:start position:0%
+the same way you and I can. Not only
+that,<00:03:10.800><c> but</c><00:03:11.120><c> also</c><00:03:11.519><c> take</c><00:03:11.760><c> action</c><00:03:12.080><c> to</c><00:03:12.319><c> the</c>
+
+00:03:12.470 --> 00:03:12.480 align:start position:0%
+that, but also take action to the
+ 
+
+00:03:12.480 --> 00:03:15.670 align:start position:0%
+that, but also take action to the
+precision<00:03:13.040><c> of</c><00:03:13.200><c> a</c><00:03:13.440><c> human</c><00:03:13.680><c> expert.</c><00:03:15.120><c> It</c><00:03:15.360><c> also</c>
+
+00:03:15.670 --> 00:03:15.680 align:start position:0%
+precision of a human expert. It also
+ 
+
+00:03:15.680 --> 00:03:17.990 align:start position:0%
+precision of a human expert. It also
+means<00:03:16.159><c> building</c><00:03:16.480><c> an</c><00:03:16.720><c> AI</c><00:03:17.120><c> that</c><00:03:17.360><c> can</c><00:03:17.599><c> go</c><00:03:17.760><c> into</c>
+
+00:03:17.990 --> 00:03:18.000 align:start position:0%
+means building an AI that can go into
+ 
+
+00:03:18.000 --> 00:03:20.149 align:start position:0%
+means building an AI that can go into
+any<00:03:18.319><c> embodiment.</c><00:03:19.280><c> We</c><00:03:19.519><c> believe</c><00:03:19.680><c> in</c><00:03:19.840><c> a</c><00:03:20.000><c> world</c>
+
+00:03:20.149 --> 00:03:20.159 align:start position:0%
+any embodiment. We believe in a world
+ 
+
+00:03:20.159 --> 00:03:21.910 align:start position:0%
+any embodiment. We believe in a world
+where<00:03:20.319><c> there</c><00:03:20.560><c> will</c><00:03:20.720><c> be</c><00:03:20.879><c> many</c><00:03:21.200><c> different</c><00:03:21.519><c> robot</c>
+
+00:03:21.910 --> 00:03:21.920 align:start position:0%
+where there will be many different robot
+ 
+
+00:03:21.920 --> 00:03:24.390 align:start position:0%
+where there will be many different robot
+types,<00:03:22.640><c> each</c><00:03:22.959><c> one</c><00:03:23.120><c> of</c><00:03:23.280><c> them</c><00:03:23.519><c> evolving</c><00:03:24.080><c> over</c>
+
+00:03:24.390 --> 00:03:24.400 align:start position:0%
+types, each one of them evolving over
+ 
+
+00:03:24.400 --> 00:03:26.390 align:start position:0%
+types, each one of them evolving over
+time<00:03:24.560><c> and</c><00:03:24.800><c> becoming</c><00:03:25.200><c> a</c><00:03:25.360><c> different</c><00:03:25.599><c> robot.</c><00:03:26.239><c> And</c>
+
+00:03:26.390 --> 00:03:26.400 align:start position:0%
+time and becoming a different robot. And
+ 
+
+00:03:26.400 --> 00:03:29.110 align:start position:0%
+time and becoming a different robot. And
+you<00:03:26.640><c> want</c><00:03:26.800><c> this</c><00:03:27.040><c> AI</c><00:03:27.680><c> to</c><00:03:28.000><c> basically</c><00:03:28.400><c> adapt</c><00:03:28.800><c> and</c>
+
+00:03:29.110 --> 00:03:29.120 align:start position:0%
+you want this AI to basically adapt and
+ 
+
+00:03:29.120 --> 00:03:30.710 align:start position:0%
+you want this AI to basically adapt and
+maximize<00:03:29.680><c> the</c><00:03:29.920><c> potential</c><00:03:30.400><c> through</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+maximize the potential through
+ 
+
+00:03:30.720 --> 00:03:33.190 align:start position:0%
+maximize the potential through
+intelligent<00:03:31.280><c> control.</c><00:03:32.400><c> And</c><00:03:32.640><c> lastly,</c><00:03:33.040><c> you</c>
+
+00:03:33.190 --> 00:03:33.200 align:start position:0%
+intelligent control. And lastly, you
+ 
+
+00:03:33.200 --> 00:03:34.869 align:start position:0%
+intelligent control. And lastly, you
+want<00:03:33.360><c> an</c><00:03:33.519><c> AI</c><00:03:33.840><c> that</c><00:03:34.000><c> can</c><00:03:34.159><c> be</c><00:03:34.239><c> deployed</c><00:03:34.640><c> in</c><00:03:34.799><c> the</c>
+
+00:03:34.869 --> 00:03:34.879 align:start position:0%
+want an AI that can be deployed in the
+ 
+
+00:03:34.879 --> 00:03:36.789 align:start position:0%
+want an AI that can be deployed in the
+real<00:03:35.120><c> world.</c><00:03:35.519><c> So</c><00:03:35.680><c> it</c><00:03:35.920><c> needs</c><00:03:36.080><c> to</c><00:03:36.239><c> handle</c><00:03:36.560><c> all</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+real world. So it needs to handle all
+ 
+
+00:03:36.799 --> 00:03:39.110 align:start position:0%
+real world. So it needs to handle all
+the<00:03:36.959><c> diversity</c><00:03:37.599><c> and</c><00:03:37.840><c> the</c><00:03:38.080><c> noise</c><00:03:38.720><c> and</c><00:03:38.959><c> the</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+the diversity and the noise and the
+ 
+
+00:03:39.120 --> 00:03:40.869 align:start position:0%
+the diversity and the noise and the
+unstructuress<00:03:39.840><c> and</c><00:03:40.080><c> the</c><00:03:40.239><c> everchanging</c>
+
+00:03:40.869 --> 00:03:40.879 align:start position:0%
+unstructuress and the everchanging
+ 
+
+00:03:40.879 --> 00:03:42.550 align:start position:0%
+unstructuress and the everchanging
+environments<00:03:41.280><c> that</c><00:03:41.519><c> live</c><00:03:41.599><c> in</c><00:03:41.760><c> the</c><00:03:41.920><c> real</c><00:03:42.080><c> world</c>
+
+00:03:42.550 --> 00:03:42.560 align:start position:0%
+environments that live in the real world
+ 
+
+00:03:42.560 --> 00:03:46.149 align:start position:0%
+environments that live in the real world
+in<00:03:42.799><c> order</c><00:03:42.959><c> to</c><00:03:43.200><c> bring</c><00:03:43.760><c> real</c><00:03:44.239><c> tangible</c><00:03:44.879><c> impact.</c>
+
+00:03:46.149 --> 00:03:46.159 align:start position:0%
+in order to bring real tangible impact.
+ 
+
+00:03:46.159 --> 00:03:48.149 align:start position:0%
+in order to bring real tangible impact.
+This<00:03:46.319><c> is</c><00:03:46.480><c> of</c><00:03:46.640><c> course</c><00:03:46.799><c> a</c><00:03:47.040><c> very</c><00:03:47.280><c> ambitious</c><00:03:47.760><c> goal</c>
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+This is of course a very ambitious goal
+ 
+
+00:03:48.159 --> 00:03:50.229 align:start position:0%
+This is of course a very ambitious goal
+but<00:03:48.480><c> one</c><00:03:48.640><c> that</c><00:03:48.799><c> we've</c><00:03:49.040><c> been</c><00:03:49.200><c> after</c><00:03:49.760><c> since</c><00:03:50.000><c> the</c>
+
+00:03:50.229 --> 00:03:50.239 align:start position:0%
+but one that we've been after since the
+ 
+
+00:03:50.239 --> 00:03:52.710 align:start position:0%
+but one that we've been after since the
+inception<00:03:50.640><c> of</c><00:03:50.720><c> the</c><00:03:50.959><c> team</c><00:03:51.760><c> and</c><00:03:52.080><c> over</c><00:03:52.319><c> the</c><00:03:52.480><c> last</c>
+
+00:03:52.710 --> 00:03:52.720 align:start position:0%
+inception of the team and over the last
+ 
+
+00:03:52.720 --> 00:03:54.869 align:start position:0%
+inception of the team and over the last
+few<00:03:52.959><c> years</c><00:03:53.519><c> we've</c><00:03:53.840><c> introduced</c><00:03:54.319><c> significant</c>
+
+00:03:54.869 --> 00:03:54.879 align:start position:0%
+few years we've introduced significant
+ 
+
+00:03:54.879 --> 00:03:57.190 align:start position:0%
+few years we've introduced significant
+advancements<00:03:55.760><c> that</c><00:03:56.000><c> have</c><00:03:56.159><c> become</c><00:03:56.799><c> table</c>
+
+00:03:57.190 --> 00:03:57.200 align:start position:0%
+advancements that have become table
+ 
+
+00:03:57.200 --> 00:03:59.190 align:start position:0%
+advancements that have become table
+stakes<00:03:57.599><c> in</c><00:03:57.840><c> the</c><00:03:58.080><c> field</c><00:03:58.319><c> of</c><00:03:58.560><c> general</c><00:03:58.879><c> purpose</c>
+
+00:03:59.190 --> 00:03:59.200 align:start position:0%
+stakes in the field of general purpose
+ 
+
+00:03:59.200 --> 00:04:02.550 align:start position:0%
+stakes in the field of general purpose
+robotics.<00:04:00.640><c> For</c><00:04:00.720><c> example,</c><00:04:01.200><c> in</c><00:04:01.360><c> 2022</c><00:04:02.319><c> we</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+robotics. For example, in 2022 we
+ 
+
+00:04:02.560 --> 00:04:05.350 align:start position:0%
+robotics. For example, in 2022 we
+introduced<00:04:03.040><c> LLMs</c><00:04:03.519><c> and</c><00:04:03.680><c> VLNs</c><00:04:04.159><c> into</c><00:04:04.400><c> robots.</c>
+
+00:04:05.350 --> 00:04:05.360 align:start position:0%
+introduced LLMs and VLNs into robots.
+ 
+
+00:04:05.360 --> 00:04:07.270 align:start position:0%
+introduced LLMs and VLNs into robots.
+This<00:04:05.599><c> was</c><00:04:05.760><c> the</c><00:04:06.000><c> first</c><00:04:06.159><c> time</c><00:04:06.400><c> that</c><00:04:06.640><c> robots</c><00:04:07.040><c> were</c>
+
+00:04:07.270 --> 00:04:07.280 align:start position:0%
+This was the first time that robots were
+ 
+
+00:04:07.280 --> 00:04:09.030 align:start position:0%
+This was the first time that robots were
+able<00:04:07.439><c> to</c><00:04:07.599><c> really</c><00:04:07.920><c> understand</c><00:04:08.400><c> semantically</c>
+
+00:04:09.030 --> 00:04:09.040 align:start position:0%
+able to really understand semantically
+ 
+
+00:04:09.040 --> 00:04:11.110 align:start position:0%
+able to really understand semantically
+their<00:04:09.280><c> environment,</c><00:04:09.840><c> understand</c><00:04:10.319><c> objects</c>
+
+00:04:11.110 --> 00:04:11.120 align:start position:0%
+their environment, understand objects
+ 
+
+00:04:11.120 --> 00:04:14.309 align:start position:0%
+their environment, understand objects
+and<00:04:11.439><c> plan</c><00:04:11.760><c> using</c><00:04:12.080><c> multimodal</c><00:04:12.720><c> input.</c><00:04:13.920><c> We've</c>
+
+00:04:14.309 --> 00:04:14.319 align:start position:0%
+and plan using multimodal input. We've
+ 
+
+00:04:14.319 --> 00:04:16.150 align:start position:0%
+and plan using multimodal input. We've
+also<00:04:14.640><c> introduced</c><00:04:15.200><c> transformers</c><00:04:15.920><c> into</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+also introduced transformers into
+ 
+
+00:04:16.160 --> 00:04:19.030 align:start position:0%
+also introduced transformers into
+robotics.<00:04:17.120><c> This</c><00:04:17.359><c> usher</c><00:04:17.759><c> a</c><00:04:17.919><c> new</c><00:04:18.160><c> area</c><00:04:18.720><c> of</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+robotics. This usher a new area of
+ 
+
+00:04:19.040 --> 00:04:21.270 align:start position:0%
+robotics. This usher a new area of
+datadriven<00:04:19.759><c> robotics.</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+datadriven robotics.
+ 
+
+00:04:21.280 --> 00:04:23.350 align:start position:0%
+datadriven robotics.
+We've<00:04:21.519><c> also</c><00:04:21.759><c> introduced</c><00:04:22.320><c> in</c><00:04:22.560><c> this</c><00:04:22.960><c> set</c><00:04:23.199><c> of</c>
+
+00:04:23.350 --> 00:04:23.360 align:start position:0%
+We've also introduced in this set of
+ 
+
+00:04:23.360 --> 00:04:26.629 align:start position:0%
+We've also introduced in this set of
+group<00:04:23.680><c> set</c><00:04:23.840><c> of</c><00:04:24.000><c> work</c><00:04:24.639><c> the</c><00:04:24.960><c> concept</c><00:04:25.199><c> of</c><00:04:25.360><c> a</c><00:04:25.600><c> VA</c><00:04:26.400><c> or</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+group set of work the concept of a VA or
+ 
+
+00:04:26.639 --> 00:04:29.670 align:start position:0%
+group set of work the concept of a VA or
+a<00:04:26.800><c> vision</c><00:04:27.440><c> language</c><00:04:28.000><c> action</c><00:04:28.400><c> model</c><00:04:29.360><c> that</c>
+
+00:04:29.670 --> 00:04:29.680 align:start position:0%
+a vision language action model that
+ 
+
+00:04:29.680 --> 00:04:31.909 align:start position:0%
+a vision language action model that
+enables<00:04:30.080><c> robots</c><00:04:30.720><c> to</c><00:04:31.040><c> understand</c><00:04:31.520><c> natural</c>
+
+00:04:31.909 --> 00:04:31.919 align:start position:0%
+enables robots to understand natural
+ 
+
+00:04:31.919 --> 00:04:33.830 align:start position:0%
+enables robots to understand natural
+language,<00:04:32.560><c> understand</c><00:04:33.040><c> their</c><00:04:33.280><c> environment</c>
+
+00:04:33.830 --> 00:04:33.840 align:start position:0%
+language, understand their environment
+ 
+
+00:04:33.840 --> 00:04:36.870 align:start position:0%
+language, understand their environment
+and<00:04:34.080><c> do</c><00:04:34.639><c> more</c><00:04:34.960><c> general</c><00:04:35.280><c> actions.</c>
+
+00:04:36.870 --> 00:04:36.880 align:start position:0%
+and do more general actions.
+ 
+
+00:04:36.880 --> 00:04:38.550 align:start position:0%
+and do more general actions.
+And<00:04:37.120><c> we've</c><00:04:37.360><c> also</c><00:04:37.600><c> shown</c><00:04:37.840><c> what's</c><00:04:38.160><c> possible</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+And we've also shown what's possible
+ 
+
+00:04:38.560 --> 00:04:41.510 align:start position:0%
+And we've also shown what's possible
+when<00:04:38.880><c> it</c><00:04:39.040><c> comes</c><00:04:39.360><c> to</c><00:04:40.400><c> um</c><00:04:40.880><c> actually</c><00:04:41.199><c> let</c><00:04:41.360><c> me</c><00:04:41.440><c> go</c>
+
+00:04:41.510 --> 00:04:41.520 align:start position:0%
+when it comes to um actually let me go
+ 
+
+00:04:41.520 --> 00:04:42.950 align:start position:0%
+when it comes to um actually let me go
+to<00:04:41.680><c> the</c><00:04:41.759><c> next</c><00:04:41.919><c> one.</c><00:04:42.160><c> We've</c><00:04:42.400><c> also</c><00:04:42.560><c> shown</c><00:04:42.720><c> what's</c>
+
+00:04:42.950 --> 00:04:42.960 align:start position:0%
+to the next one. We've also shown what's
+ 
+
+00:04:42.960 --> 00:04:44.629 align:start position:0%
+to the next one. We've also shown what's
+possible<00:04:43.360><c> when</c><00:04:43.600><c> it</c><00:04:43.759><c> comes</c><00:04:43.919><c> to</c><00:04:44.240><c> learning</c>
+
+00:04:44.629 --> 00:04:44.639 align:start position:0%
+possible when it comes to learning
+ 
+
+00:04:44.639 --> 00:04:46.469 align:start position:0%
+possible when it comes to learning
+highly<00:04:44.960><c> dextrous</c><00:04:45.440><c> behaviors</c><00:04:46.000><c> like</c><00:04:46.160><c> in</c><00:04:46.320><c> the</c>
+
+00:04:46.469 --> 00:04:46.479 align:start position:0%
+highly dextrous behaviors like in the
+ 
+
+00:04:46.479 --> 00:04:48.150 align:start position:0%
+highly dextrous behaviors like in the
+tying<00:04:46.800><c> shoelaces</c><00:04:47.360><c> example,</c><00:04:47.759><c> something</c><00:04:48.000><c> we</c>
+
+00:04:48.150 --> 00:04:48.160 align:start position:0%
+tying shoelaces example, something we
+ 
+
+00:04:48.160 --> 00:04:50.230 align:start position:0%
+tying shoelaces example, something we
+didn't<00:04:48.320><c> think</c><00:04:48.479><c> we</c><00:04:48.639><c> would</c><00:04:48.880><c> see</c><00:04:49.520><c> in</c><00:04:49.840><c> our</c>
+
+00:04:50.230 --> 00:04:50.240 align:start position:0%
+didn't think we would see in our
+ 
+
+00:04:50.240 --> 00:04:52.710 align:start position:0%
+didn't think we would see in our
+careers,<00:04:51.199><c> as</c><00:04:51.440><c> well</c><00:04:51.600><c> as</c><00:04:51.759><c> introducing</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+careers, as well as introducing
+ 
+
+00:04:52.720 --> 00:04:54.790 align:start position:0%
+careers, as well as introducing
+reinforcement<00:04:53.440><c> learning</c><00:04:53.759><c> in</c><00:04:53.919><c> simulation</c><00:04:54.560><c> for</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+reinforcement learning in simulation for
+ 
+
+00:04:54.800 --> 00:04:56.870 align:start position:0%
+reinforcement learning in simulation for
+whole<00:04:55.040><c> body</c><00:04:55.360><c> control.</c><00:04:55.919><c> And</c><00:04:56.080><c> we</c><00:04:56.240><c> shown</c><00:04:56.479><c> this</c><00:04:56.720><c> on</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+whole body control. And we shown this on
+ 
+
+00:04:56.880 --> 00:04:59.189 align:start position:0%
+whole body control. And we shown this on
+quadripets<00:04:57.680><c> and</c><00:04:58.080><c> little</c><00:04:58.400><c> humanoids</c><00:04:58.960><c> playing</c>
+
+00:04:59.189 --> 00:04:59.199 align:start position:0%
+quadripets and little humanoids playing
+ 
+
+00:04:59.199 --> 00:05:02.070 align:start position:0%
+quadripets and little humanoids playing
+soccer<00:04:59.919><c> and</c><00:05:00.160><c> on</c><00:05:00.400><c> ping-pong</c><00:05:00.960><c> robots.</c><00:05:01.759><c> And</c><00:05:01.919><c> this</c>
+
+00:05:02.070 --> 00:05:02.080 align:start position:0%
+soccer and on ping-pong robots. And this
+ 
+
+00:05:02.080 --> 00:05:03.909 align:start position:0%
+soccer and on ping-pong robots. And this
+is<00:05:02.240><c> now</c><00:05:02.400><c> the</c><00:05:02.639><c> default</c><00:05:03.120><c> for</c><00:05:03.360><c> whole</c><00:05:03.600><c> body</c>
+
+00:05:03.909 --> 00:05:03.919 align:start position:0%
+is now the default for whole body
+ 
+
+00:05:03.919 --> 00:05:06.950 align:start position:0%
+is now the default for whole body
+control<00:05:04.479><c> in</c><00:05:04.800><c> the</c><00:05:04.960><c> entire</c><00:05:05.280><c> industry.</c>
+
+00:05:06.950 --> 00:05:06.960 align:start position:0%
+control in the entire industry.
+ 
+
+00:05:06.960 --> 00:05:09.430 align:start position:0%
+control in the entire industry.
+Last<00:05:07.280><c> year,</c><00:05:07.919><c> building</c><00:05:08.320><c> on</c><00:05:08.560><c> this,</c><00:05:09.120><c> we</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+Last year, building on this, we
+ 
+
+00:05:09.440 --> 00:05:11.909 align:start position:0%
+Last year, building on this, we
+introduced<00:05:10.080><c> Gemini</c><00:05:10.639><c> robotics.</c><00:05:11.440><c> This</c><00:05:11.520><c> is</c><00:05:11.680><c> our</c>
+
+00:05:11.909 --> 00:05:11.919 align:start position:0%
+introduced Gemini robotics. This is our
+ 
+
+00:05:11.919 --> 00:05:13.990 align:start position:0%
+introduced Gemini robotics. This is our
+most<00:05:12.080><c> advanced</c><00:05:12.880><c> visual</c><00:05:13.199><c> language</c><00:05:13.600><c> action</c>
+
+00:05:13.990 --> 00:05:14.000 align:start position:0%
+most advanced visual language action
+ 
+
+00:05:14.000 --> 00:05:16.310 align:start position:0%
+most advanced visual language action
+model<00:05:14.560><c> to</c><00:05:14.880><c> power</c><00:05:15.120><c> the</c><00:05:15.280><c> next</c><00:05:15.520><c> generation</c><00:05:16.080><c> of</c>
+
+00:05:16.310 --> 00:05:16.320 align:start position:0%
+model to power the next generation of
+ 
+
+00:05:16.320 --> 00:05:19.590 align:start position:0%
+model to power the next generation of
+helpful<00:05:16.800><c> robots.</c><00:05:18.160><c> Gemini</c><00:05:18.639><c> robotics,</c><00:05:19.199><c> as</c><00:05:19.440><c> you</c>
+
+00:05:19.590 --> 00:05:19.600 align:start position:0%
+helpful robots. Gemini robotics, as you
+ 
+
+00:05:19.600 --> 00:05:21.430 align:start position:0%
+helpful robots. Gemini robotics, as you
+can<00:05:19.680><c> tell,</c><00:05:20.240><c> it</c><00:05:20.479><c> draws</c><00:05:20.720><c> from</c><00:05:20.960><c> Gemini's</c>
+
+00:05:21.430 --> 00:05:21.440 align:start position:0%
+can tell, it draws from Gemini's
+ 
+
+00:05:21.440 --> 00:05:23.270 align:start position:0%
+can tell, it draws from Gemini's
+multimodal<00:05:22.000><c> world</c><00:05:22.320><c> understanding</c><00:05:23.039><c> and</c>
+
+00:05:23.270 --> 00:05:23.280 align:start position:0%
+multimodal world understanding and
+ 
+
+00:05:23.280 --> 00:05:25.430 align:start position:0%
+multimodal world understanding and
+brings<00:05:23.600><c> it</c><00:05:23.759><c> to</c><00:05:23.919><c> the</c><00:05:24.080><c> physical</c><00:05:24.479><c> world</c><00:05:25.120><c> by</c>
+
+00:05:25.430 --> 00:05:25.440 align:start position:0%
+brings it to the physical world by
+ 
+
+00:05:25.440 --> 00:05:27.909 align:start position:0%
+brings it to the physical world by
+adding<00:05:25.919><c> actions</c><00:05:26.560><c> as</c><00:05:26.800><c> a</c><00:05:26.960><c> new</c><00:05:27.120><c> modality</c><00:05:27.680><c> in</c>
+
+00:05:27.909 --> 00:05:27.919 align:start position:0%
+adding actions as a new modality in
+ 
+
+00:05:27.919 --> 00:05:30.629 align:start position:0%
+adding actions as a new modality in
+Gemini.<00:05:29.039><c> So</c><00:05:29.280><c> the</c><00:05:29.440><c> same</c><00:05:29.600><c> way</c><00:05:29.759><c> that</c><00:05:30.000><c> Gemini</c><00:05:30.479><c> can</c>
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+Gemini. So the same way that Gemini can
+ 
+
+00:05:30.639 --> 00:05:34.469 align:start position:0%
+Gemini. So the same way that Gemini can
+produce<00:05:30.960><c> text</c><00:05:31.840><c> and</c><00:05:32.080><c> code</c><00:05:32.880><c> and</c><00:05:33.280><c> images,</c><00:05:34.080><c> it</c><00:05:34.320><c> can</c>
+
+00:05:34.469 --> 00:05:34.479 align:start position:0%
+produce text and code and images, it can
+ 
+
+00:05:34.479 --> 00:05:36.950 align:start position:0%
+produce text and code and images, it can
+now<00:05:34.720><c> produce</c><00:05:35.199><c> robot</c><00:05:35.600><c> action</c><00:05:36.080><c> sequences</c><00:05:36.720><c> which</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+now produce robot action sequences which
+ 
+
+00:05:36.960 --> 00:05:38.710 align:start position:0%
+now produce robot action sequences which
+are<00:05:37.199><c> essentially</c><00:05:37.600><c> trajectories</c><00:05:38.240><c> that</c><00:05:38.560><c> move</c>
+
+00:05:38.710 --> 00:05:38.720 align:start position:0%
+are essentially trajectories that move
+ 
+
+00:05:38.720 --> 00:05:41.909 align:start position:0%
+are essentially trajectories that move
+the<00:05:39.039><c> robot</c><00:05:39.600><c> in</c><00:05:39.840><c> a</c><00:05:40.000><c> way</c><00:05:40.160><c> that</c><00:05:40.320><c> is</c><00:05:40.560><c> general,</c><00:05:41.680><c> that</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+the robot in a way that is general, that
+ 
+
+00:05:41.919 --> 00:05:46.310 align:start position:0%
+the robot in a way that is general, that
+is<00:05:42.160><c> interactive,</c><00:05:43.440><c> and</c><00:05:43.680><c> that</c><00:05:43.919><c> is</c><00:05:44.080><c> dextrous.</c>
+
+00:05:46.310 --> 00:05:46.320 align:start position:0%
+is interactive, and that is dextrous.
+ 
+
+00:05:46.320 --> 00:05:48.230 align:start position:0%
+is interactive, and that is dextrous.
+The<00:05:46.560><c> reason</c><00:05:46.880><c> robots</c><00:05:47.280><c> are</c><00:05:47.440><c> not</c><00:05:47.600><c> all</c><00:05:47.759><c> around</c><00:05:48.000><c> us</c>
+
+00:05:48.230 --> 00:05:48.240 align:start position:0%
+The reason robots are not all around us
+ 
+
+00:05:48.240 --> 00:05:50.710 align:start position:0%
+The reason robots are not all around us
+here<00:05:48.479><c> today</c><00:05:48.960><c> is</c><00:05:49.360><c> because</c><00:05:49.600><c> they</c><00:05:49.919><c> cannot</c><00:05:50.320><c> handle</c>
+
+00:05:50.710 --> 00:05:50.720 align:start position:0%
+here today is because they cannot handle
+ 
+
+00:05:50.720 --> 00:05:53.350 align:start position:0%
+here today is because they cannot handle
+generalization<00:05:51.520><c> yet.</c><00:05:52.560><c> If</c><00:05:52.800><c> you</c><00:05:52.960><c> change</c><00:05:53.120><c> the</c>
+
+00:05:53.350 --> 00:05:53.360 align:start position:0%
+generalization yet. If you change the
+ 
+
+00:05:53.360 --> 00:05:55.510 align:start position:0%
+generalization yet. If you change the
+robot<00:05:53.680><c> complete</c><00:05:54.080><c> environment,</c><00:05:55.120><c> you</c><00:05:55.280><c> change</c>
+
+00:05:55.510 --> 00:05:55.520 align:start position:0%
+robot complete environment, you change
+ 
+
+00:05:55.520 --> 00:05:57.430 align:start position:0%
+robot complete environment, you change
+the<00:05:55.680><c> task</c><00:05:55.919><c> that</c><00:05:56.080><c> it's</c><00:05:56.320><c> trying</c><00:05:56.479><c> to</c><00:05:56.639><c> accomplish,</c>
+
+00:05:57.430 --> 00:05:57.440 align:start position:0%
+the task that it's trying to accomplish,
+ 
+
+00:05:57.440 --> 00:05:58.629 align:start position:0%
+the task that it's trying to accomplish,
+you<00:05:57.600><c> change</c><00:05:57.759><c> the</c><00:05:58.000><c> objects</c><00:05:58.320><c> that</c><00:05:58.479><c> it's</c>
+
+00:05:58.629 --> 00:05:58.639 align:start position:0%
+you change the objects that it's
+ 
+
+00:05:58.639 --> 00:06:00.790 align:start position:0%
+you change the objects that it's
+interacting<00:05:59.120><c> with,</c><00:05:59.840><c> typically</c><00:06:00.320><c> it</c><00:06:00.560><c> falls</c>
+
+00:06:00.790 --> 00:06:00.800 align:start position:0%
+interacting with, typically it falls
+ 
+
+00:06:00.800 --> 00:06:02.310 align:start position:0%
+interacting with, typically it falls
+apart.
+
+00:06:02.310 --> 00:06:02.320 align:start position:0%
+apart.
+ 
+
+00:06:02.320 --> 00:06:04.550 align:start position:0%
+apart.
+With<00:06:02.479><c> Gemini</c><00:06:02.960><c> robotics,</c><00:06:03.520><c> the</c><00:06:03.840><c> idea</c><00:06:04.160><c> is</c><00:06:04.400><c> that</c>
+
+00:06:04.550 --> 00:06:04.560 align:start position:0%
+With Gemini robotics, the idea is that
+ 
+
+00:06:04.560 --> 00:06:06.790 align:start position:0%
+With Gemini robotics, the idea is that
+they<00:06:04.800><c> can</c><00:06:04.880><c> use</c><00:06:05.120><c> Gemini's</c><00:06:05.680><c> world</c><00:06:06.000><c> knowledge</c><00:06:06.560><c> in</c>
+
+00:06:06.790 --> 00:06:06.800 align:start position:0%
+they can use Gemini's world knowledge in
+ 
+
+00:06:06.800 --> 00:06:09.029 align:start position:0%
+they can use Gemini's world knowledge in
+order<00:06:06.960><c> to</c><00:06:07.600><c> tackle</c><00:06:07.919><c> a</c><00:06:08.240><c> completely</c><00:06:08.560><c> unseen</c>
+
+00:06:09.029 --> 00:06:09.039 align:start position:0%
+order to tackle a completely unseen
+ 
+
+00:06:09.039 --> 00:06:11.350 align:start position:0%
+order to tackle a completely unseen
+situation.<00:06:10.000><c> A</c><00:06:10.240><c> good</c><00:06:10.400><c> example</c><00:06:10.639><c> that</c><00:06:10.880><c> I</c><00:06:11.039><c> like</c><00:06:11.280><c> to</c>
+
+00:06:11.350 --> 00:06:11.360 align:start position:0%
+situation. A good example that I like to
+ 
+
+00:06:11.360 --> 00:06:13.670 align:start position:0%
+situation. A good example that I like to
+to<00:06:11.680><c> showcase</c><00:06:12.080><c> this</c><00:06:12.319><c> is</c><00:06:12.560><c> this</c><00:06:12.800><c> example</c><00:06:13.360><c> coming</c>
+
+00:06:13.670 --> 00:06:13.680 align:start position:0%
+to showcase this is this example coming
+ 
+
+00:06:13.680 --> 00:06:16.550 align:start position:0%
+to showcase this is this example coming
+up<00:06:14.479><c> right</c><00:06:14.720><c> now</c><00:06:14.960><c> on</c><00:06:15.199><c> the</c><00:06:15.360><c> right,</c><00:06:16.080><c> the</c>
+
+00:06:16.550 --> 00:06:16.560 align:start position:0%
+up right now on the right, the
+ 
+
+00:06:16.560 --> 00:06:19.189 align:start position:0%
+up right now on the right, the
+basketball<00:06:17.039><c> hoop.</c><00:06:17.840><c> So,</c><00:06:18.080><c> this</c><00:06:18.240><c> is</c><00:06:18.400><c> a</c><00:06:18.560><c> toy</c><00:06:18.880><c> that</c>
+
+00:06:19.189 --> 00:06:19.199 align:start position:0%
+basketball hoop. So, this is a toy that
+ 
+
+00:06:19.199 --> 00:06:21.110 align:start position:0%
+basketball hoop. So, this is a toy that
+our<00:06:19.600><c> vision</c><00:06:19.919><c> team,</c><00:06:20.240><c> our</c><00:06:20.400><c> video</c><00:06:20.639><c> team</c><00:06:20.880><c> brought</c>
+
+00:06:21.110 --> 00:06:21.120 align:start position:0%
+our vision team, our video team brought
+ 
+
+00:06:21.120 --> 00:06:22.870 align:start position:0%
+our vision team, our video team brought
+that<00:06:21.360><c> day.</c><00:06:21.680><c> So</c><00:06:21.840><c> the</c><00:06:22.000><c> robot</c><00:06:22.319><c> had</c><00:06:22.479><c> never</c><00:06:22.639><c> seen</c>
+
+00:06:22.870 --> 00:06:22.880 align:start position:0%
+that day. So the robot had never seen
+ 
+
+00:06:22.880 --> 00:06:24.629 align:start position:0%
+that day. So the robot had never seen
+this<00:06:23.120><c> toy.</c><00:06:23.680><c> He's</c><00:06:23.919><c> never</c><00:06:24.080><c> seen</c><00:06:24.319><c> anything</c>
+
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+this toy. He's never seen anything
+ 
+
+00:06:24.639 --> 00:06:26.469 align:start position:0%
+this toy. He's never seen anything
+related<00:06:24.960><c> to</c><00:06:25.120><c> basketball.</c><00:06:25.840><c> And</c><00:06:26.000><c> our</c><00:06:26.240><c> team</c>
+
+00:06:26.469 --> 00:06:26.479 align:start position:0%
+related to basketball. And our team
+ 
+
+00:06:26.479 --> 00:06:29.350 align:start position:0%
+related to basketball. And our team
+asked<00:06:26.720><c> it</c><00:06:27.120><c> to</c><00:06:27.360><c> slam</c><00:06:27.759><c> dunk</c><00:06:28.000><c> the</c><00:06:28.160><c> basketball</c>
+
+00:06:29.350 --> 00:06:29.360 align:start position:0%
+asked it to slam dunk the basketball
+ 
+
+00:06:29.360 --> 00:06:30.950 align:start position:0%
+asked it to slam dunk the basketball
+even<00:06:29.600><c> though</c><00:06:29.680><c> he's</c><00:06:29.919><c> never</c><00:06:30.080><c> seen</c><00:06:30.319><c> that</c><00:06:30.560><c> object.</c>
+
+00:06:30.950 --> 00:06:30.960 align:start position:0%
+even though he's never seen that object.
+ 
+
+00:06:30.960 --> 00:06:33.029 align:start position:0%
+even though he's never seen that object.
+He's<00:06:31.120><c> never</c><00:06:31.360><c> seen</c><00:06:31.759><c> that</c><00:06:32.080><c> kind</c><00:06:32.240><c> of</c><00:06:32.400><c> task.</c><00:06:32.800><c> It</c>
+
+00:06:33.029 --> 00:06:33.039 align:start position:0%
+He's never seen that kind of task. It
+ 
+
+00:06:33.039 --> 00:06:35.110 align:start position:0%
+He's never seen that kind of task. It
+took<00:06:33.280><c> a</c><00:06:33.440><c> quarter</c><00:06:33.680><c> of</c><00:06:33.840><c> a</c><00:06:34.080><c> second</c><00:06:34.400><c> to</c><00:06:34.639><c> decide</c>
+
+00:06:35.110 --> 00:06:35.120 align:start position:0%
+took a quarter of a second to decide
+ 
+
+00:06:35.120 --> 00:06:37.430 align:start position:0%
+took a quarter of a second to decide
+that<00:06:35.360><c> meant</c><00:06:35.680><c> put</c><00:06:35.919><c> that</c><00:06:36.160><c> small</c><00:06:36.479><c> ball</c><00:06:36.800><c> into</c><00:06:37.120><c> that</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+that meant put that small ball into that
+ 
+
+00:06:37.440 --> 00:06:39.350 align:start position:0%
+that meant put that small ball into that
+basket.<00:06:38.639><c> That</c><00:06:38.800><c> is</c><00:06:38.960><c> the</c><00:06:39.120><c> kind</c><00:06:39.280><c> of</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+basket. That is the kind of
+ 
+
+00:06:39.360 --> 00:06:42.950 align:start position:0%
+basket. That is the kind of
+generalization<00:06:39.919><c> that</c><00:06:40.160><c> we</c><00:06:40.319><c> care</c><00:06:40.479><c> about.</c>
+
+00:06:42.950 --> 00:06:42.960 align:start position:0%
+generalization that we care about.
+ 
+
+00:06:42.960 --> 00:06:44.950 align:start position:0%
+generalization that we care about.
+We<00:06:43.280><c> also</c><00:06:43.520><c> introduced</c><00:06:43.919><c> with</c><00:06:44.160><c> Gemini</c><00:06:44.479><c> Robotics</c>
+
+00:06:44.950 --> 00:06:44.960 align:start position:0%
+We also introduced with Gemini Robotics
+ 
+
+00:06:44.960 --> 00:06:49.029 align:start position:0%
+We also introduced with Gemini Robotics
+1.5<00:06:45.840><c> agents</c><00:06:46.479><c> into</c><00:06:46.880><c> robotics.</c><00:06:48.240><c> The</c><00:06:48.479><c> reality</c><00:06:48.800><c> is</c>
+
+00:06:49.029 --> 00:06:49.039 align:start position:0%
+1.5 agents into robotics. The reality is
+ 
+
+00:06:49.039 --> 00:06:51.270 align:start position:0%
+1.5 agents into robotics. The reality is
+most<00:06:49.280><c> tasks</c><00:06:49.520><c> in</c><00:06:49.759><c> the</c><00:06:49.840><c> real</c><00:06:50.080><c> world</c><00:06:50.240><c> are</c><00:06:50.560><c> complex</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+most tasks in the real world are complex
+ 
+
+00:06:51.280 --> 00:06:53.029 align:start position:0%
+most tasks in the real world are complex
+and<00:06:51.600><c> they</c><00:06:51.840><c> take</c><00:06:52.080><c> multiple</c><00:06:52.560><c> steps</c><00:06:52.800><c> to</c>
+
+00:06:53.029 --> 00:06:53.039 align:start position:0%
+and they take multiple steps to
+ 
+
+00:06:53.039 --> 00:06:54.550 align:start position:0%
+and they take multiple steps to
+complete.
+
+00:06:54.550 --> 00:06:54.560 align:start position:0%
+complete.
+ 
+
+00:06:54.560 --> 00:06:56.710 align:start position:0%
+complete.
+In<00:06:54.800><c> order</c><00:06:54.960><c> to</c><00:06:55.120><c> do</c><00:06:55.280><c> this,</c><00:06:55.840><c> we</c><00:06:56.080><c> need</c><00:06:56.160><c> to</c><00:06:56.479><c> move</c>
+
+00:06:56.710 --> 00:06:56.720 align:start position:0%
+In order to do this, we need to move
+ 
+
+00:06:56.720 --> 00:06:58.710 align:start position:0%
+In order to do this, we need to move
+beyond<00:06:57.280><c> single</c><00:06:57.680><c> instruction</c><00:06:58.240><c> following</c>
+
+00:06:58.710 --> 00:06:58.720 align:start position:0%
+beyond single instruction following
+ 
+
+00:06:58.720 --> 00:07:00.390 align:start position:0%
+beyond single instruction following
+which<00:06:58.880><c> we</c><00:06:59.039><c> can</c><00:06:59.199><c> now</c><00:06:59.360><c> do</c><00:06:59.520><c> in</c><00:06:59.680><c> a</c><00:06:59.840><c> very</c><00:07:00.080><c> general</c>
+
+00:07:00.390 --> 00:07:00.400 align:start position:0%
+which we can now do in a very general
+ 
+
+00:07:00.400 --> 00:07:03.270 align:start position:0%
+which we can now do in a very general
+way<00:07:00.800><c> into</c><00:07:01.199><c> agentic</c><00:07:01.759><c> systems.</c><00:07:02.880><c> This</c><00:07:03.120><c> means</c>
+
+00:07:03.270 --> 00:07:03.280 align:start position:0%
+way into agentic systems. This means
+ 
+
+00:07:03.280 --> 00:07:05.189 align:start position:0%
+way into agentic systems. This means
+that<00:07:03.520><c> it</c><00:07:03.680><c> needs</c><00:07:03.840><c> to</c><00:07:04.000><c> be</c><00:07:04.080><c> able</c><00:07:04.240><c> to</c><00:07:04.479><c> understand</c>
+
+00:07:05.189 --> 00:07:05.199 align:start position:0%
+that it needs to be able to understand
+ 
+
+00:07:05.199 --> 00:07:07.189 align:start position:0%
+that it needs to be able to understand
+what<00:07:05.520><c> the</c><00:07:05.759><c> human</c><00:07:06.000><c> is</c><00:07:06.240><c> trying</c><00:07:06.400><c> to</c><00:07:06.560><c> do</c><00:07:06.720><c> and</c><00:07:06.960><c> then</c>
+
+00:07:07.189 --> 00:07:07.199 align:start position:0%
+what the human is trying to do and then
+ 
+
+00:07:07.199 --> 00:07:09.270 align:start position:0%
+what the human is trying to do and then
+translate<00:07:07.599><c> it</c><00:07:07.840><c> into</c><00:07:08.080><c> a</c><00:07:08.319><c> sequence</c><00:07:08.639><c> of</c><00:07:08.880><c> steps</c>
+
+00:07:09.270 --> 00:07:09.280 align:start position:0%
+translate it into a sequence of steps
+ 
+
+00:07:09.280 --> 00:07:11.430 align:start position:0%
+translate it into a sequence of steps
+using<00:07:09.680><c> whatever</c><00:07:10.000><c> tools</c><00:07:10.319><c> are</c><00:07:10.479><c> available</c><00:07:10.800><c> to</c><00:07:11.039><c> it</c>
+
+00:07:11.430 --> 00:07:11.440 align:start position:0%
+using whatever tools are available to it
+ 
+
+00:07:11.440 --> 00:07:13.909 align:start position:0%
+using whatever tools are available to it
+including<00:07:11.919><c> VAS.</c><00:07:12.960><c> Let</c><00:07:13.199><c> me</c><00:07:13.280><c> just</c><00:07:13.440><c> show</c><00:07:13.520><c> you</c><00:07:13.680><c> a</c>
+
+00:07:13.909 --> 00:07:13.919 align:start position:0%
+including VAS. Let me just show you a
+ 
+
+00:07:13.919 --> 00:07:16.230 align:start position:0%
+including VAS. Let me just show you a
+quick<00:07:14.080><c> example</c><00:07:14.880><c> of</c><00:07:15.120><c> what</c><00:07:15.360><c> this</c><00:07:15.599><c> looks</c><00:07:15.840><c> like</c><00:07:16.000><c> in</c>
+
+00:07:16.230 --> 00:07:16.240 align:start position:0%
+quick example of what this looks like in
+ 
+
+00:07:16.240 --> 00:07:19.110 align:start position:0%
+quick example of what this looks like in
+a<00:07:17.039><c> I'm</c><00:07:17.280><c> not</c><00:07:17.440><c> sure</c><00:07:17.599><c> it's</c><00:07:17.840><c> going</c><00:07:17.919><c> to</c><00:07:18.080><c> be</c><00:07:18.639><c> audible,</c>
+
+00:07:19.110 --> 00:07:19.120 align:start position:0%
+a I'm not sure it's going to be audible,
+ 
+
+00:07:19.120 --> 00:07:44.309 align:start position:0%
+a I'm not sure it's going to be audible,
+but<00:07:19.280><c> we'll</c><00:07:19.520><c> see.</c>
+
+00:07:44.309 --> 00:07:44.319 align:start position:0%
+ 
+ 
+
+00:07:44.319 --> 00:07:47.749 align:start position:0%
+ 
+Hi,<00:07:44.639><c> Aloha.</c><00:07:45.440><c> Can</c><00:07:45.599><c> you</c><00:07:45.919><c> use</c><00:07:46.160><c> my</c><00:07:46.400><c> location</c><00:07:47.120><c> and</c>
+
+00:07:47.749 --> 00:07:47.759 align:start position:0%
+Hi, Aloha. Can you use my location and
+ 
+
+00:07:47.759 --> 00:07:49.350 align:start position:0%
+Hi, Aloha. Can you use my location and
+sort<00:07:48.160><c> the</c><00:07:48.330><c> [music]</c><00:07:48.479><c> objects</c><00:07:48.880><c> into</c><00:07:49.199><c> the</c>
+
+00:07:49.350 --> 00:07:49.360 align:start position:0%
+sort the [music] objects into the
+ 
+
+00:07:49.360 --> 00:07:51.430 align:start position:0%
+sort the [music] objects into the
+correct<00:07:49.680><c> compost,</c><00:07:50.160><c> recycling,</c><00:07:50.639><c> and</c><00:07:51.120><c> trash</c>
+
+00:07:51.430 --> 00:07:51.440 align:start position:0%
+correct compost, recycling, and trash
+ 
+
+00:07:51.440 --> 00:07:52.070 align:start position:0%
+correct compost, recycling, and trash
+bins?
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+bins?
+ 
+
+00:07:52.080 --> 00:07:53.560 align:start position:0%
+bins?
+&gt;&gt; To<00:07:52.319><c> perform</c><00:07:52.560><c> the</c><00:07:52.720><c> sorting</c><00:07:53.120><c> task</c><00:07:53.440><c> based</c>
+
+00:07:53.560 --> 00:07:53.570 align:start position:0%
+&gt;&gt; To perform the sorting task based
+ 
+
+00:07:53.570 --> 00:07:54.869 align:start position:0%
+&gt;&gt; To perform the sorting task based
+[music]<00:07:53.599><c> on</c><00:07:53.919><c> San</c><00:07:54.080><c> Francisco</c><00:07:54.560><c> waste</c>
+
+00:07:54.869 --> 00:07:54.879 align:start position:0%
+[music] on San Francisco waste
+ 
+
+00:07:54.879 --> 00:07:57.029 align:start position:0%
+[music] on San Francisco waste
+guidelines,<00:07:55.599><c> I</c><00:07:55.759><c> will</c><00:07:55.919><c> use</c><00:07:56.080><c> the</c><00:07:56.319><c> green</c><00:07:56.479><c> bin</c><00:07:56.800><c> for</c>
+
+00:07:57.029 --> 00:07:57.039 align:start position:0%
+guidelines, I will use the green bin for
+ 
+
+00:07:57.039 --> 00:07:59.270 align:start position:0%
+guidelines, I will use the green bin for
+compost,<00:07:57.599><c> the</c><00:07:57.840><c> blue</c><00:07:58.000><c> bin</c><00:07:58.240><c> for</c><00:07:58.479><c> recycling,</c><00:07:59.120><c> and</c>
+
+00:07:59.270 --> 00:07:59.280 align:start position:0%
+compost, the blue bin for recycling, and
+ 
+
+00:07:59.280 --> 00:08:03.110 align:start position:0%
+compost, the blue bin for recycling, and
+the<00:07:59.465><c> [music]</c><00:07:59.520><c> black</c><00:07:59.759><c> bin</c><00:08:00.080><c> for</c><00:08:00.319><c> trash.</c>
+
+00:08:03.110 --> 00:08:03.120 align:start position:0%
+the [music] black bin for trash.
+ 
+
+00:08:03.120 --> 00:08:04.790 align:start position:0%
+the [music] black bin for trash.
+&gt;&gt; Here<00:08:03.280><c> we</c><00:08:03.440><c> have</c><00:08:03.599><c> on</c><00:08:03.759><c> ouric</c><00:08:04.479><c> layers</c><00:08:04.705><c> [music]</c>
+
+00:08:04.790 --> 00:08:04.800 align:start position:0%
+&gt;&gt; Here we have on ouric layers [music]
+ 
+
+00:08:04.800 --> 00:08:06.309 align:start position:0%
+&gt;&gt; Here we have on ouric layers [music]
+both<00:08:05.039><c> control</c><00:08:05.280><c> the</c><00:08:05.440><c> robot</c><00:08:05.759><c> and</c><00:08:05.919><c> have</c><00:08:06.080><c> access</c>
+
+00:08:06.309 --> 00:08:06.319 align:start position:0%
+both control the robot and have access
+ 
+
+00:08:06.319 --> 00:08:08.309 align:start position:0%
+both control the robot and have access
+to<00:08:06.400><c> the</c><00:08:06.639><c> internet.</c><00:08:07.280><c> To</c><00:08:07.440><c> sort</c><00:08:07.680><c> the</c><00:08:07.840><c> trash,</c><00:08:08.160><c> it</c>
+
+00:08:08.309 --> 00:08:08.319 align:start position:0%
+to the internet. To sort the trash, it
+ 
+
+00:08:08.319 --> 00:08:09.935 align:start position:0%
+to the internet. To sort the trash, it
+had<00:08:08.479><c> to</c><00:08:08.639><c> look</c><00:08:08.800><c> up</c><00:08:08.960><c> the</c><00:08:09.120><c> rules</c><00:08:09.440><c> and</c><00:08:09.680><c> look</c><00:08:09.840><c> at</c>
+
+00:08:09.935 --> 00:08:09.945 align:start position:0%
+had to look up the rules and look at
+ 
+
+00:08:09.945 --> 00:08:11.670 align:start position:0%
+had to look up the rules and look at
+[music]<00:08:10.000><c> the</c><00:08:10.160><c> objects</c><00:08:10.479><c> on</c><00:08:10.639><c> the</c><00:08:10.800><c> table,</c><00:08:11.440><c> think</c>
+
+00:08:11.670 --> 00:08:11.680 align:start position:0%
+[music] the objects on the table, think
+ 
+
+00:08:11.680 --> 00:08:13.350 align:start position:0%
+[music] the objects on the table, think
+about<00:08:12.000><c> where</c><00:08:12.319><c> each</c><00:08:12.479><c> object</c><00:08:12.720><c> should</c><00:08:12.960><c> go,</c>
+
+00:08:13.350 --> 00:08:13.360 align:start position:0%
+about where each object should go,
+ 
+
+00:08:13.360 --> 00:08:14.790 align:start position:0%
+about where each object should go,
+matching<00:08:13.680><c> the</c><00:08:13.919><c> rules</c><00:08:14.080><c> that</c><00:08:14.240><c> it</c><00:08:14.400><c> had</c><00:08:14.560><c> looked</c>
+
+00:08:14.790 --> 00:08:14.800 align:start position:0%
+matching the rules that it had looked
+ 
+
+00:08:14.800 --> 00:08:18.309 align:start position:0%
+matching the rules that it had looked
+up.
+
+00:08:18.309 --> 00:08:18.319 align:start position:0%
+ 
+ 
+
+00:08:18.319 --> 00:08:19.990 align:start position:0%
+ 
+Can<00:08:18.560><c> you</c><00:08:18.639><c> guys</c><00:08:18.800><c> hear</c><00:08:18.960><c> me</c><00:08:19.120><c> now?</c><00:08:19.360><c> Okay,</c><00:08:19.599><c> cool.</c>
+
+00:08:19.990 --> 00:08:20.000 align:start position:0%
+Can you guys hear me now? Okay, cool.
+ 
+
+00:08:20.000 --> 00:08:21.110 align:start position:0%
+Can you guys hear me now? Okay, cool.
+So,<00:08:20.160><c> what</c><00:08:20.319><c> you're</c><00:08:20.479><c> seeing</c><00:08:20.720><c> there</c><00:08:20.879><c> is</c>
+
+00:08:21.110 --> 00:08:21.120 align:start position:0%
+So, what you're seeing there is
+ 
+
+00:08:21.120 --> 00:08:22.950 align:start position:0%
+So, what you're seeing there is
+essentially<00:08:21.360><c> an</c><00:08:21.599><c> agentic</c><00:08:22.160><c> system</c><00:08:22.479><c> that</c><00:08:22.800><c> is</c>
+
+00:08:22.950 --> 00:08:22.960 align:start position:0%
+essentially an agentic system that is
+ 
+
+00:08:22.960 --> 00:08:25.670 align:start position:0%
+essentially an agentic system that is
+powered<00:08:23.280><c> by</c><00:08:23.520><c> two</c><00:08:23.759><c> key</c><00:08:24.080><c> AI</c><00:08:24.479><c> models.</c><00:08:25.199><c> A</c><00:08:25.440><c> high</c>
+
+00:08:25.670 --> 00:08:25.680 align:start position:0%
+powered by two key AI models. A high
+ 
+
+00:08:25.680 --> 00:08:27.510 align:start position:0%
+powered by two key AI models. A high
+level<00:08:26.000><c> reasoning</c><00:08:26.560><c> layer</c><00:08:26.879><c> called</c><00:08:27.039><c> Gemini</c>
+
+00:08:27.510 --> 00:08:27.520 align:start position:0%
+level reasoning layer called Gemini
+ 
+
+00:08:27.520 --> 00:08:30.230 align:start position:0%
+level reasoning layer called Gemini
+Robotics<00:08:28.080><c> ER.</c><00:08:28.720><c> That's</c><00:08:29.039><c> our</c><00:08:29.199><c> agent</c><00:08:29.919><c> that</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+Robotics ER. That's our agent that
+ 
+
+00:08:30.240 --> 00:08:32.149 align:start position:0%
+Robotics ER. That's our agent that
+understands<00:08:30.800><c> the</c><00:08:31.039><c> environment,</c><00:08:31.680><c> understands</c>
+
+00:08:32.149 --> 00:08:32.159 align:start position:0%
+understands the environment, understands
+ 
+
+00:08:32.159 --> 00:08:33.750 align:start position:0%
+understands the environment, understands
+the<00:08:32.320><c> natural</c><00:08:32.640><c> language</c><00:08:32.959><c> and</c><00:08:33.120><c> it</c><00:08:33.360><c> can</c><00:08:33.519><c> speak</c>
+
+00:08:33.750 --> 00:08:33.760 align:start position:0%
+the natural language and it can speak
+ 
+
+00:08:33.760 --> 00:08:35.990 align:start position:0%
+the natural language and it can speak
+back<00:08:33.919><c> to</c><00:08:34.080><c> the</c><00:08:34.320><c> human</c><00:08:34.880><c> and</c><00:08:35.200><c> reason</c><00:08:35.599><c> about</c><00:08:35.839><c> the</c>
+
+00:08:35.990 --> 00:08:36.000 align:start position:0%
+back to the human and reason about the
+ 
+
+00:08:36.000 --> 00:08:37.909 align:start position:0%
+back to the human and reason about the
+sequence<00:08:36.320><c> of</c><00:08:36.560><c> steps</c><00:08:36.800><c> it</c><00:08:37.039><c> takes</c><00:08:37.519><c> along</c><00:08:37.760><c> with</c>
+
+00:08:37.909 --> 00:08:37.919 align:start position:0%
+sequence of steps it takes along with
+ 
+
+00:08:37.919 --> 00:08:41.110 align:start position:0%
+sequence of steps it takes along with
+the<00:08:38.080><c> VA.</c><00:08:38.959><c> It</c><00:08:39.200><c> can</c><00:08:39.360><c> also</c><00:08:39.760><c> use</c><00:08:40.000><c> tools</c><00:08:40.479><c> as</c><00:08:40.719><c> you</c><00:08:40.880><c> saw</c>
+
+00:08:41.110 --> 00:08:41.120 align:start position:0%
+the VA. It can also use tools as you saw
+ 
+
+00:08:41.120 --> 00:08:43.350 align:start position:0%
+the VA. It can also use tools as you saw
+earlier.<00:08:41.599><c> It</c><00:08:41.760><c> was</c><00:08:42.000><c> pulling</c><00:08:42.320><c> up</c><00:08:42.560><c> from</c><00:08:42.800><c> search</c>
+
+00:08:43.350 --> 00:08:43.360 align:start position:0%
+earlier. It was pulling up from search
+ 
+
+00:08:43.360 --> 00:08:45.590 align:start position:0%
+earlier. It was pulling up from search
+what<00:08:43.519><c> are</c><00:08:43.680><c> the</c><00:08:43.839><c> rules</c><00:08:44.080><c> to</c><00:08:44.320><c> do</c><00:08:44.480><c> that</c><00:08:44.959><c> that</c><00:08:45.360><c> task</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+what are the rules to do that that task
+ 
+
+00:08:45.600 --> 00:08:47.829 align:start position:0%
+what are the rules to do that that task
+on<00:08:45.839><c> trash</c><00:08:46.160><c> sorting.</c><00:08:46.959><c> Let's</c><00:08:47.200><c> talk</c><00:08:47.279><c> a</c><00:08:47.440><c> bit</c><00:08:47.600><c> about</c>
+
+00:08:47.829 --> 00:08:47.839 align:start position:0%
+on trash sorting. Let's talk a bit about
+ 
+
+00:08:47.839 --> 00:08:50.150 align:start position:0%
+on trash sorting. Let's talk a bit about
+this<00:08:48.160><c> model</c><00:08:48.480><c> more.</c><00:08:49.200><c> So</c><00:08:49.440><c> this</c><00:08:49.600><c> is</c><00:08:49.680><c> a</c><00:08:49.839><c> physical</c>
+
+00:08:50.150 --> 00:08:50.160 align:start position:0%
+this model more. So this is a physical
+ 
+
+00:08:50.160 --> 00:08:52.230 align:start position:0%
+this model more. So this is a physical
+agent<00:08:50.480><c> with</c><00:08:50.720><c> memory.</c><00:08:51.440><c> On</c><00:08:51.680><c> the</c><00:08:51.839><c> left</c><00:08:52.000><c> you're</c>
+
+00:08:52.230 --> 00:08:52.240 align:start position:0%
+agent with memory. On the left you're
+ 
+
+00:08:52.240 --> 00:08:54.630 align:start position:0%
+agent with memory. On the left you're
+seeing<00:08:52.480><c> someone</c><00:08:52.880><c> asking</c><00:08:53.279><c> the</c><00:08:53.440><c> robot</c><00:08:53.920><c> to</c><00:08:54.240><c> reset</c>
+
+00:08:54.630 --> 00:08:54.640 align:start position:0%
+seeing someone asking the robot to reset
+ 
+
+00:08:54.640 --> 00:08:56.389 align:start position:0%
+seeing someone asking the robot to reset
+the<00:08:54.880><c> scene</c><00:08:55.279><c> after</c><00:08:55.600><c> making</c><00:08:55.839><c> a</c><00:08:56.080><c> bunch</c><00:08:56.240><c> of</c>
+
+00:08:56.389 --> 00:08:56.399 align:start position:0%
+the scene after making a bunch of
+ 
+
+00:08:56.399 --> 00:08:58.710 align:start position:0%
+the scene after making a bunch of
+changes<00:08:56.720><c> in</c><00:08:56.959><c> that</c><00:08:57.200><c> scene.</c><00:08:57.920><c> So</c><00:08:58.160><c> it</c><00:08:58.399><c> has</c><00:08:58.480><c> to</c>
+
+00:08:58.710 --> 00:08:58.720 align:start position:0%
+changes in that scene. So it has to
+ 
+
+00:08:58.720 --> 00:09:00.389 align:start position:0%
+changes in that scene. So it has to
+remember<00:08:59.040><c> what</c><00:08:59.279><c> the</c><00:08:59.440><c> scene</c><00:08:59.680><c> look</c><00:08:59.920><c> like.</c><00:09:00.240><c> It</c>
+
+00:09:00.389 --> 00:09:00.399 align:start position:0%
+remember what the scene look like. It
+ 
+
+00:09:00.399 --> 00:09:02.710 align:start position:0%
+remember what the scene look like. It
+has<00:09:00.560><c> to</c><00:09:00.720><c> understand</c><00:09:01.360><c> what</c><00:09:01.600><c> it</c><00:09:01.839><c> means</c><00:09:02.080><c> to</c><00:09:02.399><c> reset</c>
+
+00:09:02.710 --> 00:09:02.720 align:start position:0%
+has to understand what it means to reset
+ 
+
+00:09:02.720 --> 00:09:04.790 align:start position:0%
+has to understand what it means to reset
+the<00:09:02.959><c> scene</c><00:09:03.440><c> and</c><00:09:03.680><c> then</c><00:09:03.920><c> carry</c><00:09:04.240><c> out</c><00:09:04.480><c> the</c>
+
+00:09:04.790 --> 00:09:04.800 align:start position:0%
+the scene and then carry out the
+ 
+
+00:09:04.800 --> 00:09:06.310 align:start position:0%
+the scene and then carry out the
+sequence<00:09:05.120><c> of</c><00:09:05.279><c> steps</c><00:09:05.600><c> in</c><00:09:05.839><c> order</c><00:09:05.920><c> to</c><00:09:06.080><c> achieve</c>
+
+00:09:06.310 --> 00:09:06.320 align:start position:0%
+sequence of steps in order to achieve
+ 
+
+00:09:06.320 --> 00:09:08.630 align:start position:0%
+sequence of steps in order to achieve
+it.<00:09:07.200><c> Many</c><00:09:07.440><c> people</c><00:09:07.680><c> also</c><00:09:07.920><c> use</c><00:09:08.160><c> this</c><00:09:08.320><c> model</c>
+
+00:09:08.630 --> 00:09:08.640 align:start position:0%
+it. Many people also use this model
+ 
+
+00:09:08.640 --> 00:09:10.550 align:start position:0%
+it. Many people also use this model
+simply<00:09:08.880><c> as</c><00:09:09.040><c> a</c><00:09:09.200><c> perception</c><00:09:09.760><c> layer</c><00:09:10.160><c> or</c><00:09:10.399><c> a</c>
+
+00:09:10.550 --> 00:09:10.560 align:start position:0%
+simply as a perception layer or a
+ 
+
+00:09:10.560 --> 00:09:12.310 align:start position:0%
+simply as a perception layer or a
+reasoning<00:09:11.120><c> layer.</c><00:09:11.360><c> So</c><00:09:11.519><c> you</c><00:09:11.680><c> can</c><00:09:11.839><c> use</c><00:09:12.000><c> it</c><00:09:12.160><c> for</c>
+
+00:09:12.310 --> 00:09:12.320 align:start position:0%
+reasoning layer. So you can use it for
+ 
+
+00:09:12.320 --> 00:09:14.470 align:start position:0%
+reasoning layer. So you can use it for
+2D<00:09:12.640><c> bounding</c><00:09:13.040><c> box</c><00:09:13.279><c> detection,</c><00:09:13.839><c> 3D</c><00:09:14.160><c> bounding</c>
+
+00:09:14.470 --> 00:09:14.480 align:start position:0%
+2D bounding box detection, 3D bounding
+ 
+
+00:09:14.480 --> 00:09:17.430 align:start position:0%
+2D bounding box detection, 3D bounding
+box<00:09:14.800><c> pointing.</c><00:09:15.760><c> You</c><00:09:15.920><c> can</c><00:09:16.080><c> ask</c><00:09:16.720><c> to</c><00:09:16.959><c> match</c><00:09:17.279><c> all</c>
+
+00:09:17.430 --> 00:09:17.440 align:start position:0%
+box pointing. You can ask to match all
+ 
+
+00:09:17.440 --> 00:09:20.389 align:start position:0%
+box pointing. You can ask to match all
+the<00:09:17.600><c> socks</c><00:09:18.080><c> on</c><00:09:18.320><c> that</c><00:09:18.480><c> image</c><00:09:18.800><c> on</c><00:09:18.959><c> the</c><00:09:19.120><c> right.</c>
+
+00:09:20.389 --> 00:09:20.399 align:start position:0%
+the socks on that image on the right.
+ 
+
+00:09:20.399 --> 00:09:23.030 align:start position:0%
+the socks on that image on the right.
+We've<00:09:20.720><c> also</c><00:09:21.600><c> in</c><00:09:22.080><c> last</c><00:09:22.399><c> month</c><00:09:22.640><c> introduced</c>
+
+00:09:23.030 --> 00:09:23.040 align:start position:0%
+We've also in last month introduced
+ 
+
+00:09:23.040 --> 00:09:25.430 align:start position:0%
+We've also in last month introduced
+Gemini<00:09:23.440><c> Robotics</c><00:09:23.760><c> ER</c><00:09:24.080><c> 1.6.</c><00:09:24.880><c> This</c><00:09:25.120><c> is</c><00:09:25.200><c> our</c>
+
+00:09:25.430 --> 00:09:25.440 align:start position:0%
+Gemini Robotics ER 1.6. This is our
+ 
+
+00:09:25.440 --> 00:09:27.030 align:start position:0%
+Gemini Robotics ER 1.6. This is our
+safest<00:09:25.760><c> and</c><00:09:26.000><c> most</c><00:09:26.160><c> advanced</c><00:09:26.560><c> model</c><00:09:26.880><c> for</c>
+
+00:09:27.030 --> 00:09:27.040 align:start position:0%
+safest and most advanced model for
+ 
+
+00:09:27.040 --> 00:09:29.430 align:start position:0%
+safest and most advanced model for
+robotics<00:09:27.600><c> to</c><00:09:27.760><c> date.</c><00:09:28.480><c> In</c><00:09:28.720><c> this</c><00:09:28.880><c> model,</c><00:09:29.200><c> we're</c>
+
+00:09:29.430 --> 00:09:29.440 align:start position:0%
+robotics to date. In this model, we're
+ 
+
+00:09:29.440 --> 00:09:31.829 align:start position:0%
+robotics to date. In this model, we're
+advancing<00:09:29.920><c> three</c><00:09:30.240><c> core</c><00:09:30.560><c> capabilities.</c>
+
+00:09:31.829 --> 00:09:31.839 align:start position:0%
+advancing three core capabilities.
+ 
+
+00:09:31.839 --> 00:09:34.470 align:start position:0%
+advancing three core capabilities.
+Pointing,<00:09:32.800><c> enhanced</c><00:09:33.279><c> success</c><00:09:33.600><c> detection,</c><00:09:34.320><c> as</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+Pointing, enhanced success detection, as
+ 
+
+00:09:34.480 --> 00:09:36.070 align:start position:0%
+Pointing, enhanced success detection, as
+well<00:09:34.640><c> as</c><00:09:34.800><c> a</c><00:09:35.120><c> new</c><00:09:35.279><c> capability</c><00:09:35.839><c> called</c>
+
+00:09:36.070 --> 00:09:36.080 align:start position:0%
+well as a new capability called
+ 
+
+00:09:36.080 --> 00:09:38.230 align:start position:0%
+well as a new capability called
+instrument<00:09:36.480><c> reading.</c>
+
+00:09:38.230 --> 00:09:38.240 align:start position:0%
+instrument reading.
+ 
+
+00:09:38.240 --> 00:09:39.829 align:start position:0%
+instrument reading.
+Pointing<00:09:38.640><c> is</c><00:09:38.800><c> a</c><00:09:38.959><c> pretty</c><00:09:39.120><c> basic</c><00:09:39.360><c> capability</c>
+
+00:09:39.829 --> 00:09:39.839 align:start position:0%
+Pointing is a pretty basic capability
+ 
+
+00:09:39.839 --> 00:09:41.590 align:start position:0%
+Pointing is a pretty basic capability
+for<00:09:40.240><c> spatial</c><00:09:40.640><c> understanding.</c><00:09:41.200><c> You</c><00:09:41.440><c> can</c><00:09:41.519><c> use</c>
+
+00:09:41.590 --> 00:09:41.600 align:start position:0%
+for spatial understanding. You can use
+ 
+
+00:09:41.600 --> 00:09:43.430 align:start position:0%
+for spatial understanding. You can use
+it<00:09:41.760><c> for</c><00:09:42.160><c> identify</c><00:09:42.480><c> all</c><00:09:42.640><c> the</c><00:09:42.800><c> objects</c><00:09:43.120><c> in</c><00:09:43.279><c> the</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+it for identify all the objects in the
+ 
+
+00:09:43.440 --> 00:09:45.430 align:start position:0%
+it for identify all the objects in the
+scene,<00:09:43.760><c> count</c><00:09:44.000><c> the</c><00:09:44.240><c> hammers</c><00:09:44.560><c> in</c><00:09:44.720><c> the</c><00:09:44.880><c> scene,</c>
+
+00:09:45.430 --> 00:09:45.440 align:start position:0%
+scene, count the hammers in the scene,
+ 
+
+00:09:45.440 --> 00:09:47.430 align:start position:0%
+scene, count the hammers in the scene,
+but<00:09:45.680><c> you</c><00:09:45.760><c> can</c><00:09:45.920><c> do</c><00:09:46.080><c> more</c><00:09:46.320><c> complex</c><00:09:46.640><c> queries</c><00:09:47.120><c> like</c>
+
+00:09:47.430 --> 00:09:47.440 align:start position:0%
+but you can do more complex queries like
+ 
+
+00:09:47.440 --> 00:09:49.590 align:start position:0%
+but you can do more complex queries like
+find<00:09:47.760><c> me</c><00:09:48.000><c> all</c><00:09:48.240><c> the</c><00:09:48.480><c> objects</c><00:09:48.800><c> that</c><00:09:49.040><c> fit</c><00:09:49.279><c> in</c><00:09:49.440><c> a</c>
+
+00:09:49.590 --> 00:09:49.600 align:start position:0%
+find me all the objects that fit in a
+ 
+
+00:09:49.600 --> 00:09:52.150 align:start position:0%
+find me all the objects that fit in a
+backpack.<00:09:51.040><c> This</c><00:09:51.360><c> what</c><00:09:51.519><c> you</c><00:09:51.680><c> can</c><00:09:51.760><c> see</c><00:09:51.920><c> here</c><00:09:52.000><c> is</c>
+
+00:09:52.150 --> 00:09:52.160 align:start position:0%
+backpack. This what you can see here is
+ 
+
+00:09:52.160 --> 00:09:54.070 align:start position:0%
+backpack. This what you can see here is
+the<00:09:52.320><c> evolution</c><00:09:52.720><c> of</c><00:09:52.800><c> the</c><00:09:52.959><c> model.</c><00:09:53.440><c> only</c><00:09:53.680><c> in</c><00:09:53.920><c> the</c>
+
+00:09:54.070 --> 00:09:54.080 align:start position:0%
+the evolution of the model. only in the
+ 
+
+00:09:54.080 --> 00:09:56.389 align:start position:0%
+the evolution of the model. only in the
+last<00:09:54.399><c> nine</c><00:09:54.720><c> months</c><00:09:55.040><c> or</c><00:09:55.279><c> so.</c><00:09:55.760><c> And</c><00:09:56.000><c> you</c><00:09:56.240><c> could</c>
+
+00:09:56.389 --> 00:09:56.399 align:start position:0%
+last nine months or so. And you could
+ 
+
+00:09:56.399 --> 00:09:58.470 align:start position:0%
+last nine months or so. And you could
+see<00:09:56.480><c> that</c><00:09:56.720><c> the</c><00:09:56.880><c> model</c><00:09:57.120><c> is</c><00:09:57.360><c> now</c><00:09:57.519><c> a</c><00:09:57.760><c> lot</c><00:09:57.920><c> more</c>
+
+00:09:58.470 --> 00:09:58.480 align:start position:0%
+see that the model is now a lot more
+ 
+
+00:09:58.480 --> 00:10:00.389 align:start position:0%
+see that the model is now a lot more
+confident<00:09:59.200><c> about</c><00:09:59.440><c> what's</c><00:09:59.760><c> in</c><00:09:59.920><c> the</c><00:10:00.080><c> image</c>
+
+00:10:00.389 --> 00:10:00.399 align:start position:0%
+confident about what's in the image
+ 
+
+00:10:00.399 --> 00:10:02.550 align:start position:0%
+confident about what's in the image
+versus<00:10:00.720><c> what's</c><00:10:01.040><c> not.</c><00:10:01.839><c> It's</c><00:10:02.080><c> also</c><00:10:02.320><c> more</c>
+
+00:10:02.550 --> 00:10:02.560 align:start position:0%
+versus what's not. It's also more
+ 
+
+00:10:02.560 --> 00:10:04.550 align:start position:0%
+versus what's not. It's also more
+confident<00:10:03.120><c> exactly</c><00:10:03.680><c> how</c><00:10:03.920><c> many</c><00:10:04.080><c> objects</c><00:10:04.399><c> are</c>
+
+00:10:04.550 --> 00:10:04.560 align:start position:0%
+confident exactly how many objects are
+ 
+
+00:10:04.560 --> 00:10:06.790 align:start position:0%
+confident exactly how many objects are
+in<00:10:04.800><c> that</c><00:10:04.959><c> image.</c><00:10:05.760><c> This</c><00:10:05.920><c> is</c><00:10:06.080><c> extremely</c><00:10:06.480><c> useful</c>
+
+00:10:06.790 --> 00:10:06.800 align:start position:0%
+in that image. This is extremely useful
+ 
+
+00:10:06.800 --> 00:10:08.870 align:start position:0%
+in that image. This is extremely useful
+for<00:10:07.040><c> cluttered</c><00:10:07.440><c> environments</c><00:10:08.240><c> in</c><00:10:08.480><c> examples</c>
+
+00:10:08.870 --> 00:10:08.880 align:start position:0%
+for cluttered environments in examples
+ 
+
+00:10:08.880 --> 00:10:11.030 align:start position:0%
+for cluttered environments in examples
+like<00:10:09.120><c> logistics</c><00:10:09.760><c> where</c><00:10:10.000><c> your</c><00:10:10.320><c> your</c><00:10:10.640><c> task</c><00:10:10.880><c> is</c>
+
+00:10:11.030 --> 00:10:11.040 align:start position:0%
+like logistics where your your task is
+ 
+
+00:10:11.040 --> 00:10:13.110 align:start position:0%
+like logistics where your your task is
+to<00:10:11.200><c> pick</c><00:10:11.360><c> up</c><00:10:11.519><c> just</c><00:10:11.680><c> the</c><00:10:11.920><c> top</c><00:10:12.160><c> thing</c><00:10:12.480><c> that</c><00:10:12.720><c> is</c><00:10:12.880><c> on</c>
+
+00:10:13.110 --> 00:10:13.120 align:start position:0%
+to pick up just the top thing that is on
+ 
+
+00:10:13.120 --> 00:10:15.990 align:start position:0%
+to pick up just the top thing that is on
+that<00:10:13.279><c> pile</c><00:10:13.519><c> or</c><00:10:13.760><c> the</c><00:10:13.920><c> top</c><00:10:14.160><c> three</c><00:10:14.399><c> things.</c>
+
+00:10:15.990 --> 00:10:16.000 align:start position:0%
+that pile or the top three things.
+ 
+
+00:10:16.000 --> 00:10:17.350 align:start position:0%
+that pile or the top three things.
+Another<00:10:16.320><c> capability</c><00:10:16.720><c> I'm</c><00:10:16.880><c> incredibly</c>
+
+00:10:17.350 --> 00:10:17.360 align:start position:0%
+Another capability I'm incredibly
+ 
+
+00:10:17.360 --> 00:10:19.670 align:start position:0%
+Another capability I'm incredibly
+excited<00:10:17.600><c> about</c><00:10:18.240><c> is</c><00:10:18.560><c> instrument</c><00:10:19.040><c> rating.</c><00:10:19.519><c> This</c>
+
+00:10:19.670 --> 00:10:19.680 align:start position:0%
+excited about is instrument rating. This
+ 
+
+00:10:19.680 --> 00:10:21.190 align:start position:0%
+excited about is instrument rating. This
+is<00:10:19.760><c> a</c><00:10:19.920><c> capability</c><00:10:20.240><c> we</c><00:10:20.480><c> discover</c><00:10:20.880><c> with</c><00:10:21.040><c> our</c>
+
+00:10:21.190 --> 00:10:21.200 align:start position:0%
+is a capability we discover with our
+ 
+
+00:10:21.200 --> 00:10:23.030 align:start position:0%
+is a capability we discover with our
+partners<00:10:21.600><c> at</c><00:10:21.760><c> Boston</c><00:10:22.079><c> Dynamics,</c><00:10:22.560><c> the</c><00:10:22.720><c> spot</c>
+
+00:10:23.030 --> 00:10:23.040 align:start position:0%
+partners at Boston Dynamics, the spot
+ 
+
+00:10:23.040 --> 00:10:25.750 align:start position:0%
+partners at Boston Dynamics, the spot
+team<00:10:23.279><c> who</c><00:10:23.519><c> does</c><00:10:23.760><c> inspection</c><00:10:24.640><c> in</c><00:10:24.959><c> all</c><00:10:25.200><c> of</c><00:10:25.360><c> the</c>
+
+00:10:25.750 --> 00:10:25.760 align:start position:0%
+team who does inspection in all of the
+ 
+
+00:10:25.760 --> 00:10:27.829 align:start position:0%
+team who does inspection in all of the
+the<00:10:26.160><c> industrial</c><00:10:26.640><c> facilities</c><00:10:27.360><c> and</c><00:10:27.600><c> they</c><00:10:27.760><c> want</c>
+
+00:10:27.829 --> 00:10:27.839 align:start position:0%
+the industrial facilities and they want
+ 
+
+00:10:27.839 --> 00:10:30.069 align:start position:0%
+the industrial facilities and they want
+to<00:10:28.000><c> read</c><00:10:28.160><c> all</c><00:10:28.320><c> the</c><00:10:28.480><c> instruments.</c><00:10:29.440><c> This</c><00:10:29.680><c> model</c>
+
+00:10:30.069 --> 00:10:30.079 align:start position:0%
+to read all the instruments. This model
+ 
+
+00:10:30.079 --> 00:10:32.069 align:start position:0%
+to read all the instruments. This model
+has<00:10:30.320><c> advanced</c><00:10:31.040><c> instrument</c><00:10:31.519><c> reading</c><00:10:31.839><c> thanks</c>
+
+00:10:32.069 --> 00:10:32.079 align:start position:0%
+has advanced instrument reading thanks
+ 
+
+00:10:32.079 --> 00:10:35.030 align:start position:0%
+has advanced instrument reading thanks
+to<00:10:32.320><c> something</c><00:10:32.640><c> called</c><00:10:33.120><c> agentic</c><00:10:33.760><c> vision.</c><00:10:34.800><c> What</c>
+
+00:10:35.030 --> 00:10:35.040 align:start position:0%
+to something called agentic vision. What
+ 
+
+00:10:35.040 --> 00:10:37.110 align:start position:0%
+to something called agentic vision. What
+that<00:10:35.279><c> means</c><00:10:35.680><c> is</c><00:10:35.920><c> that</c><00:10:36.079><c> the</c><00:10:36.240><c> model</c><00:10:36.560><c> can</c><00:10:36.720><c> decide</c>
+
+00:10:37.110 --> 00:10:37.120 align:start position:0%
+that means is that the model can decide
+ 
+
+00:10:37.120 --> 00:10:38.870 align:start position:0%
+that means is that the model can decide
+if<00:10:37.360><c> it</c><00:10:37.519><c> wants</c><00:10:37.680><c> to</c><00:10:37.760><c> read</c><00:10:38.000><c> this</c><00:10:38.160><c> gauge,</c><00:10:38.560><c> it</c><00:10:38.800><c> can</c>
+
+00:10:38.870 --> 00:10:38.880 align:start position:0%
+if it wants to read this gauge, it can
+ 
+
+00:10:38.880 --> 00:10:41.030 align:start position:0%
+if it wants to read this gauge, it can
+take<00:10:39.120><c> intermediate</c><00:10:39.760><c> steps.</c><00:10:40.320><c> It</c><00:10:40.480><c> can</c><00:10:40.640><c> decide</c>
+
+00:10:41.030 --> 00:10:41.040 align:start position:0%
+take intermediate steps. It can decide
+ 
+
+00:10:41.040 --> 00:10:43.430 align:start position:0%
+take intermediate steps. It can decide
+to<00:10:41.360><c> zoom</c><00:10:41.600><c> into</c><00:10:41.920><c> the</c><00:10:42.160><c> image</c><00:10:42.640><c> to</c><00:10:42.880><c> get</c><00:10:43.040><c> a</c><00:10:43.200><c> better</c>
+
+00:10:43.430 --> 00:10:43.440 align:start position:0%
+to zoom into the image to get a better
+ 
+
+00:10:43.440 --> 00:10:45.750 align:start position:0%
+to zoom into the image to get a better
+reading<00:10:43.680><c> of</c><00:10:43.839><c> that</c><00:10:44.079><c> gauge.</c><00:10:45.120><c> It</c><00:10:45.360><c> could</c><00:10:45.519><c> then</c>
+
+00:10:45.750 --> 00:10:45.760 align:start position:0%
+reading of that gauge. It could then
+ 
+
+00:10:45.760 --> 00:10:48.550 align:start position:0%
+reading of that gauge. It could then
+decide<00:10:46.240><c> to</c><00:10:46.560><c> use</c><00:10:46.800><c> pointing</c><00:10:47.680><c> and</c><00:10:47.920><c> maybe</c><00:10:48.240><c> code</c>
+
+00:10:48.550 --> 00:10:48.560 align:start position:0%
+decide to use pointing and maybe code
+ 
+
+00:10:48.560 --> 00:10:50.949 align:start position:0%
+decide to use pointing and maybe code
+execution<00:10:49.440><c> in</c><00:10:49.680><c> order</c><00:10:49.839><c> to</c><00:10:50.000><c> do</c><00:10:50.160><c> some</c><00:10:50.320><c> math</c><00:10:50.640><c> and</c>
+
+00:10:50.949 --> 00:10:50.959 align:start position:0%
+execution in order to do some math and
+ 
+
+00:10:50.959 --> 00:10:52.870 align:start position:0%
+execution in order to do some math and
+figure<00:10:51.200><c> out</c><00:10:51.279><c> the</c><00:10:51.519><c> exact</c><00:10:51.839><c> value</c><00:10:52.240><c> of</c><00:10:52.560><c> each</c>
+
+00:10:52.870 --> 00:10:52.880 align:start position:0%
+figure out the exact value of each
+ 
+
+00:10:52.880 --> 00:10:55.030 align:start position:0%
+figure out the exact value of each
+interval<00:10:53.200><c> in</c><00:10:53.440><c> that</c><00:10:53.680><c> gauge.</c><00:10:54.320><c> And</c><00:10:54.480><c> then</c><00:10:54.640><c> once</c><00:10:54.880><c> it</c>
+
+00:10:55.030 --> 00:10:55.040 align:start position:0%
+interval in that gauge. And then once it
+ 
+
+00:10:55.040 --> 00:10:56.870 align:start position:0%
+interval in that gauge. And then once it
+has<00:10:55.200><c> a</c><00:10:55.360><c> very</c><00:10:55.519><c> accurate</c><00:10:55.920><c> reading,</c><00:10:56.399><c> it</c><00:10:56.560><c> can</c><00:10:56.720><c> use</c>
+
+00:10:56.870 --> 00:10:56.880 align:start position:0%
+has a very accurate reading, it can use
+ 
+
+00:10:56.880 --> 00:10:59.030 align:start position:0%
+has a very accurate reading, it can use
+his<00:10:57.120><c> world</c><00:10:57.440><c> knowledge</c><00:10:57.839><c> or</c><00:10:58.160><c> call</c><00:10:58.399><c> another</c><00:10:58.720><c> tool</c>
+
+00:10:59.030 --> 00:10:59.040 align:start position:0%
+his world knowledge or call another tool
+ 
+
+00:10:59.040 --> 00:11:01.030 align:start position:0%
+his world knowledge or call another tool
+to<00:10:59.279><c> decide</c><00:10:59.680><c> whether</c><00:11:00.000><c> that</c><00:11:00.240><c> gauge</c><00:11:00.560><c> is</c><00:11:00.720><c> within</c>
+
+00:11:01.030 --> 00:11:01.040 align:start position:0%
+to decide whether that gauge is within
+ 
+
+00:11:01.040 --> 00:11:03.190 align:start position:0%
+to decide whether that gauge is within
+normal<00:11:01.440><c> reading.</c><00:11:02.320><c> This</c><00:11:02.480><c> is</c><00:11:02.640><c> what</c><00:11:02.800><c> we</c><00:11:02.959><c> call</c>
+
+00:11:03.190 --> 00:11:03.200 align:start position:0%
+normal reading. This is what we call
+ 
+
+00:11:03.200 --> 00:11:07.190 align:start position:0%
+normal reading. This is what we call
+agentic<00:11:03.760><c> vision.</c><00:11:05.040><c> And</c><00:11:05.360><c> in</c><00:11:05.600><c> the</c><00:11:05.760><c> last</c><00:11:06.000><c> again</c>
+
+00:11:07.190 --> 00:11:07.200 align:start position:0%
+agentic vision. And in the last again
+ 
+
+00:11:07.200 --> 00:11:08.790 align:start position:0%
+agentic vision. And in the last again
+three<00:11:07.360><c> to</c><00:11:07.600><c> six</c><00:11:07.760><c> months,</c><00:11:08.000><c> it's</c><00:11:08.320><c> dramatically</c>
+
+00:11:08.790 --> 00:11:08.800 align:start position:0%
+three to six months, it's dramatically
+ 
+
+00:11:08.800 --> 00:11:10.790 align:start position:0%
+three to six months, it's dramatically
+improved.<00:11:09.279><c> We're</c><00:11:09.519><c> now</c><00:11:09.680><c> about</c><00:11:09.920><c> 93%</c>
+
+00:11:10.790 --> 00:11:10.800 align:start position:0%
+improved. We're now about 93%
+ 
+
+00:11:10.800 --> 00:11:12.870 align:start position:0%
+improved. We're now about 93%
+performance<00:11:11.200><c> on</c><00:11:11.440><c> this</c><00:11:11.920><c> test</c><00:11:12.240><c> set.</c><00:11:12.480><c> And</c><00:11:12.640><c> these</c>
+
+00:11:12.870 --> 00:11:12.880 align:start position:0%
+performance on this test set. And these
+ 
+
+00:11:12.880 --> 00:11:14.790 align:start position:0%
+performance on this test set. And these
+are<00:11:13.040><c> real</c><00:11:13.360><c> images.</c><00:11:14.079><c> You</c><00:11:14.240><c> can</c><00:11:14.399><c> see</c><00:11:14.480><c> they're</c>
+
+00:11:14.790 --> 00:11:14.800 align:start position:0%
+are real images. You can see they're
+ 
+
+00:11:14.800 --> 00:11:16.790 align:start position:0%
+are real images. You can see they're
+very<00:11:15.040><c> diverse.</c><00:11:15.680><c> They're</c><00:11:16.000><c> noisy.</c><00:11:16.560><c> They're</c>
+
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+very diverse. They're noisy. They're
+ 
+
+00:11:16.800 --> 00:11:19.910 align:start position:0%
+very diverse. They're noisy. They're
+small.<00:11:17.519><c> This</c><00:11:17.680><c> is</c><00:11:17.760><c> from</c><00:11:18.000><c> real</c><00:11:18.320><c> world</c><00:11:18.560><c> examples.</c>
+
+00:11:19.910 --> 00:11:19.920 align:start position:0%
+small. This is from real world examples.
+ 
+
+00:11:19.920 --> 00:11:21.670 align:start position:0%
+small. This is from real world examples.
+And<00:11:20.160><c> then</c><00:11:20.399><c> in</c><00:11:20.640><c> combination</c><00:11:21.120><c> with</c><00:11:21.279><c> Boston</c>
+
+00:11:21.670 --> 00:11:21.680 align:start position:0%
+And then in combination with Boston
+ 
+
+00:11:21.680 --> 00:11:23.030 align:start position:0%
+And then in combination with Boston
+Dynamics,<00:11:22.079><c> we</c><00:11:22.240><c> deploy</c><00:11:22.560><c> this</c><00:11:22.720><c> on</c><00:11:22.880><c> their</c>
+
+00:11:23.030 --> 00:11:23.040 align:start position:0%
+Dynamics, we deploy this on their
+ 
+
+00:11:23.040 --> 00:11:25.110 align:start position:0%
+Dynamics, we deploy this on their
+robots.<00:11:23.519><c> So</c><00:11:23.680><c> now</c><00:11:23.839><c> all</c><00:11:24.079><c> of</c><00:11:24.160><c> their</c><00:11:24.399><c> customers</c>
+
+00:11:25.110 --> 00:11:25.120 align:start position:0%
+robots. So now all of their customers
+ 
+
+00:11:25.120 --> 00:11:27.190 align:start position:0%
+robots. So now all of their customers
+are<00:11:25.360><c> able</c><00:11:25.519><c> to</c><00:11:25.680><c> use</c><00:11:25.920><c> this.</c><00:11:26.480><c> So</c><00:11:26.640><c> we're</c><00:11:26.880><c> basically</c>
+
+00:11:27.190 --> 00:11:27.200 align:start position:0%
+are able to use this. So we're basically
+ 
+
+00:11:27.200 --> 00:11:29.190 align:start position:0%
+are able to use this. So we're basically
+integrating<00:11:27.680><c> our</c><00:11:27.920><c> Gemini</c><00:11:28.320><c> Robotics</c><00:11:28.800><c> ER</c>
+
+00:11:29.190 --> 00:11:29.200 align:start position:0%
+integrating our Gemini Robotics ER
+ 
+
+00:11:29.200 --> 00:11:31.110 align:start position:0%
+integrating our Gemini Robotics ER
+reasoning<00:11:29.760><c> layer</c><00:11:30.079><c> with</c><00:11:30.320><c> Boston</c><00:11:30.720><c> Dynamics</c>
+
+00:11:31.110 --> 00:11:31.120 align:start position:0%
+reasoning layer with Boston Dynamics
+ 
+
+00:11:31.120 --> 00:11:33.350 align:start position:0%
+reasoning layer with Boston Dynamics
+autonomy<00:11:31.680><c> system</c><00:11:32.000><c> in</c><00:11:32.240><c> order</c><00:11:32.399><c> to</c><00:11:32.640><c> enable</c><00:11:32.959><c> it</c><00:11:33.200><c> to</c>
+
+00:11:33.350 --> 00:11:33.360 align:start position:0%
+autonomy system in order to enable it to
+ 
+
+00:11:33.360 --> 00:11:35.750 align:start position:0%
+autonomy system in order to enable it to
+do<00:11:34.480><c> understand</c><00:11:34.959><c> the</c><00:11:35.200><c> environment,</c>
+
+00:11:35.750 --> 00:11:35.760 align:start position:0%
+do understand the environment,
+ 
+
+00:11:35.760 --> 00:11:37.670 align:start position:0%
+do understand the environment,
+understand<00:11:36.160><c> every</c><00:11:36.480><c> object,</c><00:11:37.120><c> read</c><00:11:37.440><c> every</c>
+
+00:11:37.670 --> 00:11:37.680 align:start position:0%
+understand every object, read every
+ 
+
+00:11:37.680 --> 00:11:39.509 align:start position:0%
+understand every object, read every
+instrument,<00:11:38.399><c> and</c><00:11:38.640><c> then</c><00:11:38.880><c> interact</c><00:11:39.200><c> with</c><00:11:39.360><c> the</c>
+
+00:11:39.509 --> 00:11:39.519 align:start position:0%
+instrument, and then interact with the
+ 
+
+00:11:39.519 --> 00:11:41.829 align:start position:0%
+instrument, and then interact with the
+environment<00:11:39.839><c> as</c><00:11:40.079><c> they</c><00:11:40.240><c> normally</c><00:11:40.480><c> would.</c><00:11:41.600><c> And</c>
+
+00:11:41.829 --> 00:11:41.839 align:start position:0%
+environment as they normally would. And
+ 
+
+00:11:41.839 --> 00:11:43.829 align:start position:0%
+environment as they normally would. And
+now<00:11:42.320><c> Spot</c><00:11:42.800><c> can</c><00:11:42.959><c> also</c><00:11:43.120><c> use</c><00:11:43.360><c> Gemini</c>
+
+00:11:43.829 --> 00:11:43.839 align:start position:0%
+now Spot can also use Gemini
+ 
+
+00:11:43.839 --> 00:11:45.509 align:start position:0%
+now Spot can also use Gemini
+capabilities.<00:11:44.480><c> It</c><00:11:44.720><c> understands</c><00:11:45.120><c> natural</c>
+
+00:11:45.509 --> 00:11:45.519 align:start position:0%
+capabilities. It understands natural
+ 
+
+00:11:45.519 --> 00:11:48.150 align:start position:0%
+capabilities. It understands natural
+language.<00:11:46.160><c> It</c><00:11:46.320><c> can</c><00:11:46.480><c> read</c><00:11:46.720><c> that</c><00:11:46.959><c> board.</c><00:11:47.760><c> It</c><00:11:48.000><c> can</c>
+
+00:11:48.150 --> 00:11:48.160 align:start position:0%
+language. It can read that board. It can
+ 
+
+00:11:48.160 --> 00:11:50.230 align:start position:0%
+language. It can read that board. It can
+do<00:11:48.399><c> the</c><00:11:48.720><c> full</c><00:11:48.959><c> sequence</c><00:11:49.360><c> of</c><00:11:49.519><c> tasks</c><00:11:50.000><c> and</c>
+
+00:11:50.230 --> 00:11:50.240 align:start position:0%
+do the full sequence of tasks and
+ 
+
+00:11:50.240 --> 00:11:52.710 align:start position:0%
+do the full sequence of tasks and
+orchestrate<00:11:50.880><c> them.</c><00:11:51.680><c> And</c><00:11:51.920><c> I</c><00:11:52.079><c> guess</c><00:11:52.240><c> apparently</c>
+
+00:11:52.710 --> 00:11:52.720 align:start position:0%
+orchestrate them. And I guess apparently
+ 
+
+00:11:52.720 --> 00:11:56.069 align:start position:0%
+orchestrate them. And I guess apparently
+you<00:11:52.880><c> can</c><00:11:52.959><c> take</c><00:11:53.120><c> Kod</c><00:11:53.519><c> for</c><00:11:53.680><c> a</c><00:11:53.760><c> walk</c><00:11:54.000><c> as</c><00:11:54.160><c> well.</c>
+
+00:11:56.069 --> 00:11:56.079 align:start position:0%
+you can take Kod for a walk as well.
+ 
+
+00:11:56.079 --> 00:11:58.630 align:start position:0%
+you can take Kod for a walk as well.
+Our<00:11:56.399><c> goal</c><00:11:56.720><c> is</c><00:11:56.959><c> beyond</c><00:11:57.360><c> the</c><00:11:57.600><c> quadriped</c><00:11:58.240><c> robots</c>
+
+00:11:58.630 --> 00:11:58.640 align:start position:0%
+Our goal is beyond the quadriped robots
+ 
+
+00:11:58.640 --> 00:12:01.030 align:start position:0%
+Our goal is beyond the quadriped robots
+to<00:11:58.880><c> also</c><00:11:59.200><c> integrate</c><00:11:59.760><c> with</c><00:12:00.000><c> Boston</c><00:12:00.399><c> Dynamics.</c>
+
+00:12:01.030 --> 00:12:01.040 align:start position:0%
+to also integrate with Boston Dynamics.
+ 
+
+00:12:01.040 --> 00:12:02.470 align:start position:0%
+to also integrate with Boston Dynamics.
+Yeah,<00:12:01.200><c> I'm</c><00:12:01.440><c> not</c><00:12:01.519><c> sure</c><00:12:01.680><c> who's</c><00:12:01.920><c> walking</c><00:12:02.160><c> home</c>
+
+00:12:02.470 --> 00:12:02.480 align:start position:0%
+Yeah, I'm not sure who's walking home
+ 
+
+00:12:02.480 --> 00:12:05.350 align:start position:0%
+Yeah, I'm not sure who's walking home
+there.<00:12:03.279><c> Our</c><00:12:04.160><c> goal</c><00:12:04.399><c> is</c><00:12:04.640><c> to</c><00:12:04.800><c> also</c><00:12:05.040><c> integrate</c>
+
+00:12:05.350 --> 00:12:05.360 align:start position:0%
+there. Our goal is to also integrate
+ 
+
+00:12:05.360 --> 00:12:08.069 align:start position:0%
+there. Our goal is to also integrate
+with<00:12:05.519><c> Boston</c><00:12:05.920><c> Dynamics</c><00:12:06.720><c> uh</c><00:12:07.279><c> humanoid</c><00:12:07.760><c> robot</c>
+
+00:12:08.069 --> 00:12:08.079 align:start position:0%
+with Boston Dynamics uh humanoid robot
+ 
+
+00:12:08.079 --> 00:12:10.790 align:start position:0%
+with Boston Dynamics uh humanoid robot
+Atlas<00:12:08.720><c> in</c><00:12:08.880><c> order</c><00:12:09.040><c> to</c><00:12:09.200><c> bring</c><00:12:09.440><c> Atlas</c><00:12:10.240><c> reasoning</c>
+
+00:12:10.790 --> 00:12:10.800 align:start position:0%
+Atlas in order to bring Atlas reasoning
+ 
+
+00:12:10.800 --> 00:12:12.470 align:start position:0%
+Atlas in order to bring Atlas reasoning
+and<00:12:11.120><c> action</c><00:12:11.440><c> capabilities</c><00:12:12.000><c> and</c><00:12:12.240><c> really</c>
+
+00:12:12.470 --> 00:12:12.480 align:start position:0%
+and action capabilities and really
+ 
+
+00:12:12.480 --> 00:12:14.870 align:start position:0%
+and action capabilities and really
+fulfill<00:12:12.959><c> that</c><00:12:13.200><c> promise</c><00:12:13.920><c> of</c><00:12:14.160><c> true</c><00:12:14.480><c> general</c>
+
+00:12:14.870 --> 00:12:14.880 align:start position:0%
+fulfill that promise of true general
+ 
+
+00:12:14.880 --> 00:12:17.350 align:start position:0%
+fulfill that promise of true general
+purpose<00:12:15.200><c> humanoids.</c>
+
+00:12:17.350 --> 00:12:17.360 align:start position:0%
+purpose humanoids.
+ 
+
+00:12:17.360 --> 00:12:19.509 align:start position:0%
+purpose humanoids.
+Let's<00:12:17.680><c> talk</c><00:12:17.839><c> a</c><00:12:18.000><c> little</c><00:12:18.079><c> bit</c><00:12:18.320><c> about</c><00:12:18.560><c> the</c><00:12:18.800><c> VA.</c>
+
+00:12:19.509 --> 00:12:19.519 align:start position:0%
+Let's talk a little bit about the VA.
+ 
+
+00:12:19.519 --> 00:12:22.389 align:start position:0%
+Let's talk a little bit about the VA.
+This<00:12:19.680><c> is</c><00:12:19.760><c> our</c><00:12:20.000><c> action</c><00:12:20.399><c> model.</c><00:12:21.680><c> As</c><00:12:21.920><c> I</c><00:12:22.079><c> mentioned</c>
+
+00:12:22.389 --> 00:12:22.399 align:start position:0%
+This is our action model. As I mentioned
+ 
+
+00:12:22.399 --> 00:12:24.470 align:start position:0%
+This is our action model. As I mentioned
+earlier,<00:12:23.120><c> it</c><00:12:23.360><c> takes</c><00:12:23.600><c> visual</c><00:12:24.000><c> input,</c>
+
+00:12:24.470 --> 00:12:24.480 align:start position:0%
+earlier, it takes visual input,
+ 
+
+00:12:24.480 --> 00:12:26.389 align:start position:0%
+earlier, it takes visual input,
+typically<00:12:24.959><c> all</c><00:12:25.120><c> the</c><00:12:25.360><c> cameras</c><00:12:25.839><c> available</c><00:12:26.240><c> to</c>
+
+00:12:26.389 --> 00:12:26.399 align:start position:0%
+typically all the cameras available to
+ 
+
+00:12:26.399 --> 00:12:28.230 align:start position:0%
+typically all the cameras available to
+the<00:12:26.639><c> robot.</c><00:12:27.200><c> It</c><00:12:27.360><c> takes</c><00:12:27.600><c> natural</c><00:12:28.000><c> language</c>
+
+00:12:28.230 --> 00:12:28.240 align:start position:0%
+the robot. It takes natural language
+ 
+
+00:12:28.240 --> 00:12:30.069 align:start position:0%
+the robot. It takes natural language
+input<00:12:28.560><c> as</c><00:12:28.720><c> a</c><00:12:28.880><c> prompt.</c><00:12:29.440><c> It</c><00:12:29.680><c> could</c><00:12:29.839><c> also</c>
+
+00:12:30.069 --> 00:12:30.079 align:start position:0%
+input as a prompt. It could also
+ 
+
+00:12:30.079 --> 00:12:31.990 align:start position:0%
+input as a prompt. It could also
+alternatively<00:12:30.720><c> use</c><00:12:31.040><c> propriception</c><00:12:31.839><c> or</c>
+
+00:12:31.990 --> 00:12:32.000 align:start position:0%
+alternatively use propriception or
+ 
+
+00:12:32.000 --> 00:12:33.990 align:start position:0%
+alternatively use propriception or
+previous<00:12:32.320><c> actions.</c><00:12:33.120><c> And</c><00:12:33.279><c> the</c><00:12:33.440><c> output</c><00:12:33.760><c> is</c>
+
+00:12:33.990 --> 00:12:34.000 align:start position:0%
+previous actions. And the output is
+ 
+
+00:12:34.000 --> 00:12:36.310 align:start position:0%
+previous actions. And the output is
+directly<00:12:34.480><c> the</c><00:12:34.720><c> robot</c><00:12:35.120><c> control</c><00:12:35.440><c> targets.</c><00:12:36.079><c> This</c>
+
+00:12:36.310 --> 00:12:36.320 align:start position:0%
+directly the robot control targets. This
+ 
+
+00:12:36.320 --> 00:12:37.829 align:start position:0%
+directly the robot control targets. This
+can<00:12:36.399><c> be</c><00:12:36.560><c> specified</c><00:12:37.040><c> different</c><00:12:37.360><c> for</c><00:12:37.600><c> different</c>
+
+00:12:37.829 --> 00:12:37.839 align:start position:0%
+can be specified different for different
+ 
+
+00:12:37.839 --> 00:12:39.829 align:start position:0%
+can be specified different for different
+robots.<00:12:38.560><c> Sometimes</c><00:12:38.880><c> they're</c><00:12:39.040><c> the</c><00:12:39.200><c> endeector</c>
+
+00:12:39.829 --> 00:12:39.839 align:start position:0%
+robots. Sometimes they're the endeector
+ 
+
+00:12:39.839 --> 00:12:41.430 align:start position:0%
+robots. Sometimes they're the endeector
+positions.<00:12:40.480><c> Sometimes</c><00:12:40.800><c> they're</c><00:12:41.040><c> the</c><00:12:41.200><c> full</c>
+
+00:12:41.430 --> 00:12:41.440 align:start position:0%
+positions. Sometimes they're the full
+ 
+
+00:12:41.440 --> 00:12:44.230 align:start position:0%
+positions. Sometimes they're the full
+joints<00:12:41.760><c> of</c><00:12:41.920><c> the</c><00:12:42.079><c> robot.</c><00:12:43.360><c> And</c><00:12:43.600><c> then</c><00:12:43.920><c> that</c>
+
+00:12:44.230 --> 00:12:44.240 align:start position:0%
+joints of the robot. And then that
+ 
+
+00:12:44.240 --> 00:12:45.910 align:start position:0%
+joints of the robot. And then that
+typically<00:12:44.639><c> goes</c><00:12:44.880><c> to</c><00:12:44.959><c> the</c><00:12:45.120><c> motor</c><00:12:45.440><c> controllers</c>
+
+00:12:45.910 --> 00:12:45.920 align:start position:0%
+typically goes to the motor controllers
+ 
+
+00:12:45.920 --> 00:12:48.550 align:start position:0%
+typically goes to the motor controllers
+who<00:12:46.160><c> translate</c><00:12:46.480><c> that</c><00:12:46.720><c> into</c><00:12:46.959><c> motion.</c><00:12:48.240><c> With</c>
+
+00:12:48.550 --> 00:12:48.560 align:start position:0%
+who translate that into motion. With
+ 
+
+00:12:48.560 --> 00:12:50.470 align:start position:0%
+who translate that into motion. With
+that<00:12:48.800><c> model,</c><00:12:49.120><c> we</c><00:12:49.360><c> can</c><00:12:49.519><c> control</c><00:12:49.920><c> all</c><00:12:50.160><c> of</c><00:12:50.240><c> these</c>
+
+00:12:50.470 --> 00:12:50.480 align:start position:0%
+that model, we can control all of these
+ 
+
+00:12:50.480 --> 00:12:52.710 align:start position:0%
+that model, we can control all of these
+different<00:12:50.720><c> robots.</c><00:12:51.279><c> So</c><00:12:51.440><c> this</c><00:12:51.600><c> is</c><00:12:51.680><c> the</c><00:12:51.839><c> Frana</c>
+
+00:12:52.710 --> 00:12:52.720 align:start position:0%
+different robots. So this is the Frana
+ 
+
+00:12:52.720 --> 00:12:54.790 align:start position:0%
+different robots. So this is the Frana
+robot,<00:12:53.040><c> the</c><00:12:53.120><c> Aloha</c><00:12:53.680><c> robot.</c><00:12:54.240><c> We</c><00:12:54.399><c> also</c><00:12:54.560><c> can</c>
+
+00:12:54.790 --> 00:12:54.800 align:start position:0%
+robot, the Aloha robot. We also can
+ 
+
+00:12:54.800 --> 00:12:56.949 align:start position:0%
+robot, the Aloha robot. We also can
+control<00:12:55.040><c> the</c><00:12:55.279><c> electronic</c><00:12:55.680><c> humanoid</c><00:12:56.160><c> robot.</c>
+
+00:12:56.949 --> 00:12:56.959 align:start position:0%
+control the electronic humanoid robot.
+ 
+
+00:12:56.959 --> 00:12:59.110 align:start position:0%
+control the electronic humanoid robot.
+And<00:12:57.200><c> in</c><00:12:57.360><c> all</c><00:12:57.519><c> these</c><00:12:57.760><c> cases,</c><00:12:58.399><c> it's</c><00:12:58.720><c> doing</c><00:12:58.959><c> a</c>
+
+00:12:59.110 --> 00:12:59.120 align:start position:0%
+And in all these cases, it's doing a
+ 
+
+00:12:59.120 --> 00:13:01.110 align:start position:0%
+And in all these cases, it's doing a
+broad<00:12:59.440><c> range</c><00:12:59.680><c> of</c><00:12:59.839><c> tasks.</c><00:13:00.320><c> It's</c><00:13:00.560><c> responding</c><00:13:00.959><c> to</c>
+
+00:13:01.110 --> 00:13:01.120 align:start position:0%
+broad range of tasks. It's responding to
+ 
+
+00:13:01.120 --> 00:13:02.870 align:start position:0%
+broad range of tasks. It's responding to
+natural<00:13:01.519><c> language</c><00:13:01.839><c> requests.</c><00:13:02.560><c> So,</c><00:13:02.639><c> it's</c>
+
+00:13:02.870 --> 00:13:02.880 align:start position:0%
+natural language requests. So, it's
+ 
+
+00:13:02.880 --> 00:13:05.750 align:start position:0%
+natural language requests. So, it's
+interactive<00:13:03.360><c> and</c><00:13:03.519><c> it's</c><00:13:03.760><c> dextrous.</c>
+
+00:13:05.750 --> 00:13:05.760 align:start position:0%
+interactive and it's dextrous.
+ 
+
+00:13:05.760 --> 00:13:07.350 align:start position:0%
+interactive and it's dextrous.
+In<00:13:05.920><c> the</c><00:13:06.079><c> case</c><00:13:06.240><c> of</c><00:13:06.320><c> a</c><00:13:06.480><c> humanoid,</c><00:13:06.959><c> since</c><00:13:07.200><c> I</c>
+
+00:13:07.350 --> 00:13:07.360 align:start position:0%
+In the case of a humanoid, since I
+ 
+
+00:13:07.360 --> 00:13:09.750 align:start position:0%
+In the case of a humanoid, since I
+mentioned<00:13:07.839><c> uh</c><00:13:08.000><c> the</c><00:13:08.160><c> Apollo</c><00:13:08.639><c> robot,</c><00:13:09.360><c> it</c><00:13:09.600><c> looks</c>
+
+00:13:09.750 --> 00:13:09.760 align:start position:0%
+mentioned uh the Apollo robot, it looks
+ 
+
+00:13:09.760 --> 00:13:10.949 align:start position:0%
+mentioned uh the Apollo robot, it looks
+a<00:13:09.920><c> little</c><00:13:10.000><c> bit</c><00:13:10.160><c> more</c><00:13:10.320><c> like</c><00:13:10.480><c> this,</c><00:13:10.720><c> the</c>
+
+00:13:10.949 --> 00:13:10.959 align:start position:0%
+a little bit more like this, the
+ 
+
+00:13:10.959 --> 00:13:13.030 align:start position:0%
+a little bit more like this, the
+picture.<00:13:11.519><c> So,</c><00:13:11.680><c> if</c><00:13:11.920><c> you</c><00:13:12.000><c> go</c><00:13:12.160><c> and</c><00:13:12.320><c> ask</c><00:13:12.560><c> a</c><00:13:12.720><c> robot,</c>
+
+00:13:13.030 --> 00:13:13.040 align:start position:0%
+picture. So, if you go and ask a robot,
+ 
+
+00:13:13.040 --> 00:13:14.470 align:start position:0%
+picture. So, if you go and ask a robot,
+hey,<00:13:13.279><c> could</c><00:13:13.440><c> you</c><00:13:13.519><c> please</c><00:13:13.760><c> put</c><00:13:13.920><c> my</c><00:13:14.079><c> groceries</c>
+
+00:13:14.470 --> 00:13:14.480 align:start position:0%
+hey, could you please put my groceries
+ 
+
+00:13:14.480 --> 00:13:17.990 align:start position:0%
+hey, could you please put my groceries
+away?<00:13:15.519><c> What</c><00:13:15.760><c> it</c><00:13:15.920><c> will</c><00:13:16.079><c> do</c><00:13:16.560><c> is</c><00:13:16.720><c> it</c><00:13:16.959><c> will</c><00:13:17.200><c> first</c>
+
+00:13:17.990 --> 00:13:18.000 align:start position:0%
+away? What it will do is it will first
+ 
+
+00:13:18.000 --> 00:13:20.150 align:start position:0%
+away? What it will do is it will first
+send<00:13:18.240><c> that</c><00:13:18.480><c> to</c><00:13:18.720><c> the</c><00:13:18.959><c> ER</c><00:13:19.360><c> model,</c><00:13:19.680><c> which</c><00:13:19.839><c> is</c><00:13:19.920><c> the</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+send that to the ER model, which is the
+ 
+
+00:13:20.160 --> 00:13:22.230 align:start position:0%
+send that to the ER model, which is the
+agent.<00:13:20.880><c> It</c><00:13:21.120><c> understands</c><00:13:21.519><c> the</c><00:13:21.760><c> environment.</c>
+
+00:13:22.230 --> 00:13:22.240 align:start position:0%
+agent. It understands the environment.
+ 
+
+00:13:22.240 --> 00:13:24.230 align:start position:0%
+agent. It understands the environment.
+it<00:13:22.480><c> understands</c><00:13:22.880><c> the</c><00:13:23.120><c> input</c><00:13:23.680><c> and</c><00:13:23.920><c> then</c>
+
+00:13:24.230 --> 00:13:24.240 align:start position:0%
+it understands the input and then
+ 
+
+00:13:24.240 --> 00:13:26.389 align:start position:0%
+it understands the input and then
+translate<00:13:24.720><c> that</c><00:13:25.120><c> into</c><00:13:25.440><c> the</c><00:13:25.680><c> first</c><00:13:25.920><c> step</c><00:13:26.160><c> to</c>
+
+00:13:26.389 --> 00:13:26.399 align:start position:0%
+translate that into the first step to
+ 
+
+00:13:26.399 --> 00:13:28.949 align:start position:0%
+translate that into the first step to
+take.<00:13:27.519><c> Then</c><00:13:27.760><c> say</c><00:13:28.000><c> that</c><00:13:28.160><c> it</c><00:13:28.320><c> says</c><00:13:28.560><c> okay</c><00:13:28.720><c> the</c>
+
+00:13:28.949 --> 00:13:28.959 align:start position:0%
+take. Then say that it says okay the
+ 
+
+00:13:28.959 --> 00:13:30.230 align:start position:0%
+take. Then say that it says okay the
+first<00:13:29.040><c> thing</c><00:13:29.200><c> is</c><00:13:29.360><c> to</c><00:13:29.519><c> take</c><00:13:29.600><c> the</c><00:13:29.760><c> baguette</c><00:13:30.079><c> out</c>
+
+00:13:30.230 --> 00:13:30.240 align:start position:0%
+first thing is to take the baguette out
+ 
+
+00:13:30.240 --> 00:13:32.949 align:start position:0%
+first thing is to take the baguette out
+of<00:13:30.320><c> the</c><00:13:30.480><c> bag.</c><00:13:31.200><c> It</c><00:13:31.440><c> will</c><00:13:31.600><c> then</c><00:13:31.839><c> go</c><00:13:32.079><c> and</c><00:13:32.320><c> send</c><00:13:32.720><c> the</c>
+
+00:13:32.949 --> 00:13:32.959 align:start position:0%
+of the bag. It will then go and send the
+ 
+
+00:13:32.959 --> 00:13:34.470 align:start position:0%
+of the bag. It will then go and send the
+text<00:13:33.279><c> string</c><00:13:33.600><c> take</c><00:13:33.680><c> the</c><00:13:33.839><c> baguette</c><00:13:34.160><c> out</c><00:13:34.240><c> of</c><00:13:34.399><c> the</c>
+
+00:13:34.470 --> 00:13:34.480 align:start position:0%
+text string take the baguette out of the
+ 
+
+00:13:34.480 --> 00:13:36.629 align:start position:0%
+text string take the baguette out of the
+bag<00:13:34.959><c> propreception</c><00:13:35.680><c> and</c><00:13:35.839><c> perception</c><00:13:36.320><c> to</c><00:13:36.480><c> the</c>
+
+00:13:36.629 --> 00:13:36.639 align:start position:0%
+bag propreception and perception to the
+ 
+
+00:13:36.639 --> 00:13:38.389 align:start position:0%
+bag propreception and perception to the
+model<00:13:37.120><c> and</c><00:13:37.360><c> the</c><00:13:37.519><c> model</c><00:13:37.760><c> will</c><00:13:37.920><c> output</c><00:13:38.240><c> the</c>
+
+00:13:38.389 --> 00:13:38.399 align:start position:0%
+model and the model will output the
+ 
+
+00:13:38.399 --> 00:13:40.949 align:start position:0%
+model and the model will output the
+trajectories<00:13:39.120><c> to</c><00:13:39.440><c> do</c><00:13:39.600><c> this</c><00:13:40.079><c> right</c><00:13:40.480><c> and</c><00:13:40.800><c> take</c>
+
+00:13:40.949 --> 00:13:40.959 align:start position:0%
+trajectories to do this right and take
+ 
+
+00:13:40.959 --> 00:13:43.670 align:start position:0%
+trajectories to do this right and take
+it<00:13:41.120><c> out</c><00:13:42.160><c> and</c><00:13:42.320><c> then</c><00:13:42.560><c> underneath</c><00:13:43.279><c> there's</c><00:13:43.519><c> a</c>
+
+00:13:43.670 --> 00:13:43.680 align:start position:0%
+it out and then underneath there's a
+ 
+
+00:13:43.680 --> 00:13:46.069 align:start position:0%
+it out and then underneath there's a
+whole<00:13:43.839><c> body</c><00:13:44.160><c> controller</c><00:13:44.720><c> is</c><00:13:44.880><c> an</c><00:13:45.040><c> RL</c><00:13:45.440><c> policy</c>
+
+00:13:46.069 --> 00:13:46.079 align:start position:0%
+whole body controller is an RL policy
+ 
+
+00:13:46.079 --> 00:13:48.150 align:start position:0%
+whole body controller is an RL policy
+that<00:13:46.320><c> is</c><00:13:46.480><c> of</c><00:13:46.639><c> course</c><00:13:46.880><c> tracking</c><00:13:47.200><c> that</c><00:13:47.440><c> VA</c><00:13:47.920><c> and</c>
+
+00:13:48.150 --> 00:13:48.160 align:start position:0%
+that is of course tracking that VA and
+ 
+
+00:13:48.160 --> 00:13:51.590 align:start position:0%
+that is of course tracking that VA and
+ensuring<00:13:48.560><c> that</c><00:13:48.720><c> the</c><00:13:48.880><c> robot</c><00:13:49.279><c> stays</c><00:13:49.600><c> stable.</c>
+
+00:13:51.590 --> 00:13:51.600 align:start position:0%
+ensuring that the robot stays stable.
+ 
+
+00:13:51.600 --> 00:13:53.110 align:start position:0%
+ensuring that the robot stays stable.
+The<00:13:51.839><c> other</c><00:13:52.000><c> thing</c><00:13:52.160><c> is</c><00:13:52.320><c> that</c><00:13:52.480><c> these</c><00:13:52.720><c> models</c>
+
+00:13:53.110 --> 00:13:53.120 align:start position:0%
+The other thing is that these models
+ 
+
+00:13:53.120 --> 00:13:55.509 align:start position:0%
+The other thing is that these models
+also<00:13:53.680><c> have</c><00:13:54.160><c> thinking.</c><00:13:54.800><c> What</c><00:13:55.040><c> that</c><00:13:55.200><c> means</c><00:13:55.360><c> is</c>
+
+00:13:55.509 --> 00:13:55.519 align:start position:0%
+also have thinking. What that means is
+ 
+
+00:13:55.519 --> 00:13:57.269 align:start position:0%
+also have thinking. What that means is
+that<00:13:55.680><c> the</c><00:13:55.839><c> model</c><00:13:56.079><c> is</c><00:13:56.320><c> generating</c><00:13:56.800><c> text</c><00:13:57.040><c> and</c>
+
+00:13:57.269 --> 00:13:57.279 align:start position:0%
+that the model is generating text and
+ 
+
+00:13:57.279 --> 00:13:59.590 align:start position:0%
+that the model is generating text and
+action<00:13:57.600><c> tokens</c><00:13:58.079><c> together</c><00:13:58.800><c> and</c><00:13:59.040><c> that</c><00:13:59.279><c> enables</c>
+
+00:13:59.590 --> 00:13:59.600 align:start position:0%
+action tokens together and that enables
+ 
+
+00:13:59.600 --> 00:14:01.670 align:start position:0%
+action tokens together and that enables
+it<00:13:59.760><c> to</c><00:14:00.000><c> reason</c><00:14:00.320><c> about</c><00:14:00.560><c> what</c><00:14:00.720><c> it's</c><00:14:00.959><c> doing.</c><00:14:01.519><c> So</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+it to reason about what it's doing. So
+ 
+
+00:14:01.680 --> 00:14:04.069 align:start position:0%
+it to reason about what it's doing. So
+in<00:14:01.920><c> this</c><00:14:02.079><c> video</c><00:14:02.480><c> I</c><00:14:02.720><c> have</c><00:14:02.880><c> no</c><00:14:03.120><c> agent.</c><00:14:03.760><c> It's</c><00:14:03.920><c> just</c>
+
+00:14:04.069 --> 00:14:04.079 align:start position:0%
+in this video I have no agent. It's just
+ 
+
+00:14:04.079 --> 00:14:19.670 align:start position:0%
+in this video I have no agent. It's just
+the<00:14:04.240><c> VA.</c><00:14:04.880><c> Let's</c><00:14:05.120><c> see</c><00:14:05.279><c> what</c><00:14:05.440><c> it</c><00:14:05.600><c> plays.</c>
+
+00:14:19.670 --> 00:14:19.680 align:start position:0%
+ 
+ 
+
+00:14:19.680 --> 00:14:22.069 align:start position:0%
+ 
+Previous<00:14:20.240><c> Gemini</c><00:14:20.800><c> Robotics</c><00:14:21.360><c> version</c><00:14:21.839><c> has</c>
+
+00:14:22.069 --> 00:14:22.079 align:start position:0%
+Previous Gemini Robotics version has
+ 
+
+00:14:22.079 --> 00:14:24.389 align:start position:0%
+Previous Gemini Robotics version has
+been<00:14:22.240><c> tested</c><00:14:22.880><c> over</c><00:14:23.199><c> and</c><00:14:23.440><c> over</c><00:14:23.680><c> and</c><00:14:23.920><c> over</c><00:14:24.160><c> again</c>
+
+00:14:24.389 --> 00:14:24.399 align:start position:0%
+been tested over and over and over again
+ 
+
+00:14:24.399 --> 00:14:26.310 align:start position:0%
+been tested over and over and over again
+to<00:14:24.639><c> put</c><00:14:24.800><c> this</c><00:14:25.040><c> banana</c><00:14:25.440><c> into</c><00:14:25.680><c> the</c><00:14:25.839><c> bowl.</c><00:14:26.160><c> This</c>
+
+00:14:26.310 --> 00:14:26.320 align:start position:0%
+to put this banana into the bowl. This
+ 
+
+00:14:26.320 --> 00:14:27.990 align:start position:0%
+to put this banana into the bowl. This
+is<00:14:26.399><c> a</c><00:14:26.639><c> very</c><00:14:26.800><c> simple</c><00:14:27.040><c> task.</c><00:14:27.360><c> I'm</c><00:14:27.600><c> going</c><00:14:27.680><c> to</c>
+
+00:14:27.990 --> 00:14:28.000 align:start position:0%
+is a very simple task. I'm going to
+ 
+
+00:14:28.000 --> 00:14:30.069 align:start position:0%
+is a very simple task. I'm going to
+switch<00:14:28.240><c> the</c><00:14:28.399><c> model</c><00:14:28.639><c> here</c><00:14:28.880><c> and</c><00:14:29.120><c> make</c><00:14:29.279><c> the</c><00:14:29.600><c> task</c>
+
+00:14:30.069 --> 00:14:30.079 align:start position:0%
+switch the model here and make the task
+ 
+
+00:14:30.079 --> 00:14:35.350 align:start position:0%
+switch the model here and make the task
+slightly<00:14:30.560><c> more</c><00:14:30.880><c> challenging.</c>
+
+00:14:35.350 --> 00:14:35.360 align:start position:0%
+ 
+ 
+
+00:14:35.360 --> 00:14:36.949 align:start position:0%
+ 
+So<00:14:35.600><c> this</c><00:14:35.760><c> is</c><00:14:35.920><c> Gemini</c><00:14:36.399><c> Robotics</c><00:14:36.420><c> [music]</c>
+
+00:14:36.949 --> 00:14:36.959 align:start position:0%
+So this is Gemini Robotics [music]
+ 
+
+00:14:36.959 --> 00:14:40.069 align:start position:0%
+So this is Gemini Robotics [music]
+1.5.<00:14:38.160><c> Aloha.</c><00:14:38.720><c> Could</c><00:14:38.880><c> you</c><00:14:39.040><c> sort</c><00:14:39.360><c> these</c><00:14:39.600><c> fruits</c>
+
+00:14:40.069 --> 00:14:40.079 align:start position:0%
+1.5. Aloha. Could you sort these fruits
+ 
+
+00:14:40.079 --> 00:14:43.350 align:start position:0%
+1.5. Aloha. Could you sort these fruits
+into<00:14:40.639><c> color</c><00:14:40.959><c> matching</c><00:14:41.279><c> plates?</c><00:14:42.000><c> Sure,</c><00:14:42.959><c> I</c><00:14:43.199><c> can</c>
+
+00:14:43.350 --> 00:14:43.360 align:start position:0%
+into color matching plates? Sure, I can
+ 
+
+00:14:43.360 --> 00:14:45.189 align:start position:0%
+into color matching plates? Sure, I can
+certainly<00:14:43.680><c> help</c><00:14:43.839><c> you</c><00:14:44.079><c> do</c><00:14:44.240><c> that.</c><00:14:44.800><c> Put</c><00:14:45.040><c> the</c>
+
+00:14:45.189 --> 00:14:45.199 align:start position:0%
+certainly help you do that. Put the
+ 
+
+00:14:45.199 --> 00:14:48.230 align:start position:0%
+certainly help you do that. Put the
+green<00:14:45.440><c> fruit</c><00:14:45.760><c> into</c><00:14:46.000><c> the</c><00:14:46.240><c> green</c><00:14:46.480><c> plate.</c><00:14:47.920><c> We</c>
+
+00:14:48.230 --> 00:14:48.240 align:start position:0%
+green fruit into the green plate. We
+ 
+
+00:14:48.240 --> 00:14:50.790 align:start position:0%
+green fruit into the green plate. We
+enable<00:14:48.639><c> it</c><00:14:48.880><c> to</c><00:14:49.199><c> think.</c><00:14:49.760><c> It</c><00:14:50.000><c> can</c><00:14:50.240><c> perceive</c><00:14:50.639><c> the</c>
+
+00:14:50.790 --> 00:14:50.800 align:start position:0%
+enable it to think. It can perceive the
+ 
+
+00:14:50.800 --> 00:14:52.710 align:start position:0%
+enable it to think. It can perceive the
+environment,<00:14:51.519><c> different</c><00:14:51.839><c> colors</c><00:14:52.240><c> of</c><00:14:52.480><c> the</c>
+
+00:14:52.710 --> 00:14:52.720 align:start position:0%
+environment, different colors of the
+ 
+
+00:14:52.720 --> 00:14:54.870 align:start position:0%
+environment, different colors of the
+object,<00:14:53.279><c> different</c><00:14:53.600><c> colors</c><00:14:53.839><c> of</c><00:14:54.000><c> the</c><00:14:54.160><c> plate.</c>
+
+00:14:54.870 --> 00:14:54.880 align:start position:0%
+object, different colors of the plate.
+ 
+
+00:14:54.880 --> 00:14:57.030 align:start position:0%
+object, different colors of the plate.
+It<00:14:55.120><c> will</c><00:14:55.440><c> think</c><00:14:55.839><c> step</c><00:14:56.050><c> [music]</c><00:14:56.160><c> by</c><00:14:56.399><c> step</c><00:14:56.800><c> and</c>
+
+00:14:57.030 --> 00:14:57.040 align:start position:0%
+It will think step [music] by step and
+ 
+
+00:14:57.040 --> 00:14:59.509 align:start position:0%
+It will think step [music] by step and
+then<00:14:57.279><c> finish</c><00:14:57.600><c> this</c><00:14:57.920><c> multi-step</c><00:14:58.639><c> task.</c><00:14:59.279><c> Put</c>
+
+00:14:59.509 --> 00:14:59.519 align:start position:0%
+then finish this multi-step task. Put
+ 
+
+00:14:59.519 --> 00:15:03.670 align:start position:0%
+then finish this multi-step task. Put
+the<00:14:59.680><c> banana</c><00:15:00.160><c> into</c><00:15:00.399><c> the</c><00:15:00.639><c> yellow</c><00:15:00.880><c> plate</c>
+
+00:15:03.670 --> 00:15:03.680 align:start position:0%
+the banana into the yellow plate
+ 
+
+00:15:03.680 --> 00:15:05.350 align:start position:0%
+the banana into the yellow plate
+&gt;&gt; at<00:15:03.920><c> that.</c><00:15:04.160><c> We</c><00:15:04.320><c> have</c><00:15:04.399><c> a</c><00:15:04.560><c> lot</c><00:15:04.720><c> more</c><00:15:04.880><c> examples</c><00:15:05.199><c> of</c>
+
+00:15:05.350 --> 00:15:05.360 align:start position:0%
+&gt;&gt; at that. We have a lot more examples of
+ 
+
+00:15:05.360 --> 00:15:07.269 align:start position:0%
+&gt;&gt; at that. We have a lot more examples of
+that<00:15:05.519><c> if</c><00:15:05.680><c> you</c><00:15:05.760><c> go</c><00:15:05.920><c> into</c><00:15:06.079><c> our</c><00:15:06.240><c> website.</c><00:15:07.040><c> The</c>
+
+00:15:07.269 --> 00:15:07.279 align:start position:0%
+that if you go into our website. The
+ 
+
+00:15:07.279 --> 00:15:09.110 align:start position:0%
+that if you go into our website. The
+last<00:15:07.519><c> piece</c><00:15:07.680><c> is</c><00:15:07.839><c> that</c><00:15:08.000><c> these</c><00:15:08.240><c> models</c><00:15:08.720><c> can</c><00:15:08.880><c> work</c>
+
+00:15:09.110 --> 00:15:09.120 align:start position:0%
+last piece is that these models can work
+ 
+
+00:15:09.120 --> 00:15:10.870 align:start position:0%
+last piece is that these models can work
+across<00:15:09.440><c> embodiment</c><00:15:10.000><c> as</c><00:15:10.160><c> I</c><00:15:10.320><c> mentioned.</c><00:15:10.720><c> And</c>
+
+00:15:10.870 --> 00:15:10.880 align:start position:0%
+across embodiment as I mentioned. And
+ 
+
+00:15:10.880 --> 00:15:12.629 align:start position:0%
+across embodiment as I mentioned. And
+not<00:15:11.120><c> only</c><00:15:11.279><c> that,</c><00:15:11.519><c> they</c><00:15:11.760><c> can</c><00:15:11.920><c> learn</c><00:15:12.240><c> across</c>
+
+00:15:12.629 --> 00:15:12.639 align:start position:0%
+not only that, they can learn across
+ 
+
+00:15:12.639 --> 00:15:15.269 align:start position:0%
+not only that, they can learn across
+embodiment.<00:15:13.600><c> So</c><00:15:13.839><c> what</c><00:15:14.000><c> I</c><00:15:14.240><c> have</c><00:15:14.399><c> here</c><00:15:14.720><c> is</c><00:15:15.040><c> the</c>
+
+00:15:15.269 --> 00:15:15.279 align:start position:0%
+embodiment. So what I have here is the
+ 
+
+00:15:15.279 --> 00:15:16.790 align:start position:0%
+embodiment. So what I have here is the
+same<00:15:15.440><c> set</c><00:15:15.600><c> of</c><00:15:15.680><c> weights</c><00:15:16.079><c> working</c><00:15:16.320><c> on</c><00:15:16.560><c> these</c>
+
+00:15:16.790 --> 00:15:16.800 align:start position:0%
+same set of weights working on these
+ 
+
+00:15:16.800 --> 00:15:18.710 align:start position:0%
+same set of weights working on these
+three<00:15:16.959><c> different</c><00:15:17.199><c> robots.</c><00:15:18.000><c> And</c><00:15:18.160><c> on</c><00:15:18.320><c> the</c><00:15:18.480><c> top</c>
+
+00:15:18.710 --> 00:15:18.720 align:start position:0%
+three different robots. And on the top
+ 
+
+00:15:18.720 --> 00:15:21.269 align:start position:0%
+three different robots. And on the top
+you<00:15:18.959><c> can</c><00:15:19.120><c> see</c><00:15:19.279><c> how</c><00:15:19.519><c> the</c><00:15:19.760><c> robots</c><00:15:20.639><c> get</c><00:15:20.880><c> better.</c>
+
+00:15:21.269 --> 00:15:21.279 align:start position:0%
+you can see how the robots get better.
+ 
+
+00:15:21.279 --> 00:15:23.509 align:start position:0%
+you can see how the robots get better.
+This<00:15:21.440><c> is</c><00:15:21.519><c> the</c><00:15:21.680><c> Apollo</c><00:15:22.079><c> robot</c><00:15:22.399><c> in</c><00:15:22.560><c> blue</c><00:15:23.120><c> after</c>
+
+00:15:23.509 --> 00:15:23.519 align:start position:0%
+This is the Apollo robot in blue after
+ 
+
+00:15:23.519 --> 00:15:25.590 align:start position:0%
+This is the Apollo robot in blue after
+learning<00:15:23.839><c> from</c><00:15:24.079><c> Aloha.</c><00:15:25.120><c> And</c><00:15:25.279><c> this</c><00:15:25.440><c> was</c>
+
+00:15:25.590 --> 00:15:25.600 align:start position:0%
+learning from Aloha. And this was
+ 
+
+00:15:25.600 --> 00:15:27.269 align:start position:0%
+learning from Aloha. And this was
+because<00:15:25.839><c> we</c><00:15:26.000><c> had</c><00:15:26.160><c> very</c><00:15:26.399><c> little</c><00:15:26.639><c> data</c><00:15:26.880><c> at</c><00:15:27.040><c> the</c>
+
+00:15:27.269 --> 00:15:27.279 align:start position:0%
+because we had very little data at the
+ 
+
+00:15:27.279 --> 00:15:29.110 align:start position:0%
+because we had very little data at the
+time<00:15:27.440><c> on</c><00:15:27.600><c> the</c><00:15:27.760><c> Apollo</c><00:15:28.240><c> robot</c><00:15:28.639><c> and</c><00:15:28.800><c> you</c><00:15:28.959><c> could</c>
+
+00:15:29.110 --> 00:15:29.120 align:start position:0%
+time on the Apollo robot and you could
+ 
+
+00:15:29.120 --> 00:15:30.710 align:start position:0%
+time on the Apollo robot and you could
+just<00:15:29.279><c> learn</c><00:15:29.519><c> from</c><00:15:29.680><c> the</c><00:15:29.839><c> stuff</c><00:15:29.920><c> that</c><00:15:30.079><c> Aloha</c><00:15:30.560><c> had</c>
+
+00:15:30.710 --> 00:15:30.720 align:start position:0%
+just learn from the stuff that Aloha had
+ 
+
+00:15:30.720 --> 00:15:32.470 align:start position:0%
+just learn from the stuff that Aloha had
+already<00:15:30.880><c> learned.</c>
+
+00:15:32.470 --> 00:15:32.480 align:start position:0%
+already learned.
+ 
+
+00:15:32.480 --> 00:15:34.069 align:start position:0%
+already learned.
+All<00:15:32.560><c> right,</c><00:15:32.959><c> I'm</c><00:15:33.199><c> going</c><00:15:33.279><c> to</c><00:15:33.360><c> go</c><00:15:33.519><c> very</c><00:15:33.839><c> quickly</c>
+
+00:15:34.069 --> 00:15:34.079 align:start position:0%
+All right, I'm going to go very quickly
+ 
+
+00:15:34.079 --> 00:15:36.150 align:start position:0%
+All right, I'm going to go very quickly
+since<00:15:34.240><c> I</c><00:15:34.399><c> have</c><00:15:34.480><c> a</c><00:15:34.639><c> few</c><00:15:34.800><c> minutes</c><00:15:35.040><c> left.</c><00:15:35.839><c> What</c><00:15:36.000><c> is</c>
+
+00:15:36.150 --> 00:15:36.160 align:start position:0%
+since I have a few minutes left. What is
+ 
+
+00:15:36.160 --> 00:15:37.670 align:start position:0%
+since I have a few minutes left. What is
+at<00:15:36.320><c> the</c><00:15:36.399><c> frontier?</c><00:15:36.959><c> Certainly</c><00:15:37.279><c> one</c><00:15:37.440><c> of</c><00:15:37.519><c> the</c>
+
+00:15:37.670 --> 00:15:37.680 align:start position:0%
+at the frontier? Certainly one of the
+ 
+
+00:15:37.680 --> 00:15:39.430 align:start position:0%
+at the frontier? Certainly one of the
+things<00:15:37.839><c> we're</c><00:15:38.079><c> working</c><00:15:38.320><c> on</c><00:15:38.480><c> is</c><00:15:38.720><c> how</c><00:15:38.880><c> to</c><00:15:39.120><c> scale</c>
+
+00:15:39.430 --> 00:15:39.440 align:start position:0%
+things we're working on is how to scale
+ 
+
+00:15:39.440 --> 00:15:41.110 align:start position:0%
+things we're working on is how to scale
+learning.<00:15:40.240><c> Everything</c><00:15:40.480><c> that</c><00:15:40.720><c> you're</c><00:15:40.959><c> done</c>
+
+00:15:41.110 --> 00:15:41.120 align:start position:0%
+learning. Everything that you're done
+ 
+
+00:15:41.120 --> 00:15:43.509 align:start position:0%
+learning. Everything that you're done
+that<00:15:41.360><c> you've</c><00:15:41.440><c> seen</c><00:15:41.760><c> today</c><00:15:42.240><c> is</c><00:15:42.639><c> essentially</c>
+
+00:15:43.509 --> 00:15:43.519 align:start position:0%
+that you've seen today is essentially
+ 
+
+00:15:43.519 --> 00:15:45.269 align:start position:0%
+that you've seen today is essentially
+learned<00:15:43.839><c> through</c><00:15:44.079><c> robotics</c><00:15:44.560><c> teleoperation.</c>
+
+00:15:45.269 --> 00:15:45.279 align:start position:0%
+learned through robotics teleoperation.
+ 
+
+00:15:45.279 --> 00:15:47.430 align:start position:0%
+learned through robotics teleoperation.
+That<00:15:45.440><c> means</c><00:15:45.680><c> a</c><00:15:45.839><c> human</c><00:15:46.160><c> had</c><00:15:46.320><c> to</c><00:15:46.480><c> put</c><00:15:46.560><c> on</c><00:15:46.800><c> goggles</c>
+
+00:15:47.430 --> 00:15:47.440 align:start position:0%
+That means a human had to put on goggles
+ 
+
+00:15:47.440 --> 00:15:49.910 align:start position:0%
+That means a human had to put on goggles
+and<00:15:47.760><c> gloves</c><00:15:48.480><c> and</c><00:15:48.720><c> was</c><00:15:48.959><c> able</c><00:15:49.120><c> to</c><00:15:49.279><c> like</c><00:15:49.440><c> move</c><00:15:49.680><c> the</c>
+
+00:15:49.910 --> 00:15:49.920 align:start position:0%
+and gloves and was able to like move the
+ 
+
+00:15:49.920 --> 00:15:52.150 align:start position:0%
+and gloves and was able to like move the
+robot<00:15:50.240><c> to</c><00:15:50.399><c> teach</c><00:15:50.560><c> it</c><00:15:50.720><c> how</c><00:15:50.800><c> to</c><00:15:50.959><c> do</c><00:15:51.040><c> a</c><00:15:51.199><c> task.</c><00:15:51.920><c> That</c>
+
+00:15:52.150 --> 00:15:52.160 align:start position:0%
+robot to teach it how to do a task. That
+ 
+
+00:15:52.160 --> 00:15:53.910 align:start position:0%
+robot to teach it how to do a task. That
+of<00:15:52.320><c> course</c><00:15:52.560><c> only</c><00:15:52.880><c> scales</c><00:15:53.279><c> with</c><00:15:53.440><c> the</c><00:15:53.680><c> number</c><00:15:53.759><c> of</c>
+
+00:15:53.910 --> 00:15:53.920 align:start position:0%
+of course only scales with the number of
+ 
+
+00:15:53.920 --> 00:15:55.350 align:start position:0%
+of course only scales with the number of
+robots<00:15:54.240><c> and</c><00:15:54.399><c> the</c><00:15:54.639><c> number</c><00:15:54.720><c> of</c><00:15:54.880><c> hours</c><00:15:55.040><c> that</c><00:15:55.199><c> you</c>
+
+00:15:55.350 --> 00:15:55.360 align:start position:0%
+robots and the number of hours that you
+ 
+
+00:15:55.360 --> 00:15:58.069 align:start position:0%
+robots and the number of hours that you
+have<00:15:55.440><c> in</c><00:15:55.600><c> the</c><00:15:55.759><c> day.</c><00:15:56.639><c> We've</c><00:15:57.040><c> also</c><00:15:57.759><c> like</c><00:15:57.920><c> to</c>
+
+00:15:58.069 --> 00:15:58.079 align:start position:0%
+have in the day. We've also like to
+ 
+
+00:15:58.079 --> 00:16:00.710 align:start position:0%
+have in the day. We've also like to
+learn<00:15:58.399><c> of</c><00:15:58.560><c> course</c><00:15:59.040><c> from</c><00:15:59.680><c> videos</c><00:16:00.160><c> the</c><00:16:00.320><c> same</c><00:16:00.480><c> way</c>
+
+00:16:00.710 --> 00:16:00.720 align:start position:0%
+learn of course from videos the same way
+ 
+
+00:16:00.720 --> 00:16:02.949 align:start position:0%
+learn of course from videos the same way
+humans<00:16:01.040><c> do.</c><00:16:01.519><c> We</c><00:16:01.920><c> learned</c><00:16:02.160><c> a</c><00:16:02.320><c> lot</c><00:16:02.480><c> from</c>
+
+00:16:02.949 --> 00:16:02.959 align:start position:0%
+humans do. We learned a lot from
+ 
+
+00:16:02.959 --> 00:16:04.710 align:start position:0%
+humans do. We learned a lot from
+watching<00:16:03.279><c> others</c><00:16:03.519><c> and</c><00:16:03.759><c> then</c><00:16:03.920><c> we</c><00:16:04.079><c> practice</c><00:16:04.480><c> a</c>
+
+00:16:04.710 --> 00:16:04.720 align:start position:0%
+watching others and then we practice a
+ 
+
+00:16:04.720 --> 00:16:06.310 align:start position:0%
+watching others and then we practice a
+little<00:16:04.800><c> bit.</c><00:16:05.199><c> That's</c><00:16:05.440><c> the</c><00:16:05.759><c> ultimate</c><00:16:06.079><c> goal.</c>
+
+00:16:06.310 --> 00:16:06.320 align:start position:0%
+little bit. That's the ultimate goal.
+ 
+
+00:16:06.320 --> 00:16:08.550 align:start position:0%
+little bit. That's the ultimate goal.
+We're<00:16:06.639><c> always</c><00:16:06.959><c> working</c><00:16:07.120><c> on</c><00:16:07.360><c> that.</c><00:16:08.160><c> And</c><00:16:08.320><c> then</c>
+
+00:16:08.550 --> 00:16:08.560 align:start position:0%
+We're always working on that. And then
+ 
+
+00:16:08.560 --> 00:16:10.230 align:start position:0%
+We're always working on that. And then
+we<00:16:08.720><c> also</c><00:16:08.959><c> have</c><00:16:09.120><c> areas</c><00:16:09.519><c> in</c><00:16:09.680><c> the</c><00:16:09.759><c> middle</c><00:16:10.000><c> like</c>
+
+00:16:10.230 --> 00:16:10.240 align:start position:0%
+we also have areas in the middle like
+ 
+
+00:16:10.240 --> 00:16:11.829 align:start position:0%
+we also have areas in the middle like
+you<00:16:10.399><c> can</c><00:16:10.480><c> learn</c><00:16:10.639><c> from</c><00:16:10.880><c> simulation</c><00:16:11.440><c> better.</c>
+
+00:16:11.829 --> 00:16:11.839 align:start position:0%
+you can learn from simulation better.
+ 
+
+00:16:11.839 --> 00:16:13.350 align:start position:0%
+you can learn from simulation better.
+You<00:16:12.000><c> could</c><00:16:12.240><c> dramatically</c><00:16:12.880><c> increase</c><00:16:13.199><c> the</c>
+
+00:16:13.350 --> 00:16:13.360 align:start position:0%
+You could dramatically increase the
+ 
+
+00:16:13.360 --> 00:16:14.550 align:start position:0%
+You could dramatically increase the
+number<00:16:13.519><c> of</c><00:16:13.680><c> environments</c><00:16:14.079><c> that</c><00:16:14.240><c> you</c><00:16:14.320><c> have.</c>
+
+00:16:14.550 --> 00:16:14.560 align:start position:0%
+number of environments that you have.
+ 
+
+00:16:14.560 --> 00:16:16.310 align:start position:0%
+number of environments that you have.
+You<00:16:14.720><c> can</c><00:16:14.800><c> learn</c><00:16:14.959><c> from</c><00:16:15.199><c> world</c><00:16:15.440><c> models.</c><00:16:16.079><c> I'll</c>
+
+00:16:16.310 --> 00:16:16.320 align:start position:0%
+You can learn from world models. I'll
+ 
+
+00:16:16.320 --> 00:16:17.749 align:start position:0%
+You can learn from world models. I'll
+just<00:16:16.480><c> mention</c><00:16:16.720><c> just</c><00:16:16.959><c> a</c><00:16:17.199><c> couple</c><00:16:17.360><c> of</c><00:16:17.440><c> these</c>
+
+00:16:17.749 --> 00:16:17.759 align:start position:0%
+just mention just a couple of these
+ 
+
+00:16:17.759 --> 00:16:20.870 align:start position:0%
+just mention just a couple of these
+examples.<00:16:18.720><c> So</c><00:16:18.959><c> today</c><00:16:19.519><c> we</c><00:16:20.000><c> we've</c><00:16:20.320><c> have</c><00:16:20.480><c> a</c><00:16:20.639><c> long</c>
+
+00:16:20.870 --> 00:16:20.880 align:start position:0%
+examples. So today we we've have a long
+ 
+
+00:16:20.880 --> 00:16:22.230 align:start position:0%
+examples. So today we we've have a long
+history<00:16:21.199><c> working</c><00:16:21.440><c> in</c><00:16:21.600><c> simulation</c><00:16:22.000><c> with</c>
+
+00:16:22.230 --> 00:16:22.240 align:start position:0%
+history working in simulation with
+ 
+
+00:16:22.240 --> 00:16:24.310 align:start position:0%
+history working in simulation with
+Mojoko.<00:16:22.880><c> But</c><00:16:22.959><c> today</c><00:16:23.199><c> we</c><00:16:23.360><c> can</c><00:16:23.519><c> now</c><00:16:23.839><c> enable</c>
+
+00:16:24.310 --> 00:16:24.320 align:start position:0%
+Mojoko. But today we can now enable
+ 
+
+00:16:24.320 --> 00:16:26.150 align:start position:0%
+Mojoko. But today we can now enable
+completely<00:16:24.800><c> new</c><00:16:25.120><c> task</c><00:16:25.440><c> families</c><00:16:25.920><c> and</c>
+
+00:16:26.150 --> 00:16:26.160 align:start position:0%
+completely new task families and
+ 
+
+00:16:26.160 --> 00:16:27.749 align:start position:0%
+completely new task families and
+actually<00:16:26.399><c> on</c><00:16:26.560><c> board</c><00:16:26.720><c> a</c><00:16:26.880><c> completely</c><00:16:27.279><c> new</c><00:16:27.440><c> robot</c>
+
+00:16:27.749 --> 00:16:27.759 align:start position:0%
+actually on board a completely new robot
+ 
+
+00:16:27.759 --> 00:16:30.069 align:start position:0%
+actually on board a completely new robot
+in<00:16:27.920><c> simulation</c><00:16:28.480><c> first</c><00:16:28.720><c> for</c><00:16:29.040><c> manipulation</c>
+
+00:16:30.069 --> 00:16:30.079 align:start position:0%
+in simulation first for manipulation
+ 
+
+00:16:30.079 --> 00:16:32.310 align:start position:0%
+in simulation first for manipulation
+which<00:16:30.320><c> was</c><00:16:30.560><c> not</c><00:16:30.720><c> the</c><00:16:31.040><c> case</c><00:16:31.279><c> before.</c><00:16:32.000><c> And</c><00:16:32.160><c> this</c>
+
+00:16:32.310 --> 00:16:32.320 align:start position:0%
+which was not the case before. And this
+ 
+
+00:16:32.320 --> 00:16:34.790 align:start position:0%
+which was not the case before. And this
+helps<00:16:32.560><c> us</c><00:16:32.720><c> accelerate</c><00:16:33.199><c> generalization.</c>
+
+00:16:34.790 --> 00:16:34.800 align:start position:0%
+helps us accelerate generalization.
+ 
+
+00:16:34.800 --> 00:16:37.670 align:start position:0%
+helps us accelerate generalization.
+We've<00:16:35.120><c> also</c><00:16:35.440><c> have</c><00:16:36.000><c> world</c><00:16:36.240><c> models.</c><00:16:36.639><c> Now,</c><00:16:37.600><c> what</c>
+
+00:16:37.670 --> 00:16:37.680 align:start position:0%
+We've also have world models. Now, what
+ 
+
+00:16:37.680 --> 00:16:39.910 align:start position:0%
+We've also have world models. Now, what
+I<00:16:37.920><c> have</c><00:16:38.000><c> here</c><00:16:38.240><c> is</c><00:16:38.480><c> an</c><00:16:38.639><c> image</c><00:16:38.880><c> from</c><00:16:39.120><c> Aloha</c><00:16:39.680><c> on</c>
+
+00:16:39.910 --> 00:16:39.920 align:start position:0%
+I have here is an image from Aloha on
+ 
+
+00:16:39.920 --> 00:16:41.829 align:start position:0%
+I have here is an image from Aloha on
+the<00:16:40.079><c> left</c><00:16:40.240><c> and</c><00:16:40.560><c> another</c><00:16:40.880><c> from</c><00:16:41.120><c> Aloha</c><00:16:41.600><c> on</c><00:16:41.759><c> the</c>
+
+00:16:41.829 --> 00:16:41.839 align:start position:0%
+the left and another from Aloha on the
+ 
+
+00:16:41.839 --> 00:16:43.990 align:start position:0%
+the left and another from Aloha on the
+right.<00:16:42.399><c> One</c><00:16:42.639><c> of</c><00:16:42.720><c> them</c><00:16:42.880><c> is</c><00:16:43.120><c> real,</c><00:16:43.519><c> one</c><00:16:43.759><c> of</c><00:16:43.839><c> them</c>
+
+00:16:43.990 --> 00:16:44.000 align:start position:0%
+right. One of them is real, one of them
+ 
+
+00:16:44.000 --> 00:16:46.389 align:start position:0%
+right. One of them is real, one of them
+is<00:16:44.160><c> generated.</c><00:16:45.279><c> Anybody</c><00:16:45.680><c> cares</c><00:16:45.920><c> to</c><00:16:46.160><c> guess</c>
+
+00:16:46.389 --> 00:16:46.399 align:start position:0%
+is generated. Anybody cares to guess
+ 
+
+00:16:46.399 --> 00:16:49.430 align:start position:0%
+is generated. Anybody cares to guess
+which<00:16:46.639><c> one</c><00:16:46.800><c> is</c><00:16:46.959><c> generated?</c><00:16:48.160><c> The</c><00:16:48.399><c> left</c><00:16:48.639><c> one.</c>
+
+00:16:49.430 --> 00:16:49.440 align:start position:0%
+which one is generated? The left one.
+ 
+
+00:16:49.440 --> 00:16:53.030 align:start position:0%
+which one is generated? The left one.
+Anybody?<00:16:50.240><c> Nobody.</c><00:16:50.880><c> Right.</c><00:16:52.160><c> One</c><00:16:52.399><c> person.</c><00:16:52.959><c> All</c>
+
+00:16:53.030 --> 00:16:53.040 align:start position:0%
+Anybody? Nobody. Right. One person. All
+ 
+
+00:16:53.040 --> 00:16:55.670 align:start position:0%
+Anybody? Nobody. Right. One person. All
+right.<00:16:53.839><c> So,</c><00:16:54.079><c> they</c><00:16:54.320><c> were</c><00:16:54.480><c> right.</c><00:16:55.199><c> The</c><00:16:55.440><c> right</c>
+
+00:16:55.670 --> 00:16:55.680 align:start position:0%
+right. So, they were right. The right
+ 
+
+00:16:55.680 --> 00:16:57.829 align:start position:0%
+right. So, they were right. The right
+one<00:16:55.839><c> is</c><00:16:56.079><c> generated.</c><00:16:56.639><c> And</c><00:16:56.880><c> more</c><00:16:57.120><c> importantly,</c>
+
+00:16:57.829 --> 00:16:57.839 align:start position:0%
+one is generated. And more importantly,
+ 
+
+00:16:57.839 --> 00:16:59.670 align:start position:0%
+one is generated. And more importantly,
+it's<00:16:58.079><c> just</c><00:16:58.240><c> getting</c><00:16:58.480><c> extremely</c><00:16:59.040><c> hard</c><00:16:59.279><c> to</c><00:16:59.519><c> tell</c>
+
+00:16:59.670 --> 00:16:59.680 align:start position:0%
+it's just getting extremely hard to tell
+ 
+
+00:16:59.680 --> 00:17:01.350 align:start position:0%
+it's just getting extremely hard to tell
+which<00:16:59.920><c> one</c><00:17:00.079><c> it</c><00:17:00.240><c> is.</c><00:17:00.399><c> So</c><00:17:00.560><c> in</c><00:17:00.720><c> fact</c><00:17:00.800><c> in</c><00:17:01.040><c> our</c><00:17:01.120><c> team</c>
+
+00:17:01.350 --> 00:17:01.360 align:start position:0%
+which one it is. So in fact in our team
+ 
+
+00:17:01.360 --> 00:17:03.430 align:start position:0%
+which one it is. So in fact in our team
+we<00:17:01.519><c> always</c><00:17:01.759><c> put</c><00:17:01.920><c> a</c><00:17:02.079><c> border</c><00:17:02.480><c> around</c><00:17:02.800><c> videos</c>
+
+00:17:03.430 --> 00:17:03.440 align:start position:0%
+we always put a border around videos
+ 
+
+00:17:03.440 --> 00:17:05.110 align:start position:0%
+we always put a border around videos
+that<00:17:03.680><c> are</c><00:17:03.839><c> generated</c><00:17:04.240><c> because</c><00:17:04.480><c> it's</c><00:17:04.640><c> not</c><00:17:04.799><c> hard</c>
+
+00:17:05.110 --> 00:17:05.120 align:start position:0%
+that are generated because it's not hard
+ 
+
+00:17:05.120 --> 00:17:07.270 align:start position:0%
+that are generated because it's not hard
+hard<00:17:05.360><c> to</c><00:17:05.520><c> tell.</c><00:17:06.079><c> So</c><00:17:06.240><c> we</c><00:17:06.400><c> can</c><00:17:06.559><c> use</c><00:17:06.720><c> this</c><00:17:07.039><c> of</c>
+
+00:17:07.270 --> 00:17:07.280 align:start position:0%
+hard to tell. So we can use this of
+ 
+
+00:17:07.280 --> 00:17:09.590 align:start position:0%
+hard to tell. So we can use this of
+course<00:17:07.679><c> for</c><00:17:07.919><c> data</c><00:17:08.160><c> generation</c><00:17:08.959><c> for</c><00:17:09.199><c> all</c><00:17:09.439><c> kinds</c>
+
+00:17:09.590 --> 00:17:09.600 align:start position:0%
+course for data generation for all kinds
+ 
+
+00:17:09.600 --> 00:17:11.189 align:start position:0%
+course for data generation for all kinds
+of<00:17:09.760><c> different</c><00:17:10.000><c> research</c><00:17:10.400><c> threats</c><00:17:10.799><c> around</c>
+
+00:17:11.189 --> 00:17:11.199 align:start position:0%
+of different research threats around
+ 
+
+00:17:11.199 --> 00:17:13.750 align:start position:0%
+of different research threats around
+world<00:17:11.439><c> models</c><00:17:12.079><c> and</c><00:17:12.400><c> we</c><00:17:12.720><c> also</c><00:17:13.039><c> use</c><00:17:13.280><c> it</c><00:17:13.439><c> very</c>
+
+00:17:13.750 --> 00:17:13.760 align:start position:0%
+world models and we also use it very
+ 
+
+00:17:13.760 --> 00:17:16.069 align:start position:0%
+world models and we also use it very
+much<00:17:14.000><c> on</c><00:17:14.240><c> evaluation</c><00:17:14.880><c> for</c><00:17:15.120><c> safety</c><00:17:15.520><c> policies.</c>
+
+00:17:16.069 --> 00:17:16.079 align:start position:0%
+much on evaluation for safety policies.
+ 
+
+00:17:16.079 --> 00:17:17.669 align:start position:0%
+much on evaluation for safety policies.
+So,<00:17:16.240><c> as</c><00:17:16.400><c> you</c><00:17:16.559><c> can</c><00:17:16.640><c> imagine,</c><00:17:17.039><c> we</c><00:17:17.199><c> take</c><00:17:17.439><c> world</c>
+
+00:17:17.669 --> 00:17:17.679 align:start position:0%
+So, as you can imagine, we take world
+ 
+
+00:17:17.679 --> 00:17:19.909 align:start position:0%
+So, as you can imagine, we take world
+models,<00:17:18.400><c> make</c><00:17:18.640><c> them</c><00:17:18.880><c> look</c><00:17:19.120><c> like</c><00:17:19.439><c> it's</c><00:17:19.679><c> the</c>
+
+00:17:19.909 --> 00:17:19.919 align:start position:0%
+models, make them look like it's the
+ 
+
+00:17:19.919 --> 00:17:22.710 align:start position:0%
+models, make them look like it's the
+input<00:17:20.240><c> is</c><00:17:20.480><c> coming</c><00:17:20.640><c> from</c><00:17:20.880><c> a</c><00:17:21.199><c> real</c><00:17:21.520><c> robot,</c><00:17:22.400><c> then</c>
+
+00:17:22.710 --> 00:17:22.720 align:start position:0%
+input is coming from a real robot, then
+ 
+
+00:17:22.720 --> 00:17:24.789 align:start position:0%
+input is coming from a real robot, then
+condition<00:17:23.120><c> it</c><00:17:23.280><c> on</c><00:17:23.520><c> actions,</c><00:17:24.160><c> and</c><00:17:24.480><c> actually</c>
+
+00:17:24.789 --> 00:17:24.799 align:start position:0%
+condition it on actions, and actually
+ 
+
+00:17:24.799 --> 00:17:27.029 align:start position:0%
+condition it on actions, and actually
+roll<00:17:25.120><c> out</c><00:17:25.280><c> policies</c><00:17:25.760><c> in</c><00:17:25.919><c> that</c><00:17:26.160><c> environment.</c>
+
+00:17:27.029 --> 00:17:27.039 align:start position:0%
+roll out policies in that environment.
+ 
+
+00:17:27.039 --> 00:17:29.110 align:start position:0%
+roll out policies in that environment.
+And<00:17:27.199><c> then</c><00:17:27.360><c> you</c><00:17:27.520><c> can</c><00:17:27.679><c> use</c><00:17:27.839><c> it</c><00:17:28.079><c> to</c><00:17:28.240><c> do</c><00:17:28.720><c> all</c><00:17:28.960><c> kinds</c>
+
+00:17:29.110 --> 00:17:29.120 align:start position:0%
+And then you can use it to do all kinds
+ 
+
+00:17:29.120 --> 00:17:31.190 align:start position:0%
+And then you can use it to do all kinds
+of<00:17:29.280><c> different</c><00:17:29.600><c> scene</c><00:17:30.000><c> evaluations.</c><00:17:30.880><c> You</c><00:17:31.039><c> can</c>
+
+00:17:31.190 --> 00:17:31.200 align:start position:0%
+of different scene evaluations. You can
+ 
+
+00:17:31.200 --> 00:17:33.510 align:start position:0%
+of different scene evaluations. You can
+use<00:17:31.280><c> it</c><00:17:31.440><c> to</c><00:17:31.679><c> put</c><00:17:32.320><c> hard</c><00:17:32.720><c> situations</c><00:17:33.200><c> in</c><00:17:33.360><c> that</c>
+
+00:17:33.510 --> 00:17:33.520 align:start position:0%
+use it to put hard situations in that
+ 
+
+00:17:33.520 --> 00:17:35.510 align:start position:0%
+use it to put hard situations in that
+you<00:17:33.679><c> don't</c><00:17:33.760><c> want</c><00:17:33.919><c> to</c><00:17:34.000><c> do</c><00:17:34.080><c> in</c><00:17:34.320><c> real</c><00:17:34.720><c> like</c><00:17:35.280><c> put</c>
+
+00:17:35.510 --> 00:17:35.520 align:start position:0%
+you don't want to do in real like put
+ 
+
+00:17:35.520 --> 00:17:37.430 align:start position:0%
+you don't want to do in real like put
+your<00:17:35.679><c> hand</c><00:17:35.919><c> in</c><00:17:36.080><c> there</c><00:17:36.240><c> and</c><00:17:36.480><c> see</c><00:17:36.640><c> what</c><00:17:36.880><c> happens.</c>
+
+00:17:37.430 --> 00:17:37.440 align:start position:0%
+your hand in there and see what happens.
+ 
+
+00:17:37.440 --> 00:17:39.510 align:start position:0%
+your hand in there and see what happens.
+Put<00:17:37.600><c> a</c><00:17:37.840><c> baby</c><00:17:38.080><c> in</c><00:17:38.240><c> there</c><00:17:38.400><c> and</c><00:17:38.559><c> see</c><00:17:38.720><c> what</c><00:17:38.960><c> happens</c>
+
+00:17:39.510 --> 00:17:39.520 align:start position:0%
+Put a baby in there and see what happens
+ 
+
+00:17:39.520 --> 00:17:41.590 align:start position:0%
+Put a baby in there and see what happens
+and<00:17:39.760><c> it's</c><00:17:40.000><c> all</c><00:17:40.160><c> good.</c><00:17:40.640><c> This</c><00:17:40.880><c> is</c><00:17:41.039><c> excellent</c><00:17:41.360><c> for</c>
+
+00:17:41.590 --> 00:17:41.600 align:start position:0%
+and it's all good. This is excellent for
+ 
+
+00:17:41.600 --> 00:17:43.350 align:start position:0%
+and it's all good. This is excellent for
+safety<00:17:41.840><c> evaluation.</c>
+
+00:17:43.350 --> 00:17:43.360 align:start position:0%
+safety evaluation.
+ 
+
+00:17:43.360 --> 00:17:45.110 align:start position:0%
+safety evaluation.
+The<00:17:43.600><c> last</c><00:17:43.760><c> piece</c><00:17:44.000><c> is</c><00:17:44.240><c> that</c><00:17:44.400><c> obviously</c><00:17:44.799><c> models</c>
+
+00:17:45.110 --> 00:17:45.120 align:start position:0%
+The last piece is that obviously models
+ 
+
+00:17:45.120 --> 00:17:46.710 align:start position:0%
+The last piece is that obviously models
+alone<00:17:45.440><c> are</c><00:17:45.679><c> not</c><00:17:45.840><c> going</c><00:17:45.919><c> to</c><00:17:46.080><c> change</c><00:17:46.240><c> the</c><00:17:46.480><c> world.</c>
+
+00:17:46.710 --> 00:17:46.720 align:start position:0%
+alone are not going to change the world.
+ 
+
+00:17:46.720 --> 00:17:48.390 align:start position:0%
+alone are not going to change the world.
+You<00:17:46.880><c> need</c><00:17:46.960><c> to</c><00:17:47.120><c> combine</c><00:17:47.520><c> them</c><00:17:47.840><c> with</c><00:17:48.080><c> real</c>
+
+00:17:48.390 --> 00:17:48.400 align:start position:0%
+You need to combine them with real
+ 
+
+00:17:48.400 --> 00:17:50.150 align:start position:0%
+You need to combine them with real
+robots.<00:17:48.960><c> So</c><00:17:49.200><c> we're</c><00:17:49.360><c> extremely</c><00:17:49.760><c> grateful</c><00:17:50.000><c> for</c>
+
+00:17:50.150 --> 00:17:50.160 align:start position:0%
+robots. So we're extremely grateful for
+ 
+
+00:17:50.160 --> 00:17:51.750 align:start position:0%
+robots. So we're extremely grateful for
+our<00:17:50.320><c> partnerships</c><00:17:50.720><c> with</c><00:17:50.960><c> Boston</c><00:17:51.280><c> Dynamics,</c>
+
+00:17:51.750 --> 00:17:51.760 align:start position:0%
+our partnerships with Boston Dynamics,
+ 
+
+00:17:51.760 --> 00:17:53.830 align:start position:0%
+our partnerships with Boston Dynamics,
+Agile<00:17:52.240><c> Robot,</c><00:17:52.640><c> and</c><00:17:52.799><c> Uptronic.</c><00:17:53.440><c> And</c><00:17:53.600><c> we're</c>
+
+00:17:53.830 --> 00:17:53.840 align:start position:0%
+Agile Robot, and Uptronic. And we're
+ 
+
+00:17:53.840 --> 00:17:55.110 align:start position:0%
+Agile Robot, and Uptronic. And we're
+working<00:17:54.080><c> together</c><00:17:54.320><c> to</c><00:17:54.640><c> advance</c><00:17:54.960><c> the</c>
+
+00:17:55.110 --> 00:17:55.120 align:start position:0%
+working together to advance the
+ 
+
+00:17:55.120 --> 00:17:56.789 align:start position:0%
+working together to advance the
+state-of-the-art<00:17:55.919><c> on</c><00:17:56.160><c> general</c><00:17:56.480><c> purpose</c>
+
+00:17:56.789 --> 00:17:56.799 align:start position:0%
+state-of-the-art on general purpose
+ 
+
+00:17:56.799 --> 00:17:59.110 align:start position:0%
+state-of-the-art on general purpose
+robots<00:17:57.360><c> for</c><00:17:57.600><c> humanoids</c><00:17:58.160><c> in</c><00:17:58.320><c> particular,</c><00:17:58.880><c> but</c>
+
+00:17:59.110 --> 00:17:59.120 align:start position:0%
+robots for humanoids in particular, but
+ 
+
+00:17:59.120 --> 00:18:01.590 align:start position:0%
+robots for humanoids in particular, but
+also<00:17:59.360><c> other</c><00:17:59.679><c> robots.</c><00:18:00.960><c> And</c><00:18:01.039><c> then</c><00:18:01.200><c> we</c><00:18:01.360><c> also</c><00:18:01.520><c> have</c>
+
+00:18:01.590 --> 00:18:01.600 align:start position:0%
+also other robots. And then we also have
+ 
+
+00:18:01.600 --> 00:18:03.669 align:start position:0%
+also other robots. And then we also have
+a<00:18:01.760><c> trusted</c><00:18:02.080><c> tester</c><00:18:02.400><c> program.</c><00:18:03.039><c> Many</c><00:18:03.360><c> companies</c>
+
+00:18:03.669 --> 00:18:03.679 align:start position:0%
+a trusted tester program. Many companies
+ 
+
+00:18:03.679 --> 00:18:05.669 align:start position:0%
+a trusted tester program. Many companies
+here<00:18:03.840><c> in</c><00:18:04.000><c> the</c><00:18:04.160><c> EU</c><00:18:04.480><c> are</c><00:18:04.799><c> in</c><00:18:05.039><c> it.</c><00:18:05.360><c> There's</c>
+
+00:18:05.669 --> 00:18:05.679 align:start position:0%
+here in the EU are in it. There's
+ 
+
+00:18:05.679 --> 00:18:07.110 align:start position:0%
+here in the EU are in it. There's
+actually<00:18:05.840><c> a</c><00:18:06.080><c> lot</c><00:18:06.160><c> more</c><00:18:06.400><c> than</c><00:18:06.559><c> what</c><00:18:06.799><c> shows</c>
+
+00:18:07.110 --> 00:18:07.120 align:start position:0%
+actually a lot more than what shows
+ 
+
+00:18:07.120 --> 00:18:08.710 align:start position:0%
+actually a lot more than what shows
+here.<00:18:07.520><c> We've</c><00:18:07.760><c> been</c><00:18:07.840><c> working</c><00:18:08.000><c> with</c><00:18:08.240><c> Enchanted</c>
+
+00:18:08.710 --> 00:18:08.720 align:start position:0%
+here. We've been working with Enchanted
+ 
+
+00:18:08.720 --> 00:18:10.549 align:start position:0%
+here. We've been working with Enchanted
+Tools<00:18:08.960><c> for</c><00:18:09.120><c> a</c><00:18:09.200><c> while.</c><00:18:09.520><c> Generative</c><00:18:09.919><c> Bionics</c><00:18:10.400><c> is</c>
+
+00:18:10.549 --> 00:18:10.559 align:start position:0%
+Tools for a while. Generative Bionics is
+ 
+
+00:18:10.559 --> 00:18:12.070 align:start position:0%
+Tools for a while. Generative Bionics is
+also<00:18:10.720><c> there.</c><00:18:10.960><c> Bubble</c><00:18:11.280><c> Robotics</c><00:18:11.679><c> is</c><00:18:11.919><c> also</c>
+
+00:18:12.070 --> 00:18:12.080 align:start position:0%
+also there. Bubble Robotics is also
+ 
+
+00:18:12.080 --> 00:18:13.909 align:start position:0%
+also there. Bubble Robotics is also
+there.<00:18:12.400><c> There's</c><00:18:12.799><c> quite</c><00:18:12.960><c> a</c><00:18:13.039><c> few</c><00:18:13.200><c> pile</c><00:18:13.520><c> robotics</c>
+
+00:18:13.909 --> 00:18:13.919 align:start position:0%
+there. There's quite a few pile robotics
+ 
+
+00:18:13.919 --> 00:18:16.070 align:start position:0%
+there. There's quite a few pile robotics
+is<00:18:14.160><c> also</c><00:18:14.400><c> there.</c><00:18:15.039><c> Uh</c><00:18:15.280><c> and</c><00:18:15.520><c> then</c><00:18:15.679><c> we</c><00:18:15.840><c> now</c>
+
+00:18:16.070 --> 00:18:16.080 align:start position:0%
+is also there. Uh and then we now
+ 
+
+00:18:16.080 --> 00:18:18.630 align:start position:0%
+is also there. Uh and then we now
+started<00:18:16.400><c> the</c><00:18:16.640><c> EU</c><00:18:16.960><c> accelerator</c><00:18:17.600><c> to</c><00:18:17.840><c> help</c><00:18:18.080><c> bring</c>
+
+00:18:18.630 --> 00:18:18.640 align:start position:0%
+started the EU accelerator to help bring
+ 
+
+00:18:18.640 --> 00:18:21.510 align:start position:0%
+started the EU accelerator to help bring
+many<00:18:18.960><c> different</c><00:18:19.760><c> startups</c><00:18:20.240><c> in</c><00:18:20.400><c> the</c><00:18:20.559><c> EU</c><00:18:21.200><c> into</c>
+
+00:18:21.510 --> 00:18:21.520 align:start position:0%
+many different startups in the EU into
+ 
+
+00:18:21.520 --> 00:18:23.909 align:start position:0%
+many different startups in the EU into
+robotics<00:18:22.320><c> and</c><00:18:22.640><c> get</c><00:18:22.799><c> them</c><00:18:23.039><c> closer</c><00:18:23.440><c> to</c>
+
+00:18:23.909 --> 00:18:23.919 align:start position:0%
+robotics and get them closer to
+ 
+
+00:18:23.919 --> 00:18:25.909 align:start position:0%
+robotics and get them closer to
+understanding<00:18:24.559><c> how</c><00:18:24.880><c> AI</c><00:18:25.280><c> works</c><00:18:25.520><c> and</c><00:18:25.679><c> and</c>
+
+00:18:25.909 --> 00:18:25.919 align:start position:0%
+understanding how AI works and and
+ 
+
+00:18:25.919 --> 00:18:28.950 align:start position:0%
+understanding how AI works and and
+accelerating<00:18:26.559><c> AI</c><00:18:26.960><c> in</c><00:18:27.200><c> their</c><00:18:27.440><c> companies.</c>
+
+00:18:28.950 --> 00:18:28.960 align:start position:0%
+accelerating AI in their companies.
+ 
+
+00:18:28.960 --> 00:18:30.710 align:start position:0%
+accelerating AI in their companies.
+Now<00:18:29.280><c> last</c><00:18:29.679><c> many</c><00:18:30.000><c> people</c><00:18:30.160><c> ask</c><00:18:30.320><c> me</c><00:18:30.480><c> what</c><00:18:30.559><c> the</c>
+
+00:18:30.710 --> 00:18:30.720 align:start position:0%
+Now last many people ask me what the
+ 
+
+00:18:30.720 --> 00:18:32.630 align:start position:0%
+Now last many people ask me what the
+futures<00:18:30.960><c> of</c><00:18:31.120><c> robotics</c><00:18:31.520><c> looks</c><00:18:31.760><c> like.</c><00:18:32.240><c> I'm</c><00:18:32.559><c> sure</c>
+
+00:18:32.630 --> 00:18:32.640 align:start position:0%
+futures of robotics looks like. I'm sure
+ 
+
+00:18:32.640 --> 00:18:34.950 align:start position:0%
+futures of robotics looks like. I'm sure
+we<00:18:32.880><c> all</c><00:18:33.039><c> here</c><00:18:33.280><c> are</c><00:18:33.440><c> dreamers</c><00:18:34.240><c> extreme.</c><00:18:34.640><c> I'm</c>
+
+00:18:34.950 --> 00:18:34.960 align:start position:0%
+we all here are dreamers extreme. I'm
+ 
+
+00:18:34.960 --> 00:18:36.390 align:start position:0%
+we all here are dreamers extreme. I'm
+extremely<00:18:35.280><c> bullish</c><00:18:35.600><c> when</c><00:18:35.760><c> it</c><00:18:35.919><c> comes</c><00:18:36.000><c> to</c><00:18:36.160><c> it.</c>
+
+00:18:36.390 --> 00:18:36.400 align:start position:0%
+extremely bullish when it comes to it.
+ 
+
+00:18:36.400 --> 00:18:38.630 align:start position:0%
+extremely bullish when it comes to it.
+It<00:18:36.720><c> really</c><00:18:36.960><c> depends</c><00:18:37.679><c> how</c><00:18:37.919><c> much</c><00:18:38.080><c> effort</c><00:18:38.400><c> we're</c>
+
+00:18:38.630 --> 00:18:38.640 align:start position:0%
+It really depends how much effort we're
+ 
+
+00:18:38.640 --> 00:18:40.630 align:start position:0%
+It really depends how much effort we're
+putting<00:18:38.880><c> into</c><00:18:39.120><c> really</c><00:18:39.440><c> making</c><00:18:39.760><c> this</c><00:18:40.240><c> valuable</c>
+
+00:18:40.630 --> 00:18:40.640 align:start position:0%
+putting into really making this valuable
+ 
+
+00:18:40.640 --> 00:18:42.150 align:start position:0%
+putting into really making this valuable
+for<00:18:40.880><c> humanity</c><00:18:41.520><c> because</c><00:18:41.760><c> that's</c><00:18:41.919><c> what's</c>
+
+00:18:42.150 --> 00:18:42.160 align:start position:0%
+for humanity because that's what's
+ 
+
+00:18:42.160 --> 00:18:43.430 align:start position:0%
+for humanity because that's what's
+happen.<00:18:42.480><c> That's</c><00:18:42.640><c> what</c><00:18:42.799><c> matters</c><00:18:43.039><c> at</c><00:18:43.200><c> the</c><00:18:43.360><c> end</c>
+
+00:18:43.430 --> 00:18:43.440 align:start position:0%
+happen. That's what matters at the end
+ 
+
+00:18:43.440 --> 00:18:45.510 align:start position:0%
+happen. That's what matters at the end
+of<00:18:43.520><c> the</c><00:18:43.679><c> day.</c><00:18:44.320><c> And</c><00:18:44.559><c> AI</c><00:18:44.960><c> is</c><00:18:45.200><c> going</c><00:18:45.360><c> to</c>
+
+00:18:45.510 --> 00:18:45.520 align:start position:0%
+of the day. And AI is going to
+ 
+
+00:18:45.520 --> 00:18:46.870 align:start position:0%
+of the day. And AI is going to
+accelerate<00:18:46.000><c> this.</c><00:18:46.240><c> It's</c><00:18:46.480><c> going</c><00:18:46.559><c> to</c><00:18:46.640><c> make</c>
+
+00:18:46.870 --> 00:18:46.880 align:start position:0%
+accelerate this. It's going to make
+ 
+
+00:18:46.880 --> 00:18:48.710 align:start position:0%
+accelerate this. It's going to make
+robots<00:18:47.200><c> more</c><00:18:47.360><c> intuitive,</c><00:18:48.000><c> more</c><00:18:48.240><c> general,</c>
+
+00:18:48.710 --> 00:18:48.720 align:start position:0%
+robots more intuitive, more general,
+ 
+
+00:18:48.720 --> 00:18:51.669 align:start position:0%
+robots more intuitive, more general,
+more<00:18:48.880><c> multi-purpose,</c><00:18:50.000><c> safer.</c><00:18:51.039><c> Of</c><00:18:51.280><c> course,</c><00:18:51.440><c> I</c>
+
+00:18:51.669 --> 00:18:51.679 align:start position:0%
+more multi-purpose, safer. Of course, I
+ 
+
+00:18:51.679 --> 00:18:53.350 align:start position:0%
+more multi-purpose, safer. Of course, I
+also<00:18:51.919><c> believe</c><00:18:52.160><c> the</c><00:18:52.400><c> best</c><00:18:52.559><c> way</c><00:18:52.640><c> to</c><00:18:52.799><c> predict</c><00:18:53.120><c> the</c>
+
+00:18:53.350 --> 00:18:53.360 align:start position:0%
+also believe the best way to predict the
+ 
+
+00:18:53.360 --> 00:18:55.190 align:start position:0%
+also believe the best way to predict the
+future<00:18:53.600><c> is</c><00:18:53.760><c> to</c><00:18:54.000><c> invent</c><00:18:54.320><c> it.</c><00:18:54.880><c> So,</c><00:18:55.039><c> I'm</c>
+
+00:18:55.190 --> 00:18:55.200 align:start position:0%
+future is to invent it. So, I'm
+ 
+
+00:18:55.200 --> 00:18:56.630 align:start position:0%
+future is to invent it. So, I'm
+incredibly<00:18:55.679><c> excited</c><00:18:55.919><c> to</c><00:18:56.160><c> be</c><00:18:56.320><c> working</c><00:18:56.480><c> in</c>
+
+00:18:56.630 --> 00:18:56.640 align:start position:0%
+incredibly excited to be working in
+ 
+
+00:18:56.640 --> 00:18:58.150 align:start position:0%
+incredibly excited to be working in
+robotics<00:18:57.039><c> today.</c><00:18:57.360><c> This</c><00:18:57.440><c> is</c><00:18:57.520><c> the</c><00:18:57.679><c> best</c><00:18:57.840><c> time</c><00:18:57.919><c> to</c>
+
+00:18:58.150 --> 00:18:58.160 align:start position:0%
+robotics today. This is the best time to
+ 
+
+00:18:58.160 --> 00:18:59.909 align:start position:0%
+robotics today. This is the best time to
+be<00:18:58.240><c> working</c><00:18:58.400><c> in</c><00:18:58.640><c> robotics</c><00:18:59.200><c> and</c><00:18:59.440><c> very</c><00:18:59.679><c> excited</c>
+
+00:18:59.909 --> 00:18:59.919 align:start position:0%
+be working in robotics and very excited
+ 
+
+00:18:59.919 --> 00:19:01.750 align:start position:0%
+be working in robotics and very excited
+to<00:19:00.080><c> be</c><00:19:00.240><c> collaborating</c><00:19:00.640><c> with</c><00:19:00.799><c> all</c><00:19:01.039><c> of</c><00:19:01.120><c> you</c><00:19:01.520><c> to</c>
+
+00:19:01.750 --> 00:19:01.760 align:start position:0%
+to be collaborating with all of you to
+ 
+
+00:19:01.760 --> 00:19:03.590 align:start position:0%
+to be collaborating with all of you to
+make<00:19:01.919><c> this</c><00:19:02.080><c> future</c><00:19:02.480><c> possible.</c><00:19:03.280><c> Thank</c><00:19:03.440><c> you</c>
+
+00:19:03.590 --> 00:19:03.600 align:start position:0%
+make this future possible. Thank you
+ 
+
+00:19:03.600 --> 00:19:06.840 align:start position:0%
+make this future possible. Thank you
+very<00:19:03.840><c> much.</c>
+

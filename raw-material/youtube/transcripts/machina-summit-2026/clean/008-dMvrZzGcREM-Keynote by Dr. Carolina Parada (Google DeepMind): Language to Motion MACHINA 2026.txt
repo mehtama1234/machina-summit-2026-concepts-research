@@ -1,0 +1,500 @@
+[music]
+Hi everyone. It's great to be here
+connecting with everyone in Europe and
+the entire robotics community. I'm
+Karolina, an elite robotics at Google
+Deep Mind. I'm going to be talking today
+a bit about how Gemini can power the
+next generation of helpful robots.
+I think we all agree in this room that
+robots today are doing incredibly useful
+things. They're helping in manufacturing
+lines. They're in logistics, in
+automotive. They're navigating our moon,
+and they're even doing really cool
+acrobatics. However, these robots have
+been programmed to do these particular
+task sequences. They make a lot of
+assumptions about everything in their
+environment, every object that they
+touch, or they might be remotely
+operated by humans.
+This makes robots today incredibly
+bespoke still and difficult to deploy,
+often taking many months in order to
+deploy a new application or a new or a
+new task only to have to do it all over
+again when something changes about the
+task. At Google Dem, we've always
+believed that AI will transform robotics
+in so we've been at the forefront of
+building foundation models in order to
+build and enable truly intelligent
+general purpose robots.
+What we mean by this is robots that can
+go on any environment that can operate
+across many different verticals, do a
+broad range of tasks, and handle objects
+they have never seen before.
+We also mean robots that are intuitive.
+So, anyone in their environment should
+be able to task the robot, adapt the
+robot, improve the robot.
+This also means robots that are safer
+because they understand what they're
+trying to do. They understand the
+context in which they're operating. If
+anything changes, they can adapt because
+they understand what has changed. And
+these are robots that are drop in that
+they come with a broad range of skills
+that can adapt to objects and
+environments. And more importantly, they
+don't need to know everything from the
+start because they can learn and improve
+over time. This is what will transform
+robotics from one application at a time
+to the ultimate tool for humans in the
+physical world. And this is what we care
+about at Google Deep Mind. Our mission
+at DeepMind is to build AI responsibly
+to benefit humanity. And in the robotics
+team, our goal is to bring this mission
+from the digital screen into the
+physical world in a way that is helpful,
+that is safe, and that is empowering.
+In fact, our goal at Google Demine is to
+nothing less but to solve AGI in the
+physical world. What does that mean
+anyway? To solve AGI in the physical
+world. Well, it means that we want to
+build an AI that can in infuse a robot
+with human level intelligence and
+physical abilities so that robots can
+understand the world and reason about it
+the same way you and I can. Not only
+that, but also take action to the
+precision of a human expert. It also
+means building an AI that can go into
+any embodiment. We believe in a world
+where there will be many different robot
+types, each one of them evolving over
+time and becoming a different robot. And
+you want this AI to basically adapt and
+maximize the potential through
+intelligent control. And lastly, you
+want an AI that can be deployed in the
+real world. So it needs to handle all
+the diversity and the noise and the
+unstructuress and the everchanging
+environments that live in the real world
+in order to bring real tangible impact.
+This is of course a very ambitious goal
+but one that we've been after since the
+inception of the team and over the last
+few years we've introduced significant
+advancements that have become table
+stakes in the field of general purpose
+robotics. For example, in 2022 we
+introduced LLMs and VLNs into robots.
+This was the first time that robots were
+able to really understand semantically
+their environment, understand objects
+and plan using multimodal input. We've
+also introduced transformers into
+robotics. This usher a new area of
+datadriven robotics.
+We've also introduced in this set of
+group set of work the concept of a VA or
+a vision language action model that
+enables robots to understand natural
+language, understand their environment
+and do more general actions.
+And we've also shown what's possible
+when it comes to um actually let me go
+to the next one. We've also shown what's
+possible when it comes to learning
+highly dextrous behaviors like in the
+tying shoelaces example, something we
+didn't think we would see in our
+careers, as well as introducing
+reinforcement learning in simulation for
+whole body control. And we shown this on
+quadripets and little humanoids playing
+soccer and on ping-pong robots. And this
+is now the default for whole body
+control in the entire industry.
+Last year, building on this, we
+introduced Gemini robotics. This is our
+most advanced visual language action
+model to power the next generation of
+helpful robots. Gemini robotics, as you
+can tell, it draws from Gemini's
+multimodal world understanding and
+brings it to the physical world by
+adding actions as a new modality in
+Gemini. So the same way that Gemini can
+produce text and code and images, it can
+now produce robot action sequences which
+are essentially trajectories that move
+the robot in a way that is general, that
+is interactive, and that is dextrous.
+The reason robots are not all around us
+here today is because they cannot handle
+generalization yet. If you change the
+robot complete environment, you change
+the task that it's trying to accomplish,
+you change the objects that it's
+interacting with, typically it falls
+apart.
+With Gemini robotics, the idea is that
+they can use Gemini's world knowledge in
+order to tackle a completely unseen
+situation. A good example that I like to
+to showcase this is this example coming
+up right now on the right, the
+basketball hoop. So, this is a toy that
+our vision team, our video team brought
+that day. So the robot had never seen
+this toy. He's never seen anything
+related to basketball. And our team
+asked it to slam dunk the basketball
+even though he's never seen that object.
+He's never seen that kind of task. It
+took a quarter of a second to decide
+that meant put that small ball into that
+basket. That is the kind of
+generalization that we care about.
+We also introduced with Gemini Robotics
+1.5 agents into robotics. The reality is
+most tasks in the real world are complex
+and they take multiple steps to
+complete.
+In order to do this, we need to move
+beyond single instruction following
+which we can now do in a very general
+way into agentic systems. This means
+that it needs to be able to understand
+what the human is trying to do and then
+translate it into a sequence of steps
+using whatever tools are available to it
+including VAS. Let me just show you a
+quick example of what this looks like in
+a I'm not sure it's going to be audible,
+but we'll see.
+Hi, Aloha. Can you use my location and
+sort the [music] objects into the
+correct compost, recycling, and trash
+bins?
+>> To perform the sorting task based
+[music] on San Francisco waste
+guidelines, I will use the green bin for
+compost, the blue bin for recycling, and
+the [music] black bin for trash.
+>> Here we have on ouric layers [music]
+both control the robot and have access
+to the internet. To sort the trash, it
+had to look up the rules and look at
+[music] the objects on the table, think
+about where each object should go,
+matching the rules that it had looked
+up.
+Can you guys hear me now? Okay, cool.
+So, what you're seeing there is
+essentially an agentic system that is
+powered by two key AI models. A high
+level reasoning layer called Gemini
+Robotics ER. That's our agent that
+understands the environment, understands
+the natural language and it can speak
+back to the human and reason about the
+sequence of steps it takes along with
+the VA. It can also use tools as you saw
+earlier. It was pulling up from search
+what are the rules to do that that task
+on trash sorting. Let's talk a bit about
+this model more. So this is a physical
+agent with memory. On the left you're
+seeing someone asking the robot to reset
+the scene after making a bunch of
+changes in that scene. So it has to
+remember what the scene look like. It
+has to understand what it means to reset
+the scene and then carry out the
+sequence of steps in order to achieve
+it. Many people also use this model
+simply as a perception layer or a
+reasoning layer. So you can use it for
+2D bounding box detection, 3D bounding
+box pointing. You can ask to match all
+the socks on that image on the right.
+We've also in last month introduced
+Gemini Robotics ER 1.6. This is our
+safest and most advanced model for
+robotics to date. In this model, we're
+advancing three core capabilities.
+Pointing, enhanced success detection, as
+well as a new capability called
+instrument reading.
+Pointing is a pretty basic capability
+for spatial understanding. You can use
+it for identify all the objects in the
+scene, count the hammers in the scene,
+but you can do more complex queries like
+find me all the objects that fit in a
+backpack. This what you can see here is
+the evolution of the model. only in the
+last nine months or so. And you could
+see that the model is now a lot more
+confident about what's in the image
+versus what's not. It's also more
+confident exactly how many objects are
+in that image. This is extremely useful
+for cluttered environments in examples
+like logistics where your your task is
+to pick up just the top thing that is on
+that pile or the top three things.
+Another capability I'm incredibly
+excited about is instrument rating. This
+is a capability we discover with our
+partners at Boston Dynamics, the spot
+team who does inspection in all of the
+the industrial facilities and they want
+to read all the instruments. This model
+has advanced instrument reading thanks
+to something called agentic vision. What
+that means is that the model can decide
+if it wants to read this gauge, it can
+take intermediate steps. It can decide
+to zoom into the image to get a better
+reading of that gauge. It could then
+decide to use pointing and maybe code
+execution in order to do some math and
+figure out the exact value of each
+interval in that gauge. And then once it
+has a very accurate reading, it can use
+his world knowledge or call another tool
+to decide whether that gauge is within
+normal reading. This is what we call
+agentic vision. And in the last again
+three to six months, it's dramatically
+improved. We're now about 93%
+performance on this test set. And these
+are real images. You can see they're
+very diverse. They're noisy. They're
+small. This is from real world examples.
+And then in combination with Boston
+Dynamics, we deploy this on their
+robots. So now all of their customers
+are able to use this. So we're basically
+integrating our Gemini Robotics ER
+reasoning layer with Boston Dynamics
+autonomy system in order to enable it to
+do understand the environment,
+understand every object, read every
+instrument, and then interact with the
+environment as they normally would. And
+now Spot can also use Gemini
+capabilities. It understands natural
+language. It can read that board. It can
+do the full sequence of tasks and
+orchestrate them. And I guess apparently
+you can take Kod for a walk as well.
+Our goal is beyond the quadriped robots
+to also integrate with Boston Dynamics.
+Yeah, I'm not sure who's walking home
+there. Our goal is to also integrate
+with Boston Dynamics uh humanoid robot
+Atlas in order to bring Atlas reasoning
+and action capabilities and really
+fulfill that promise of true general
+purpose humanoids.
+Let's talk a little bit about the VA.
+This is our action model. As I mentioned
+earlier, it takes visual input,
+typically all the cameras available to
+the robot. It takes natural language
+input as a prompt. It could also
+alternatively use propriception or
+previous actions. And the output is
+directly the robot control targets. This
+can be specified different for different
+robots. Sometimes they're the endeector
+positions. Sometimes they're the full
+joints of the robot. And then that
+typically goes to the motor controllers
+who translate that into motion. With
+that model, we can control all of these
+different robots. So this is the Frana
+robot, the Aloha robot. We also can
+control the electronic humanoid robot.
+And in all these cases, it's doing a
+broad range of tasks. It's responding to
+natural language requests. So, it's
+interactive and it's dextrous.
+In the case of a humanoid, since I
+mentioned uh the Apollo robot, it looks
+a little bit more like this, the
+picture. So, if you go and ask a robot,
+hey, could you please put my groceries
+away? What it will do is it will first
+send that to the ER model, which is the
+agent. It understands the environment.
+it understands the input and then
+translate that into the first step to
+take. Then say that it says okay the
+first thing is to take the baguette out
+of the bag. It will then go and send the
+text string take the baguette out of the
+bag propreception and perception to the
+model and the model will output the
+trajectories to do this right and take
+it out and then underneath there's a
+whole body controller is an RL policy
+that is of course tracking that VA and
+ensuring that the robot stays stable.
+The other thing is that these models
+also have thinking. What that means is
+that the model is generating text and
+action tokens together and that enables
+it to reason about what it's doing. So
+in this video I have no agent. It's just
+the VA. Let's see what it plays.
+Previous Gemini Robotics version has
+been tested over and over and over again
+to put this banana into the bowl. This
+is a very simple task. I'm going to
+switch the model here and make the task
+slightly more challenging.
+So this is Gemini Robotics [music]
+1.5. Aloha. Could you sort these fruits
+into color matching plates? Sure, I can
+certainly help you do that. Put the
+green fruit into the green plate. We
+enable it to think. It can perceive the
+environment, different colors of the
+object, different colors of the plate.
+It will think step [music] by step and
+then finish this multi-step task. Put
+the banana into the yellow plate
+>> at that. We have a lot more examples of
+that if you go into our website. The
+last piece is that these models can work
+across embodiment as I mentioned. And
+not only that, they can learn across
+embodiment. So what I have here is the
+same set of weights working on these
+three different robots. And on the top
+you can see how the robots get better.
+This is the Apollo robot in blue after
+learning from Aloha. And this was
+because we had very little data at the
+time on the Apollo robot and you could
+just learn from the stuff that Aloha had
+already learned.
+All right, I'm going to go very quickly
+since I have a few minutes left. What is
+at the frontier? Certainly one of the
+things we're working on is how to scale
+learning. Everything that you're done
+that you've seen today is essentially
+learned through robotics teleoperation.
+That means a human had to put on goggles
+and gloves and was able to like move the
+robot to teach it how to do a task. That
+of course only scales with the number of
+robots and the number of hours that you
+have in the day. We've also like to
+learn of course from videos the same way
+humans do. We learned a lot from
+watching others and then we practice a
+little bit. That's the ultimate goal.
+We're always working on that. And then
+we also have areas in the middle like
+you can learn from simulation better.
+You could dramatically increase the
+number of environments that you have.
+You can learn from world models. I'll
+just mention just a couple of these
+examples. So today we we've have a long
+history working in simulation with
+Mojoko. But today we can now enable
+completely new task families and
+actually on board a completely new robot
+in simulation first for manipulation
+which was not the case before. And this
+helps us accelerate generalization.
+We've also have world models. Now, what
+I have here is an image from Aloha on
+the left and another from Aloha on the
+right. One of them is real, one of them
+is generated. Anybody cares to guess
+which one is generated? The left one.
+Anybody? Nobody. Right. One person. All
+right. So, they were right. The right
+one is generated. And more importantly,
+it's just getting extremely hard to tell
+which one it is. So in fact in our team
+we always put a border around videos
+that are generated because it's not hard
+hard to tell. So we can use this of
+course for data generation for all kinds
+of different research threats around
+world models and we also use it very
+much on evaluation for safety policies.
+So, as you can imagine, we take world
+models, make them look like it's the
+input is coming from a real robot, then
+condition it on actions, and actually
+roll out policies in that environment.
+And then you can use it to do all kinds
+of different scene evaluations. You can
+use it to put hard situations in that
+you don't want to do in real like put
+your hand in there and see what happens.
+Put a baby in there and see what happens
+and it's all good. This is excellent for
+safety evaluation.
+The last piece is that obviously models
+alone are not going to change the world.
+You need to combine them with real
+robots. So we're extremely grateful for
+our partnerships with Boston Dynamics,
+Agile Robot, and Uptronic. And we're
+working together to advance the
+state-of-the-art on general purpose
+robots for humanoids in particular, but
+also other robots. And then we also have
+a trusted tester program. Many companies
+here in the EU are in it. There's
+actually a lot more than what shows
+here. We've been working with Enchanted
+Tools for a while. Generative Bionics is
+also there. Bubble Robotics is also
+there. There's quite a few pile robotics
+is also there. Uh and then we now
+started the EU accelerator to help bring
+many different startups in the EU into
+robotics and get them closer to
+understanding how AI works and and
+accelerating AI in their companies.
+Now last many people ask me what the
+futures of robotics looks like. I'm sure
+we all here are dreamers extreme. I'm
+extremely bullish when it comes to it.
+It really depends how much effort we're
+putting into really making this valuable
+for humanity because that's what's
+happen. That's what matters at the end
+of the day. And AI is going to
+accelerate this. It's going to make
+robots more intuitive, more general,
+more multi-purpose, safer. Of course, I
+also believe the best way to predict the
+future is to invent it. So, I'm
+incredibly excited to be working in
+robotics today. This is the best time to
+be working in robotics and very excited
+to be collaborating with all of you to
+make this future possible. Thank you
+very much.

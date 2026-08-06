@@ -1,0 +1,461 @@
+[music]
+>> So, I'm You. I'm from Gelbort.
+We are a
+leading generalist robot company from
+China. And Gelbort, it means
+galaxy robot. Actually, it means the
+vision of our founder that we want to
+make a robot that has the
+generalizability in the whole galaxy, in
+the whole universe.
+So, today I'm going to share with you
+how to we build a generalist robot and
+not only in the technology side, but
+also have been successfully deploy it
+into multiple scenarios.
+Okay. So, this slide shows architecture
+what we are doing. So, basically in the
+core size, we have released a foundation
+model, a single foundation model that
+combines the cerebrum and cerebellum and
+also the whole body, whole hand control
+system into one single foundation model.
+We call it Astro brain.
+And it is driven by the largest embodied
+AI data sets. We call Astro data. And
+the reason why we have been able to
+drive the successful foundation model is
+because everybody know that the crucial
+part for embodied AI is the data. So,
+over the past few years, our company, we
+have been striving and also create the
+very unique paradigm. We leverage
+different kind of data to, you know,
+finally to embed and train into this
+foundation model. And also on the
+device-wise, we focus a lot on the
+wheelbase because uh
+we believe that truly in the working
+capability, providing the value into the
+like manufacturing in the
+retailing is the key here into the usage
+of the robot.
+But we also have the bipedal version of
+robot, but we still focus more on the
+wheel base. And now in the past years,
+we have deployed thousands of
+our robots in
+several key scenarios including
+manufacturing, including retailing,
+including logistics and warehouse, and
+also health care.
+So Keble is
+just in one word, we are one of the very
+few company have the full stack
+technology. Just compare our company to
+a like a vehicle company, we see the
+robot as a device as a device and the
+foundation model as an engine. The most
+difficult part is the data like I
+mentioned. It's also the energy part. So
+like I mentioned, we have accumulate 20
+billion of embodied AI data, which is by
+far the largest in this world. The
+reason why it's so difficult is because
+we know that for
+a large language model, we can get free
+amount of like text, picture or video
+online. But for embodied AI, we actually
+need a 3D space data.
+We need a trajectory data for the
+the robot arm to interact with different
+items. And this kind of data can be
+extremely
+expensive and also very hard to get. And
+we release a very special paradigm of
+sim to real.
+So
+besides the real scenario data, besides
+the human behavior data, we also have a
+very special synthetic data to drive the
+flywheel of the embodied AI data set to
+to run.
+And this is from the this year's GTC.
+The left-hand side actually shows
+a video that was
+shown in the keynote speech by Mr.
+Jensen Huang. And Nvidia actually
+developed based on our platform to
+develop a very interesting use case in
+the pharmaceutical area and they develop
+in in their is the same first in the
+simulator first and then deploy it on
+our robot platform and show the live
+demo at GTC. So this is a very good
+example that besides the general skills
+we develop and we train on our robot
+platform we also open our platform and
+global SDK to the
+globally and for especially for the
+vertical use case.
+And a little bit recap for the road map
+of the artificial intelligence. Remember
+how we come here to today.
+So first of all we see the AlphaGo
+moment when artificial intelligence can
+play the chess
+towards human being and then comes the
+GPT-2 moment actually propose a
+universal solution to all language tasks
+and scale up it and then the GPT chat
+GPT moment that accomplish all language
+and finally make it like a human being
+can do like a reasoning and talking
+similar to a human being level. And now
+it becomes a more faster usage in our
+daily life.
+So when we look into the embodied AI's
+road map we see the similar road map.
+We also see like a a more vertical use
+case.
+Just like a AlphaGo moment and then we
+are actually heading for a scaling up of
+the data in embodied AI which drive to
+the GPT-2 moment. And future we are also
+looking forward to a robot that can have
+the reasoning and working capability
+similar to a human being level.
+That's what we call the GPT chat GPT
+moment for embodied AI.
+So this is what we call a AlphaGo moment
+for humanoids.
+This is the world's first humanoid that
+can place tennis ball rally towards a
+human being. This is a work that we
+released this March. And the technology
+is already updated after that. But it's
+still under confidential development.
+So, I'm I'm showing you here actually
+the initial version. So, on this video
+you can see the work is 100% autonomous.
+The humanoid driven by our foundation
+model can play the tennis ball rally at
+least eight to 10 round of rally towards
+a human being. It need to think well. It
+need to see where the tennis ball is
+coming. Well, it's It need to think how
+it can run to the right direction and
+fight back the tennis ball.
+And also, you probably know anyone play
+tennis ball, you also know that if you
+don't catch the tennis ball in the sweet
+spot in the pad, you are going to not
+fight back back good enough, right? So,
+this are all reasoned by the humanoid by
+our foundation model in real time. This
+combines a low level of
+whole body control and also high level
+of reasoning. So, this is a very good
+example shows our work in a single
+foundation model combine the cerebrum
+and also cerebellum together.
+And this work has been become a viral on
+the internet. Even Elon Musk and
+Andrew Khang and
+Andrej Karpathy claimed that this is
+insane. This must be made by AI. But the
+reality is that actually we are showing
+it on site later this year.
+And we want to make sure that everything
+is fully upgraded until we show it.
+Okay, a little bit more on how we do it.
+So, basically this work are being trend
+based on the motion capture data on
+human being.
+On human being, how human being play the
+tennis ball. So, we trend that, we put
+this later into our simulator, and then
+our humanoid try to learn it basically
+from two parts. One is the basic skill,
+how does human being play the tennis
+ball? Like what kind of movement, what
+kind of tactic to play the tennis ball?
+And the other thing is that we run the
+data to trend the humanoid to know how
+to move this naturally, lively. So, what
+we see is from the the video just
+what I show is that the humanoid not
+only learn how to play the tennis ball
+back bucket, also the whole movement is
+natural like a human being.
+And another work we have been doing on
+the
+actually on the cerebrum is that we
+released this world first the dexterous
+hand neurodynamic model.
+Before that, we all know that dexterous
+hand is most difficult work because
+there is no way to teleoperate it.
+So, it's called the pearl on the crown
+of humanoid.
+And driven by our foundation model, even
+open source hand like leap can handle
+different shape, like complicated item,
+and freely, and rotate it on the hand in
+different direction.
+And it can also handle different tools
+on different items.
+So, you probably know that some
+dexterous hand can do some precision
+work, but
+as far as we know, all of the
+traditional way is based on the
+pre-written trajectory. So, that means
+that if the hand can use a screwdriver,
+if we change you another screwdriver,
+the original way, the traditional will
+not work.
+So, the generalizability in dexterous is
+extremely hard. And we have proved that
+with our algorithm that dexterous can
+handle different kind of item. And in
+this in this year's Spring Festival, in
+this year
+February,
+we use the dexterous hand to swing two
+chestnuts in hand.
+The center of the gravity of the two
+chestnuts are constantly changing.
+There's no way to teleoperate it. And
+our
+the dexterous hand driven by our
+algorithm can rotate it and adapt the
+different the gravity the center and
+rotate it freely.
+So, this is our architecture. So,
+basically, you see that we are using the
+multimodal signal and global states and
+instructions to, you know, uh
+basically, run like a architecture like
+a human being's brain.
+So, input it into the cerebellum and
+also to the cerebrum and connected with
+the pons.
+So, this whole architecture we learn
+from human's brain. We borrow this idea
+into our foundation model.
+And this is another work that we
+released in this uh actually in this
+May, very recently. This is what we call
+a foundation model for the whole body
+control.
+And we compared it with the NVIDIA Sonic
+like from the
+uh latency and smooth level, you can see
+that apparently that our work has been
+achieving a higher performance. So, this
+is also because this work have actually
+leveraged the biggest human uh behavior
+data. We used 2 billion frames of human
+behavior data to train our model. And
+also,
+uh one more thing here, we didn't show
+it on this video. Actually, previously,
+for the humanoid to perform this kind of
+work, it needs to, you know, two things.
+One is that in the pre-trained data set,
+it needs to have this kind of movement
+before. And actually, in our model, we
+prove that we don't need to have the
+exact behavior trend. We can actually
+have the
+new behavior performed with zero shot.
+It proves the generalizability. And the
+second, the based on the original whole
+body control algorithm, we will have the
+limit or constraint on those movement
+that is hard for the humanoid to
+retain balance. So, for example, for a
+very hard movement like bouncing to the
+ground,
+the humanoid would do the It would be
+limited to, you know, reflect the exact
+movement, but we compare that
+with the Mediasound We can do a more
+like extreme movement. Even the
+humanoid sense that it's going to be
+forced through ground, it can still
+remain balanced.
+And this is another work. This is our
+latest work on where action model.
+So, previously, we know that VOA model
+is more prevail in this
+like foundation model in in body AI.
+And we also release our VOA model like 2
+years ago. Also, proves to have the
+highest
+success rate, 98% of success rate. And
+we actually combine the advantage and
+our experience in VOA model into the
+the advantage of forecast of where
+model, and we release the world first
+where action model last March. And this
+year, we upgraded
+to a like more long horizon and
+multi-task ability, and we call it the
+Astro brain where action model 0.5.
+And driven that by this model, you can
+see that
+uh our robots can handle long horizon
+work like cooking in the kitchen,
+handling steak, and even like add some
+flavor to the steak.
+And recently, we are we show a video on
+the website that our robot can cook the
+breakfast and pouring some juice to the
+glass. Even the people are try to, you
+know, interrupt with the movement, and
+it can all close loop the task.
+And this work can also
+work on different robot device. We have
+proved the cross embodiment not only on
+our long arm global G1, also on the
+short arm version, and also on the
+Unitree G1.
+And this is also a work that has
+leveraged a very small and light
+database. Actually, we only have a 1.6
+billion parameter. So, that means that
+it can be easily deployed on the edge
+side edge computing. And
+going forward, we are going to enlarge
+the data. So, that's what we say that
+when we find a way to scale up the data,
+there will be a better approach to reach
+the chat GPT moment in embodied AI. And
+for word action model, we actually also
+have proved another significant break
+break through in this area. So,
+previously in VLA, we leverage expert
+behavior, which is a high-quality data.
+In this work, we leverage even
+low-quality data,
+unlabeled data. So, we leverage all of
+them. For high-quality data, we use the
+data to do the
+the policy manipulation and in war and
+forward and also video jam. And for
+those unlabeled data, we use it to
+forecast for the video jam. So, we have
+proved we are able to use the
+different structure, different quality
+of data to the best extent.
+And this is also a very good important
+finding that if we are able to use the
+low quality data, we open the gate for
+the future for embodied AI to large
+leverage a vast amount of data because
+the the way the barrier to find the data
+for embodied AI is lowered.
+So, this is also a very important
+insight that we are approaching the chat
+GPT moment of embodied AI.
+So, this is a data hybrid. We use the
+vast amount of information like internet
+data, like human behavior data from the
+internet, and also the human motion
+capture data. And we also have synthetic
+data. That is the unique technology from
+our company. We have closed the gap
+between the seam and the real world. And
+we also have the real world teleoperated
+data. We have built a teleoperated
+training farm, data farm in multiple
+cities, and that is the high quality
+data that we mentioned. And also, we
+deployed over thousands of robots
+already in real world, and this data
+kept on feedback and fine-tuning our
+foundation model.
+And this is a short list of the partners
+we have found the cooperation. So, we
+have found the cooperation with the
+leading manufacturers including Bosch
+Group, including Siemens, and including
+CATL, the leading battery maker, and
+also Mercedes-Benz, Hyundai Motors, and
+the leading vehicle makers in China.
+And this is a a very interesting video
+that
+from the Fox News. Their broadcaster
+Brett visited
+our company when he's accompanying the
+uh, visit of a Donald Trump to Beijing
+and he literally enter this convenience
+store, Family Mart. It's a real
+convenience store and he see a robot
+working there. That is our robot. And
+there's no voice of this video.
+Actually, Brad was talking to the robot,
+"Hey, can I order a sausage, please?"
+And you see our robot answer him, "Okay,
+kaoucha 8.8 yuan." In Chinese, very
+funny. And then the robot going to, you
+know, to the
+oven and handle a sausage to Brad
+immediately. Brad got so surprised. Wow.
+This are done in 1 minute and the robot
+can even understand and finish the task
+just by language communication.
+You see?
+Okay. So, another thing here. So, we
+talked more about the foundation model,
+about the AI technology, but for a
+humanoid to work in real scenario, it
+needs also to be sustainable on the
+hardware-wise. And our team, although we
+are very young company, our team has
+been working together for over a decade.
+And this is show the smart pharmacy.
+Actually, we have built over 100 smart
+pharmacy in China over 33 cities and the
+first one was opened at the end of 2024.
+And that robot working in that smart
+pharmacy has non-stop continuously work
+7 days, 24 hours for 18 months.
+So, this has already proved the
+sustainability of our work, of our
+robot. So, given the time limit, I will
+just the very quickly
+flip the This is a Gable store. We have
+opened 170 Gable store. Please come to
+China, enjoy it. That is the convenience
+store operated purely by humanoid and we
+have opened the
+40 cities already.
+And this is another Yeah.
+Another product, very important, Gelper
+S1. This is also the world's first
+humanoid with a payload of over 50 kg.
+And this robot has been deployed in
+Siemens factory.
+Also in CATL factory. They have a really
+strict bar for safety because they are
+making battery, which is very expensive
+and also can be dangerous to drop into
+the ground. So they require 100% success
+rate.
+And we are the only robot that working
+at CATL factory autonomously. And this
+is a massive deployed in Great Wall
+Motors with our Gelper G1.
+And this is with a Mercedes-Benz in
+their Beijing Shunyi factory.
+And this is for Hyundai Motors for the
+spare parts sorting.
+So given the time limit, I'll just uh
+very quickly flip to the end. So there
+is a contact on this page. If you are
+interested in our robots, please contact
+with me. Yeah. Thank you for for your
+time and thank you for

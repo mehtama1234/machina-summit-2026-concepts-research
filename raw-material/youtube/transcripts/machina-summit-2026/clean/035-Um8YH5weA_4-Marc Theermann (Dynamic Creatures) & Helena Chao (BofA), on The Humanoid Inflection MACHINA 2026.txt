@@ -1,0 +1,424 @@
+[music]
+Good afternoon everyone.
+Um Helena Chow, managing director, head
+of venture capital and crossover
+coverage at Bank of America. It's great
+to be here with my dear friend Mark
+Tierman, CEO and and founder of Dynamic
+Creatures. So Mark, you've seen humanoid
+robotics go from a curiosity or an idea
+to a projected $5 trillion market. And
+at Boston Dynamics, you watched the same
+scurve just earlier and steeper. So what
+did building a commercial organization
+from zero um teach you about the gap
+between, you know, this works in a lab
+um and someone will actually paid for
+this?
+>> Yeah. So, uh, it's great to see you all.
+Thanks for coming. I think the the big
+learning at Boston Dynamics was, uh,
+that Boston Dynamics always launches
+robots very early. Um, and sometimes
+maybe a little bit too early, but the
+reason that Boston Dynamics does this is
+because we think what you need to learn,
+uh, you can only learn in a real world
+and you can't learn it in a lab. And so,
+um, you know, you launch robots early,
+you get out there. And what's
+interesting about legged robotics in
+particular is that the excitement at the
+executive level is of course very
+strong. So it's actually fairly easy to
+sell a robot. It's very very difficult
+to sell fleets of robots.
+Um and so most people who look at the
+market projections and you know they see
+dollars but you probably look at it and
+you see sales teams, go to market
+organizations.
+So what does a company need to have
+built by 2030 to be credible um in the
+robotic space and how many of those
+components did you have to grow from
+scratch at Boston Dynamics? Yeah. So
+when I joined Boston Dynamics about six
+years ago, um it was a research
+institute and so we we had to build the
+entire go to market muscle from scratch
+and um you know there's there's obvious
+things like the sales team, a marketing
+team but I think what we underestimated
+dramatically was what it takes to deploy
+these robots in the real world and how
+large of a team you need because we
+noticed early on that when we show up
+with a robot, for example, Spot, which
+you guys have seen outside, when you
+show up with a with a Spot robot at a
+logistics company or at a manufacturing
+company, if there's nobody there to
+catch the ball, um it's very hard and
+the implementation will fail. And so in
+the initial years, we tried to use
+systems integrators and third party
+companies that would help us pull these
+robots into these companies. Uh but the
+systems integrators six years ago
+weren't ready for this. Uh nobody had
+done uh legged robot deployments and so
+we built an integration team uh from
+scratch uh under Spencer Brower which
+has become one of the larger teams at
+Boston Dynamics because we realized that
+you really need to hold people's hands
+uh and and pull these uh pull these
+robots in. And then we noticed okay now
+the robots are deployed. Okay, that
+worked. Uh then we quickly realized okay
+um what happens if they break? Uh surely
+the host company isn't ready to repair
+these robots. So you need to build a
+global repair team
+uh in order to prop up the reliability
+of of these early uh early deployments.
+Uh so we built out a service and support
+team. Um and then the last team that we
+built out we realized okay if some
+somebody needs to own the relationship
+with the customer. So the final team
+that we built last year was a customer
+success team. So somebody that just owns
+the relationship
+uh and is the is the happy call. Um so
+yeah it uh it and so to answer your
+question, any robotics company that's uh
+that's in the audience or is uh at the
+summit today will need to build out all
+these functions um because you can't
+rely on third parties to do it. And so
+it's it's expensive.
+>> So there's there's a narrative that
+robotics companies have um to choose
+between being a platform or being a
+product company. Which which one do you
+think is more efficient and which one do
+you think is quicker to scale?
+So in my goto market team together with
+our friends in in product we had a
+product um we had a book that u became
+our bible which is Jeffrey Moore's book
+crossing the chasm. It's a 20year-old
+book that was written for the software
+industry uh and the the early uh
+internet boom but if you haven't read it
+you should definitely put it on your
+list because it's super relevant for
+robotics companies. And the central
+hypothesis of the book is that um it's
+it's easy to sell an initial pilot
+deployment, especially if you have a
+sexy walking robot. But then um that
+pilot deployment was probably sold to an
+executive who wants to be at the
+forefront of technology,
+who wants to use the robot to market
+their own uh company. Hey, look how
+innovative I am. I'm using walking
+robots. But all of a sudden you want to
+sell the second robot and the 10th and
+then the 100th robot and all of a sudden
+you're faced with the operations manager
+on the shop floor uh who doesn't care
+about the sexiness and the marketing.
+The only thing that that person cares
+about is return on investment and does
+the robot actually provide value in my
+daily life and does it make my job
+easier. And so Jeffrey's um hypothesis
+is that there's a giant chasm between
+that early pilot deployment and this
+operational adoption deployment and
+crossing this chasm is is so difficult
+and I think that many of the robotics
+companies will face this chasm. That's
+why the book is is still so relevant. Um
+and so the uh one of the chapters in the
+book talks about that it's virtually
+impossible to cross the chasm as a
+platform company because it's uh it's
+too broad. So at Boston Dynamics when we
+started selling spot 6 years ago, we
+didn't really know what the robot was
+going to be used for, right? It was an
+innovation looking for a market. And
+when we found product market fit in
+industrial inspection, it seems obvious
+now. It wasn't obvious back then at all,
+but we built out the entire product
+around this industrial inspection so
+that we could cross the chasm with a
+complete product. Um, all the while
+maintaining the fact that Boston
+Dynamics is a platform company. It has
+open APIs. Anybody in the audience here
+can write an API to talk to Spot, but to
+get companies to buy fleets of robots,
+we had to complete the product solution.
+>> And so, and so when we look at the
+market projections, analysts say that in
+in 10 years, consumer and service is
+going to outweigh industrial and
+represent 50% um of the market. This
+sounds a lot like the smartphone scurve
+that we've seen in the '9s. And when you
+were at Boston Dynamics scaling revenue,
+did you feel that the you know did you
+feel the ground shifting under your feet
+in the same way?
+So I think it's true when I when I look
+at the projections um from the big three
+banks and uh and smart companies like
+McKenzie, everybody comes to the
+conclusion that by 2035 this humanoid
+market is going to be a $40 billion
+market. I think that's probably true.
+Um, and I don't think that's overly
+optimistic,
+but what's not talked about that much is
+that when you look at these projections
+and you dig a little bit deeper, that
+50% of that $40 billion is not going to
+be industrial, but is split between
+consumer applications and hospitality
+and service applications.
+And
+so there appears to be a giant
+opportunity out there for non-industrial
+humanoid applications. Uh we heard our
+friends from electronic talk about this
+earlier. The reason that that hasn't
+happened yet is of course because the
+models are not quite ready. The robots
+are not quite ready to go out in the
+real world and and semantically
+understand their environment in such a
+way that they can walk around in
+unstructured environments and safety is
+is not quite figured out. I noticed that
+one person was walking around with a
+modified um six- foot tall humanoid out
+here right in the crowd. I don't know. I
+thought that was I probably would have
+not done that. Um but I you know yes. So
+I I think um the the short answer is I
+think there's a tremendous opportunity
+in the market that is untapped at the
+moment. And um while we see companies
+throw out videos of this is my 6' tall
+humanoid unloading your dishwasher,
+I'm not so sure, right? A the dishwasher
+is the automation equipment already. So
+really it's machine tending at that
+point. And I think if I brought a 6ft
+tall humanoid home to my wife and said,
+"Hey honey, that's our new helper to
+unload the dishwasher."
+I think she would not enjoy that.
+So I guess without like giving away too
+much, how how do how could you see
+physical AI stepping into these unmet
+needs?
+>> I think you need to be invited into the
+home, right? Right now we have an entire
+industry building what is possible. uh
+which is super cool and there's amazing
+robotics companies building that but the
+they're all building industrial uh
+machines and then they put out a YouTube
+video and saying and that machine will
+also be in the home. I I don't think
+that that's going to be the case. So I
+think we haven't seen the form factor
+yet that will be invited into the home.
+>> Any um any any other I guess ideas you
+can share in terms of what could make
+sense to be invited into the home? I
+mean, for example, we would love a
+robotic dog. My kids really want a real
+dog, but we just, you know, we don't
+want to pick up after it. [laughter]
+>> Yeah. Well, I I think, you know, you
+either don't want to pick after it,
+which is one thing, or maybe you're uh
+an elderly person living in an apartment
+building and you're either too old to
+take care uh of a dog or maybe you're
+not allowed to have uh a dog in an
+apartment building. I do think that
+there's a giant loneliness epidemic on
+the planet and you have millions of
+lonely people sitting in some mega
+metropolis city in a high-rise um and
+not able um to to have a pet which might
+be the better thing and not able to have
+human connections. So I think there
+there's something there if you scratch
+under the surface that that might be
+possible. Um I think it it's not quite I
+think the technology is not quite there
+yet. But um I certainly if you fast
+forward 10 years into the future um
+everyone in this audience will have a
+robot at home. Um and many already do,
+right? Many people have vacuum cleaners,
+many people have lawnmowers. Um but in
+addition to those, I think we will have
+robots that that live with us for sure.
+So, I mean, um, we'll have time to open
+it up to the audience for questions,
+too, because Mark is literally a legend
+in the robotics world. So, I want to
+make sure that you guys all have a
+chance to ask questions. Um, is there
+anything that we haven't covered yet,
+Mark, that that you want to impart to
+this audience, just given, you know,
+your experience at at Boston Dynamics?
+>> And I think there's a lot of talk at the
+moment. People always ask me, well,
+isn't there so much hype at the moment?
+Isn't that dangerous? Um, and I I don't
+think so. I mean, look at these amazing
+robots that we see here today. And then
+when you look at the tremendous
+exponential advances in AI that our
+friends at DeepMind for example are
+pushing forward, you can squint and you
+can see that this will be the biggest
+generational opportunity uh in our
+lifetime in terms of function step
+change. Um, what does annoy me is then
+when when companies put out videos that
+project things that are not quite
+possible and are saying that it's
+happening tomorrow. Um, so you know with
+uh with my ex- friends at Boston
+Dynamics, my ex-colagues, my current
+friends ex-colagues at Boston Dynamics,
+we always struggled with the fact how do
+you keep the messaging real in a
+somewhat posttruth era, right?
+um
+you know in in this post-truth era you
+can become very powerful uh in terms of
+commercial success and political success
+but how as a startup do you say what's
+really possible and uh take advantage of
+the of the tremendous interest and hype
+that's out there in the market
+>> with with that why don't we open it up
+to the audience for a few questions I
+think we've got about 5 minutes or So
+there
+>> no it's fine.
+>> Okay. Um, and I get a little bit scared
+with physical AI because I have a
+feeling that it'll go like social media
+and we'll end up with lowest common
+denominator products like doom
+scrolling, like pornography, like a lot
+of the things that are very easy
+purchasing of cosmetics products using
+social media and then physical layout.
+Why won't we also have a race to the
+bottom with simple disruptive disruptive
+inense?
+Um, so I raised two daughters in uh in
+the United States who are both of course
+addicted to social media and I've seen
+the the very dark sides of it. So yes uh
+certainly there's a dark side to to
+technology always but what I've also
+seen is you know over the last six years
+I visited probably [snorts] 500
+factories and logistics centers and the
+the the narrative that I'm getting from
+everybody in the industry is like we
+cannot find humans anymore that want to
+do these types of jobs. That is true in
+the service industry. Um in a postcoavid
+after co so many people disappeared from
+the workforce where they all went is a
+little bit unclear but they're not there
+anymore. That's very uh true in service
+industry but of course it has an
+outsized impact in manufacturing
+industries. Um, so in car manufacturing,
+in logistics centers, you know, people
+have 120% turnover year-over-year,
+meaning you hire six people on a Friday,
+they do the job over the weekend, and
+then only a couple of them show up on
+Monday because these jobs are literally
+backbreaking. And so while um especially
+in North America there is a very dark
+fictional narrative around these robots,
+the reality on the ground seems to be
+that they're really needed because uh we
+can't find humans uh to do these jobs
+anymore. And of course then there's
+super obvious use cases like I was in um
+in Fukushima a couple of months ago and
+stood you know 500 yards from the from
+the nuclear reactor. there's no plan of
+record how to bring that down, clean it
+all up and make it into a meadow again,
+right? Um, and robots could could play a
+super important role there. So,
+the the dancing and back flips uh are
+actually important because they bring
+the general public along. You know, at
+Boston Dynamics, we always uh split our
+time between real
+use cases and case studies around
+specific customer use cases to show the
+industry what's currently possible. But
+then we did back flips uh on YouTube to
+to bring the general public along and
+say, look, this is not scary, right?
+This is uh this is fun technology. So,
+uh it's it's both.
+Maybe time for one more question from
+the audience.
+So um Boston Dynamics has done multif
+fleet deployments up to 50 robots in
+single facilities where the the robots
+work together um
+on monitoring everything that's going on
+in the plant with superhuman sensors.
+Um, truly you can have Mike the intern
+walk around with the notepad and a
+thermal camera, but Mike the intern
+takes the picture. Sometimes
+[clears throat] he does, sometimes he
+doesn't. He certainly doesn't uh um keep
+track of it versus a robot of course
+keeps beautiful track of uh of
+everything that's going on. Um, but I
+think the next speaker that's coming up
+actually has an amazing use case where
+he has uh fleets of robots that actually
+talk to each other to complete a
+specific task together. And I think
+that's sort of the next generation of uh
+multifleet deployments. Um, we already
+see that in the drone industry of
+course, but I think that type of
+technology is now coming to um to leed
+robots and field AI is one of the
+leaders in that field.
+With that, we are out of time. This is a
+lot of fun. Thanks, Mark.
+>> Thank you so much.

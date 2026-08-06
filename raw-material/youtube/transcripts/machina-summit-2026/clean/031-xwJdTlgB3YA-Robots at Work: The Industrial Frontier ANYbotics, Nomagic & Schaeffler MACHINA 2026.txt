@@ -1,0 +1,997 @@
+[music]
+Okay. Hello everyone. Welcome to Makina.
+Uh it looks like I'm interviewing four
+robots. Um but who I have here are the
+founders of these companies. Um uh as
+well. And uh um see we have a couple
+more people coming in. Um I'm Justina
+Chong. and I'm with Bessmer Venture
+Partners based in London where we invest
+from seed companies all the way to
+growth um across the layers from robotic
+models to infrastructure and the robot
+makers. And on the panel today we will
+discuss the realities of deploying and
+running robots at scale and who better
+to do that with than four veteran
+operators in the space. And so to start
+things off, I'll ask each of you to do a
+brief introduction, but also to set the
+stage and the context for the audience
+here. You know, what form factor do you
+work with? What's the use case? Um, and
+where are you at in deployment?
+>> All right, I'll start. Thanks so much.
+My name is Peter, co-founder and CEO of
+Eddie Botex. It's on the picture on the
+very left. What we build is inspection
+solutions based on robots for the
+process industry. And the reason is in
+the process industry, it's all about
+asset integrity, running the facilities
+safely, but we don't have enough people.
+We cannot put sensors everywhere. So
+what we're doing is sending in robots
+with four legs because they can maneuver
+through these complex environments,
+carry a lot of sensors on top, visual
+thermography, acoustic gas detection,
+you name it. They run full autonomous
+and then they run daily, you know, hours
+and hours collecting thousands of
+inspection points. And based on that,
+we're building the AI to understand
+what's going wrong, notify the operators
+and tell them what's happening such that
+they can take action earlier on.
+>> Hi everyone, I'm Tristan uh co-founder
+and chief product at Nomagic. Uh you
+know at Nomagic we're actually not
+having robot that move. They're static
+but they're focusing on manipulation. So
+we're doing item handling in warehouses.
+Those are generally industrial robots
+that we install. It's like solutions
+that are one or two robotic arms. They
+can use multiple tools and do all kinds
+of item handling and item manipulation
+first in fulfillment warehouses and
+basically expanding progressively to
+other types of warehouses.
+>> Hi, I'm Tomas. I'm one of the
+co-founders and the CEO of Sunrise. Uh
+we do intelligent robotic cells for
+highmix low volume manufacturing. Um
+deployed mainly in electronic
+manufacturing services now but um we'll
+do a lot of other stuff. And our product
+looks a little bit like this. So much
+more like a machine than uh than a
+traditional robot system with tons of
+cameras, lots of edge compute, and two
+arms uh to poke the world around us. And
+we get them to work by uh visiting a
+customer facility, taking lots of video,
+and showing up a couple of weeks later
+uh with this machine just ready to get
+to work. So happy to talk about how that
+that looks like in reality.
+>> Hello together. Nice to meet you all.
+I'm F from Sheffller. Um we call
+ourselves the motion technology company.
+Um so we mainly serve in automotive and
+industrial sector and due to the fact
+that we have over 100 plants in the
+world automation is really important for
+us to drive our operational excellence.
+In Sheffller I work in the innovation
+field. So we in the end translate um
+early technologies to our production
+plants and so we drive mainly their um
+yeah automation with different form
+factors from conventional industrial
+robotics up to humanoids which you see
+on the picture. So this is one use case
+we applied in a plant in Germany where
+we brought really physical AI to our
+production world.
+>> Great. Thank you everyone. Um, so we're
+going to talk a lot about the friction
+involved and ways to reduce time to
+value um, in what you do day-to-day. But
+to start and kick things off, you know,
+maybe let's start with war stories. Um,
+you give the room a sense. Um, and I
+love that we have panelists across
+different form factors and and fields
+here. Um, what was the hardest the most
+challenging deployment you've worked on
+and what helped to solve that?
+>> Or I can start if you want. [laughter]
+So, so our our the most difficult is
+generally at the beginning, right?
+Because you know when you're early in
+your journey, you make a lot of mistakes
+and in hindsight they look like all
+rookie mistakes. So, so the the second
+customer we had, which is Brack, it's
+the second largest e-commerce platform
+in Switzerland. Um, we installed our
+first couple of robots there. And, you
+know, in hindsight, I'm thinking
+everything was wrong there, right? Like,
+so, so the layout was sub-optimal. were
+supposed to do a preparation of orders
+where we're picking from one bean and
+placing into another bean. There are
+small details like the distance between
+the beans that they've set up was 1.5
+meter. And and we told them, well, how
+about we put the beans next one to
+another? You know, it's going to be just
+making the process much faster. And they
+told us, yeah, but we don't care too
+much about speed. Well, never trust
+that, right? We don't care too much
+about speed. No, you don't care too much
+about speed until this thing is
+productive. And then at that point,
+you'll care only about speed, right? And
+and so you're basically learning the
+things that you know as it's the usual
+product management thing, right? Like
+you need to listen to the customer, but
+you shouldn't listen, you know, with
+with um without a little bit of a grain
+of thinking of what is the long term for
+them, right? So there we had to change
+the layout. We had to change the robot
+brand. We started with a robot that was
+like operating well but not to the
+reliability level you want when you're
+running 247. Um we had to change the
+tools. We're operating with one tool and
+over time you know we need to take
+millions of items. So it's really the
+iteration that matters I think is the
+message right
+maybe on our side I mean by now we have
+hundreds of deployments and everyone is
+always different. Imagine you're sending
+in robots into complex environments
+there's grass growing on there's snow
+falling there's always something right.
+Um, one of the deployments for sure was
+was challenging because we're working in
+aluminum production and the floor is so
+oily. You've never seen that even people
+hold on to the handrails and that's
+decades of oil built up and still
+producing just coming over the machines.
+There's no way to clean it. It'll get
+oily again. And the robot actually could
+handle it, but they slipped around like
+ice skating. So, locomotion was okay,
+but because suddenly the auto autometry
+is, you know, the input is not correct.
+So the navigation. So the whole thing
+was just very difficult let's say and
+something you cannot you know simulate
+something you would really not expect um
+from you know normal facilities. The
+trick for us was to send engineers out
+right firstand look um gather the data.
+The customer was very patient with us.
+Um then over time iterated on it
+eventually deploy a new model update it
+and now it works flawlessly but it's
+been a painstaking process.
+>> Yeah. From our end I mean I have tons of
+worst stories. I'm going to pick u one
+serious and one fun, right? So, I'm
+going to start with a fun one. Um,
+we've, you know, we deploy the cells and
+we train them before they arrive to the
+customer facility. So, the idea is for
+them to get productive on day one,
+right? And mostly we succeeded with
+that. But in a weird case, we had this
+fluctuation of performance because of
+the safety system getting triggered all
+the time and so on. And you know we look
+at the cameras we look what's going on
+around the cell nothing like we can't
+see anything wrong but there is this
+fluctuation of performance happening and
+so we send one person to to do an eye
+test of what is going on here right like
+I don't know it's a power going up and
+down or whatever and the person comes
+there and stands in this facility and
+they there's air blowing behind them and
+so they turn around and there's huge
+industrial fan behind our cell and they
+turn around again and they see a trash
+can with a flapping with a flapping bag
+in the trash can that was triggering the
+radars
+and you know like there is no model
+simulation
+you know you can you can iterate on this
+on the product side forever I don't
+think there is an edge case with someone
+says flapping trash can as part of your
+product requirement or application
+requirement document right and so
+obviously you know now you know there is
+trash can you fix that and and then
+performance is good um so this was a fun
+one uh on a more serious note um same
+thing like you and you know numbers
+right so we start working on an actual
+production line again deploy goes really
+well uh we get it up and running quite
+quickly and you know um I'm not going to
+use real numbers here but just just for
+the sake of of conversation let's say
+that the target was 50 parts an hour
+right and we hit the target life is good
+you know everybody's celebrating and so
+on two weeks in the customer calls us
+and like hey we need 75 parts an hour
+now and obviously we we look at each
+other and we're like hm all the tricks
+we used for 50 like now we have to get
+out of the window and kind of figure out
+a 75. So we figure out a 75 right but
+how do you do that without changing the
+hardware without changing anything like
+that's the interesting challenge that
+you start facing and when you fix it
+like what happens again it's like now we
+need to do a 100 and so I guess the
+biggest learning there is do a really
+good job at collecting the data ahead of
+time and then 2x whatever anybody tells
+you and and you know build for that.
+Yeah, surely also prepared one story. Um
+yeah, like um we always try to bring in
+new innovations in the field of
+automation into our production plants
+and we also had one example where we did
+the base development. It was a AIdriven
+approach where we had a reinforcement
+learning approach to insert gearboxes.
+We did the base development in our
+innovation center and the process itself
+then worked and we're like nice and now
+let's go to the production side and uh
+then the fun starts because you have to
+think about so many other things like
+the vertical IT integration like the
+safety concept then you have a dynamic
+environment the layout looked a little
+bit different we had vibrations from a
+conveyor we hadn't in mind so this was
+kind of of of of a tough time we solved
+it surely but this really showed that
+the thing you do in your innovation
+center or you do in the pre-development
+phase you really have to challenge or to
+match with your real environment. And I
+think even today with the new simulation
+capabilities we have now we did hear a
+big step or do hear a big step and to
+have a better engineering a better
+pre-commissioning and really looking
+forward to that new technologies because
+I think we can close step by step this
+gap even in the future.
+>> Great. Thanks for all that. I'm getting
+the common theme is un expect the
+unexpected and there are some things
+that you can plan for ahead of time as
+well. getting the telemetry correct, for
+example, but other things like, you
+know, plastic garbage bin flaps um that
+are just not possible to to predict. Um
+and you know, from from the audience, I
+wanted to get a feel for where
+everyone's at. So, you know, who here um
+has like robot fleets and deployment? Um
+hands up if you you know, work in a
+place that does that. Okay, you know, a
+couple hands up here. And who here are
+is doing it for the first time or you
+know providing services or you know
+models to enable that.
+Okay great. Um so I think there's you
+know a lot of lessons I think that can
+be you know shared. Um and one of um the
+questions I have is if you were doing
+this um for the first time what would be
+generalizable advice you could give to
+the audience here? Um the telemetry is
+one point. you know, is there anything
+that you would um do again from the
+start um to get right and shorten the
+process?
+>> So, so I I think there is a general
+learning that comes from what Thomas
+just said, right? Like is go to
+production as soon as possible, right?
+So, so I think until you face
+production, you're just playing with a
+toy um that is providing zero value,
+right? and and and I think this was very
+clear for us. Um you know when we when
+we started with our very very first
+customer um we set foot on their
+facility from day one and we started to
+test with their items first not on the
+production line but the aim it was go to
+the production line as soon as we can
+afford to and and afford to means we're
+not breaking anything right but [snorts]
+of course as soon as we can afford to
+means we're not yet ready to be you know
+full-time without anyone near that that
+that robot right but but the painful
+full times initially on the production
+line to learn all the edge cases and
+make it work are invaluable because the
+edge case you see there and the the
+types of problems you see there have
+nothing to do with what you actually
+imagine in the lab or could do in a
+simulation.
+>> Yeah, go ahead.
+>> For us certainly one of one of hard
+learnings was you know do you have
+everybody aligned to agree on the
+problem right? if you deploy a robot and
+everybody was like cool and now what
+right and so it turns out you haven't
+really spoken to it yet the union cyber
+security safety there's so in average it
+takes 5.4 for people to agree on the
+problem. That's the most difficult part,
+right? So, frontload as many of the
+decisions and agreement as you can
+before the robot even shows up because
+the robot showing up, that's the easy
+part. The agreement to the people,
+that's that's a tough one.
+>> Yeah, I'd echo that. So, I think, you
+know, people think that robotics is a
+problem of models, that it's a problem
+of like, hey, can we get general
+intelligence and so on, but I I
+personally feel like it's a it's a
+logistics and operations problem equally
+as much. Um, and that said, you know, I
+think for us really is we are good at
+research, but we are even better at
+productizing research. And so I think,
+you know, a lot of the stuff you would
+see on on Twitter or in a demo video and
+so on, that is great, but if it doesn't
+work with at least three nines of
+reliability, like you don't even get to
+the starting line in a in an industrial
+environment because if you need an
+intervention like every hour of the day,
+that just doesn't fulfill the economic
+promise, right? And so so if you go in
+an industrial environment early, you
+learn that where the starting line is.
+You learn that, you know, there are
+probably three really key areas where
+you need to excel. One is robustness of
+the system. So it needs to run for
+thousands of hours without any any
+errors. Um it needs to be autonomous for
+a long time because otherwise you aren't
+really fulfilling the economic promise.
+If I'm selling you something that
+enables you to unlock a person and move
+them to a higher value station, but they
+still need to tend the machine every 10
+minutes, like that's probably not a not
+a real uh economic value, right? Right
+there. So, autonomy is really important.
+And then I think the third one is is
+making sure flexibility. I I think
+that's another one where you know a lot
+of projects and and you will probably
+know uh you know it's deemed to be oh
+it's a fiveyear thing. We're going to
+run it for five years. It's going to be
+millions of parts and so on. But the
+reality is like 18 months in the market
+tells you you need to change something
+and then the the big investment doesn't
+pay off. So you kind of have to keep
+that in mind as you deploy that you are
+going to have to be flexible down the
+line. And again
+>> yeah can agree on that um that it's not
+only your technology who has to be ready
+also your ecosystem in which you
+integrate these technologies um but also
+and you mentioned that that flexibility
+is also a key driver in our production
+how we design productions because we see
+the markets we see the e-mobility for
+example the predictability um gets less
+and less and so we have to identify or
+let's say design productions who are
+modular who are configurable and also
+then the automation solutions and we
+really believe because we have so many
+scenarios we have to think of what if um
+that we also have to do the simulations
+and surely simulation you can do on the
+layout level but also on an automation
+level and uh with with partners um which
+are also here we we try to simulate this
+contextsensitive environments to really
+have an early let's say um commissioning
+or let's say validation of this process
+surely there's a sim to real gap and
+this is then the very close the loop to
+you that you have to go to the
+production that you have to do your
+reality capture but then use the
+simulation tools we already have and
+which we advancing um to do this
+pre-check and pre- validation in virtual
+world before you go into the real
+environment.
+>> Great. And when it comes to deployment
+um in the sense of getting getting
+prepared and getting everything aligned
+before um the robots hit the floor, um
+the time to value can be extremely long
+in some cases. Um even putting aside
+when things don't work and unexpected
+things happen. Um and so when you think
+about that process from installation to
+the data integration to training uh the
+workers there to work with the robot and
+all that um before live deployment uh
+would you approach this in terms of
+building in-house working with partners
+or is there a way to uh streamline some
+of this I think bejorn mentioned
+simulation as one part of it um which
+approach do you use today For us it's
+the sequencing right because this is a
+new market customers know their problems
+but they don't know how to use this
+solution right so for us we do it fully
+inhouse meaning that we we built the
+hardware we built the AI on top of it
+the capability software but also for us
+the workflow integration that is key to
+how we think the ROI modeling all of
+that and there's you know by now we're
+as proud of all this innovation in the
+go to market as we are on the technology
+now in the beginning that's okay you
+need to be really good at it 200% %
+because if you hand it over to a partner
+half of it is lost in translation. We
+have seen this before and so if you're
+not at the 200% right they can do 100%
+but if you're at 80 if you're in the
+beginning it'll not work. So for us it's
+clear a sequencing problem in the
+beginning do it yourself direct so you
+learn the quickest.
+Yeah, I think 100% on this, right? Like
+this this has been our conscious
+strategy which is going direct to
+customers so that we learn all the ropes
+and we build the playbook and so that we
+progressively transition to have
+integrators and partners who can now
+bring our solutions themselves. Um but
+you know this is this is always kind of
+a learning for me in channel sales that
+you should always assume that a channel
+cell partner is basically someone who
+you know may not understand your product
+may not want to sell it and um you know
+have little interest in its complete
+operations. And if you go with that
+mindset, well, you build basically a
+playbook, a product and a system and
+your own control of the operations that
+is fail safe from that point of view,
+right? So in many cases, you may have
+integrators that actually do a very good
+job, right? Um they'll do an even better
+job because you have all these back end.
+If they don't, well, you're still safe
+because you've built all those layers.
+Yeah, I mean I would add that you know
+you have to start in my mind from day
+zero kind of building a product that
+allows you then to to do these things
+fast right what you described and so so
+think about the entire kind of journey a
+customer is going to go through like how
+often are you going to see them what
+data are you going to acquire where what
+are the aha moments let's say for us you
+know we from the very beginning like we
+believe there were two real aha moments
+one was when they see what we call a a
+digital replica of their workstation
+that it's exact same workstation they
+have human tend to today tended by our
+cell with no changes a couple of days
+after we acquired the data that really
+you know bridges the imagination gap
+between oh it's like this today and it
+could be like this tomorrow and you can
+do the math around that and it's not
+going to be precise but it is going to
+be indicative of what you can expect uh
+and then the second aha moment is like
+okay when the machine arrives can you
+get it to work within one shift right
+like that that is magical. It kind of
+like I I tell to my team that what we
+are building should we feel closer to a
+to a kitchen robot uh than you know a
+system that you wait 18 months to see
+move like you know you buy a kitchen
+robot you plug it in and you can you can
+do whatever pizza dough uh 5 minutes
+later right um so that's that's super
+important but then what happens after I
+think is equally important so things
+will go wrong as we discussed earlier so
+can you you know build a system that
+collects those anomaly data and and
+automatically gets better time as a
+fleet, right? That's an open-ended
+question, but I think I think uh people
+building self-driving cars uh have
+showed us that it's quite possible. And
+so so we are doing a lot of work on that
+front where the more cells we have
+running, the more data we collect around
+anomalies, the next one just gets better
+from all of that.
+>> Yeah. And to to add up here, um how we
+position MAS Sheffller, like in the end,
+you have to think about the technology
+readiness levels. um like we have this
+let's say conventional industrial uh
+robots they're in our productions they
+want run 24/7 but then we also have this
+new and latest technologies in the field
+of humanoids so you have to have the
+right partners on that journey from
+let's say the low technology readiness
+level up to the high technology
+readiness level and surely we are
+technology company we're the motion
+technology company so we want to
+understand and we also want to develop
+technology especially in that field um
+of automation um so we work with
+external partners parters with a lot of
+startups but also we have let's say one
+unfair advantage we have one big special
+machinery in house. So imagine we have
+100 plants and in every plants we have
+many many production lines and they are
+mainly built from our internal uh
+special machinery and the cool thing is
+that we can develop with them also new
+production line concepts and also these
+kind of automation solutions and in the
+end they built and integrated into this
+ecosystem. So it's a a big big chance
+for us also to to boost these kind of
+new automation uh technologies but also
+to bring in existing technologies like
+um we started a few years ago with
+cobalt activities. Then we moved to HVs
+and now more and more humanoid robotics
+applications are coming and this we do
+in this close um partner network with
+externals but also with our internals
+and this is kind of the unique thing. Um
+we have on the one hand the integrator
+um position as shuffler but also we have
+it as a user and I think you all heard
+the presentation of Dave care. We also
+provide components to humanoids. So in
+the end we have the full playbook here
+um and have a deep understanding in
+production and then also in the systems
+itself.
+>> Beyond how do you decide between what
+you keep owning internally versus
+working with um third parties? Are there
+certain parts that are more core and
+more important? And I think we talked a
+little about you know um uh being close
+to a customer um seeing it day-to-day
+and once you get a really strong sense
+um of things that are repeatable then
+maybe you know partnering um to scale up
+but how do you decide what to keep and
+what to
+>> yeah um coming back to that technology
+readiness level discussion like um I
+would say in the earlier stages we're
+very open we look for external partners
+um and because like there are everywhere
+new innovations and solutions um in the
+market um also here I saw some nice
+things already and and there we had have
+a look outside and then step by step
+sure we have to run our production 24/7
+we have to make money in our plans um
+and there we look more and more with our
+SMB and also the the special machinery
+um they also work with external partners
+so they don't do their own copots or
+robots we also buy them and integrate
+them so it's a technology readiness
+level discussion you have here um yeah
+>> okay got it um I want to move the
+conversation towards um what you see
+when you talk with buyers um what are
+the main considerations they have. Um,
+you know, we talked a little about, you
+know, sometimes, um, you know, they're
+they're more focused on, uh, you know,
+initially it's not speed and once it
+works, you know, it's all about speed.
+So, what are you seeing on the ground?
+Um, what considerations do they have?
+And also, um, maybe a more specific
+question, uh, when you are have a couple
+of robots in pilot, how do you move it
+towards full-scale deployment across the
+org? Is there a threshold or particular
+performance metric or ROI? Um, put
+another way, you know, what does like
+best of look like? Um, when a client
+that really loves the product is seeing,
+you know, real value and robustness come
+from the the platform.
+>> Yeah. I I think at the end, right, like
+the core of it is an ROI cell, right?
+Like uh you're you're building
+automation because you want to find ROI,
+you want to find value. And so what
+matters is to have really that
+discussion early on to see what is going
+to be the return on investment what what
+is it going to depend on right and
+customers will be um more or less open
+to share all their numbers because of of
+course right it's part of also of the
+negotiation eventually but you need to
+build a a certain level of trust so that
+at least you know the core components
+are clear so that you can have that
+discussion about what is the throughput
+at which you're going to get this RAI um
+and what are the exception cases that
+may happen, right? And and and how do we
+handle those, right? And I think if you
+define that well, um then you should get
+into a situation which is what we tend
+to do where we actually never sell
+pilots. We always always sell in the
+format of what we call oneplus x. So
+basically, if I come to you, you're my
+first customer, I'm going not going to
+say, hey, I'm going to install a pilot
+and then we'll see. I tell you, we're
+going to sign a contract for let's say
+20 robots. But the but if you're um
+worried about the fact that you know
+it's 20 robots the large investment etc.
+Let's do you know one first we put all
+the conditions and under which you know
+if this thing works we scale to the 20
+and and this fronts a little bit of the
+difficult discussions because it forces
+the customer to say well you know what
+are the things that are like the
+absolute condition under which I'm ready
+to scale right and and this becomes
+contractual but but that's that's really
+a timesaver afterwards and and and
+forces alignment within the organization
+as well on the customer Right
+100% we do the same thing right in the
+beginning it's about was P and pilot but
+what what are you trying to show right
+ultimately can you define the problem
+and can you solve it and so there's an
+approval phase I still get that right so
+two three months can you hit those KPIs
+that you agreed on but from the
+beginning the 5.4 four people I
+mentioned right you need to have clarity
+how do you fit into the company strategy
+from sea level VP health and safety
+right how the unions how is all those
+people it wants data right everybody has
+a stake in this and you need to have
+clarity from the beginning the big
+picture how big is this opportunity
+together and then you embark on a
+multi-year project with milestones we
+need to do certain things and fulfill
+them but also they need to do certain
+things right a pilot where just a robot
+runs that's clapping but who takes
+decision based on the data we have
+collected Right. That loop needs to be
+closed and people need to see the
+benefit but that work a lot of it needs
+to be upfront.
+>> Yeah, I I agree on that. Like maybe
+maybe my view is a little bit different
+because we sell to a different type of
+customer, right? Like um just for the
+audience maybe you know I I believe you
+sell to very large companies and very
+large logistics centers like we mainly
+serve the high mix low volume
+manufacturer. So your typical SM
+European SMB industrial uh where you
+know the 5.4 people is the entire
+leadership team. So, so there's a few
+fewer people and some of these people on
+the leadership team have the same
+surname as it's written on the building.
+So, you kind of know who makes the
+decision. But jokes aside, um you know,
+our model is basically quite clear what
+the ROI is because we price it as a
+service on a on a particular number that
+is the equivalent of roughly two
+operators in the most remote part of
+Europe you can find and roughly one
+operator in France, UK or the western
+part. So, it is the economic promise is
+like there's huge labor shortage. So you
+don't have people anyway and we'll help
+you bridge that and you know the people
+that they have they generally like and
+they would want to move them to do
+higher value work and so it's a it's an
+easier conversation from that front but
+I agree with you avoid pilots avoid
+proof of concepts like we also sign like
+three fouryear deals straight away and
+of obviously with thresholds so we stay
+in but the ROI conversation what we
+realized was that if we make the number
+simple like that is easy to understand
+cuz obviously As you know, all these
+systems are very good at counting. So,
+we could meter it per part. But for our
+customer base,
+telling them, hey, tell me how much it
+costs you to get this piece from here to
+here in the process would be a
+month-long homework. And you generally
+don't want to do that to your customers,
+right?
+>> Yeah. To add up here, uh we have the the
+valuedriven approach. Um we have this
+discussion about shorter lab uh labor
+shortage. Um but also quality is a
+thing. Um and process robustness. So if
+you have a solid automated process, you
+somehow can uh ensure um a higher level
+of quality um and also process stability
+compared to to to manual workforce. And
+this is also key because we we see
+quality as one key measure for our
+customers. Um and we also have a look on
+that. And furthermore also um we when
+you have this repetitive um and and and
+task with high payloads, we also have a
+look on the economics. So when we can
+improve economics, we also have a look
+on on the way that we can automate this
+process. had to sum it up. Nevertheless,
+and this is a thing um when you think
+about scaling, we said the ecosystem
+must be ready, the technology must be
+ready and in the end you have to be able
+to adapt very fast because we have many
+changes in our layouts. We have many
+changes from production lines,
+customers, products and you have to
+adapt in an efficient manner and I think
+this is also key that you're able to
+let's say adapt and let's say bring in
+these automation solutions into
+different cases in a very efficient way.
+>> Can I add just one thing there? So yeah,
+go for it.
+>> I think we we missed a very important
+actor kind of in this whole story which
+is the operator on the on the floor. Um
+you know we we talk about the leadership
+making decisions, buying and so on but
+at the end of the day like what we
+realize is that who keeps the the cell
+running and all of that is the operator
+and so they also need to buy in and I I
+think the design of the product and and
+how much care you take about the
+experience really influences that. So
+it's an early bet that you should make.
+Um and I think it pays back
+significantly
+>> and and then you're totally right with
+this cultural change. So like in in our
+regions we have a different technologies
+which we push um and you have let's say
+different states of of innovation there.
+Um, and if you're in a plant where they
+have their first HVs, they're like, "Oh,
+what's this?" And then you're in in in
+in pilot plants or in in in lighthouse
+plants where you already have big fleets
+and you see how the the operators
+interact complete differently because it
+takes some time for this kind of change
+um in that environments in where they
+work. Yeah.
+>> Additional perspective I'd like the the
+room to think about, right? In robotics
+essentially we're doing work especially
+humanoids, right? It's about the labor
+replacement. But I think robotics can do
+more. And we need to ask ourselves. You
+mentioned quality, right? How can we do
+a better job than a human at that task.
+And so for us, the ROI is not
+replicating what humans do. Yes, there's
+not enough people. There's a few hours
+saved, but the big ROI comes from can we
+find problems earlier than a human would
+because people don't see temperatures.
+They don't, you know, hear the sounds
+from the machines in a ultrasonic range.
+All of that for sure not at the
+precision of a robot. So for us the ROI
+is very quickly in the 10x fold in the
+millions because we stop downtime which
+is in the hundreds of thousands per hour
+right so always think what's the true
+ROI labor replacement I think that's
+that's a small one and that shouldn't be
+the ultimate aspiration
+>> yeah I love that challenge to see uh
+what beyond h human capabilities way of
+extending that to say dangerous
+environments or capabilities that our
+five senses like are unable to perceive
+um just beyond on the pure replacing the
+unit of work hours um that humans are
+able to to perform. Um I know we're
+quickly running towards the end of the
+panel here. So uh we'll end with a quick
+round robin um your your you know hot or
+you know like very sensible takes on uh
+what is the biggest misconception that
+you think people have when it comes to
+deploying robots at scale.
+>> So maybe maybe I'll say thinking that
+it's about one thing, right? Like I've
+heard so much that you know people say
+oh our company is about reinforcement
+learning or my company is about that.
+Well if you want to have a successful
+robotics company you're going to have to
+be right in a lot of things. So that's
+the short take right like uh not just
+one thing. You can also keep it short uh
+that scaling is duplicating use cases.
+It's not that simple um as we heard from
+this discussion. So yeah
+>> for us is you know robotics are
+standardized and a lot of robotics
+companies believe the world is as well
+but if you go to every plant everything
+is always different it is different
+people are different culture is
+different so there's a mismatch between
+standardization robotics and reality
+>> yeah I think the misconception is uh or
+not a misconception but perhaps some
+people that don't realize that in
+robotics I think you need to go very
+slow first so you can go very fast later
+um because if you frontload the
+solutions to some problems that will
+allow you to then move much faster and
+you know once you have hardware out
+there I it's pretty expensive to to
+replace. So that piece you know you
+should do right but then you unlock kind
+of all the potential of the software. So
+I think the future of you know all of
+the stuff we're talking about is going
+to be much closer to self-driving than
+to the traditional robots moving stuff
+pointtooint. And I guess um you can go
+see how that took 20 years to get right
+or not even I mean it's not even right
+yet. Okay. And last quick tick before we
+break. Uh what is one capability you're
+excited about which would unlock a step
+change in that time to value and
+deployment is a technology development
+or something on their horizon.
+>> From our perspective, our robots are
+still, you know, assistants. The humans
+tells them what to do and they can do it
+reliably. However, you know, I'm excited
+about practive physical agency world
+models of the topics. When you truly
+give contextual understanding to robot
+and you unpack it and you know the whole
+deployment process becomes automated
+because the robots have seen thousands
+of hours, thousands of different
+facilities and they become an expert not
+only assistant.
+Yeah, generally excited about the the
+steps that are about making deployment
+much faster through um having
+duplication of your uh physical robotic
+cell that is like millimeter precision
+right uh on on the on on the simulation
+and being able to apply this to just
+make the deployment faster.
+>> Yeah, I'm I'm personally very excited
+about a a sparse universe of point
+technologies that are coming together,
+right? Like so so similar to what you
+said like you know the anything from
+from the progress that is happening on
+data capture 3D reconstruction world
+models based on physics anchoring
+leading all the way into AIdriven
+robotic control. And when you put all of
+that together and kind of start closing
+some of these loops I I think the world
+is going to look quite interesting and
+and we're not that far away. I think
+we're a couple of years away from from
+this being the reality.
+>> Can I add add to this up? I'm also super
+excited for this whole chain from
+reality capture to the digital
+engineering and then to efficient and
+fast deployment into the real world. So
+really looking forward to that. Yeah.
+>> Yeah. It really feels like the uh talent
+the developments the scaling laws is
+positioning us to crack these problems
+in the next few years and um I'm excited
+to see the vast you know adoption
+deployment curve at that point. Um so
+with that thank you very much to all our
+panelists and enjoy the conference.
+>> Thank you. Thank you.

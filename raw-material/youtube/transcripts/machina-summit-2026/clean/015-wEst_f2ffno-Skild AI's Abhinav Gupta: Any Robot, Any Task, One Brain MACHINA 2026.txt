@@ -1,0 +1,470 @@
+[music]
+Thanks everyone. Thanks for inviting me.
+Um, so I guess we all know that we are
+going through an AI revolution right
+now. And if someone asked me what is one
+reason for this revolution, I would say
+it's scale. The scale of data and
+compute.
+But what has worked in the field of
+language and vision is the biggest
+bottleneck in the field of robotics.
+Scale is really really hard to achieve
+in the case of robotics.
+Why? Because first there's no data set
+that you can download from internet and
+start training your large scale
+foundation models. In language and
+vision, we have collected data over
+decades. Wikipedia, Facebook, Google,
+YouTube and so on so forth. But in
+robotics there's no such data set. Not
+only there's no such data set, hardware
+is slow and sometimes very expensive. So
+it's really hard to collect data set at
+scale.
+And let's say somehow magically let's
+say some data appears tomorrow. What I
+would argue that there are not even
+algorithms that can use this data to
+scale up robotics foundation model.
+This is exactly where skill comes in.
+At scaled we are building the world's
+first scalable robotics foundation
+model.
+Why do I call it first scalable? Because
+we are thousand times bigger in an
+conservative estimate than compared to
+our competitors when it comes to the
+amount of data that we are using to
+build these foundation models.
+But there are three features that really
+define our foundation model which is
+very different from the rest of the
+world. First, it's multi scenario.
+That means the same brain works whether
+you're talking outdoor, indoor, home,
+office, whatever scenario you can think
+of. It's multitask. That means the same
+brain works whether you're talking about
+task like locomotion, navigation,
+manipulation, assembly, task, insertion
+and so on so forth. And last but the not
+least, our brain is multi-h hardware.
+That means the same brain works whether
+you're talking about traditional robotic
+arms or this new style of hardware, new
+generation of hardware. For example, a
+dog robot, a humanoid and so on.
+Now, traditionally robotics has been a
+very very verticalized industry. What I
+mean by that is you first choose a task
+that you want to solve. For example,
+let's say we want to build a welding
+robot. Now you make hardware that is
+very suited for that task. You make
+software very suited for that task. Now
+the great part about being vertical is
+that you get first 80% of the
+performance very very fast. You get 80%
+performance very quickly. But then what
+you hit is called something called edge
+cases. Corner cases in robotics. These
+20% of the times your robot will not
+work because of these edge cases. The
+problem here is that the amount of data
+in one vertical is very very limited.
+You do not have enough data to handle
+these corner cases.
+Nowadays a lot of companies are talking
+about humanoids.
+Now again humanoids are a horizontal
+platform. That means you can use the
+same robot in different conditions. But
+the AI that they are learning is still
+very vertical in nature. That means the
+brain that they are training, the
+foundation model they are training only
+works on their humanoid and nowhere
+else.
+Now when we talk about scale,
+we are not talking about million
+examples.
+We are not talking about billion
+examples. We are not even talking about
+hundreds of billions of examples. We are
+talking of hundreds of trillions of
+example.
+If you have to collect 100 trillion data
+points, there is no way you can collect
+these data points for one vertical
+platform.
+So for example, for a humanoid robot,
+you'll have to build millions of robots,
+deploy them for decades before you can
+collect trillion of example.
+At skilled, we are using a truly
+horizontal approach for robotics. We are
+using data from any task and any
+hardware. We are using the ARM
+traditional ARM data from factories that
+have already installed these robot for
+decades.
+But there's another reason why we need a
+horizontal approach.
+That is safety.
+Robots are nothing but machines. And
+there's one thing that we know about
+machines that machines break down. Your
+motors stop working. Your limbs break
+down. And as soon as let's say a motor
+stop working or a limb breaks down the
+hardware is not same anymore. It's a
+completely different hardware. A 32
+degree of freedom robot becomes a 30°ree
+of freedom robot. If you have an AI that
+is very suited for that hardware only,
+it will not generalize. But because it's
+skilled, we are using one brain for any
+foundation for any hardware. Now that
+brain works even for the 30°ree of
+freedom robot.
+So I think this is a lot I want to talk
+about the foundation model but let's see
+what it means in terms of videos. So
+here is a teaser video of what we can
+achieve with skil brain.
+Again our robots are not walking on flat
+surfaces. They're walking in forest. And
+all the robots in this video are using
+skilled brain whether they are
+humanoids, dog robot and so on. Same
+foundation model for everything. Now
+this is a really hard scenario where the
+robot has to walk in a forest. There's
+lot of debris, there is log, the robot
+is able to balance all of that. Again,
+our robots are very safe to be around
+humans and do precise task. For example,
+play placing objects in dishwasher and
+do it for very very long horizon task
+and some of these uh objects the robot
+has never seen before. So it generalizes
+to to these different conditions that
+you are seeing and very very robust
+examples like you can kick around these
+robots, you can do anything and they are
+still very very stable.
+Uh again this is almost magical like not
+only the robot can climb hardware but
+you can pull push the robot and it will
+still continue to do that. That's the
+level of robustness that we bring when
+we talk about foundation models.
+Again it can do reasoning for example to
+pick up DVD. It pushes the DVD on one
+side and then it picks up climbing steep
+hill. This is a really steep hill in
+Pittsburgh. Even our videographer fell
+down two times trying to shoot this
+video doing precise task. For example,
+putting AirPods in airport cover
+and all these tasks like whether they
+are navigation manipulation, they are
+being done by the same skilled brain
+right now
+like balancing out at the last minute
+and again you can keep disturbing the
+robot. It is robust to these
+disturbances that can be created. it
+it's able to adapt on the fly to all
+these different disturbances as well and
+so on. Okay, so this is the model that
+we are trying to build a model that
+works for any hardware, any task and
+just one brain. But when you're trying
+to build this foundation model, there
+are lots of technical questions to
+answer. For example, what is the right
+data to train this foundation model on?
+Now, when it comes to robotics, we have
+lots of different choices we can train
+our models on. For example, we can
+collect data on the physical hardware
+itself. So in 2015 when at Kanei Melon,
+we started collecting robotics, robot
+data at scale using physical hardware.
+The pro about collecting data on
+physical hardware. It's a it's a rich
+form of data. This is exactly the data
+you want. There's no human required. You
+can collect data automatically using RL
+loops and so on. However, there are cons
+that it's really really hard to scale.
+Each robot can be hundreds of thousands.
+When you have to collect trillions of
+examples, you're talking about deploying
+millions of robots for decades before
+you can reach this. And it's really hard
+to hit successes in many cases.
+Next we tried to scale the tell using
+tell operation and this is something lot
+of companies are doing today using lot
+and lot of tell operation data but again
+we have to collect 100 trillion
+examples.
+Even if the whole population of earth
+becomes contractor for these companies
+and start collecting data it will take
+decades to reach 100 trillion examples.
+So clearly while teley operation is a
+good form of data even teley operation
+is not scalable. I want to repeat again
+teley operation is not scalable to build
+a foundation model.
+Then in 2022 we tried to scale up using
+simulation. In simulation the idea is
+you train your model on the simulation
+which is very sim different than the
+real world. So it's really easy to scale
+up. It's easy to get trillions of
+example. It's faster than real time. But
+the problem with simulation is that it's
+really hard to get diverse scenarios.
+And next it's very there's also
+something that exists called sim toreal
+gap. And this sim to real gap the makes
+it hard for models trained in simulation
+to work in the real world.
+Last form of data is videos. Now videos
+is a really good form of data. It is
+very very diverse. You are collecting
+videos in India, China, US, Europe,
+everywhere. So you can get really really
+diverse forms of data. There's lots of
+scale. But the cons is video does not
+have enough information. It does not
+have force information. So it's really
+hard uh to basically scale up with this
+un poor form of data. At skilled our
+approach is to use all different forms
+of data. We use videos and simulation
+which are scalable and poor and we also
+use teleopen deployment which is rich
+but non-scalable. And our approach is to
+pre-train using simulation and lots and
+lots of human videos and then post-
+trainin using teleob data and deployment
+data. That makes our models really
+really precise. Here is what you get
+generalization from. You get
+generalization and the ability to handle
+corner cases from the pre-training part
+of the model. And so you can do very
+very precise task.
+So here is an example of a precise task
+that was pre-trained on lots of videos
+but then post-trained on this AirPod
+data. Now these are fake AirPods of from
+TEU. They don't have magnet so they have
+to be really really precise. Now here we
+are able to pre-train to such a degree
+that we can fine-tune with less than one
+hour of robot data. Again, the
+pre-training is so good with videos and
+simulation that you can fine-tune with
+less than 1 hours of robot data. And you
+can do it for diverse task, not just one
+kind of task, whether they are watering
+plants, picking up robots, putting a
+pick picking up uh cups and so on so
+forth. But this is my favorite task.
+This kind of shows you the power of
+training foundation model with
+pre-training and post-training.
+cooking eggs. Really, really hard to
+break eggs. My seven-year-old still
+struggles to break eggs. But look at
+here. The robot is able to break eggs,
+whisk it, season it. And this is all
+visual. When the eggs are cooked, it
+knows from the visual examples that the
+egg is cooked and ready to be served.
+And we can cook hundreds of eggs every
+day. We cook hundreds of eggs which are
+really really uh show the performance
+that we can achieve today.
+But to get the deployment robustness we
+basically use more augmentations. So we
+take the post training data and we
+augmented using the Nvidia Cosmos and
+Nvidia Omniverse in partnership with
+Nvidia. And so with this kind of
+augmentations we are really able to
+scale up the post training and deploy
+robots live. So here is a robot that is
+live went live in Houston Nvidia factory
+for GPU task and the goal is to insert
+bus bars into the GPU and the robot is
+able to do this and scale it up in
+Houston fac Nvidia's Houston factory and
+achieve it in a cycle time much faster
+than humans.
+Again this is something which is kind of
+unheard of when it comes to these kind
+of task like having a cycle time faster
+than humans. So it's basically screwing
+up all the 16 screws and then the
+buzzbar is removed from these tasks.
+Okay. So the first question was what is
+a data? Next you need to answer whether
+you're training an end toend model or a
+modular approach. Classically robotics
+has been something like this training
+different modules for different task.
+But at skill we are using an end to-end
+approach. pixels as input and outcome
+motor commands and all the other modules
+are emergent out of the data.
+Now I'm sure you are seeing lot of
+humanoid videos nowadays. A lot of them
+are dancing videos but I want to remind
+you this is a much easier task
+because here the all the motion is in
+free space. It's almost copying the
+motion. A much harder task is climbing
+stairs because you have to precisely
+solve the vision and know where exactly
+to keep your steps to climb this. This
+is kind of Moravik's paradox. It seems
+that the dancing is hard but it's
+actually much easy for the robots. On
+the other hand, stair seems easy for
+humans but it's much harder for robots.
+At skil we have one of the best visual
+locomotion policy for these robots. And
+again robot has never seen any of these
+scenes before. It's all the decisions
+are being done on the fly. There's a
+camera on the torso that is used to get
+the pixels and the robot is making the
+decisions on where to keep footsteps,
+how to balance everything on the fly in
+the real time. So you're trying to do
+vision and action at 100 hertz which is
+kind of what makes this uh training of
+these foundation model really really
+hard. And you can see it can do these
+very very complex terrains and it can
+balance itself out on all these complex
+terrains and the footsteps are raised at
+the right time because the vision lets
+you know that there's a new thing that
+is coming and you have to balance it
+out. Again, this is one of the best
+visual locomotion policies when it comes
+to climbing stairs. We can climb any
+kind of stairs. This is fire escapes.
+Now, turns out fire escapes are the
+hardest kind of stairs compared to
+regular stairs. U which is kind of
+counterintuitive if you think of going
+up and down the stairs uh with objects
+in hand. And again this is kind of
+showing that the robot is very very
+robust to these different kind of uh
+stair locomotion policies and so on.
+I'll wait for a second because I want to
+show you the next part which is not only
+it can climb stairs and so on. It is
+very robust to pushes and pulls during
+the stairs.
+So you can see it. These stairs are
+outdoor. Cannot be measured. Cannot be.
+They are doing it on the fly. It making
+the decision on the fly through the uh
+torso camera.
+And this is my favorite part here. The
+robot is trying to climb the stair.
+Someone is pulling it yet it able to
+balance itself out and decide. And the
+next thing is the hardest. climbing down
+and someone pushes you even that the
+robot can balance on its own.
+But that said, we can also do these kind
+of traditional uh blind tasks like
+parkour and so on. So here's are some of
+the parkour task that our robot can also
+do. Uh but again this is a much easier
+task than compared to stairs because the
+robot is blind in these scenarios.
+You can think it climbing up these high
+steps again copying the motion and
+that's it.
+Okay, the last part why Omnibody and
+again if you're training specialist
+policies and when a robot hardware
+changes the specialist policy fail. So
+for example here we are tying the robot
+leg or one of the knee fails and this
+specially specialist policy completely
+breaks down because it has not been
+trained for this hardware. At skill we
+are training a one model for every
+possible hardware. So our solution is to
+adapt to these changes in hardware via
+in context learning and with this our
+hardware changes can happen real time
+and the robot can adapt in real time. So
+this is my favorite example where you
+can even take the robot cut its leg it's
+still able to balance itself out or you
+can have the knee fail it is able to
+balance itself out. Again, all these
+changes tell you the safety aspect of it
+that the robot will be safe even if the
+hardware of these robot changes. It's
+kind of like crash testing these robot
+like the way you do with cars as well.
+You crash test them and see if they
+fail. So the knee fails, the robot
+adapts within milliseconds and able to b
+walk in three legs.
+What if the robot cannot use front legs?
+Again within milliseconds the robot is
+able to adapt and walk like a humanoid
+because the same model is being used to
+both train for humanoids and the dog
+robot. Add new parts not a problem.
+Again starts to walk with new parts
+forces.
+You can have like add weights
+again. Able to adapt on the fly by uh
+using this in context learning. What if
+the wheels fail or jam again? No
+problem. It starts using the legs and
+starts walking like more like a jogger.
+Two two knees fail. Not a problem.
+Again, able to balance itself out. So at
+skill, we are trying to train a brain
+that works for different hardware. And
+our vision is not a humanoid, not a one
+kind of robot, but different kind of
+robot making this whole space perfectly
+automated. And so here is an example of
+our vision where there are different
+robots, AMRs, humanoids, uh dog robot,
+all these robots working together in
+synergy to achieve the task. So AMRs are
+moving objects around, humanoids are
+doing replenishment with with the uh
+placing of hardware.
+So it's a mixed fleet of hardware that
+can achieve all the task. AMRs are
+moving the objects around. There are
+these dog robots which are doing safety
+violations and so on so forth. So the
+idea is we will have a mixed fleet of
+robots that will bring automation to
+every part of our world. That's it.
+Thank you.

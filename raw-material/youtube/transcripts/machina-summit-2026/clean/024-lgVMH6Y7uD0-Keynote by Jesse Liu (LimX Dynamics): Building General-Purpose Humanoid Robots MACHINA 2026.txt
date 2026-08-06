@@ -1,0 +1,482 @@
+[music]
+Hello everyone. Um, good afternoon. Uh,
+well, this is me. Um, we are Limx
+Dynamics. Um, you can see our logo on
+all your badges. So, uh, so you can
+remember us. And, um, one other thing
+that's quite physical about our
+representation here today, apart from me
+being here, is um, one of our robots
+actually being able to make it. Uh if
+you just uh turn your heads over here,
+this is um our flagship humanoid called
+Ollie and uh courtesy of our very good
+partners here in France um RW Robotics.
+So
+um just here to briefly tell you some
+some information about our company, how
+we approach robotics in general and how
+I think uh uh China is evolving in the
+robotics space.
+So um we actually started the company in
+2022 and when we first started the
+company we asked we asked ourselves two
+very important things. So what do what
+does the ecosystem of robotics require
+in the future and we basically came to
+two conclusions that we we think are
+quite important and uh these are these
+are these are the things that really
+started our company. One is we need two
+robot product lines. One is a general
+general purpose uh allpurpose you could
+say humanoid. We as we've made here a
+full-size full degree of freedom
+humanoid. And the other thing we think
+we we really need is a fully modular
+robot that is uh opens up the
+possibility of being optimized for every
+specific scenario that our customers
+want to participate in. So, um, for, uh,
+people who are new to our brand, we
+have, um, our general purpose humanoid
+product lines. We call the OIE and the
+Luna. Sad the Luna couldn't be here
+today, but, um, there's the armored up
+version of the Ollie. And we have our
+Tron product lines, which is, um, the
+world's first modular reconfigurable
+robot. So with one hardware you can
+actually get actually infinite forms out
+of it because you can actually combine
+different robots to form uh different
+configurations uh that I'm going to show
+you in a in a in a in a little bit. So
+we have um a pretty comprehensive
+hardware product line for every type of
+customers who want to experiment who who
+want to do a kind of scenario uh
+experiment experimentation with robots
+today.
+Uh quite self-explanatory. Um our ollie
+is um one of um the world's currently
+most iconic uh full-size humanoid
+products um that is uh available for
+purchase actually available for shipping
+worldwide. Um unfortunately it won't
+come like this. Uh it will come without
+the armor. Um but it's got 31 degrees of
+freedom. Um 170 cm tall. So full size,
+full degree of freedom capable of whole
+body tracking and then full body local
+manipulation. So this is a uh we call
+our killer a killer platform for general
+purpose humanoid robots.
+Um some brief demonstrations here.
+Actually very excited uh uh for um today
+because we're actually premiering
+something
+and this is our robot in action. You
+won't see this on this one
+unfortunately, but um uh this is the
+robot actually uh running a full body
+local manipulation VA framework um kind
+of uh adjusting to environment um
+interacting with physical objects in
+real time um and using whole body local
+motion. So this is something very
+important for us humanoid builders is to
+be able to leverage full body motion
+control in the motion in the uh
+manipulation tasks that we actually
+perform. So this is a very um tricky
+task of uh trying to catch a tennis ball
+that's in motion. So um it's it's very
+different to the traditional pick and
+place um tasks. We call this 3D pick and
+place actually. So uh being able to
+leverage whole body degrees of freedom
+and being able to interact with objects
+that are changing in location. So um
+these are the these are the things that
+we think are are are very important
+foundational skills um for getting more
+humanoids into more uh more useful
+scenarios in the future. I'm going to
+pause this. We have um
+some more interesting stuff. So oh went
+too far.
+So our robots are interestingly uh not
+really geared towards industrial use
+cases. Um we like to more focus more a
+little bit on uh service use cases
+because um we build we build our
+humanoids as lightweight multi-purpose
+platforms uh that can actually serve
+humans. So we don't want them to be
+working in the manufacturing um uh kind
+of in the in the manufacturing
+production lines in replacement of a
+human. Rather we want uh our our robots
+to coexist very well with a human being.
+So um the skills we train our robots to
+do today are more uh relevant with uh
+kind of uh service and commercial use
+scenarios. Um and and dancing being a
+very important for first step in in in
+commercial delivering commercial value
+to customers because uh dancing
+obviously uh catches a lot of attention
+and um this is how we're able to deliver
+our first wave of ROI to our customers
+by simply giving them more traffic in
+the in the offline space. So currently
+we work with a lot of um offline retail
+chains. We work with a lot of automakers
+uh to have robots actually being uh
+being kind of salespeople in their in
+their offline stores and and shops uh in
+order to attract more attention to their
+products. So I think this is one of the
+first ways that humanoids uh is already
+being used for um very real uh
+returnbased scenarios in in the
+commercial space. Um and uh we we can do
+a we can do a dance on on on the Ali as
+well a bit later.
+Um, our Tron uh product is is what we
+actually started the company on. Um,
+it's it's one of our uh most it's the
+it's the product that we're the most
+proud of. Um, so on the left there you
+can see the three configurations of Tron
+which is a bipedal product and it at its
+core. Uh, but we we're a we were able to
+kind of multi-purpose uh achieve a
+multi-purpose design with the limbs so
+that you can actually change the legs
+into into arms as well. So this is what
+we call kind of an all-purpose a really
+powerful u PC platform for all types of
+uh scenarios that our customers our
+partners may may want to enter. For
+example uh the the bipedal wheelbased
+platform you can use for uh inspection.
+You can use for logistics. It can carry
+up to 50 kilograms of weight. So a very
+kind of heavy lifting um bipedal
+platform. And you know with some simple
+screwing uh you can change them into
+arms very quickly. So they can do uh
+dextrous manipulation work. Um and and
+and this is at the price of only one
+robot. So I think that's quite
+important. Now for innovators who want
+to do more with them, we can actually
+support uh combinations of of different
+forms. So we often ask ourselves, okay,
+what if we uh in a scenario we want four
+four legs and two arms, right? We we
+should be able to make that sort of
+robot ourselves as as customers. So uh
+with the Tron 2 platform, we actually
+achieved this. Um if you can see here,
+we we actually did this ourselves. We
+made kind of a centaur for form as well.
+We uh using kind of the two lower body
+and one upper body configuration and we
+can actually make a quadripad. We can
+make six legs, eight legs and so on.
+Right? Depending on the scenario you
+need, we can actually uh configure uh
+reconfigure your hardware accordingly.
+So um this is I think a very important
+step forward for uh robotic hardware
+innovation going into the future and uh
+Limx is very proud to be the first
+company in the world to actually do
+something like this.
+Um,
+so this is actually what we call the
+most powerful legs and most powerful
+arms um in in condensed into one
+product. So, so this is something we're
+quite proud of.
+And our newest product is um a fully
+interactive, fully autonomous humanoid
+we call Luna. It's it's got a very
+feminine design. Um it's uh we ditched
+the whole remote control thing entirely
+and um we're basing every interaction uh
+with the Luna on voice and visual
+interactions. So um currently um so so
+Luna is actually a very good product if
+you want to uh for example have a
+guidance robot, if you want to have a
+sales robot uh that is fully
+autonomously running today. So, you
+know, it's very hard to actually get one
+of these products in real life. And Luna
+is is actually um one of the first
+full-size humanoid um fully autonomous
+um hardware platforms in the world that
+you can actually purchase um that
+actually achieves um what we actually
+want humanoids to achieve.
+Um as far as kind of uh systems go, we
+we take this agentic approach. Um and I
+think this is quite important. uh we
+don't see the model or you know a
+cluster of data as the brain of um of
+the robot. We actually put a very big
+emphasis on kind of the BLM uh section
+in in the decision-m in that we think we
+have you know very intelligent very
+smart multimodal language based models
+nowadays that we're not using properly.
+um we're putting too much uh emphasis
+into action um level generalization, you
+know, scenario generaliz generalization
+that we are kind of uh we're kind of you
+know going away from how intelligent
+these large language models today are.
+So um we've kind of developed uh a three
+system layer at the foundational level
+is is what we call system zero which is
+uh the whole body motion control which
+is what you know enables the robot to
+dance to jump to do back flips and all
+that all that good stuff. in system one
+are the specific skills
+picking up objects, interacting, opening
+doors, right? Going uh climbing stairs
+and what really facilitates and what
+orchestrates all that skill and um
+decides when system zero comes into play
+is um our cost system which is ouric
+layer which really gives the robot that
+high level of autonomy um that you know
+all robot makers actually uh have
+promised. So um you know versatile
+interaction skills all the things you
+expect from a good uh virtual agent
+we've built into the robot physically uh
+and that it can actually orchestrate it
+can actually uh facilitate the different
+skills and tools on board a robot and
+make physical change in the physical
+world. Um and and and and um if any of
+you happen to be in uh Shenzhen in China
+please let us know we have um an office
+uh an office robot in our office
+actually doing doing work for us
+already. So, for example, if I want to
+find somebody across the office, I'll
+tell the robot, "Go see if such and such
+person person is there and he will
+understand that prompt. He will kind of
+selfn himself over um tap him on the
+shoulder lightly and say, you know,
+Jesse's looking for you." And that's the
+type of like fully agent, fully
+autonomous robots that we're looking to
+build. And you can imagine with more
+skills, uh with better kind of uh with
+more skills, more tools to orchestrate,
+the robot will become increasingly
+intelligent and increasingly useful in
+the real world. So um that's uh our main
+approach and going back to the beginning
+one of the other questions that we asked
+um ourselves when we founded the company
+is what does the ecosystem really need
+and we think um what the ecosystem lacks
+is a good uh series of tool chains. So
+I'm sure a lot of you in the audience
+has have asked yourselves okay I want to
+do something with robotics today where
+should I start right you can buy
+hardware you can buy oi but you actually
+don't have the means to train it you
+don't have the means to uh do you know
+even higher level uh data manipulation
+skills training um and this is why we
+built a full suite of uh tool chains for
+developers so you cannot you can both
+you can actually um start from you know
+nothing um have one of our plat uh
+hardware platforms and have bas
+basically have the entire training
+infrastructure built out for you. Um our
+newest platform um I'd like to emphasize
+here today is our Flux VLA engine. Um
+we're we're all familiar with VA um
+hopefully now. Um but we think what's
+important really is not the model itself
+is the tool chain that really processes
+the data a variety of different data and
+actually outputs the model for the
+customers. So for example, if I'm a
+factory out in Switzerland and I I want
+to buy a robot to do work on my
+production line today, how do I gather
+data, right? How do I train data
+according to uh the robot configuration?
+And um Flux VLA, I won't really go into
+that much detail today, but it's a
+project you can check out. It's an open-
+source uh tool chain. It's an open
+source platform that anyone can use and
+you can start collecting data and
+feeding it through Flux VLA and it will
+output the model you need. you output
+the policy you need uh to actually get
+good results uh in in in a real
+scenario. So um building tool chain tool
+chains I think is is going to be a major
+focus going forward for the company as
+well.
+Um and um you know it's a it's a great
+platform here. I think we get you know
+people coming from all over the world
+and as a representative from China we'd
+like kind of just like to update you
+guys on where the industry is in general
+in China. um because there is sometimes
+an information gap. There is some sort
+of information barrier. Uh you
+definitely get more news regarding the
+European and US uh companies here in
+here here in France. Uh but it's a very
+very vibrant it's a very active scene in
+China as well. Um 2026
+um real robot data I think it's going to
+it's going to go 100x
+uh compared to 2025. And this is being
+very conservative. uh first-person video
+a thousand times because we started from
+basically nothing in 2025.
+uh rapid transition out of VA based
+frameworks to world action models. Could
+be wrong, could be you know uh which
+specific direction of world action
+models the whole world is deciding right
+but um I think I think the entire
+industry in China uh it's rapidly moving
+in that direction as well together with
+the world uh and uh deploying robot uh
+reinforcement learning in the real world
+I think is going to be a theme in China
+uh uh in 2026 as well. So
+those are on data and models. hardware.
+I think um supply chain advantage
+remains in that um if you need cheap,
+reliable uh good hardware such as the
+Ali um it's very hard to surpass Chinese
+supply chain and I think we'll we'll m
+we'll um continue to make good hardware
+going into the future and and be kind of
+the leading innovators as as far as
+hardware goes
+and um we're we're innovating in more
+practical directions in that um if you
+look very closely at the industry in
+China there are beginning uh uh we're
+beginning to have more kind of targeted
+uh uh kind of uh embodiment of robots
+for example underwater for example uh
+reconfigurable quadriped reconfigurable
+bipedal robots um that are geared
+towards kind of the last section I want
+to highlight here is landing because uh
+in China there is a larger pressure
+than anywhere else in the world to land
+robots on mass scale in scenarios today
+and I think That's uh is what uh is
+going to be truly important in pushing
+kind of the next wave of robotics
+improvement not just innovation but
+robotics improvement is kind of
+undergoing uh the scrutiny undergoing
+kind of the challenges in a real
+scenario and integrating with um on on a
+mass scale not just on a PC scale on a
+mass scale with kind of real customer
+scenarios. So um uh I believe this is
+going to happen faster in China than the
+rest of the world. Um also uh you're
+going to see a lot of standardized
+scenario focused uh data sets and
+solutions coming out of China together
+with the hardware uh by the end of the
+year. So um all robotics all robotics
+companies in China are looking to uh
+kind of step out from China go to you
+know go global uh not just with hardware
+but with kind of a more integrated
+solution that has hardware in the middle
+and kind of uh scenario level knowhow
+and data and uh solutions surrounding
+it. uh you know as as a whole package.
+So uh this is something that's happening
+in China today.
+Um my last two minutes I'm I'm going to
+talk about a topic called the new China
+global partnership. I think this is very
+important for the global ecosystem. Um
+I think increasingly with kind of
+innovations in AI and with more funding
+going into this this space uh good
+hardware is going to be more and more
+crucial. So um one of our key tasks at
+Limx is uh make that thing as reliable
+or as good or as cheap as we possibly
+can. Um so that we can actually enable
+uh one uh kind of what we call oneplus 1
+is larger than two uh partnerships. Um a
+lot of kind of mature uh solutions and a
+lot of scenarios have already formed in
+China. Example, for inspection and
+logistics, you use quadrips, we use
+bipedal robots. Um, uh, bipedal
+humanoids more towards kind of service
+scenarios, commercial scenarios. And the
+wheelbased dual arm, uh, configuration
+is is more, um, popular within
+production, uh, production manufacturing
+scenarios in China.
+Um, and tool chain plus data, I think,
+is very important because a lot of the
+tool chains we build because we actually
+make the hardware ourselves. So the tool
+chains are actually very closely
+integrated with the hardware we saw. Um
+and I think it's um it's very important
+for us uh as hardware makers to make the
+accurate the correct uh tool chains to
+enable more and more people around the
+world to get into this field uh what we
+call kind of ecosystem partners uh who
+want to develop more applications uh
+higher level applications um and and
+really surprise us as um as the the
+device manufacturers or as kind of the
+makers of the humanoids. um so we get a
+more vibrant a more kind of
+collaborative uh kind of open uh
+environment or open ecosystem in the
+future. So I think tool chain will be
+very uh crucial in that in building that
+ecosystem um and uh we will be kind of
+uh pushing our tool chain out uh to our
+customers and partners around the world
+uh in the coming months um together with
+our hardware. So
+um yep and uh right on time 20 minutes.
+Thank you guys for your attention and um
+have a good rest of the conference.
+Thank you
+and thank you. Yeah, there you go.
+And big shout out to my friend RW
+Robotics. Thank you, man. Thank you,
+man.

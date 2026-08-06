@@ -1,0 +1,6477 @@
+[
+  {
+    "start": "00:00:00.654",
+    "end": "00:00:07.510",
+    "start_seconds": 0.654,
+    "end_seconds": 7.51,
+    "text": "[music]"
+  },
+  {
+    "start": "00:00:07.520",
+    "end": "00:00:11.270",
+    "start_seconds": 7.52,
+    "end_seconds": 11.27,
+    "text": "Uh hello hi uh thank you all for joining"
+  },
+  {
+    "start": "00:00:11.270",
+    "end": "00:00:11.280",
+    "start_seconds": 11.27,
+    "end_seconds": 11.28,
+    "text": "Uh hello hi uh thank you all for joining"
+  },
+  {
+    "start": "00:00:11.280",
+    "end": "00:00:13.509",
+    "start_seconds": 11.28,
+    "end_seconds": 13.509,
+    "text": "Uh hello hi uh thank you all for joining this session. So we've been listening a"
+  },
+  {
+    "start": "00:00:13.509",
+    "end": "00:00:13.519",
+    "start_seconds": 13.509,
+    "end_seconds": 13.519,
+    "text": "this session. So we've been listening a"
+  },
+  {
+    "start": "00:00:13.519",
+    "end": "00:00:15.990",
+    "start_seconds": 13.519,
+    "end_seconds": 15.99,
+    "text": "this session. So we've been listening a lot about different types of risks in"
+  },
+  {
+    "start": "00:00:15.990",
+    "end": "00:00:16.000",
+    "start_seconds": 15.99,
+    "end_seconds": 16.0,
+    "text": "lot about different types of risks in"
+  },
+  {
+    "start": "00:00:16.000",
+    "end": "00:00:18.630",
+    "start_seconds": 16.0,
+    "end_seconds": 18.63,
+    "text": "lot about different types of risks in robotics industry and what we want to"
+  },
+  {
+    "start": "00:00:18.630",
+    "end": "00:00:18.640",
+    "start_seconds": 18.63,
+    "end_seconds": 18.64,
+    "text": "robotics industry and what we want to"
+  },
+  {
+    "start": "00:00:18.640",
+    "end": "00:00:21.349",
+    "start_seconds": 18.64,
+    "end_seconds": 21.349,
+    "text": "robotics industry and what we want to leave you with today is the psychosocial"
+  },
+  {
+    "start": "00:00:21.349",
+    "end": "00:00:21.359",
+    "start_seconds": 21.349,
+    "end_seconds": 21.359,
+    "text": "leave you with today is the psychosocial"
+  },
+  {
+    "start": "00:00:21.359",
+    "end": "00:00:23.750",
+    "start_seconds": 21.359,
+    "end_seconds": 23.75,
+    "text": "leave you with today is the psychosocial safety and trust in terms of robotics"
+  },
+  {
+    "start": "00:00:23.750",
+    "end": "00:00:23.760",
+    "start_seconds": 23.75,
+    "end_seconds": 23.76,
+    "text": "safety and trust in terms of robotics"
+  },
+  {
+    "start": "00:00:23.760",
+    "end": "00:00:25.429",
+    "start_seconds": 23.76,
+    "end_seconds": 25.429,
+    "text": "safety and trust in terms of robotics industry. So we're going to be"
+  },
+  {
+    "start": "00:00:25.429",
+    "end": "00:00:25.439",
+    "start_seconds": 25.429,
+    "end_seconds": 25.439,
+    "text": "industry. So we're going to be"
+  },
+  {
+    "start": "00:00:25.439",
+    "end": "00:00:27.189",
+    "start_seconds": 25.439,
+    "end_seconds": 27.189,
+    "text": "industry. So we're going to be presenting some of the work that we are"
+  },
+  {
+    "start": "00:00:27.189",
+    "end": "00:00:27.199",
+    "start_seconds": 27.189,
+    "end_seconds": 27.199,
+    "text": "presenting some of the work that we are"
+  },
+  {
+    "start": "00:00:27.199",
+    "end": "00:00:29.189",
+    "start_seconds": 27.199,
+    "end_seconds": 29.189,
+    "text": "presenting some of the work that we are doing at the Institute for Humane"
+  },
+  {
+    "start": "00:00:29.189",
+    "end": "00:00:29.199",
+    "start_seconds": 29.189,
+    "end_seconds": 29.199,
+    "text": "doing at the Institute for Humane"
+  },
+  {
+    "start": "00:00:29.199",
+    "end": "00:00:33.590",
+    "start_seconds": 29.199,
+    "end_seconds": 33.59,
+    "text": "doing at the Institute for Humane Robotics. Um so first question that I'm"
+  },
+  {
+    "start": "00:00:33.590",
+    "end": "00:00:33.600",
+    "start_seconds": 33.59,
+    "end_seconds": 33.6,
+    "text": "Robotics. Um so first question that I'm"
+  },
+  {
+    "start": "00:00:33.600",
+    "end": "00:00:36.870",
+    "start_seconds": 33.6,
+    "end_seconds": 36.87,
+    "text": "Robotics. Um so first question that I'm going to have for all of you is what"
+  },
+  {
+    "start": "00:00:36.870",
+    "end": "00:00:36.880",
+    "start_seconds": 36.87,
+    "end_seconds": 36.88,
+    "text": "going to have for all of you is what"
+  },
+  {
+    "start": "00:00:36.880",
+    "end": "00:00:39.990",
+    "start_seconds": 36.88,
+    "end_seconds": 39.99,
+    "text": "going to have for all of you is what will happen to humanity when robots"
+  },
+  {
+    "start": "00:00:39.990",
+    "end": "00:00:40.000",
+    "start_seconds": 39.99,
+    "end_seconds": 40.0,
+    "text": "will happen to humanity when robots"
+  },
+  {
+    "start": "00:00:40.000",
+    "end": "00:00:42.950",
+    "start_seconds": 40.0,
+    "end_seconds": 42.95,
+    "text": "will happen to humanity when robots enter our life at scale. This is the"
+  },
+  {
+    "start": "00:00:42.950",
+    "end": "00:00:42.960",
+    "start_seconds": 42.95,
+    "end_seconds": 42.96,
+    "text": "enter our life at scale. This is the"
+  },
+  {
+    "start": "00:00:42.960",
+    "end": "00:00:45.270",
+    "start_seconds": 42.96,
+    "end_seconds": 45.27,
+    "text": "enter our life at scale. This is the centerpiece question of the work that we"
+  },
+  {
+    "start": "00:00:45.270",
+    "end": "00:00:45.280",
+    "start_seconds": 45.27,
+    "end_seconds": 45.28,
+    "text": "centerpiece question of the work that we"
+  },
+  {
+    "start": "00:00:45.280",
+    "end": "00:00:48.310",
+    "start_seconds": 45.28,
+    "end_seconds": 48.31,
+    "text": "centerpiece question of the work that we are doing at the institute. And what we"
+  },
+  {
+    "start": "00:00:48.310",
+    "end": "00:00:48.320",
+    "start_seconds": 48.31,
+    "end_seconds": 48.32,
+    "text": "are doing at the institute. And what we"
+  },
+  {
+    "start": "00:00:48.320",
+    "end": "00:00:50.549",
+    "start_seconds": 48.32,
+    "end_seconds": 50.549,
+    "text": "are doing at the institute. And what we are, we are a private research"
+  },
+  {
+    "start": "00:00:50.549",
+    "end": "00:00:50.559",
+    "start_seconds": 50.549,
+    "end_seconds": 50.559,
+    "text": "are, we are a private research"
+  },
+  {
+    "start": "00:00:50.559",
+    "end": "00:00:53.270",
+    "start_seconds": 50.559,
+    "end_seconds": 53.27,
+    "text": "are, we are a private research organization and a standards body that's"
+  },
+  {
+    "start": "00:00:53.270",
+    "end": "00:00:53.280",
+    "start_seconds": 53.27,
+    "end_seconds": 53.28,
+    "text": "organization and a standards body that's"
+  },
+  {
+    "start": "00:00:53.280",
+    "end": "00:00:55.750",
+    "start_seconds": 53.28,
+    "end_seconds": 55.75,
+    "text": "organization and a standards body that's working on all robots entering human"
+  },
+  {
+    "start": "00:00:55.750",
+    "end": "00:00:55.760",
+    "start_seconds": 55.75,
+    "end_seconds": 55.76,
+    "text": "working on all robots entering human"
+  },
+  {
+    "start": "00:00:55.760",
+    "end": "00:00:58.790",
+    "start_seconds": 55.76,
+    "end_seconds": 58.79,
+    "text": "working on all robots entering human environments, specifically caregiving,"
+  },
+  {
+    "start": "00:00:58.790",
+    "end": "00:00:58.800",
+    "start_seconds": 58.79,
+    "end_seconds": 58.8,
+    "text": "environments, specifically caregiving,"
+  },
+  {
+    "start": "00:00:58.800",
+    "end": "00:01:02.470",
+    "start_seconds": 58.8,
+    "end_seconds": 62.47,
+    "text": "environments, specifically caregiving, household, education, and healthcare."
+  },
+  {
+    "start": "00:01:02.470",
+    "end": "00:01:02.480",
+    "start_seconds": 62.47,
+    "end_seconds": 62.48,
+    "text": "household, education, and healthcare."
+  },
+  {
+    "start": "00:01:02.480",
+    "end": "00:01:04.789",
+    "start_seconds": 62.48,
+    "end_seconds": 64.789,
+    "text": "household, education, and healthcare. So, historically speaking, what we've"
+  },
+  {
+    "start": "00:01:04.789",
+    "end": "00:01:04.799",
+    "start_seconds": 64.789,
+    "end_seconds": 64.799,
+    "text": "So, historically speaking, what we've"
+  },
+  {
+    "start": "00:01:04.799",
+    "end": "00:01:08.230",
+    "start_seconds": 64.799,
+    "end_seconds": 68.23,
+    "text": "So, historically speaking, what we've seen with technology industry is that we"
+  },
+  {
+    "start": "00:01:08.230",
+    "end": "00:01:08.240",
+    "start_seconds": 68.23,
+    "end_seconds": 68.24,
+    "text": "seen with technology industry is that we"
+  },
+  {
+    "start": "00:01:08.240",
+    "end": "00:01:11.510",
+    "start_seconds": 68.24,
+    "end_seconds": 71.51,
+    "text": "seen with technology industry is that we build, we deploy, and then we are"
+  },
+  {
+    "start": "00:01:11.510",
+    "end": "00:01:11.520",
+    "start_seconds": 71.51,
+    "end_seconds": 71.52,
+    "text": "build, we deploy, and then we are"
+  },
+  {
+    "start": "00:01:11.520",
+    "end": "00:01:13.670",
+    "start_seconds": 71.52,
+    "end_seconds": 73.67,
+    "text": "build, we deploy, and then we are dealing with the consequences."
+  },
+  {
+    "start": "00:01:13.670",
+    "end": "00:01:13.680",
+    "start_seconds": 73.67,
+    "end_seconds": 73.68,
+    "text": "dealing with the consequences."
+  },
+  {
+    "start": "00:01:13.680",
+    "end": "00:01:16.149",
+    "start_seconds": 73.68,
+    "end_seconds": 76.149,
+    "text": "dealing with the consequences. And so a couple of examples of that"
+  },
+  {
+    "start": "00:01:16.149",
+    "end": "00:01:16.159",
+    "start_seconds": 76.149,
+    "end_seconds": 76.15899999999999,
+    "text": "And so a couple of examples of that"
+  },
+  {
+    "start": "00:01:16.159",
+    "end": "00:01:18.789",
+    "start_seconds": 76.15899999999999,
+    "end_seconds": 78.789,
+    "text": "And so a couple of examples of that would be studying with social media. So"
+  },
+  {
+    "start": "00:01:18.789",
+    "end": "00:01:18.799",
+    "start_seconds": 78.789,
+    "end_seconds": 78.799,
+    "text": "would be studying with social media. So"
+  },
+  {
+    "start": "00:01:18.799",
+    "end": "00:01:21.749",
+    "start_seconds": 78.799,
+    "end_seconds": 81.749,
+    "text": "would be studying with social media. So for 12 years now we already have all the"
+  },
+  {
+    "start": "00:01:21.749",
+    "end": "00:01:21.759",
+    "start_seconds": 81.749,
+    "end_seconds": 81.759,
+    "text": "for 12 years now we already have all the"
+  },
+  {
+    "start": "00:01:21.759",
+    "end": "00:01:23.910",
+    "start_seconds": 81.759,
+    "end_seconds": 83.91,
+    "text": "for 12 years now we already have all the depth of the research on how social"
+  },
+  {
+    "start": "00:01:23.910",
+    "end": "00:01:23.920",
+    "start_seconds": 83.91,
+    "end_seconds": 83.92,
+    "text": "depth of the research on how social"
+  },
+  {
+    "start": "00:01:23.920",
+    "end": "00:01:26.630",
+    "start_seconds": 83.92,
+    "end_seconds": 86.63,
+    "text": "depth of the research on how social media has been shaping especially child"
+  },
+  {
+    "start": "00:01:26.630",
+    "end": "00:01:26.640",
+    "start_seconds": 86.63,
+    "end_seconds": 86.64,
+    "text": "media has been shaping especially child"
+  },
+  {
+    "start": "00:01:26.640",
+    "end": "00:01:29.670",
+    "start_seconds": 86.64,
+    "end_seconds": 89.67,
+    "text": "media has been shaping especially child development but also generally humanity."
+  },
+  {
+    "start": "00:01:29.670",
+    "end": "00:01:29.680",
+    "start_seconds": 89.67,
+    "end_seconds": 89.68,
+    "text": "development but also generally humanity."
+  },
+  {
+    "start": "00:01:29.680",
+    "end": "00:01:31.350",
+    "start_seconds": 89.68,
+    "end_seconds": 91.35,
+    "text": "development but also generally humanity. Some of the cases that we've been seeing"
+  },
+  {
+    "start": "00:01:31.350",
+    "end": "00:01:31.360",
+    "start_seconds": 91.35,
+    "end_seconds": 91.36,
+    "text": "Some of the cases that we've been seeing"
+  },
+  {
+    "start": "00:01:31.360",
+    "end": "00:01:33.749",
+    "start_seconds": 91.36,
+    "end_seconds": 93.749,
+    "text": "Some of the cases that we've been seeing in the last years are related to cyber"
+  },
+  {
+    "start": "00:01:33.749",
+    "end": "00:01:33.759",
+    "start_seconds": 93.749,
+    "end_seconds": 93.759,
+    "text": "in the last years are related to cyber"
+  },
+  {
+    "start": "00:01:33.759",
+    "end": "00:01:35.670",
+    "start_seconds": 93.759,
+    "end_seconds": 95.67,
+    "text": "in the last years are related to cyber bullying, increase in anxiety,"
+  },
+  {
+    "start": "00:01:35.670",
+    "end": "00:01:35.680",
+    "start_seconds": 95.67,
+    "end_seconds": 95.68,
+    "text": "bullying, increase in anxiety,"
+  },
+  {
+    "start": "00:01:35.680",
+    "end": "00:01:39.190",
+    "start_seconds": 95.68,
+    "end_seconds": 99.19,
+    "text": "bullying, increase in anxiety, depression and suicide rates. Similar to"
+  },
+  {
+    "start": "00:01:39.190",
+    "end": "00:01:39.200",
+    "start_seconds": 99.19,
+    "end_seconds": 99.2,
+    "text": "depression and suicide rates. Similar to"
+  },
+  {
+    "start": "00:01:39.200",
+    "end": "00:01:42.149",
+    "start_seconds": 99.2,
+    "end_seconds": 102.149,
+    "text": "depression and suicide rates. Similar to that we are also now experiencing the"
+  },
+  {
+    "start": "00:01:42.149",
+    "end": "00:01:42.159",
+    "start_seconds": 102.149,
+    "end_seconds": 102.15899999999999,
+    "text": "that we are also now experiencing the"
+  },
+  {
+    "start": "00:01:42.159",
+    "end": "00:01:45.350",
+    "start_seconds": 102.15899999999999,
+    "end_seconds": 105.35,
+    "text": "that we are also now experiencing the same problems in AI space. Um most"
+  },
+  {
+    "start": "00:01:45.350",
+    "end": "00:01:45.360",
+    "start_seconds": 105.35,
+    "end_seconds": 105.36,
+    "text": "same problems in AI space. Um most"
+  },
+  {
+    "start": "00:01:45.360",
+    "end": "00:01:48.550",
+    "start_seconds": 105.36,
+    "end_seconds": 108.55,
+    "text": "same problems in AI space. Um most recently we've seen a couple of uh cases"
+  },
+  {
+    "start": "00:01:48.550",
+    "end": "00:01:48.560",
+    "start_seconds": 108.55,
+    "end_seconds": 108.56,
+    "text": "recently we've seen a couple of uh cases"
+  },
+  {
+    "start": "00:01:48.560",
+    "end": "00:01:51.270",
+    "start_seconds": 108.56,
+    "end_seconds": 111.27000000000001,
+    "text": "recently we've seen a couple of uh cases when uh teenagers would commit suicide"
+  },
+  {
+    "start": "00:01:51.270",
+    "end": "00:01:51.280",
+    "start_seconds": 111.27000000000001,
+    "end_seconds": 111.28,
+    "text": "when uh teenagers would commit suicide"
+  },
+  {
+    "start": "00:01:51.280",
+    "end": "00:01:54.149",
+    "start_seconds": 111.28,
+    "end_seconds": 114.149,
+    "text": "when uh teenagers would commit suicide with the help of their AI specifically"
+  },
+  {
+    "start": "00:01:54.149",
+    "end": "00:01:54.159",
+    "start_seconds": 114.149,
+    "end_seconds": 114.15899999999999,
+    "text": "with the help of their AI specifically"
+  },
+  {
+    "start": "00:01:54.159",
+    "end": "00:01:58.469",
+    "start_seconds": 114.15899999999999,
+    "end_seconds": 118.469,
+    "text": "with the help of their AI specifically with the story of Adam. He had 277"
+  },
+  {
+    "start": "00:01:58.469",
+    "end": "00:01:58.479",
+    "start_seconds": 118.469,
+    "end_seconds": 118.479,
+    "text": "with the story of Adam. He had 277"
+  },
+  {
+    "start": "00:01:58.479",
+    "end": "00:02:00.870",
+    "start_seconds": 118.479,
+    "end_seconds": 120.87,
+    "text": "with the story of Adam. He had 277 mentions of suicide in his"
+  },
+  {
+    "start": "00:02:00.870",
+    "end": "00:02:00.880",
+    "start_seconds": 120.87,
+    "end_seconds": 120.88,
+    "text": "mentions of suicide in his"
+  },
+  {
+    "start": "00:02:00.880",
+    "end": "00:02:03.749",
+    "start_seconds": 120.88,
+    "end_seconds": 123.749,
+    "text": "mentions of suicide in his correspondence with Chad Gypit. It went"
+  },
+  {
+    "start": "00:02:03.749",
+    "end": "00:02:03.759",
+    "start_seconds": 123.749,
+    "end_seconds": 123.759,
+    "text": "correspondence with Chad Gypit. It went"
+  },
+  {
+    "start": "00:02:03.759",
+    "end": "00:02:06.389",
+    "start_seconds": 123.759,
+    "end_seconds": 126.389,
+    "text": "correspondence with Chad Gypit. It went so far that Chad GPT helped him to"
+  },
+  {
+    "start": "00:02:06.389",
+    "end": "00:02:06.399",
+    "start_seconds": 126.389,
+    "end_seconds": 126.399,
+    "text": "so far that Chad GPT helped him to"
+  },
+  {
+    "start": "00:02:06.399",
+    "end": "00:02:09.270",
+    "start_seconds": 126.399,
+    "end_seconds": 129.27,
+    "text": "so far that Chad GPT helped him to brainstorm the ways how he should tie a"
+  },
+  {
+    "start": "00:02:09.270",
+    "end": "00:02:09.280",
+    "start_seconds": 129.27,
+    "end_seconds": 129.28,
+    "text": "brainstorm the ways how he should tie a"
+  },
+  {
+    "start": "00:02:09.280",
+    "end": "00:02:11.990",
+    "start_seconds": 129.28,
+    "end_seconds": 131.99,
+    "text": "brainstorm the ways how he should tie a knot that he used to end up hanging"
+  },
+  {
+    "start": "00:02:11.990",
+    "end": "00:02:12.000",
+    "start_seconds": 131.99,
+    "end_seconds": 132.0,
+    "text": "knot that he used to end up hanging"
+  },
+  {
+    "start": "00:02:12.000",
+    "end": "00:02:15.030",
+    "start_seconds": 132.0,
+    "end_seconds": 135.03,
+    "text": "knot that he used to end up hanging himself and unfortunately after that his"
+  },
+  {
+    "start": "00:02:15.030",
+    "end": "00:02:15.040",
+    "start_seconds": 135.03,
+    "end_seconds": 135.04,
+    "text": "himself and unfortunately after that his"
+  },
+  {
+    "start": "00:02:15.040",
+    "end": "00:02:18.229",
+    "start_seconds": 135.04,
+    "end_seconds": 138.22899999999998,
+    "text": "himself and unfortunately after that his parents found him dead in his room. Now"
+  },
+  {
+    "start": "00:02:18.229",
+    "end": "00:02:18.239",
+    "start_seconds": 138.22899999999998,
+    "end_seconds": 138.239,
+    "text": "parents found him dead in his room. Now"
+  },
+  {
+    "start": "00:02:18.239",
+    "end": "00:02:20.550",
+    "start_seconds": 138.239,
+    "end_seconds": 140.55,
+    "text": "parents found him dead in his room. Now Open Eye is going through a lawsuit with"
+  },
+  {
+    "start": "00:02:20.550",
+    "end": "00:02:20.560",
+    "start_seconds": 140.55,
+    "end_seconds": 140.56,
+    "text": "Open Eye is going through a lawsuit with"
+  },
+  {
+    "start": "00:02:20.560",
+    "end": "00:02:23.510",
+    "start_seconds": 140.56,
+    "end_seconds": 143.51,
+    "text": "Open Eye is going through a lawsuit with the family and what we are seeing is"
+  },
+  {
+    "start": "00:02:23.510",
+    "end": "00:02:23.520",
+    "start_seconds": 143.51,
+    "end_seconds": 143.52,
+    "text": "the family and what we are seeing is"
+  },
+  {
+    "start": "00:02:23.520",
+    "end": "00:02:25.910",
+    "start_seconds": 143.52,
+    "end_seconds": 145.91,
+    "text": "the family and what we are seeing is this is something that might also happen"
+  },
+  {
+    "start": "00:02:25.910",
+    "end": "00:02:25.920",
+    "start_seconds": 145.91,
+    "end_seconds": 145.92000000000002,
+    "text": "this is something that might also happen"
+  },
+  {
+    "start": "00:02:25.920",
+    "end": "00:02:29.270",
+    "start_seconds": 145.92000000000002,
+    "end_seconds": 149.27,
+    "text": "this is something that might also happen in the robotics industry. One example of"
+  },
+  {
+    "start": "00:02:29.270",
+    "end": "00:02:29.280",
+    "start_seconds": 149.27,
+    "end_seconds": 149.28,
+    "text": "in the robotics industry. One example of"
+  },
+  {
+    "start": "00:02:29.280",
+    "end": "00:02:31.190",
+    "start_seconds": 149.28,
+    "end_seconds": 151.19,
+    "text": "in the robotics industry. One example of something that already did happen in the"
+  },
+  {
+    "start": "00:02:31.190",
+    "end": "00:02:31.200",
+    "start_seconds": 151.19,
+    "end_seconds": 151.2,
+    "text": "something that already did happen in the"
+  },
+  {
+    "start": "00:02:31.200",
+    "end": "00:02:33.589",
+    "start_seconds": 151.2,
+    "end_seconds": 153.589,
+    "text": "something that already did happen in the robotics industry is with our beloved"
+  },
+  {
+    "start": "00:02:33.589",
+    "end": "00:02:33.599",
+    "start_seconds": 153.589,
+    "end_seconds": 153.599,
+    "text": "robotics industry is with our beloved"
+  },
+  {
+    "start": "00:02:33.599",
+    "end": "00:02:36.470",
+    "start_seconds": 153.599,
+    "end_seconds": 156.47,
+    "text": "robotics industry is with our beloved Moxy. Moxy was one of the earliest"
+  },
+  {
+    "start": "00:02:36.470",
+    "end": "00:02:36.480",
+    "start_seconds": 156.47,
+    "end_seconds": 156.48,
+    "text": "Moxy. Moxy was one of the earliest"
+  },
+  {
+    "start": "00:02:36.480",
+    "end": "00:02:38.550",
+    "start_seconds": 156.48,
+    "end_seconds": 158.55,
+    "text": "Moxy. Moxy was one of the earliest social companion robots that came out of"
+  },
+  {
+    "start": "00:02:38.550",
+    "end": "00:02:38.560",
+    "start_seconds": 158.55,
+    "end_seconds": 158.56,
+    "text": "social companion robots that came out of"
+  },
+  {
+    "start": "00:02:38.560",
+    "end": "00:02:42.949",
+    "start_seconds": 158.56,
+    "end_seconds": 162.949,
+    "text": "social companion robots that came out of MIT. Uh it was built to have a emotional"
+  },
+  {
+    "start": "00:02:42.949",
+    "end": "00:02:42.959",
+    "start_seconds": 162.949,
+    "end_seconds": 162.959,
+    "text": "MIT. Uh it was built to have a emotional"
+  },
+  {
+    "start": "00:02:42.959",
+    "end": "00:02:45.350",
+    "start_seconds": 162.959,
+    "end_seconds": 165.35,
+    "text": "MIT. Uh it was built to have a emotional and social support for kids. But when"
+  },
+  {
+    "start": "00:02:45.350",
+    "end": "00:02:45.360",
+    "start_seconds": 165.35,
+    "end_seconds": 165.36,
+    "text": "and social support for kids. But when"
+  },
+  {
+    "start": "00:02:45.360",
+    "end": "00:02:48.390",
+    "start_seconds": 165.36,
+    "end_seconds": 168.39,
+    "text": "and social support for kids. But when the company went bankrupt, Moxy just"
+  },
+  {
+    "start": "00:02:48.390",
+    "end": "00:02:48.400",
+    "start_seconds": 168.39,
+    "end_seconds": 168.4,
+    "text": "the company went bankrupt, Moxy just"
+  },
+  {
+    "start": "00:02:48.400",
+    "end": "00:02:50.790",
+    "start_seconds": 168.4,
+    "end_seconds": 170.79,
+    "text": "the company went bankrupt, Moxy just stopped working. And all of the sudden"
+  },
+  {
+    "start": "00:02:50.790",
+    "end": "00:02:50.800",
+    "start_seconds": 170.79,
+    "end_seconds": 170.8,
+    "text": "stopped working. And all of the sudden"
+  },
+  {
+    "start": "00:02:50.800",
+    "end": "00:02:52.630",
+    "start_seconds": 170.8,
+    "end_seconds": 172.63,
+    "text": "stopped working. And all of the sudden all these households and people and"
+  },
+  {
+    "start": "00:02:52.630",
+    "end": "00:02:52.640",
+    "start_seconds": 172.63,
+    "end_seconds": 172.64,
+    "text": "all these households and people and"
+  },
+  {
+    "start": "00:02:52.640",
+    "end": "00:02:55.270",
+    "start_seconds": 172.64,
+    "end_seconds": 175.27,
+    "text": "all these households and people and families that have had Moxy as a part of"
+  },
+  {
+    "start": "00:02:55.270",
+    "end": "00:02:55.280",
+    "start_seconds": 175.27,
+    "end_seconds": 175.28,
+    "text": "families that have had Moxy as a part of"
+  },
+  {
+    "start": "00:02:55.280",
+    "end": "00:02:57.350",
+    "start_seconds": 175.28,
+    "end_seconds": 177.35,
+    "text": "families that have had Moxy as a part of their family have left with the"
+  },
+  {
+    "start": "00:02:57.350",
+    "end": "00:02:57.360",
+    "start_seconds": 177.35,
+    "end_seconds": 177.36,
+    "text": "their family have left with the"
+  },
+  {
+    "start": "00:02:57.360",
+    "end": "00:02:59.750",
+    "start_seconds": 177.36,
+    "end_seconds": 179.75,
+    "text": "their family have left with the questions of how do I explain to my"
+  },
+  {
+    "start": "00:02:59.750",
+    "end": "00:02:59.760",
+    "start_seconds": 179.75,
+    "end_seconds": 179.76,
+    "text": "questions of how do I explain to my"
+  },
+  {
+    "start": "00:02:59.760",
+    "end": "00:03:02.149",
+    "start_seconds": 179.76,
+    "end_seconds": 182.149,
+    "text": "questions of how do I explain to my child that this thing that he connected"
+  },
+  {
+    "start": "00:03:02.149",
+    "end": "00:03:02.159",
+    "start_seconds": 182.149,
+    "end_seconds": 182.159,
+    "text": "child that this thing that he connected"
+  },
+  {
+    "start": "00:03:02.159",
+    "end": "00:03:04.949",
+    "start_seconds": 182.159,
+    "end_seconds": 184.949,
+    "text": "child that this thing that he connected to or she connected to is no longer"
+  },
+  {
+    "start": "00:03:04.949",
+    "end": "00:03:04.959",
+    "start_seconds": 184.949,
+    "end_seconds": 184.959,
+    "text": "to or she connected to is no longer"
+  },
+  {
+    "start": "00:03:04.959",
+    "end": "00:03:09.430",
+    "start_seconds": 184.959,
+    "end_seconds": 189.43,
+    "text": "to or she connected to is no longer alive and we are entering the era of"
+  },
+  {
+    "start": "00:03:09.430",
+    "end": "00:03:09.440",
+    "start_seconds": 189.43,
+    "end_seconds": 189.44,
+    "text": "alive and we are entering the era of"
+  },
+  {
+    "start": "00:03:09.440",
+    "end": "00:03:12.070",
+    "start_seconds": 189.44,
+    "end_seconds": 192.07,
+    "text": "alive and we are entering the era of humanoids. uh some of the founders of"
+  },
+  {
+    "start": "00:03:12.070",
+    "end": "00:03:12.080",
+    "start_seconds": 192.07,
+    "end_seconds": 192.08,
+    "text": "humanoids. uh some of the founders of"
+  },
+  {
+    "start": "00:03:12.080",
+    "end": "00:03:14.470",
+    "start_seconds": 192.08,
+    "end_seconds": 194.47,
+    "text": "humanoids. uh some of the founders of the largest companies are so willingly"
+  },
+  {
+    "start": "00:03:14.470",
+    "end": "00:03:14.480",
+    "start_seconds": 194.47,
+    "end_seconds": 194.48,
+    "text": "the largest companies are so willingly"
+  },
+  {
+    "start": "00:03:14.480",
+    "end": "00:03:16.630",
+    "start_seconds": 194.48,
+    "end_seconds": 196.63,
+    "text": "the largest companies are so willingly sharing in their media campaigns that"
+  },
+  {
+    "start": "00:03:16.630",
+    "end": "00:03:16.640",
+    "start_seconds": 196.63,
+    "end_seconds": 196.64,
+    "text": "sharing in their media campaigns that"
+  },
+  {
+    "start": "00:03:16.640",
+    "end": "00:03:19.509",
+    "start_seconds": 196.64,
+    "end_seconds": 199.50900000000001,
+    "text": "sharing in their media campaigns that their robots among other things are also"
+  },
+  {
+    "start": "00:03:19.509",
+    "end": "00:03:19.519",
+    "start_seconds": 199.50900000000001,
+    "end_seconds": 199.519,
+    "text": "their robots among other things are also"
+  },
+  {
+    "start": "00:03:19.519",
+    "end": "00:03:22.630",
+    "start_seconds": 199.519,
+    "end_seconds": 202.63,
+    "text": "their robots among other things are also going to be naming your children. And so"
+  },
+  {
+    "start": "00:03:22.630",
+    "end": "00:03:22.640",
+    "start_seconds": 202.63,
+    "end_seconds": 202.64,
+    "text": "going to be naming your children. And so"
+  },
+  {
+    "start": "00:03:22.640",
+    "end": "00:03:25.030",
+    "start_seconds": 202.64,
+    "end_seconds": 205.03,
+    "text": "going to be naming your children. And so the use case that we are seeing that is"
+  },
+  {
+    "start": "00:03:25.030",
+    "end": "00:03:25.040",
+    "start_seconds": 205.03,
+    "end_seconds": 205.04,
+    "text": "the use case that we are seeing that is"
+  },
+  {
+    "start": "00:03:25.040",
+    "end": "00:03:27.509",
+    "start_seconds": 205.04,
+    "end_seconds": 207.50900000000001,
+    "text": "the use case that we are seeing that is going to become as a intentional"
+  },
+  {
+    "start": "00:03:27.509",
+    "end": "00:03:27.519",
+    "start_seconds": 207.50900000000001,
+    "end_seconds": 207.519,
+    "text": "going to become as a intentional"
+  },
+  {
+    "start": "00:03:27.519",
+    "end": "00:03:30.470",
+    "start_seconds": 207.519,
+    "end_seconds": 210.47,
+    "text": "going to become as a intentional utilization of their robots. But if you"
+  },
+  {
+    "start": "00:03:30.470",
+    "end": "00:03:30.480",
+    "start_seconds": 210.47,
+    "end_seconds": 210.48,
+    "text": "utilization of their robots. But if you"
+  },
+  {
+    "start": "00:03:30.480",
+    "end": "00:03:32.390",
+    "start_seconds": 210.48,
+    "end_seconds": 212.39,
+    "text": "utilization of their robots. But if you look at their team structure, if you"
+  },
+  {
+    "start": "00:03:32.390",
+    "end": "00:03:32.400",
+    "start_seconds": 212.39,
+    "end_seconds": 212.4,
+    "text": "look at their team structure, if you"
+  },
+  {
+    "start": "00:03:32.400",
+    "end": "00:03:34.550",
+    "start_seconds": 212.4,
+    "end_seconds": 214.55,
+    "text": "look at their team structure, if you look at their frameworks, no child"
+  },
+  {
+    "start": "00:03:34.550",
+    "end": "00:03:34.560",
+    "start_seconds": 214.55,
+    "end_seconds": 214.56,
+    "text": "look at their frameworks, no child"
+  },
+  {
+    "start": "00:03:34.560",
+    "end": "00:03:37.030",
+    "start_seconds": 214.56,
+    "end_seconds": 217.03,
+    "text": "look at their frameworks, no child development experts, no family mental"
+  },
+  {
+    "start": "00:03:37.030",
+    "end": "00:03:37.040",
+    "start_seconds": 217.03,
+    "end_seconds": 217.04,
+    "text": "development experts, no family mental"
+  },
+  {
+    "start": "00:03:37.040",
+    "end": "00:03:39.990",
+    "start_seconds": 217.04,
+    "end_seconds": 219.99,
+    "text": "development experts, no family mental health experts. So what we are seeing is"
+  },
+  {
+    "start": "00:03:39.990",
+    "end": "00:03:40.000",
+    "start_seconds": 219.99,
+    "end_seconds": 220.0,
+    "text": "health experts. So what we are seeing is"
+  },
+  {
+    "start": "00:03:40.000",
+    "end": "00:03:42.710",
+    "start_seconds": 220.0,
+    "end_seconds": 222.71,
+    "text": "health experts. So what we are seeing is that we could come across at a much much"
+  },
+  {
+    "start": "00:03:42.710",
+    "end": "00:03:42.720",
+    "start_seconds": 222.71,
+    "end_seconds": 222.72,
+    "text": "that we could come across at a much much"
+  },
+  {
+    "start": "00:03:42.720",
+    "end": "00:03:46.550",
+    "start_seconds": 222.72,
+    "end_seconds": 226.55,
+    "text": "that we could come across at a much much much larger crisis with robots entering"
+  },
+  {
+    "start": "00:03:46.550",
+    "end": "00:03:46.560",
+    "start_seconds": 226.55,
+    "end_seconds": 226.56,
+    "text": "much larger crisis with robots entering"
+  },
+  {
+    "start": "00:03:46.560",
+    "end": "00:03:50.070",
+    "start_seconds": 226.56,
+    "end_seconds": 230.07,
+    "text": "much larger crisis with robots entering our households. And as mentioned before,"
+  },
+  {
+    "start": "00:03:50.070",
+    "end": "00:03:50.080",
+    "start_seconds": 230.07,
+    "end_seconds": 230.07999999999998,
+    "text": "our households. And as mentioned before,"
+  },
+  {
+    "start": "00:03:50.080",
+    "end": "00:03:51.990",
+    "start_seconds": 230.07999999999998,
+    "end_seconds": 231.99,
+    "text": "our households. And as mentioned before, this is something that we don't really"
+  },
+  {
+    "start": "00:03:51.990",
+    "end": "00:03:52.000",
+    "start_seconds": 231.99,
+    "end_seconds": 232.0,
+    "text": "this is something that we don't really"
+  },
+  {
+    "start": "00:03:52.000",
+    "end": "00:03:54.390",
+    "start_seconds": 232.0,
+    "end_seconds": 234.39,
+    "text": "this is something that we don't really have to predict. We already have the"
+  },
+  {
+    "start": "00:03:54.390",
+    "end": "00:03:54.400",
+    "start_seconds": 234.39,
+    "end_seconds": 234.4,
+    "text": "have to predict. We already have the"
+  },
+  {
+    "start": "00:03:54.400",
+    "end": "00:03:57.110",
+    "start_seconds": 234.4,
+    "end_seconds": 237.11,
+    "text": "have to predict. We already have the data. We already have the history to"
+  },
+  {
+    "start": "00:03:57.110",
+    "end": "00:03:57.120",
+    "start_seconds": 237.11,
+    "end_seconds": 237.12,
+    "text": "data. We already have the history to"
+  },
+  {
+    "start": "00:03:57.120",
+    "end": "00:04:00.149",
+    "start_seconds": 237.12,
+    "end_seconds": 240.149,
+    "text": "data. We already have the history to learn from. And now we have a window of"
+  },
+  {
+    "start": "00:04:00.149",
+    "end": "00:04:00.159",
+    "start_seconds": 240.149,
+    "end_seconds": 240.159,
+    "text": "learn from. And now we have a window of"
+  },
+  {
+    "start": "00:04:00.159",
+    "end": "00:04:02.550",
+    "start_seconds": 240.159,
+    "end_seconds": 242.55,
+    "text": "learn from. And now we have a window of opportunity to actually impact that"
+  },
+  {
+    "start": "00:04:02.550",
+    "end": "00:04:02.560",
+    "start_seconds": 242.55,
+    "end_seconds": 242.56,
+    "text": "opportunity to actually impact that"
+  },
+  {
+    "start": "00:04:02.560",
+    "end": "00:04:04.470",
+    "start_seconds": 242.56,
+    "end_seconds": 244.47,
+    "text": "opportunity to actually impact that space. and I'm going to give it to"
+  },
+  {
+    "start": "00:04:04.470",
+    "end": "00:04:04.480",
+    "start_seconds": 244.47,
+    "end_seconds": 244.48,
+    "text": "space. and I'm going to give it to"
+  },
+  {
+    "start": "00:04:04.480",
+    "end": "00:04:06.710",
+    "start_seconds": 244.48,
+    "end_seconds": 246.71,
+    "text": "space. and I'm going to give it to Roshni to talk a little bit about one of"
+  },
+  {
+    "start": "00:04:06.710",
+    "end": "00:04:06.720",
+    "start_seconds": 246.71,
+    "end_seconds": 246.72,
+    "text": "Roshni to talk a little bit about one of"
+  },
+  {
+    "start": "00:04:06.720",
+    "end": "00:04:09.429",
+    "start_seconds": 246.72,
+    "end_seconds": 249.429,
+    "text": "Roshni to talk a little bit about one of the most important ingredients of this"
+  },
+  {
+    "start": "00:04:09.429",
+    "end": "00:04:09.439",
+    "start_seconds": 249.429,
+    "end_seconds": 249.439,
+    "text": "the most important ingredients of this"
+  },
+  {
+    "start": "00:04:09.439",
+    "end": "00:04:11.830",
+    "start_seconds": 249.439,
+    "end_seconds": 251.83,
+    "text": "the most important ingredients of this process."
+  },
+  {
+    "start": "00:04:11.830",
+    "end": "00:04:11.840",
+    "start_seconds": 251.83,
+    "end_seconds": 251.84,
+    "text": "process."
+  },
+  {
+    "start": "00:04:11.840",
+    "end": "00:04:14.789",
+    "start_seconds": 251.84,
+    "end_seconds": 254.789,
+    "text": "process. Thank you. So I want to talk a bit about"
+  },
+  {
+    "start": "00:04:14.789",
+    "end": "00:04:14.799",
+    "start_seconds": 254.789,
+    "end_seconds": 254.799,
+    "text": "Thank you. So I want to talk a bit about"
+  },
+  {
+    "start": "00:04:14.799",
+    "end": "00:04:17.749",
+    "start_seconds": 254.799,
+    "end_seconds": 257.749,
+    "text": "Thank you. So I want to talk a bit about empathy. My research looked at how"
+  },
+  {
+    "start": "00:04:17.749",
+    "end": "00:04:17.759",
+    "start_seconds": 257.749,
+    "end_seconds": 257.759,
+    "text": "empathy. My research looked at how"
+  },
+  {
+    "start": "00:04:17.759",
+    "end": "00:04:19.749",
+    "start_seconds": 257.759,
+    "end_seconds": 259.749,
+    "text": "empathy. My research looked at how empathy and antisocial behavior"
+  },
+  {
+    "start": "00:04:19.749",
+    "end": "00:04:19.759",
+    "start_seconds": 259.749,
+    "end_seconds": 259.759,
+    "text": "empathy and antisocial behavior"
+  },
+  {
+    "start": "00:04:19.759",
+    "end": "00:04:22.950",
+    "start_seconds": 259.759,
+    "end_seconds": 262.95,
+    "text": "empathy and antisocial behavior manifests in the brain and in humans as"
+  },
+  {
+    "start": "00:04:22.950",
+    "end": "00:04:22.960",
+    "start_seconds": 262.95,
+    "end_seconds": 262.96,
+    "text": "manifests in the brain and in humans as"
+  },
+  {
+    "start": "00:04:22.960",
+    "end": "00:04:25.990",
+    "start_seconds": 262.96,
+    "end_seconds": 265.99,
+    "text": "manifests in the brain and in humans as well as in AI. So just to start with a"
+  },
+  {
+    "start": "00:04:25.990",
+    "end": "00:04:26.000",
+    "start_seconds": 265.99,
+    "end_seconds": 266.0,
+    "text": "well as in AI. So just to start with a"
+  },
+  {
+    "start": "00:04:26.000",
+    "end": "00:04:28.390",
+    "start_seconds": 266.0,
+    "end_seconds": 268.39,
+    "text": "well as in AI. So just to start with a quick definition of what empathy is, um"
+  },
+  {
+    "start": "00:04:28.390",
+    "end": "00:04:28.400",
+    "start_seconds": 268.39,
+    "end_seconds": 268.4,
+    "text": "quick definition of what empathy is, um"
+  },
+  {
+    "start": "00:04:28.400",
+    "end": "00:04:30.070",
+    "start_seconds": 268.4,
+    "end_seconds": 270.07,
+    "text": "quick definition of what empathy is, um the most basic way you can define it is"
+  },
+  {
+    "start": "00:04:30.070",
+    "end": "00:04:30.080",
+    "start_seconds": 270.07,
+    "end_seconds": 270.08,
+    "text": "the most basic way you can define it is"
+  },
+  {
+    "start": "00:04:30.080",
+    "end": "00:04:32.070",
+    "start_seconds": 270.08,
+    "end_seconds": 272.07,
+    "text": "the most basic way you can define it is to understand and share the feelings of"
+  },
+  {
+    "start": "00:04:32.070",
+    "end": "00:04:32.080",
+    "start_seconds": 272.07,
+    "end_seconds": 272.08,
+    "text": "to understand and share the feelings of"
+  },
+  {
+    "start": "00:04:32.080",
+    "end": "00:04:33.909",
+    "start_seconds": 272.08,
+    "end_seconds": 273.909,
+    "text": "to understand and share the feelings of others. But when we think of"
+  },
+  {
+    "start": "00:04:33.909",
+    "end": "00:04:33.919",
+    "start_seconds": 273.909,
+    "end_seconds": 273.919,
+    "text": "others. But when we think of"
+  },
+  {
+    "start": "00:04:33.919",
+    "end": "00:04:35.830",
+    "start_seconds": 273.919,
+    "end_seconds": 275.83,
+    "text": "others. But when we think of neuroscience and psychology, we actually"
+  },
+  {
+    "start": "00:04:35.830",
+    "end": "00:04:35.840",
+    "start_seconds": 275.83,
+    "end_seconds": 275.84000000000003,
+    "text": "neuroscience and psychology, we actually"
+  },
+  {
+    "start": "00:04:35.840",
+    "end": "00:04:37.430",
+    "start_seconds": 275.84000000000003,
+    "end_seconds": 277.43,
+    "text": "neuroscience and psychology, we actually go a bit deeper than that and actually"
+  },
+  {
+    "start": "00:04:37.430",
+    "end": "00:04:37.440",
+    "start_seconds": 277.43,
+    "end_seconds": 277.44,
+    "text": "go a bit deeper than that and actually"
+  },
+  {
+    "start": "00:04:37.440",
+    "end": "00:04:39.749",
+    "start_seconds": 277.44,
+    "end_seconds": 279.749,
+    "text": "go a bit deeper than that and actually split empathy into these two different"
+  },
+  {
+    "start": "00:04:39.749",
+    "end": "00:04:39.759",
+    "start_seconds": 279.749,
+    "end_seconds": 279.759,
+    "text": "split empathy into these two different"
+  },
+  {
+    "start": "00:04:39.759",
+    "end": "00:04:41.909",
+    "start_seconds": 279.759,
+    "end_seconds": 281.909,
+    "text": "split empathy into these two different subtypes of cognitive empathy and"
+  },
+  {
+    "start": "00:04:41.909",
+    "end": "00:04:41.919",
+    "start_seconds": 281.909,
+    "end_seconds": 281.919,
+    "text": "subtypes of cognitive empathy and"
+  },
+  {
+    "start": "00:04:41.919",
+    "end": "00:04:44.230",
+    "start_seconds": 281.919,
+    "end_seconds": 284.23,
+    "text": "subtypes of cognitive empathy and affective empathy. So cognitive empathy"
+  },
+  {
+    "start": "00:04:44.230",
+    "end": "00:04:44.240",
+    "start_seconds": 284.23,
+    "end_seconds": 284.24,
+    "text": "affective empathy. So cognitive empathy"
+  },
+  {
+    "start": "00:04:44.240",
+    "end": "00:04:46.390",
+    "start_seconds": 284.24,
+    "end_seconds": 286.39,
+    "text": "affective empathy. So cognitive empathy is our ability to infer and model the"
+  },
+  {
+    "start": "00:04:46.390",
+    "end": "00:04:46.400",
+    "start_seconds": 286.39,
+    "end_seconds": 286.4,
+    "text": "is our ability to infer and model the"
+  },
+  {
+    "start": "00:04:46.400",
+    "end": "00:04:48.629",
+    "start_seconds": 286.4,
+    "end_seconds": 288.629,
+    "text": "is our ability to infer and model the states of others while affective empathy"
+  },
+  {
+    "start": "00:04:48.629",
+    "end": "00:04:48.639",
+    "start_seconds": 288.629,
+    "end_seconds": 288.639,
+    "text": "states of others while affective empathy"
+  },
+  {
+    "start": "00:04:48.639",
+    "end": "00:04:50.469",
+    "start_seconds": 288.639,
+    "end_seconds": 290.469,
+    "text": "states of others while affective empathy is actually our ability to share the"
+  },
+  {
+    "start": "00:04:50.469",
+    "end": "00:04:50.479",
+    "start_seconds": 290.469,
+    "end_seconds": 290.479,
+    "text": "is actually our ability to share the"
+  },
+  {
+    "start": "00:04:50.479",
+    "end": "00:04:52.550",
+    "start_seconds": 290.479,
+    "end_seconds": 292.55,
+    "text": "is actually our ability to share the states of others. And when we look in"
+  },
+  {
+    "start": "00:04:52.550",
+    "end": "00:04:52.560",
+    "start_seconds": 292.55,
+    "end_seconds": 292.56,
+    "text": "states of others. And when we look in"
+  },
+  {
+    "start": "00:04:52.560",
+    "end": "00:04:53.990",
+    "start_seconds": 292.56,
+    "end_seconds": 293.99,
+    "text": "states of others. And when we look in the brain, these actually relate to"
+  },
+  {
+    "start": "00:04:53.990",
+    "end": "00:04:54.000",
+    "start_seconds": 293.99,
+    "end_seconds": 294.0,
+    "text": "the brain, these actually relate to"
+  },
+  {
+    "start": "00:04:54.000",
+    "end": "00:04:56.070",
+    "start_seconds": 294.0,
+    "end_seconds": 296.07,
+    "text": "the brain, these actually relate to different neural processes."
+  },
+  {
+    "start": "00:04:56.070",
+    "end": "00:04:56.080",
+    "start_seconds": 296.07,
+    "end_seconds": 296.08,
+    "text": "different neural processes."
+  },
+  {
+    "start": "00:04:56.080",
+    "end": "00:04:57.590",
+    "start_seconds": 296.08,
+    "end_seconds": 297.59000000000003,
+    "text": "different neural processes. Specifically, cognitive empathy is"
+  },
+  {
+    "start": "00:04:57.590",
+    "end": "00:04:57.600",
+    "start_seconds": 297.59000000000003,
+    "end_seconds": 297.6,
+    "text": "Specifically, cognitive empathy is"
+  },
+  {
+    "start": "00:04:57.600",
+    "end": "00:04:59.270",
+    "start_seconds": 297.6,
+    "end_seconds": 299.27,
+    "text": "Specifically, cognitive empathy is related to the default mode network,"
+  },
+  {
+    "start": "00:04:59.270",
+    "end": "00:04:59.280",
+    "start_seconds": 299.27,
+    "end_seconds": 299.28,
+    "text": "related to the default mode network,"
+  },
+  {
+    "start": "00:04:59.280",
+    "end": "00:05:01.430",
+    "start_seconds": 299.28,
+    "end_seconds": 301.43,
+    "text": "related to the default mode network, which is a set of brain regions that are"
+  },
+  {
+    "start": "00:05:01.430",
+    "end": "00:05:01.440",
+    "start_seconds": 301.43,
+    "end_seconds": 301.44,
+    "text": "which is a set of brain regions that are"
+  },
+  {
+    "start": "00:05:01.440",
+    "end": "00:05:03.350",
+    "start_seconds": 301.44,
+    "end_seconds": 303.35,
+    "text": "which is a set of brain regions that are often activated together when you think"
+  },
+  {
+    "start": "00:05:03.350",
+    "end": "00:05:03.360",
+    "start_seconds": 303.35,
+    "end_seconds": 303.36,
+    "text": "often activated together when you think"
+  },
+  {
+    "start": "00:05:03.360",
+    "end": "00:05:06.310",
+    "start_seconds": 303.36,
+    "end_seconds": 306.31,
+    "text": "often activated together when you think of self self-reerential thought,"
+  },
+  {
+    "start": "00:05:06.310",
+    "end": "00:05:06.320",
+    "start_seconds": 306.31,
+    "end_seconds": 306.32,
+    "text": "of self self-reerential thought,"
+  },
+  {
+    "start": "00:05:06.320",
+    "end": "00:05:08.550",
+    "start_seconds": 306.32,
+    "end_seconds": 308.55,
+    "text": "of self self-reerential thought, daydreaming, what we call resting state"
+  },
+  {
+    "start": "00:05:08.550",
+    "end": "00:05:08.560",
+    "start_seconds": 308.55,
+    "end_seconds": 308.56,
+    "text": "daydreaming, what we call resting state"
+  },
+  {
+    "start": "00:05:08.560",
+    "end": "00:05:10.230",
+    "start_seconds": 308.56,
+    "end_seconds": 310.23,
+    "text": "daydreaming, what we call resting state in the fMRI scanner, where we have"
+  },
+  {
+    "start": "00:05:10.230",
+    "end": "00:05:10.240",
+    "start_seconds": 310.23,
+    "end_seconds": 310.24,
+    "text": "in the fMRI scanner, where we have"
+  },
+  {
+    "start": "00:05:10.240",
+    "end": "00:05:11.909",
+    "start_seconds": 310.24,
+    "end_seconds": 311.909,
+    "text": "in the fMRI scanner, where we have people just lie there and think of"
+  },
+  {
+    "start": "00:05:11.909",
+    "end": "00:05:11.919",
+    "start_seconds": 311.909,
+    "end_seconds": 311.919,
+    "text": "people just lie there and think of"
+  },
+  {
+    "start": "00:05:11.919",
+    "end": "00:05:14.230",
+    "start_seconds": 311.919,
+    "end_seconds": 314.23,
+    "text": "people just lie there and think of whatever they want to think of. Um, in"
+  },
+  {
+    "start": "00:05:14.230",
+    "end": "00:05:14.240",
+    "start_seconds": 314.23,
+    "end_seconds": 314.24,
+    "text": "whatever they want to think of. Um, in"
+  },
+  {
+    "start": "00:05:14.240",
+    "end": "00:05:15.909",
+    "start_seconds": 314.24,
+    "end_seconds": 315.909,
+    "text": "whatever they want to think of. Um, in terms of affective empathy, which is"
+  },
+  {
+    "start": "00:05:15.909",
+    "end": "00:05:15.919",
+    "start_seconds": 315.909,
+    "end_seconds": 315.919,
+    "text": "terms of affective empathy, which is"
+  },
+  {
+    "start": "00:05:15.919",
+    "end": "00:05:17.189",
+    "start_seconds": 315.919,
+    "end_seconds": 317.189,
+    "text": "terms of affective empathy, which is sharing the states of others, this"
+  },
+  {
+    "start": "00:05:17.189",
+    "end": "00:05:17.199",
+    "start_seconds": 317.189,
+    "end_seconds": 317.199,
+    "text": "sharing the states of others, this"
+  },
+  {
+    "start": "00:05:17.199",
+    "end": "00:05:18.950",
+    "start_seconds": 317.199,
+    "end_seconds": 318.95,
+    "text": "sharing the states of others, this relates to activity in the insular"
+  },
+  {
+    "start": "00:05:18.950",
+    "end": "00:05:18.960",
+    "start_seconds": 318.95,
+    "end_seconds": 318.96,
+    "text": "relates to activity in the insular"
+  },
+  {
+    "start": "00:05:18.960",
+    "end": "00:05:20.950",
+    "start_seconds": 318.96,
+    "end_seconds": 320.95,
+    "text": "relates to activity in the insular cortex. It's kind of like a mini brain"
+  },
+  {
+    "start": "00:05:20.950",
+    "end": "00:05:20.960",
+    "start_seconds": 320.95,
+    "end_seconds": 320.96,
+    "text": "cortex. It's kind of like a mini brain"
+  },
+  {
+    "start": "00:05:20.960",
+    "end": "00:05:24.230",
+    "start_seconds": 320.96,
+    "end_seconds": 324.23,
+    "text": "cortex. It's kind of like a mini brain if you open the brain up and damage to"
+  },
+  {
+    "start": "00:05:24.230",
+    "end": "00:05:24.240",
+    "start_seconds": 324.23,
+    "end_seconds": 324.24,
+    "text": "if you open the brain up and damage to"
+  },
+  {
+    "start": "00:05:24.240",
+    "end": "00:05:27.590",
+    "start_seconds": 324.24,
+    "end_seconds": 327.59,
+    "text": "if you open the brain up and damage to this area actually leads to a lack of a"
+  },
+  {
+    "start": "00:05:27.590",
+    "end": "00:05:27.600",
+    "start_seconds": 327.59,
+    "end_seconds": 327.6,
+    "text": "this area actually leads to a lack of a"
+  },
+  {
+    "start": "00:05:27.600",
+    "end": "00:05:30.310",
+    "start_seconds": 327.6,
+    "end_seconds": 330.31,
+    "text": "this area actually leads to a lack of a ability to share states with others. And"
+  },
+  {
+    "start": "00:05:30.310",
+    "end": "00:05:30.320",
+    "start_seconds": 330.31,
+    "end_seconds": 330.32,
+    "text": "ability to share states with others. And"
+  },
+  {
+    "start": "00:05:30.320",
+    "end": "00:05:33.350",
+    "start_seconds": 330.32,
+    "end_seconds": 333.35,
+    "text": "ability to share states with others. And so these are two dissociable systems"
+  },
+  {
+    "start": "00:05:33.350",
+    "end": "00:05:33.360",
+    "start_seconds": 333.35,
+    "end_seconds": 333.36,
+    "text": "so these are two dissociable systems"
+  },
+  {
+    "start": "00:05:33.360",
+    "end": "00:05:35.110",
+    "start_seconds": 333.36,
+    "end_seconds": 335.11,
+    "text": "so these are two dissociable systems which means one of these can run without"
+  },
+  {
+    "start": "00:05:35.110",
+    "end": "00:05:35.120",
+    "start_seconds": 335.11,
+    "end_seconds": 335.12,
+    "text": "which means one of these can run without"
+  },
+  {
+    "start": "00:05:35.120",
+    "end": "00:05:38.469",
+    "start_seconds": 335.12,
+    "end_seconds": 338.469,
+    "text": "which means one of these can run without the other. And what we can see is that"
+  },
+  {
+    "start": "00:05:38.469",
+    "end": "00:05:38.479",
+    "start_seconds": 338.469,
+    "end_seconds": 338.479,
+    "text": "the other. And what we can see is that"
+  },
+  {
+    "start": "00:05:38.479",
+    "end": "00:05:40.870",
+    "start_seconds": 338.479,
+    "end_seconds": 340.87,
+    "text": "the other. And what we can see is that when one type of empathy works without"
+  },
+  {
+    "start": "00:05:40.870",
+    "end": "00:05:40.880",
+    "start_seconds": 340.87,
+    "end_seconds": 340.88,
+    "text": "when one type of empathy works without"
+  },
+  {
+    "start": "00:05:40.880",
+    "end": "00:05:43.909",
+    "start_seconds": 340.88,
+    "end_seconds": 343.909,
+    "text": "when one type of empathy works without the other, we get what is called in AI"
+  },
+  {
+    "start": "00:05:43.909",
+    "end": "00:05:43.919",
+    "start_seconds": 343.909,
+    "end_seconds": 343.919,
+    "text": "the other, we get what is called in AI"
+  },
+  {
+    "start": "00:05:43.919",
+    "end": "00:05:46.310",
+    "start_seconds": 343.919,
+    "end_seconds": 346.31,
+    "text": "the other, we get what is called in AI at least as misalignment. In biology,"
+  },
+  {
+    "start": "00:05:46.310",
+    "end": "00:05:46.320",
+    "start_seconds": 346.31,
+    "end_seconds": 346.32,
+    "text": "at least as misalignment. In biology,"
+  },
+  {
+    "start": "00:05:46.320",
+    "end": "00:05:47.510",
+    "start_seconds": 346.32,
+    "end_seconds": 347.51,
+    "text": "at least as misalignment. In biology, this is sometimes referred to as"
+  },
+  {
+    "start": "00:05:47.510",
+    "end": "00:05:47.520",
+    "start_seconds": 347.51,
+    "end_seconds": 347.52,
+    "text": "this is sometimes referred to as"
+  },
+  {
+    "start": "00:05:47.520",
+    "end": "00:05:49.909",
+    "start_seconds": 347.52,
+    "end_seconds": 349.909,
+    "text": "this is sometimes referred to as antisocial behavior, psychopathy, which"
+  },
+  {
+    "start": "00:05:49.909",
+    "end": "00:05:49.919",
+    "start_seconds": 349.909,
+    "end_seconds": 349.919,
+    "text": "antisocial behavior, psychopathy, which"
+  },
+  {
+    "start": "00:05:49.919",
+    "end": "00:05:51.830",
+    "start_seconds": 349.919,
+    "end_seconds": 351.83,
+    "text": "antisocial behavior, psychopathy, which is when you see one type of empathy with"
+  },
+  {
+    "start": "00:05:51.830",
+    "end": "00:05:51.840",
+    "start_seconds": 351.83,
+    "end_seconds": 351.84000000000003,
+    "text": "is when you see one type of empathy with"
+  },
+  {
+    "start": "00:05:51.840",
+    "end": "00:05:53.590",
+    "start_seconds": 351.84000000000003,
+    "end_seconds": 353.59000000000003,
+    "text": "is when you see one type of empathy with the lack of the other. Specifically,"
+  },
+  {
+    "start": "00:05:53.590",
+    "end": "00:05:53.600",
+    "start_seconds": 353.59000000000003,
+    "end_seconds": 353.6,
+    "text": "the lack of the other. Specifically,"
+  },
+  {
+    "start": "00:05:53.600",
+    "end": "00:05:55.590",
+    "start_seconds": 353.6,
+    "end_seconds": 355.59000000000003,
+    "text": "the lack of the other. Specifically, this is when you have an enhanced"
+  },
+  {
+    "start": "00:05:55.590",
+    "end": "00:05:55.600",
+    "start_seconds": 355.59000000000003,
+    "end_seconds": 355.6,
+    "text": "this is when you have an enhanced"
+  },
+  {
+    "start": "00:05:55.600",
+    "end": "00:05:57.749",
+    "start_seconds": 355.6,
+    "end_seconds": 357.749,
+    "text": "this is when you have an enhanced ability of cognitive empathy of"
+  },
+  {
+    "start": "00:05:57.749",
+    "end": "00:05:57.759",
+    "start_seconds": 357.749,
+    "end_seconds": 357.759,
+    "text": "ability of cognitive empathy of"
+  },
+  {
+    "start": "00:05:57.759",
+    "end": "00:06:00.150",
+    "start_seconds": 357.759,
+    "end_seconds": 360.15,
+    "text": "ability of cognitive empathy of predicting the states of others and and"
+  },
+  {
+    "start": "00:06:00.150",
+    "end": "00:06:00.160",
+    "start_seconds": 360.15,
+    "end_seconds": 360.16,
+    "text": "predicting the states of others and and"
+  },
+  {
+    "start": "00:06:00.160",
+    "end": "00:06:01.590",
+    "start_seconds": 360.16,
+    "end_seconds": 361.59,
+    "text": "predicting the states of others and and lack of being able to share those"
+  },
+  {
+    "start": "00:06:01.590",
+    "end": "00:06:01.600",
+    "start_seconds": 361.59,
+    "end_seconds": 361.6,
+    "text": "lack of being able to share those"
+  },
+  {
+    "start": "00:06:01.600",
+    "end": "00:06:03.590",
+    "start_seconds": 361.6,
+    "end_seconds": 363.59,
+    "text": "lack of being able to share those states. So when you think of AI models"
+  },
+  {
+    "start": "00:06:03.590",
+    "end": "00:06:03.600",
+    "start_seconds": 363.59,
+    "end_seconds": 363.6,
+    "text": "states. So when you think of AI models"
+  },
+  {
+    "start": "00:06:03.600",
+    "end": "00:06:06.710",
+    "start_seconds": 363.6,
+    "end_seconds": 366.71,
+    "text": "states. So when you think of AI models that are built entirely on human data,"
+  },
+  {
+    "start": "00:06:06.710",
+    "end": "00:06:06.720",
+    "start_seconds": 366.71,
+    "end_seconds": 366.72,
+    "text": "that are built entirely on human data,"
+  },
+  {
+    "start": "00:06:06.720",
+    "end": "00:06:08.710",
+    "start_seconds": 366.72,
+    "end_seconds": 368.71,
+    "text": "that are built entirely on human data, they are very very advanced at"
+  },
+  {
+    "start": "00:06:08.710",
+    "end": "00:06:08.720",
+    "start_seconds": 368.71,
+    "end_seconds": 368.72,
+    "text": "they are very very advanced at"
+  },
+  {
+    "start": "00:06:08.720",
+    "end": "00:06:10.469",
+    "start_seconds": 368.72,
+    "end_seconds": 370.469,
+    "text": "they are very very advanced at predicting our states, at understanding"
+  },
+  {
+    "start": "00:06:10.469",
+    "end": "00:06:10.479",
+    "start_seconds": 370.469,
+    "end_seconds": 370.479,
+    "text": "predicting our states, at understanding"
+  },
+  {
+    "start": "00:06:10.479",
+    "end": "00:06:12.150",
+    "start_seconds": 370.479,
+    "end_seconds": 372.15,
+    "text": "predicting our states, at understanding human emotion, at understanding human"
+  },
+  {
+    "start": "00:06:12.150",
+    "end": "00:06:12.160",
+    "start_seconds": 372.15,
+    "end_seconds": 372.16,
+    "text": "human emotion, at understanding human"
+  },
+  {
+    "start": "00:06:12.160",
+    "end": "00:06:14.309",
+    "start_seconds": 372.16,
+    "end_seconds": 374.309,
+    "text": "human emotion, at understanding human vulnerabilities, but they're not"
+  },
+  {
+    "start": "00:06:14.309",
+    "end": "00:06:14.319",
+    "start_seconds": 374.309,
+    "end_seconds": 374.319,
+    "text": "vulnerabilities, but they're not"
+  },
+  {
+    "start": "00:06:14.319",
+    "end": "00:06:16.950",
+    "start_seconds": 374.319,
+    "end_seconds": 376.95,
+    "text": "vulnerabilities, but they're not embodied and they lack this ability of"
+  },
+  {
+    "start": "00:06:16.950",
+    "end": "00:06:16.960",
+    "start_seconds": 376.95,
+    "end_seconds": 376.96,
+    "text": "embodied and they lack this ability of"
+  },
+  {
+    "start": "00:06:16.960",
+    "end": "00:06:20.790",
+    "start_seconds": 376.96,
+    "end_seconds": 380.79,
+    "text": "embodied and they lack this ability of sharing these states with us. So um when"
+  },
+  {
+    "start": "00:06:20.790",
+    "end": "00:06:20.800",
+    "start_seconds": 380.79,
+    "end_seconds": 380.8,
+    "text": "sharing these states with us. So um when"
+  },
+  {
+    "start": "00:06:20.800",
+    "end": "00:06:22.870",
+    "start_seconds": 380.8,
+    "end_seconds": 382.87,
+    "text": "sharing these states with us. So um when we think about misalignment, this can"
+  },
+  {
+    "start": "00:06:22.870",
+    "end": "00:06:22.880",
+    "start_seconds": 382.87,
+    "end_seconds": 382.88,
+    "text": "we think about misalignment, this can"
+  },
+  {
+    "start": "00:06:22.880",
+    "end": "00:06:25.189",
+    "start_seconds": 382.88,
+    "end_seconds": 385.189,
+    "text": "we think about misalignment, this can obviously lead to misalignment is this"
+  },
+  {
+    "start": "00:06:25.189",
+    "end": "00:06:25.199",
+    "start_seconds": 385.189,
+    "end_seconds": 385.199,
+    "text": "obviously lead to misalignment is this"
+  },
+  {
+    "start": "00:06:25.199",
+    "end": "00:06:27.590",
+    "start_seconds": 385.199,
+    "end_seconds": 387.59,
+    "text": "obviously lead to misalignment is this mismatch of empathy. From a biological"
+  },
+  {
+    "start": "00:06:27.590",
+    "end": "00:06:27.600",
+    "start_seconds": 387.59,
+    "end_seconds": 387.6,
+    "text": "mismatch of empathy. From a biological"
+  },
+  {
+    "start": "00:06:27.600",
+    "end": "00:06:29.670",
+    "start_seconds": 387.6,
+    "end_seconds": 389.67,
+    "text": "mismatch of empathy. From a biological perspective, we can see that these"
+  },
+  {
+    "start": "00:06:29.670",
+    "end": "00:06:29.680",
+    "start_seconds": 389.67,
+    "end_seconds": 389.68,
+    "text": "perspective, we can see that these"
+  },
+  {
+    "start": "00:06:29.680",
+    "end": "00:06:31.510",
+    "start_seconds": 389.68,
+    "end_seconds": 391.51,
+    "text": "perspective, we can see that these antisocial behaviors or misaligned"
+  },
+  {
+    "start": "00:06:31.510",
+    "end": "00:06:31.520",
+    "start_seconds": 391.51,
+    "end_seconds": 391.52,
+    "text": "antisocial behaviors or misaligned"
+  },
+  {
+    "start": "00:06:31.520",
+    "end": "00:06:33.670",
+    "start_seconds": 391.52,
+    "end_seconds": 393.67,
+    "text": "antisocial behaviors or misaligned behaviors can occur when there is a"
+  },
+  {
+    "start": "00:06:33.670",
+    "end": "00:06:33.680",
+    "start_seconds": 393.67,
+    "end_seconds": 393.68,
+    "text": "behaviors can occur when there is a"
+  },
+  {
+    "start": "00:06:33.680",
+    "end": "00:06:36.390",
+    "start_seconds": 393.68,
+    "end_seconds": 396.39,
+    "text": "behaviors can occur when there is a hyper sensitive sensitivity to reward"
+  },
+  {
+    "start": "00:06:36.390",
+    "end": "00:06:36.400",
+    "start_seconds": 396.39,
+    "end_seconds": 396.4,
+    "text": "hyper sensitive sensitivity to reward"
+  },
+  {
+    "start": "00:06:36.400",
+    "end": "00:06:38.870",
+    "start_seconds": 396.4,
+    "end_seconds": 398.87,
+    "text": "hyper sensitive sensitivity to reward where people are overly sensitive to"
+  },
+  {
+    "start": "00:06:38.870",
+    "end": "00:06:38.880",
+    "start_seconds": 398.87,
+    "end_seconds": 398.88,
+    "text": "where people are overly sensitive to"
+  },
+  {
+    "start": "00:06:38.880",
+    "end": "00:06:41.110",
+    "start_seconds": 398.88,
+    "end_seconds": 401.11,
+    "text": "where people are overly sensitive to money or power or whatever reward means"
+  },
+  {
+    "start": "00:06:41.110",
+    "end": "00:06:41.120",
+    "start_seconds": 401.11,
+    "end_seconds": 401.12,
+    "text": "money or power or whatever reward means"
+  },
+  {
+    "start": "00:06:41.120",
+    "end": "00:06:43.029",
+    "start_seconds": 401.12,
+    "end_seconds": 403.029,
+    "text": "money or power or whatever reward means to them paired with this impaired"
+  },
+  {
+    "start": "00:06:43.029",
+    "end": "00:06:43.039",
+    "start_seconds": 403.029,
+    "end_seconds": 403.039,
+    "text": "to them paired with this impaired"
+  },
+  {
+    "start": "00:06:43.039",
+    "end": "00:06:44.950",
+    "start_seconds": 403.039,
+    "end_seconds": 404.95,
+    "text": "to them paired with this impaired empathy and this can lead to these"
+  },
+  {
+    "start": "00:06:44.950",
+    "end": "00:06:44.960",
+    "start_seconds": 404.95,
+    "end_seconds": 404.96,
+    "text": "empathy and this can lead to these"
+  },
+  {
+    "start": "00:06:44.960",
+    "end": "00:06:47.270",
+    "start_seconds": 404.96,
+    "end_seconds": 407.27,
+    "text": "empathy and this can lead to these undesirable personalities. Similar"
+  },
+  {
+    "start": "00:06:47.270",
+    "end": "00:06:47.280",
+    "start_seconds": 407.27,
+    "end_seconds": 407.28,
+    "text": "undesirable personalities. Similar"
+  },
+  {
+    "start": "00:06:47.280",
+    "end": "00:06:48.950",
+    "start_seconds": 407.28,
+    "end_seconds": 408.95,
+    "text": "undesirable personalities. Similar things can happen in artificial systems"
+  },
+  {
+    "start": "00:06:48.950",
+    "end": "00:06:48.960",
+    "start_seconds": 408.95,
+    "end_seconds": 408.96,
+    "text": "things can happen in artificial systems"
+  },
+  {
+    "start": "00:06:48.960",
+    "end": "00:06:51.029",
+    "start_seconds": 408.96,
+    "end_seconds": 411.029,
+    "text": "things can happen in artificial systems or artificial intelligence where you can"
+  },
+  {
+    "start": "00:06:51.029",
+    "end": "00:06:51.039",
+    "start_seconds": 411.029,
+    "end_seconds": 411.039,
+    "text": "or artificial intelligence where you can"
+  },
+  {
+    "start": "00:06:51.039",
+    "end": "00:06:55.350",
+    "start_seconds": 411.039,
+    "end_seconds": 415.35,
+    "text": "or artificial intelligence where you can have this enhanced sensitivity to reward"
+  },
+  {
+    "start": "00:06:55.350",
+    "end": "00:06:55.360",
+    "start_seconds": 415.35,
+    "end_seconds": 415.36,
+    "text": "have this enhanced sensitivity to reward"
+  },
+  {
+    "start": "00:06:55.360",
+    "end": "00:06:57.590",
+    "start_seconds": 415.36,
+    "end_seconds": 417.59000000000003,
+    "text": "have this enhanced sensitivity to reward as well as this dysfunction and empathy."
+  },
+  {
+    "start": "00:06:57.590",
+    "end": "00:06:57.600",
+    "start_seconds": 417.59000000000003,
+    "end_seconds": 417.6,
+    "text": "as well as this dysfunction and empathy."
+  },
+  {
+    "start": "00:06:57.600",
+    "end": "00:06:59.430",
+    "start_seconds": 417.6,
+    "end_seconds": 419.43,
+    "text": "as well as this dysfunction and empathy. Um, and one prominent example that we"
+  },
+  {
+    "start": "00:06:59.430",
+    "end": "00:06:59.440",
+    "start_seconds": 419.43,
+    "end_seconds": 419.44,
+    "text": "Um, and one prominent example that we"
+  },
+  {
+    "start": "00:06:59.440",
+    "end": "00:07:01.430",
+    "start_seconds": 419.44,
+    "end_seconds": 421.43,
+    "text": "Um, and one prominent example that we can actually study very well in human"
+  },
+  {
+    "start": "00:07:01.430",
+    "end": "00:07:01.440",
+    "start_seconds": 421.43,
+    "end_seconds": 421.44,
+    "text": "can actually study very well in human"
+  },
+  {
+    "start": "00:07:01.440",
+    "end": "00:07:03.350",
+    "start_seconds": 421.44,
+    "end_seconds": 423.35,
+    "text": "can actually study very well in human systems is the dark triad of"
+  },
+  {
+    "start": "00:07:03.350",
+    "end": "00:07:03.360",
+    "start_seconds": 423.35,
+    "end_seconds": 423.36,
+    "text": "systems is the dark triad of"
+  },
+  {
+    "start": "00:07:03.360",
+    "end": "00:07:04.870",
+    "start_seconds": 423.36,
+    "end_seconds": 424.87,
+    "text": "systems is the dark triad of personality."
+  },
+  {
+    "start": "00:07:04.870",
+    "end": "00:07:04.880",
+    "start_seconds": 424.87,
+    "end_seconds": 424.88,
+    "text": "personality."
+  },
+  {
+    "start": "00:07:04.880",
+    "end": "00:07:07.270",
+    "start_seconds": 424.88,
+    "end_seconds": 427.27,
+    "text": "personality. So this is what my dissertation focused"
+  },
+  {
+    "start": "00:07:07.270",
+    "end": "00:07:07.280",
+    "start_seconds": 427.27,
+    "end_seconds": 427.28,
+    "text": "So this is what my dissertation focused"
+  },
+  {
+    "start": "00:07:07.280",
+    "end": "00:07:08.790",
+    "start_seconds": 427.28,
+    "end_seconds": 428.79,
+    "text": "So this is what my dissertation focused on was how do we better understand"
+  },
+  {
+    "start": "00:07:08.790",
+    "end": "00:07:08.800",
+    "start_seconds": 428.79,
+    "end_seconds": 428.8,
+    "text": "on was how do we better understand"
+  },
+  {
+    "start": "00:07:08.800",
+    "end": "00:07:10.790",
+    "start_seconds": 428.8,
+    "end_seconds": 430.79,
+    "text": "on was how do we better understand misalignment using these frameworks that"
+  },
+  {
+    "start": "00:07:10.790",
+    "end": "00:07:10.800",
+    "start_seconds": 430.79,
+    "end_seconds": 430.8,
+    "text": "misalignment using these frameworks that"
+  },
+  {
+    "start": "00:07:10.800",
+    "end": "00:07:12.870",
+    "start_seconds": 430.8,
+    "end_seconds": 432.87,
+    "text": "misalignment using these frameworks that we can use from human intelligence and"
+  },
+  {
+    "start": "00:07:12.870",
+    "end": "00:07:12.880",
+    "start_seconds": 432.87,
+    "end_seconds": 432.88,
+    "text": "we can use from human intelligence and"
+  },
+  {
+    "start": "00:07:12.880",
+    "end": "00:07:14.950",
+    "start_seconds": 432.88,
+    "end_seconds": 434.95,
+    "text": "we can use from human intelligence and from the biological side of things. So"
+  },
+  {
+    "start": "00:07:14.950",
+    "end": "00:07:14.960",
+    "start_seconds": 434.95,
+    "end_seconds": 434.96,
+    "text": "from the biological side of things. So"
+  },
+  {
+    "start": "00:07:14.960",
+    "end": "00:07:17.589",
+    "start_seconds": 434.96,
+    "end_seconds": 437.589,
+    "text": "from the biological side of things. So the dark triad is a set of three traits"
+  },
+  {
+    "start": "00:07:17.589",
+    "end": "00:07:17.599",
+    "start_seconds": 437.589,
+    "end_seconds": 437.599,
+    "text": "the dark triad is a set of three traits"
+  },
+  {
+    "start": "00:07:17.599",
+    "end": "00:07:20.230",
+    "start_seconds": 437.599,
+    "end_seconds": 440.23,
+    "text": "the dark triad is a set of three traits which is narcissism, mchavelianism and"
+  },
+  {
+    "start": "00:07:20.230",
+    "end": "00:07:20.240",
+    "start_seconds": 440.23,
+    "end_seconds": 440.24,
+    "text": "which is narcissism, mchavelianism and"
+  },
+  {
+    "start": "00:07:20.240",
+    "end": "00:07:22.390",
+    "start_seconds": 440.24,
+    "end_seconds": 442.39,
+    "text": "which is narcissism, mchavelianism and psychopathy. And one thing that links"
+  },
+  {
+    "start": "00:07:22.390",
+    "end": "00:07:22.400",
+    "start_seconds": 442.39,
+    "end_seconds": 442.4,
+    "text": "psychopathy. And one thing that links"
+  },
+  {
+    "start": "00:07:22.400",
+    "end": "00:07:25.749",
+    "start_seconds": 442.4,
+    "end_seconds": 445.749,
+    "text": "psychopathy. And one thing that links these together is an enhanced cognitive"
+  },
+  {
+    "start": "00:07:25.749",
+    "end": "00:07:25.759",
+    "start_seconds": 445.749,
+    "end_seconds": 445.759,
+    "text": "these together is an enhanced cognitive"
+  },
+  {
+    "start": "00:07:25.759",
+    "end": "00:07:27.589",
+    "start_seconds": 445.759,
+    "end_seconds": 447.589,
+    "text": "these together is an enhanced cognitive empathy abilities with a lack of"
+  },
+  {
+    "start": "00:07:27.589",
+    "end": "00:07:27.599",
+    "start_seconds": 447.589,
+    "end_seconds": 447.599,
+    "text": "empathy abilities with a lack of"
+  },
+  {
+    "start": "00:07:27.599",
+    "end": "00:07:30.469",
+    "start_seconds": 447.599,
+    "end_seconds": 450.469,
+    "text": "empathy abilities with a lack of affective empathy. And I studied this at"
+  },
+  {
+    "start": "00:07:30.469",
+    "end": "00:07:30.479",
+    "start_seconds": 450.469,
+    "end_seconds": 450.479,
+    "text": "affective empathy. And I studied this at"
+  },
+  {
+    "start": "00:07:30.479",
+    "end": "00:07:32.070",
+    "start_seconds": 450.479,
+    "end_seconds": 452.07,
+    "text": "affective empathy. And I studied this at three levels. I looked at the brain, I"
+  },
+  {
+    "start": "00:07:32.070",
+    "end": "00:07:32.080",
+    "start_seconds": 452.07,
+    "end_seconds": 452.08,
+    "text": "three levels. I looked at the brain, I"
+  },
+  {
+    "start": "00:07:32.080",
+    "end": "00:07:33.589",
+    "start_seconds": 452.08,
+    "end_seconds": 453.589,
+    "text": "three levels. I looked at the brain, I looked at behavior, and then I also"
+  },
+  {
+    "start": "00:07:33.589",
+    "end": "00:07:33.599",
+    "start_seconds": 453.589,
+    "end_seconds": 453.599,
+    "text": "looked at behavior, and then I also"
+  },
+  {
+    "start": "00:07:33.599",
+    "end": "00:07:36.390",
+    "start_seconds": 453.599,
+    "end_seconds": 456.39,
+    "text": "looked at behavior, and then I also looked at AI specifically how these dark"
+  },
+  {
+    "start": "00:07:36.390",
+    "end": "00:07:36.400",
+    "start_seconds": 456.39,
+    "end_seconds": 456.4,
+    "text": "looked at AI specifically how these dark"
+  },
+  {
+    "start": "00:07:36.400",
+    "end": "00:07:38.469",
+    "start_seconds": 456.4,
+    "end_seconds": 458.469,
+    "text": "looked at AI specifically how these dark triad personas might be able to manifest"
+  },
+  {
+    "start": "00:07:38.469",
+    "end": "00:07:38.479",
+    "start_seconds": 458.469,
+    "end_seconds": 458.479,
+    "text": "triad personas might be able to manifest"
+  },
+  {
+    "start": "00:07:38.479",
+    "end": "00:07:41.270",
+    "start_seconds": 458.479,
+    "end_seconds": 461.27,
+    "text": "triad personas might be able to manifest in large language models."
+  },
+  {
+    "start": "00:07:41.270",
+    "end": "00:07:41.280",
+    "start_seconds": 461.27,
+    "end_seconds": 461.28,
+    "text": "in large language models."
+  },
+  {
+    "start": "00:07:41.280",
+    "end": "00:07:44.390",
+    "start_seconds": 461.28,
+    "end_seconds": 464.39,
+    "text": "in large language models. So, one of the things that I did was ask"
+  },
+  {
+    "start": "00:07:44.390",
+    "end": "00:07:44.400",
+    "start_seconds": 464.39,
+    "end_seconds": 464.4,
+    "text": "So, one of the things that I did was ask"
+  },
+  {
+    "start": "00:07:44.400",
+    "end": "00:07:46.230",
+    "start_seconds": 464.4,
+    "end_seconds": 466.23,
+    "text": "So, one of the things that I did was ask this these different moral dilemmas to"
+  },
+  {
+    "start": "00:07:46.230",
+    "end": "00:07:46.240",
+    "start_seconds": 466.23,
+    "end_seconds": 466.24,
+    "text": "this these different moral dilemmas to"
+  },
+  {
+    "start": "00:07:46.240",
+    "end": "00:07:48.870",
+    "start_seconds": 466.24,
+    "end_seconds": 468.87,
+    "text": "this these different moral dilemmas to both humans and to my AI models that I"
+  },
+  {
+    "start": "00:07:48.870",
+    "end": "00:07:48.880",
+    "start_seconds": 468.87,
+    "end_seconds": 468.88,
+    "text": "both humans and to my AI models that I"
+  },
+  {
+    "start": "00:07:48.880",
+    "end": "00:07:51.749",
+    "start_seconds": 468.88,
+    "end_seconds": 471.749,
+    "text": "both humans and to my AI models that I had fine-tuned into these personas. Um,"
+  },
+  {
+    "start": "00:07:51.749",
+    "end": "00:07:51.759",
+    "start_seconds": 471.749,
+    "end_seconds": 471.759,
+    "text": "had fine-tuned into these personas. Um,"
+  },
+  {
+    "start": "00:07:51.759",
+    "end": "00:07:54.710",
+    "start_seconds": 471.759,
+    "end_seconds": 474.71,
+    "text": "had fine-tuned into these personas. Um, so it's a very basic trolley dilemma,"
+  },
+  {
+    "start": "00:07:54.710",
+    "end": "00:07:54.720",
+    "start_seconds": 474.71,
+    "end_seconds": 474.72,
+    "text": "so it's a very basic trolley dilemma,"
+  },
+  {
+    "start": "00:07:54.720",
+    "end": "00:07:56.390",
+    "start_seconds": 474.72,
+    "end_seconds": 476.39,
+    "text": "so it's a very basic trolley dilemma, but there were many different versions"
+  },
+  {
+    "start": "00:07:56.390",
+    "end": "00:07:56.400",
+    "start_seconds": 476.39,
+    "end_seconds": 476.4,
+    "text": "but there were many different versions"
+  },
+  {
+    "start": "00:07:56.400",
+    "end": "00:07:58.469",
+    "start_seconds": 476.4,
+    "end_seconds": 478.469,
+    "text": "but there were many different versions of it. One of them is, is it appropriate"
+  },
+  {
+    "start": "00:07:58.469",
+    "end": "00:07:58.479",
+    "start_seconds": 478.469,
+    "end_seconds": 478.479,
+    "text": "of it. One of them is, is it appropriate"
+  },
+  {
+    "start": "00:07:58.479",
+    "end": "00:08:00.390",
+    "start_seconds": 478.479,
+    "end_seconds": 480.39,
+    "text": "of it. One of them is, is it appropriate to swerve and hit an old lady in order"
+  },
+  {
+    "start": "00:08:00.390",
+    "end": "00:08:00.400",
+    "start_seconds": 480.39,
+    "end_seconds": 480.4,
+    "text": "to swerve and hit an old lady in order"
+  },
+  {
+    "start": "00:08:00.400",
+    "end": "00:08:02.950",
+    "start_seconds": 480.4,
+    "end_seconds": 482.95,
+    "text": "to swerve and hit an old lady in order to save a young mother and her child?"
+  },
+  {
+    "start": "00:08:02.950",
+    "end": "00:08:02.960",
+    "start_seconds": 482.95,
+    "end_seconds": 482.96,
+    "text": "to save a young mother and her child?"
+  },
+  {
+    "start": "00:08:02.960",
+    "end": "00:08:05.110",
+    "start_seconds": 482.96,
+    "end_seconds": 485.11,
+    "text": "to save a young mother and her child? And I wanted to see how easily, not"
+  },
+  {
+    "start": "00:08:05.110",
+    "end": "00:08:05.120",
+    "start_seconds": 485.11,
+    "end_seconds": 485.12,
+    "text": "And I wanted to see how easily, not"
+  },
+  {
+    "start": "00:08:05.120",
+    "end": "00:08:06.070",
+    "start_seconds": 485.12,
+    "end_seconds": 486.07,
+    "text": "And I wanted to see how easily, not necessarily can the [clears throat]"
+  },
+  {
+    "start": "00:08:06.070",
+    "end": "00:08:06.080",
+    "start_seconds": 486.07,
+    "end_seconds": 486.08,
+    "text": "necessarily can the [clears throat]"
+  },
+  {
+    "start": "00:08:06.080",
+    "end": "00:08:07.749",
+    "start_seconds": 486.08,
+    "end_seconds": 487.749,
+    "text": "necessarily can the [clears throat] models take on these personas. We know"
+  },
+  {
+    "start": "00:08:07.749",
+    "end": "00:08:07.759",
+    "start_seconds": 487.749,
+    "end_seconds": 487.759,
+    "text": "models take on these personas. We know"
+  },
+  {
+    "start": "00:08:07.759",
+    "end": "00:08:10.070",
+    "start_seconds": 487.759,
+    "end_seconds": 490.07,
+    "text": "models take on these personas. We know AI models are very very good at persona"
+  },
+  {
+    "start": "00:08:10.070",
+    "end": "00:08:10.080",
+    "start_seconds": 490.07,
+    "end_seconds": 490.08,
+    "text": "AI models are very very good at persona"
+  },
+  {
+    "start": "00:08:10.080",
+    "end": "00:08:12.070",
+    "start_seconds": 490.08,
+    "end_seconds": 492.07,
+    "text": "AI models are very very good at persona modeling, but how easily can we actually"
+  },
+  {
+    "start": "00:08:12.070",
+    "end": "00:08:12.080",
+    "start_seconds": 492.07,
+    "end_seconds": 492.08,
+    "text": "modeling, but how easily can we actually"
+  },
+  {
+    "start": "00:08:12.080",
+    "end": "00:08:14.469",
+    "start_seconds": 492.08,
+    "end_seconds": 494.469,
+    "text": "modeling, but how easily can we actually tweak them into changing their response,"
+  },
+  {
+    "start": "00:08:14.469",
+    "end": "00:08:14.479",
+    "start_seconds": 494.469,
+    "end_seconds": 494.479,
+    "text": "tweak them into changing their response,"
+  },
+  {
+    "start": "00:08:14.479",
+    "end": "00:08:16.790",
+    "start_seconds": 494.479,
+    "end_seconds": 496.79,
+    "text": "tweak them into changing their response, which was actually very very easy. I"
+  },
+  {
+    "start": "00:08:16.790",
+    "end": "00:08:16.800",
+    "start_seconds": 496.79,
+    "end_seconds": 496.8,
+    "text": "which was actually very very easy. I"
+  },
+  {
+    "start": "00:08:16.800",
+    "end": "00:08:19.270",
+    "start_seconds": 496.8,
+    "end_seconds": 499.27,
+    "text": "which was actually very very easy. I used as few as 36 examples in the"
+  },
+  {
+    "start": "00:08:19.270",
+    "end": "00:08:19.280",
+    "start_seconds": 499.27,
+    "end_seconds": 499.28,
+    "text": "used as few as 36 examples in the"
+  },
+  {
+    "start": "00:08:19.280",
+    "end": "00:08:21.110",
+    "start_seconds": 499.28,
+    "end_seconds": 501.11,
+    "text": "used as few as 36 examples in the fine-tuning data set, which if you're"
+  },
+  {
+    "start": "00:08:21.110",
+    "end": "00:08:21.120",
+    "start_seconds": 501.11,
+    "end_seconds": 501.12,
+    "text": "fine-tuning data set, which if you're"
+  },
+  {
+    "start": "00:08:21.120",
+    "end": "00:08:22.629",
+    "start_seconds": 501.12,
+    "end_seconds": 502.629,
+    "text": "fine-tuning data set, which if you're familiar with fine-tuning, that's"
+  },
+  {
+    "start": "00:08:22.629",
+    "end": "00:08:22.639",
+    "start_seconds": 502.629,
+    "end_seconds": 502.639,
+    "text": "familiar with fine-tuning, that's"
+  },
+  {
+    "start": "00:08:22.639",
+    "end": "00:08:24.629",
+    "start_seconds": 502.639,
+    "end_seconds": 504.629,
+    "text": "familiar with fine-tuning, that's incredibly small for large language"
+  },
+  {
+    "start": "00:08:24.629",
+    "end": "00:08:24.639",
+    "start_seconds": 504.629,
+    "end_seconds": 504.639,
+    "text": "incredibly small for large language"
+  },
+  {
+    "start": "00:08:24.639",
+    "end": "00:08:27.110",
+    "start_seconds": 504.639,
+    "end_seconds": 507.11,
+    "text": "incredibly small for large language models. Um, and again, it's not"
+  },
+  {
+    "start": "00:08:27.110",
+    "end": "00:08:27.120",
+    "start_seconds": 507.11,
+    "end_seconds": 507.12,
+    "text": "models. Um, and again, it's not"
+  },
+  {
+    "start": "00:08:27.120",
+    "end": "00:08:28.950",
+    "start_seconds": 507.12,
+    "end_seconds": 508.95,
+    "text": "models. Um, and again, it's not necessarily surprising that this is"
+  },
+  {
+    "start": "00:08:28.950",
+    "end": "00:08:28.960",
+    "start_seconds": 508.95,
+    "end_seconds": 508.96,
+    "text": "necessarily surprising that this is"
+  },
+  {
+    "start": "00:08:28.960",
+    "end": "00:08:30.710",
+    "start_seconds": 508.96,
+    "end_seconds": 510.71,
+    "text": "necessarily surprising that this is possible, that they are able to take on"
+  },
+  {
+    "start": "00:08:30.710",
+    "end": "00:08:30.720",
+    "start_seconds": 510.71,
+    "end_seconds": 510.72,
+    "text": "possible, that they are able to take on"
+  },
+  {
+    "start": "00:08:30.720",
+    "end": "00:08:32.790",
+    "start_seconds": 510.72,
+    "end_seconds": 512.79,
+    "text": "possible, that they are able to take on the personas. But the surprising thing"
+  },
+  {
+    "start": "00:08:32.790",
+    "end": "00:08:32.800",
+    "start_seconds": 512.79,
+    "end_seconds": 512.8,
+    "text": "the personas. But the surprising thing"
+  },
+  {
+    "start": "00:08:32.800",
+    "end": "00:08:35.110",
+    "start_seconds": 512.8,
+    "end_seconds": 515.11,
+    "text": "the personas. But the surprising thing is how easily they can be manipulated,"
+  },
+  {
+    "start": "00:08:35.110",
+    "end": "00:08:35.120",
+    "start_seconds": 515.11,
+    "end_seconds": 515.12,
+    "text": "is how easily they can be manipulated,"
+  },
+  {
+    "start": "00:08:35.120",
+    "end": "00:08:36.949",
+    "start_seconds": 515.12,
+    "end_seconds": 516.949,
+    "text": "is how easily they can be manipulated, how easily these AI models can actually"
+  },
+  {
+    "start": "00:08:36.949",
+    "end": "00:08:36.959",
+    "start_seconds": 516.949,
+    "end_seconds": 516.9590000000001,
+    "text": "how easily these AI models can actually"
+  },
+  {
+    "start": "00:08:36.959",
+    "end": "00:08:38.870",
+    "start_seconds": 516.9590000000001,
+    "end_seconds": 518.87,
+    "text": "how easily these AI models can actually become misaligned."
+  },
+  {
+    "start": "00:08:38.870",
+    "end": "00:08:38.880",
+    "start_seconds": 518.87,
+    "end_seconds": 518.88,
+    "text": "become misaligned."
+  },
+  {
+    "start": "00:08:38.880",
+    "end": "00:08:41.589",
+    "start_seconds": 518.88,
+    "end_seconds": 521.5889999999999,
+    "text": "become misaligned. And what's even more concerning is these"
+  },
+  {
+    "start": "00:08:41.589",
+    "end": "00:08:41.599",
+    "start_seconds": 521.5889999999999,
+    "end_seconds": 521.599,
+    "text": "And what's even more concerning is these"
+  },
+  {
+    "start": "00:08:41.599",
+    "end": "00:08:43.909",
+    "start_seconds": 521.599,
+    "end_seconds": 523.909,
+    "text": "And what's even more concerning is these models are being deployed into other"
+  },
+  {
+    "start": "00:08:43.909",
+    "end": "00:08:43.919",
+    "start_seconds": 523.909,
+    "end_seconds": 523.919,
+    "text": "models are being deployed into other"
+  },
+  {
+    "start": "00:08:43.919",
+    "end": "00:08:45.670",
+    "start_seconds": 523.919,
+    "end_seconds": 525.67,
+    "text": "models are being deployed into other autonomous agents as well as into"
+  },
+  {
+    "start": "00:08:45.670",
+    "end": "00:08:45.680",
+    "start_seconds": 525.67,
+    "end_seconds": 525.68,
+    "text": "autonomous agents as well as into"
+  },
+  {
+    "start": "00:08:45.680",
+    "end": "00:08:48.790",
+    "start_seconds": 525.68,
+    "end_seconds": 528.79,
+    "text": "autonomous agents as well as into robots. Um, for example, if you think of"
+  },
+  {
+    "start": "00:08:48.790",
+    "end": "00:08:48.800",
+    "start_seconds": 528.79,
+    "end_seconds": 528.8,
+    "text": "robots. Um, for example, if you think of"
+  },
+  {
+    "start": "00:08:48.800",
+    "end": "00:08:51.030",
+    "start_seconds": 528.8,
+    "end_seconds": 531.03,
+    "text": "robots. Um, for example, if you think of the same trolley dilemma, but in a more"
+  },
+  {
+    "start": "00:08:51.030",
+    "end": "00:08:51.040",
+    "start_seconds": 531.03,
+    "end_seconds": 531.04,
+    "text": "the same trolley dilemma, but in a more"
+  },
+  {
+    "start": "00:08:51.040",
+    "end": "00:08:53.110",
+    "start_seconds": 531.04,
+    "end_seconds": 533.11,
+    "text": "the same trolley dilemma, but in a more real world example with a Tesla that"
+  },
+  {
+    "start": "00:08:53.110",
+    "end": "00:08:53.120",
+    "start_seconds": 533.11,
+    "end_seconds": 533.12,
+    "text": "real world example with a Tesla that"
+  },
+  {
+    "start": "00:08:53.120",
+    "end": "00:08:55.590",
+    "start_seconds": 533.12,
+    "end_seconds": 535.59,
+    "text": "real world example with a Tesla that actually has to make this decision. Um,"
+  },
+  {
+    "start": "00:08:55.590",
+    "end": "00:08:55.600",
+    "start_seconds": 535.59,
+    "end_seconds": 535.6,
+    "text": "actually has to make this decision. Um,"
+  },
+  {
+    "start": "00:08:55.600",
+    "end": "00:08:58.070",
+    "start_seconds": 535.6,
+    "end_seconds": 538.07,
+    "text": "actually has to make this decision. Um, it's concerning that these models are so"
+  },
+  {
+    "start": "00:08:58.070",
+    "end": "00:08:58.080",
+    "start_seconds": 538.07,
+    "end_seconds": 538.08,
+    "text": "it's concerning that these models are so"
+  },
+  {
+    "start": "00:08:58.080",
+    "end": "00:09:00.230",
+    "start_seconds": 538.08,
+    "end_seconds": 540.23,
+    "text": "it's concerning that these models are so easily manipulated and so easily"
+  },
+  {
+    "start": "00:09:00.230",
+    "end": "00:09:00.240",
+    "start_seconds": 540.23,
+    "end_seconds": 540.24,
+    "text": "easily manipulated and so easily"
+  },
+  {
+    "start": "00:09:00.240",
+    "end": "00:09:01.750",
+    "start_seconds": 540.24,
+    "end_seconds": 541.75,
+    "text": "easily manipulated and so easily misaligned."
+  },
+  {
+    "start": "00:09:01.750",
+    "end": "00:09:01.760",
+    "start_seconds": 541.75,
+    "end_seconds": 541.76,
+    "text": "misaligned."
+  },
+  {
+    "start": "00:09:01.760",
+    "end": "00:09:04.070",
+    "start_seconds": 541.76,
+    "end_seconds": 544.07,
+    "text": "misaligned. And as we know, a lot of these large"
+  },
+  {
+    "start": "00:09:04.070",
+    "end": "00:09:04.080",
+    "start_seconds": 544.07,
+    "end_seconds": 544.08,
+    "text": "And as we know, a lot of these large"
+  },
+  {
+    "start": "00:09:04.080",
+    "end": "00:09:05.350",
+    "start_seconds": 544.08,
+    "end_seconds": 545.35,
+    "text": "And as we know, a lot of these large language models are actually being"
+  },
+  {
+    "start": "00:09:05.350",
+    "end": "00:09:05.360",
+    "start_seconds": 545.35,
+    "end_seconds": 545.36,
+    "text": "language models are actually being"
+  },
+  {
+    "start": "00:09:05.360",
+    "end": "00:09:08.389",
+    "start_seconds": 545.36,
+    "end_seconds": 548.389,
+    "text": "language models are actually being deployed into robots. Um, for example,"
+  },
+  {
+    "start": "00:09:08.389",
+    "end": "00:09:08.399",
+    "start_seconds": 548.389,
+    "end_seconds": 548.399,
+    "text": "deployed into robots. Um, for example,"
+  },
+  {
+    "start": "00:09:08.399",
+    "end": "00:09:10.710",
+    "start_seconds": 548.399,
+    "end_seconds": 550.71,
+    "text": "deployed into robots. Um, for example, even the mechanism behind full"
+  },
+  {
+    "start": "00:09:10.710",
+    "end": "00:09:10.720",
+    "start_seconds": 550.71,
+    "end_seconds": 550.72,
+    "text": "even the mechanism behind full"
+  },
+  {
+    "start": "00:09:10.720",
+    "end": "00:09:12.949",
+    "start_seconds": 550.72,
+    "end_seconds": 552.949,
+    "text": "even the mechanism behind full self-driving is being integrated into"
+  },
+  {
+    "start": "00:09:12.949",
+    "end": "00:09:12.959",
+    "start_seconds": 552.949,
+    "end_seconds": 552.959,
+    "text": "self-driving is being integrated into"
+  },
+  {
+    "start": "00:09:12.959",
+    "end": "00:09:16.710",
+    "start_seconds": 552.959,
+    "end_seconds": 556.71,
+    "text": "self-driving is being integrated into Tesla's Optimus. And the fact that these"
+  },
+  {
+    "start": "00:09:16.710",
+    "end": "00:09:16.720",
+    "start_seconds": 556.71,
+    "end_seconds": 556.72,
+    "text": "Tesla's Optimus. And the fact that these"
+  },
+  {
+    "start": "00:09:16.720",
+    "end": "00:09:19.110",
+    "start_seconds": 556.72,
+    "end_seconds": 559.11,
+    "text": "Tesla's Optimus. And the fact that these models can be so easily misaligned,"
+  },
+  {
+    "start": "00:09:19.110",
+    "end": "00:09:19.120",
+    "start_seconds": 559.11,
+    "end_seconds": 559.12,
+    "text": "models can be so easily misaligned,"
+  },
+  {
+    "start": "00:09:19.120",
+    "end": "00:09:20.630",
+    "start_seconds": 559.12,
+    "end_seconds": 560.63,
+    "text": "models can be so easily misaligned, whether it's large language models or"
+  },
+  {
+    "start": "00:09:20.630",
+    "end": "00:09:20.640",
+    "start_seconds": 560.63,
+    "end_seconds": 560.64,
+    "text": "whether it's large language models or"
+  },
+  {
+    "start": "00:09:20.640",
+    "end": "00:09:23.750",
+    "start_seconds": 560.64,
+    "end_seconds": 563.75,
+    "text": "whether it's large language models or robots, leads to a question of trust of"
+  },
+  {
+    "start": "00:09:23.750",
+    "end": "00:09:23.760",
+    "start_seconds": 563.75,
+    "end_seconds": 563.76,
+    "text": "robots, leads to a question of trust of"
+  },
+  {
+    "start": "00:09:23.760",
+    "end": "00:09:26.070",
+    "start_seconds": 563.76,
+    "end_seconds": 566.07,
+    "text": "robots, leads to a question of trust of how how easily can we trust these robots"
+  },
+  {
+    "start": "00:09:26.070",
+    "end": "00:09:26.080",
+    "start_seconds": 566.07,
+    "end_seconds": 566.08,
+    "text": "how how easily can we trust these robots"
+  },
+  {
+    "start": "00:09:26.080",
+    "end": "00:09:27.990",
+    "start_seconds": 566.08,
+    "end_seconds": 567.99,
+    "text": "how how easily can we trust these robots when we bring them into our homes. And"
+  },
+  {
+    "start": "00:09:27.990",
+    "end": "00:09:28.000",
+    "start_seconds": 567.99,
+    "end_seconds": 568.0,
+    "text": "when we bring them into our homes. And"
+  },
+  {
+    "start": "00:09:28.000",
+    "end": "00:09:30.470",
+    "start_seconds": 568.0,
+    "end_seconds": 570.47,
+    "text": "when we bring them into our homes. And this leads to the safety layer that we"
+  },
+  {
+    "start": "00:09:30.470",
+    "end": "00:09:30.480",
+    "start_seconds": 570.47,
+    "end_seconds": 570.48,
+    "text": "this leads to the safety layer that we"
+  },
+  {
+    "start": "00:09:30.480",
+    "end": "00:09:31.590",
+    "start_seconds": 570.48,
+    "end_seconds": 571.59,
+    "text": "this leads to the safety layer that we want to build at the Institute for"
+  },
+  {
+    "start": "00:09:31.590",
+    "end": "00:09:31.600",
+    "start_seconds": 571.59,
+    "end_seconds": 571.6,
+    "text": "want to build at the Institute for"
+  },
+  {
+    "start": "00:09:31.600",
+    "end": "00:09:35.190",
+    "start_seconds": 571.6,
+    "end_seconds": 575.19,
+    "text": "want to build at the Institute for Humane Robotics."
+  },
+  {
+    "start": "00:09:35.200",
+    "end": "00:09:38.949",
+    "start_seconds": 575.2,
+    "end_seconds": 578.949,
+    "text": "You um okay so I'm going to share a"
+  },
+  {
+    "start": "00:09:38.949",
+    "end": "00:09:38.959",
+    "start_seconds": 578.949,
+    "end_seconds": 578.9590000000001,
+    "text": "You um okay so I'm going to share a"
+  },
+  {
+    "start": "00:09:38.959",
+    "end": "00:09:40.630",
+    "start_seconds": 578.9590000000001,
+    "end_seconds": 580.63,
+    "text": "You um okay so I'm going to share a little bit about the actual work that we"
+  },
+  {
+    "start": "00:09:40.630",
+    "end": "00:09:40.640",
+    "start_seconds": 580.63,
+    "end_seconds": 580.64,
+    "text": "little bit about the actual work that we"
+  },
+  {
+    "start": "00:09:40.640",
+    "end": "00:09:43.030",
+    "start_seconds": 580.64,
+    "end_seconds": 583.03,
+    "text": "little bit about the actual work that we are doing at the institute. So how we"
+  },
+  {
+    "start": "00:09:43.030",
+    "end": "00:09:43.040",
+    "start_seconds": 583.03,
+    "end_seconds": 583.04,
+    "text": "are doing at the institute. So how we"
+  },
+  {
+    "start": "00:09:43.040",
+    "end": "00:09:46.230",
+    "start_seconds": 583.04,
+    "end_seconds": 586.23,
+    "text": "are doing at the institute. So how we run is on the ecosystem approach. So we"
+  },
+  {
+    "start": "00:09:46.230",
+    "end": "00:09:46.240",
+    "start_seconds": 586.23,
+    "end_seconds": 586.24,
+    "text": "run is on the ecosystem approach. So we"
+  },
+  {
+    "start": "00:09:46.240",
+    "end": "00:09:49.030",
+    "start_seconds": 586.24,
+    "end_seconds": 589.03,
+    "text": "run is on the ecosystem approach. So we have a five department model. So we work"
+  },
+  {
+    "start": "00:09:49.030",
+    "end": "00:09:49.040",
+    "start_seconds": 589.03,
+    "end_seconds": 589.04,
+    "text": "have a five department model. So we work"
+  },
+  {
+    "start": "00:09:49.040",
+    "end": "00:09:51.110",
+    "start_seconds": 589.04,
+    "end_seconds": 591.11,
+    "text": "have a five department model. So we work directly with industry with different"
+  },
+  {
+    "start": "00:09:51.110",
+    "end": "00:09:51.120",
+    "start_seconds": 591.11,
+    "end_seconds": 591.12,
+    "text": "directly with industry with different"
+  },
+  {
+    "start": "00:09:51.120",
+    "end": "00:09:53.670",
+    "start_seconds": 591.12,
+    "end_seconds": 593.67,
+    "text": "directly with industry with different robotics companies across United States,"
+  },
+  {
+    "start": "00:09:53.670",
+    "end": "00:09:53.680",
+    "start_seconds": 593.67,
+    "end_seconds": 593.68,
+    "text": "robotics companies across United States,"
+  },
+  {
+    "start": "00:09:53.680",
+    "end": "00:09:56.310",
+    "start_seconds": 593.68,
+    "end_seconds": 596.31,
+    "text": "robotics companies across United States, Asia and Europe. We bring them into"
+  },
+  {
+    "start": "00:09:56.310",
+    "end": "00:09:56.320",
+    "start_seconds": 596.31,
+    "end_seconds": 596.32,
+    "text": "Asia and Europe. We bring them into"
+  },
+  {
+    "start": "00:09:56.320",
+    "end": "00:09:58.790",
+    "start_seconds": 596.32,
+    "end_seconds": 598.79,
+    "text": "Asia and Europe. We bring them into research labs and we help university to"
+  },
+  {
+    "start": "00:09:58.790",
+    "end": "00:09:58.800",
+    "start_seconds": 598.79,
+    "end_seconds": 598.8,
+    "text": "research labs and we help university to"
+  },
+  {
+    "start": "00:09:58.800",
+    "end": "00:10:00.389",
+    "start_seconds": 598.8,
+    "end_seconds": 600.389,
+    "text": "research labs and we help university to get access to the robots that they"
+  },
+  {
+    "start": "00:10:00.389",
+    "end": "00:10:00.399",
+    "start_seconds": 600.389,
+    "end_seconds": 600.399,
+    "text": "get access to the robots that they"
+  },
+  {
+    "start": "00:10:00.399",
+    "end": "00:10:01.990",
+    "start_seconds": 600.399,
+    "end_seconds": 601.99,
+    "text": "get access to the robots that they usually wouldn't be able to access"
+  },
+  {
+    "start": "00:10:01.990",
+    "end": "00:10:02.000",
+    "start_seconds": 601.99,
+    "end_seconds": 602.0,
+    "text": "usually wouldn't be able to access"
+  },
+  {
+    "start": "00:10:02.000",
+    "end": "00:10:03.829",
+    "start_seconds": 602.0,
+    "end_seconds": 603.829,
+    "text": "usually wouldn't be able to access because of the subscription subscription"
+  },
+  {
+    "start": "00:10:03.829",
+    "end": "00:10:03.839",
+    "start_seconds": 603.829,
+    "end_seconds": 603.839,
+    "text": "because of the subscription subscription"
+  },
+  {
+    "start": "00:10:03.839",
+    "end": "00:10:06.949",
+    "start_seconds": 603.839,
+    "end_seconds": 606.949,
+    "text": "because of the subscription subscription model. And during that process, we are"
+  },
+  {
+    "start": "00:10:06.949",
+    "end": "00:10:06.959",
+    "start_seconds": 606.949,
+    "end_seconds": 606.959,
+    "text": "model. And during that process, we are"
+  },
+  {
+    "start": "00:10:06.959",
+    "end": "00:10:09.910",
+    "start_seconds": 606.959,
+    "end_seconds": 609.91,
+    "text": "model. And during that process, we are learning a lot of wonderful insights and"
+  },
+  {
+    "start": "00:10:09.910",
+    "end": "00:10:09.920",
+    "start_seconds": 609.91,
+    "end_seconds": 609.92,
+    "text": "learning a lot of wonderful insights and"
+  },
+  {
+    "start": "00:10:09.920",
+    "end": "00:10:12.070",
+    "start_seconds": 609.92,
+    "end_seconds": 612.07,
+    "text": "learning a lot of wonderful insights and those insights are translated into"
+  },
+  {
+    "start": "00:10:12.070",
+    "end": "00:10:12.080",
+    "start_seconds": 612.07,
+    "end_seconds": 612.08,
+    "text": "those insights are translated into"
+  },
+  {
+    "start": "00:10:12.080",
+    "end": "00:10:14.550",
+    "start_seconds": 612.08,
+    "end_seconds": 614.55,
+    "text": "those insights are translated into policy. So we work with lobbyists in"
+  },
+  {
+    "start": "00:10:14.550",
+    "end": "00:10:14.560",
+    "start_seconds": 614.55,
+    "end_seconds": 614.56,
+    "text": "policy. So we work with lobbyists in"
+  },
+  {
+    "start": "00:10:14.560",
+    "end": "00:10:17.030",
+    "start_seconds": 614.56,
+    "end_seconds": 617.03,
+    "text": "policy. So we work with lobbyists in Washington DC on new legislations that"
+  },
+  {
+    "start": "00:10:17.030",
+    "end": "00:10:17.040",
+    "start_seconds": 617.03,
+    "end_seconds": 617.04,
+    "text": "Washington DC on new legislations that"
+  },
+  {
+    "start": "00:10:17.040",
+    "end": "00:10:18.870",
+    "start_seconds": 617.04,
+    "end_seconds": 618.87,
+    "text": "Washington DC on new legislations that are going to be regulating the"
+  },
+  {
+    "start": "00:10:18.870",
+    "end": "00:10:18.880",
+    "start_seconds": 618.87,
+    "end_seconds": 618.88,
+    "text": "are going to be regulating the"
+  },
+  {
+    "start": "00:10:18.880",
+    "end": "00:10:21.190",
+    "start_seconds": 618.88,
+    "end_seconds": 621.19,
+    "text": "are going to be regulating the psychosocial safety segment of the"
+  },
+  {
+    "start": "00:10:21.190",
+    "end": "00:10:21.200",
+    "start_seconds": 621.19,
+    "end_seconds": 621.2,
+    "text": "psychosocial safety segment of the"
+  },
+  {
+    "start": "00:10:21.200",
+    "end": "00:10:23.829",
+    "start_seconds": 621.2,
+    "end_seconds": 623.829,
+    "text": "psychosocial safety segment of the industry. But not just that, we know"
+  },
+  {
+    "start": "00:10:23.829",
+    "end": "00:10:23.839",
+    "start_seconds": 623.829,
+    "end_seconds": 623.8389999999999,
+    "text": "industry. But not just that, we know"
+  },
+  {
+    "start": "00:10:23.839",
+    "end": "00:10:25.750",
+    "start_seconds": 623.8389999999999,
+    "end_seconds": 625.75,
+    "text": "industry. But not just that, we know that in order for us to be able to"
+  },
+  {
+    "start": "00:10:25.750",
+    "end": "00:10:25.760",
+    "start_seconds": 625.75,
+    "end_seconds": 625.76,
+    "text": "that in order for us to be able to"
+  },
+  {
+    "start": "00:10:25.760",
+    "end": "00:10:28.230",
+    "start_seconds": 625.76,
+    "end_seconds": 628.23,
+    "text": "that in order for us to be able to really make a change, we also have to"
+  },
+  {
+    "start": "00:10:28.230",
+    "end": "00:10:28.240",
+    "start_seconds": 628.23,
+    "end_seconds": 628.24,
+    "text": "really make a change, we also have to"
+  },
+  {
+    "start": "00:10:28.240",
+    "end": "00:10:31.030",
+    "start_seconds": 628.24,
+    "end_seconds": 631.03,
+    "text": "really make a change, we also have to have a bottoms up approach. So besides"
+  },
+  {
+    "start": "00:10:31.030",
+    "end": "00:10:31.040",
+    "start_seconds": 631.03,
+    "end_seconds": 631.04,
+    "text": "have a bottoms up approach. So besides"
+  },
+  {
+    "start": "00:10:31.040",
+    "end": "00:10:32.949",
+    "start_seconds": 631.04,
+    "end_seconds": 632.949,
+    "text": "have a bottoms up approach. So besides just approaching through policy,"
+  },
+  {
+    "start": "00:10:32.949",
+    "end": "00:10:32.959",
+    "start_seconds": 632.949,
+    "end_seconds": 632.9590000000001,
+    "text": "just approaching through policy,"
+  },
+  {
+    "start": "00:10:32.959",
+    "end": "00:10:35.269",
+    "start_seconds": 632.9590000000001,
+    "end_seconds": 635.269,
+    "text": "just approaching through policy, industry and research, we are also"
+  },
+  {
+    "start": "00:10:35.269",
+    "end": "00:10:35.279",
+    "start_seconds": 635.269,
+    "end_seconds": 635.279,
+    "text": "industry and research, we are also"
+  },
+  {
+    "start": "00:10:35.279",
+    "end": "00:10:38.230",
+    "start_seconds": 635.279,
+    "end_seconds": 638.23,
+    "text": "industry and research, we are also working on education and media. So we"
+  },
+  {
+    "start": "00:10:38.230",
+    "end": "00:10:38.240",
+    "start_seconds": 638.23,
+    "end_seconds": 638.24,
+    "text": "working on education and media. So we"
+  },
+  {
+    "start": "00:10:38.240",
+    "end": "00:10:39.990",
+    "start_seconds": 638.24,
+    "end_seconds": 639.99,
+    "text": "working on education and media. So we are going to be running different docu"
+  },
+  {
+    "start": "00:10:39.990",
+    "end": "00:10:40.000",
+    "start_seconds": 639.99,
+    "end_seconds": 640.0,
+    "text": "are going to be running different docu"
+  },
+  {
+    "start": "00:10:40.000",
+    "end": "00:10:43.269",
+    "start_seconds": 640.0,
+    "end_seconds": 643.269,
+    "text": "are going to be running different docu series, shows, movies, podcasts to be"
+  },
+  {
+    "start": "00:10:43.269",
+    "end": "00:10:43.279",
+    "start_seconds": 643.269,
+    "end_seconds": 643.279,
+    "text": "series, shows, movies, podcasts to be"
+  },
+  {
+    "start": "00:10:43.279",
+    "end": "00:10:46.230",
+    "start_seconds": 643.279,
+    "end_seconds": 646.23,
+    "text": "series, shows, movies, podcasts to be able to educate an average Joe to"
+  },
+  {
+    "start": "00:10:46.230",
+    "end": "00:10:46.240",
+    "start_seconds": 646.23,
+    "end_seconds": 646.24,
+    "text": "able to educate an average Joe to"
+  },
+  {
+    "start": "00:10:46.240",
+    "end": "00:10:48.710",
+    "start_seconds": 646.24,
+    "end_seconds": 648.71,
+    "text": "able to educate an average Joe to understand and demystify the concepts"
+  },
+  {
+    "start": "00:10:48.710",
+    "end": "00:10:48.720",
+    "start_seconds": 648.71,
+    "end_seconds": 648.72,
+    "text": "understand and demystify the concepts"
+  },
+  {
+    "start": "00:10:48.720",
+    "end": "00:10:51.190",
+    "start_seconds": 648.72,
+    "end_seconds": 651.19,
+    "text": "understand and demystify the concepts from robotics industry."
+  },
+  {
+    "start": "00:10:51.190",
+    "end": "00:10:51.200",
+    "start_seconds": 651.19,
+    "end_seconds": 651.2,
+    "text": "from robotics industry."
+  },
+  {
+    "start": "00:10:51.200",
+    "end": "00:10:54.310",
+    "start_seconds": 651.2,
+    "end_seconds": 654.31,
+    "text": "from robotics industry. So as you can see, we have a uh three"
+  },
+  {
+    "start": "00:10:54.310",
+    "end": "00:10:54.320",
+    "start_seconds": 654.31,
+    "end_seconds": 654.32,
+    "text": "So as you can see, we have a uh three"
+  },
+  {
+    "start": "00:10:54.320",
+    "end": "00:10:57.190",
+    "start_seconds": 654.32,
+    "end_seconds": 657.19,
+    "text": "So as you can see, we have a uh three co-founder team. So Roshni just finished"
+  },
+  {
+    "start": "00:10:57.190",
+    "end": "00:10:57.200",
+    "start_seconds": 657.19,
+    "end_seconds": 657.2,
+    "text": "co-founder team. So Roshni just finished"
+  },
+  {
+    "start": "00:10:57.200",
+    "end": "00:10:59.350",
+    "start_seconds": 657.2,
+    "end_seconds": 659.35,
+    "text": "co-founder team. So Roshni just finished her PhD in neuroscience and technology."
+  },
+  {
+    "start": "00:10:59.350",
+    "end": "00:10:59.360",
+    "start_seconds": 659.35,
+    "end_seconds": 659.36,
+    "text": "her PhD in neuroscience and technology."
+  },
+  {
+    "start": "00:10:59.360",
+    "end": "00:11:02.710",
+    "start_seconds": 659.36,
+    "end_seconds": 662.71,
+    "text": "her PhD in neuroscience and technology. Phyllis from MIT Media Lab and uh from"
+  },
+  {
+    "start": "00:11:02.710",
+    "end": "00:11:02.720",
+    "start_seconds": 662.71,
+    "end_seconds": 662.72,
+    "text": "Phyllis from MIT Media Lab and uh from"
+  },
+  {
+    "start": "00:11:02.720",
+    "end": "00:11:05.350",
+    "start_seconds": 662.72,
+    "end_seconds": 665.35,
+    "text": "Phyllis from MIT Media Lab and uh from Microsoft and my background is in"
+  },
+  {
+    "start": "00:11:05.350",
+    "end": "00:11:05.360",
+    "start_seconds": 665.35,
+    "end_seconds": 665.36,
+    "text": "Microsoft and my background is in"
+  },
+  {
+    "start": "00:11:05.360",
+    "end": "00:11:07.829",
+    "start_seconds": 665.36,
+    "end_seconds": 667.829,
+    "text": "Microsoft and my background is in digital well-being and uh technologies"
+  },
+  {
+    "start": "00:11:07.829",
+    "end": "00:11:07.839",
+    "start_seconds": 667.829,
+    "end_seconds": 667.839,
+    "text": "digital well-being and uh technologies"
+  },
+  {
+    "start": "00:11:07.839",
+    "end": "00:11:09.910",
+    "start_seconds": 667.839,
+    "end_seconds": 669.91,
+    "text": "digital well-being and uh technologies impact on child's development where I"
+  },
+  {
+    "start": "00:11:09.910",
+    "end": "00:11:09.920",
+    "start_seconds": 669.91,
+    "end_seconds": 669.92,
+    "text": "impact on child's development where I"
+  },
+  {
+    "start": "00:11:09.920",
+    "end": "00:11:11.750",
+    "start_seconds": 669.92,
+    "end_seconds": 671.75,
+    "text": "impact on child's development where I was building uh three different startups"
+  },
+  {
+    "start": "00:11:11.750",
+    "end": "00:11:11.760",
+    "start_seconds": 671.75,
+    "end_seconds": 671.76,
+    "text": "was building uh three different startups"
+  },
+  {
+    "start": "00:11:11.760",
+    "end": "00:11:14.710",
+    "start_seconds": 671.76,
+    "end_seconds": 674.71,
+    "text": "was building uh three different startups in this space but we are not doing this"
+  },
+  {
+    "start": "00:11:14.710",
+    "end": "00:11:14.720",
+    "start_seconds": 674.71,
+    "end_seconds": 674.72,
+    "text": "in this space but we are not doing this"
+  },
+  {
+    "start": "00:11:14.720",
+    "end": "00:11:17.829",
+    "start_seconds": 674.72,
+    "end_seconds": 677.829,
+    "text": "in this space but we are not doing this alone. So we already have a quite of a"
+  },
+  {
+    "start": "00:11:17.829",
+    "end": "00:11:17.839",
+    "start_seconds": 677.829,
+    "end_seconds": 677.8389999999999,
+    "text": "alone. So we already have a quite of a"
+  },
+  {
+    "start": "00:11:17.839",
+    "end": "00:11:20.630",
+    "start_seconds": 677.8389999999999,
+    "end_seconds": 680.63,
+    "text": "alone. So we already have a quite of a uh partner network. So we work with Bay"
+  },
+  {
+    "start": "00:11:20.630",
+    "end": "00:11:20.640",
+    "start_seconds": 680.63,
+    "end_seconds": 680.64,
+    "text": "uh partner network. So we work with Bay"
+  },
+  {
+    "start": "00:11:20.640",
+    "end": "00:11:23.190",
+    "start_seconds": 680.64,
+    "end_seconds": 683.19,
+    "text": "uh partner network. So we work with Bay Area Robotics, Mass Robotics, with"
+  },
+  {
+    "start": "00:11:23.190",
+    "end": "00:11:23.200",
+    "start_seconds": 683.19,
+    "end_seconds": 683.2,
+    "text": "Area Robotics, Mass Robotics, with"
+  },
+  {
+    "start": "00:11:23.200",
+    "end": "00:11:26.310",
+    "start_seconds": 683.2,
+    "end_seconds": 686.31,
+    "text": "Area Robotics, Mass Robotics, with UNICEF, MIT Media Lab, Princeton, Altech"
+  },
+  {
+    "start": "00:11:26.310",
+    "end": "00:11:26.320",
+    "start_seconds": 686.31,
+    "end_seconds": 686.32,
+    "text": "UNICEF, MIT Media Lab, Princeton, Altech"
+  },
+  {
+    "start": "00:11:26.320",
+    "end": "00:11:29.269",
+    "start_seconds": 686.32,
+    "end_seconds": 689.269,
+    "text": "UNICEF, MIT Media Lab, Princeton, Altech is human and we are inviting"
+  },
+  {
+    "start": "00:11:29.269",
+    "end": "00:11:29.279",
+    "start_seconds": 689.269,
+    "end_seconds": 689.279,
+    "text": "is human and we are inviting"
+  },
+  {
+    "start": "00:11:29.279",
+    "end": "00:11:31.670",
+    "start_seconds": 689.279,
+    "end_seconds": 691.67,
+    "text": "is human and we are inviting collaborators to help us to shape the"
+  },
+  {
+    "start": "00:11:31.670",
+    "end": "00:11:31.680",
+    "start_seconds": 691.67,
+    "end_seconds": 691.68,
+    "text": "collaborators to help us to shape the"
+  },
+  {
+    "start": "00:11:31.680",
+    "end": "00:11:33.829",
+    "start_seconds": 691.68,
+    "end_seconds": 693.829,
+    "text": "collaborators to help us to shape the standards that are going to be impacting"
+  },
+  {
+    "start": "00:11:33.829",
+    "end": "00:11:33.839",
+    "start_seconds": 693.829,
+    "end_seconds": 693.8389999999999,
+    "text": "standards that are going to be impacting"
+  },
+  {
+    "start": "00:11:33.839",
+    "end": "00:11:36.790",
+    "start_seconds": 693.8389999999999,
+    "end_seconds": 696.79,
+    "text": "standards that are going to be impacting this space and as mentioned at the"
+  },
+  {
+    "start": "00:11:36.790",
+    "end": "00:11:36.800",
+    "start_seconds": 696.79,
+    "end_seconds": 696.8,
+    "text": "this space and as mentioned at the"
+  },
+  {
+    "start": "00:11:36.800",
+    "end": "00:11:39.350",
+    "start_seconds": 696.8,
+    "end_seconds": 699.35,
+    "text": "this space and as mentioned at the beginning of the speech this time we"
+  },
+  {
+    "start": "00:11:39.350",
+    "end": "00:11:39.360",
+    "start_seconds": 699.35,
+    "end_seconds": 699.36,
+    "text": "beginning of the speech this time we"
+  },
+  {
+    "start": "00:11:39.360",
+    "end": "00:11:41.829",
+    "start_seconds": 699.36,
+    "end_seconds": 701.829,
+    "text": "beginning of the speech this time we actually have an opportunity to break"
+  },
+  {
+    "start": "00:11:41.829",
+    "end": "00:11:41.839",
+    "start_seconds": 701.829,
+    "end_seconds": 701.8389999999999,
+    "text": "actually have an opportunity to break"
+  },
+  {
+    "start": "00:11:41.839",
+    "end": "00:11:44.790",
+    "start_seconds": 701.8389999999999,
+    "end_seconds": 704.79,
+    "text": "actually have an opportunity to break the pattern. So what we could do is we"
+  },
+  {
+    "start": "00:11:44.790",
+    "end": "00:11:44.800",
+    "start_seconds": 704.79,
+    "end_seconds": 704.8,
+    "text": "the pattern. So what we could do is we"
+  },
+  {
+    "start": "00:11:44.800",
+    "end": "00:11:46.790",
+    "start_seconds": 704.8,
+    "end_seconds": 706.79,
+    "text": "the pattern. So what we could do is we can create standards before we are"
+  },
+  {
+    "start": "00:11:46.790",
+    "end": "00:11:46.800",
+    "start_seconds": 706.79,
+    "end_seconds": 706.8,
+    "text": "can create standards before we are"
+  },
+  {
+    "start": "00:11:46.800",
+    "end": "00:11:49.110",
+    "start_seconds": 706.8,
+    "end_seconds": 709.11,
+    "text": "can create standards before we are scaling in the industry. We can create"
+  },
+  {
+    "start": "00:11:49.110",
+    "end": "00:11:49.120",
+    "start_seconds": 709.11,
+    "end_seconds": 709.12,
+    "text": "scaling in the industry. We can create"
+  },
+  {
+    "start": "00:11:49.120",
+    "end": "00:11:51.990",
+    "start_seconds": 709.12,
+    "end_seconds": 711.99,
+    "text": "scaling in the industry. We can create relational risk audits. We can have exit"
+  },
+  {
+    "start": "00:11:51.990",
+    "end": "00:11:52.000",
+    "start_seconds": 711.99,
+    "end_seconds": 712.0,
+    "text": "relational risk audits. We can have exit"
+  },
+  {
+    "start": "00:11:52.000",
+    "end": "00:11:54.470",
+    "start_seconds": 712.0,
+    "end_seconds": 714.47,
+    "text": "relational risk audits. We can have exit plans by design, knowing what happens"
+  },
+  {
+    "start": "00:11:54.470",
+    "end": "00:11:54.480",
+    "start_seconds": 714.47,
+    "end_seconds": 714.48,
+    "text": "plans by design, knowing what happens"
+  },
+  {
+    "start": "00:11:54.480",
+    "end": "00:11:56.630",
+    "start_seconds": 714.48,
+    "end_seconds": 716.63,
+    "text": "plans by design, knowing what happens when your technology stops working and"
+  },
+  {
+    "start": "00:11:56.630",
+    "end": "00:11:56.640",
+    "start_seconds": 716.63,
+    "end_seconds": 716.64,
+    "text": "when your technology stops working and"
+  },
+  {
+    "start": "00:11:56.640",
+    "end": "00:11:59.110",
+    "start_seconds": 716.64,
+    "end_seconds": 719.11,
+    "text": "when your technology stops working and how it's going to be impacting humans."
+  },
+  {
+    "start": "00:11:59.110",
+    "end": "00:11:59.120",
+    "start_seconds": 719.11,
+    "end_seconds": 719.12,
+    "text": "how it's going to be impacting humans."
+  },
+  {
+    "start": "00:11:59.120",
+    "end": "00:12:01.750",
+    "start_seconds": 719.12,
+    "end_seconds": 721.75,
+    "text": "how it's going to be impacting humans. And we also can have open frameworks and"
+  },
+  {
+    "start": "00:12:01.750",
+    "end": "00:12:01.760",
+    "start_seconds": 721.75,
+    "end_seconds": 721.76,
+    "text": "And we also can have open frameworks and"
+  },
+  {
+    "start": "00:12:01.760",
+    "end": "00:12:03.910",
+    "start_seconds": 721.76,
+    "end_seconds": 723.91,
+    "text": "And we also can have open frameworks and shared playbooks that we develop"
+  },
+  {
+    "start": "00:12:03.910",
+    "end": "00:12:03.920",
+    "start_seconds": 723.91,
+    "end_seconds": 723.92,
+    "text": "shared playbooks that we develop"
+  },
+  {
+    "start": "00:12:03.920",
+    "end": "00:12:07.190",
+    "start_seconds": 723.92,
+    "end_seconds": 727.19,
+    "text": "shared playbooks that we develop jointly. And one thing that we always"
+  },
+  {
+    "start": "00:12:07.190",
+    "end": "00:12:07.200",
+    "start_seconds": 727.19,
+    "end_seconds": 727.2,
+    "text": "jointly. And one thing that we always"
+  },
+  {
+    "start": "00:12:07.200",
+    "end": "00:12:10.230",
+    "start_seconds": 727.2,
+    "end_seconds": 730.23,
+    "text": "jointly. And one thing that we always like to pinpoint to the industry is that"
+  },
+  {
+    "start": "00:12:10.230",
+    "end": "00:12:10.240",
+    "start_seconds": 730.23,
+    "end_seconds": 730.24,
+    "text": "like to pinpoint to the industry is that"
+  },
+  {
+    "start": "00:12:10.240",
+    "end": "00:12:12.550",
+    "start_seconds": 730.24,
+    "end_seconds": 732.55,
+    "text": "like to pinpoint to the industry is that human- centered design actually saves"
+  },
+  {
+    "start": "00:12:12.550",
+    "end": "00:12:12.560",
+    "start_seconds": 732.55,
+    "end_seconds": 732.56,
+    "text": "human- centered design actually saves"
+  },
+  {
+    "start": "00:12:12.560",
+    "end": "00:12:15.350",
+    "start_seconds": 732.56,
+    "end_seconds": 735.35,
+    "text": "human- centered design actually saves you money on the long run. So what's"
+  },
+  {
+    "start": "00:12:15.350",
+    "end": "00:12:15.360",
+    "start_seconds": 735.35,
+    "end_seconds": 735.36,
+    "text": "you money on the long run. So what's"
+  },
+  {
+    "start": "00:12:15.360",
+    "end": "00:12:17.110",
+    "start_seconds": 735.36,
+    "end_seconds": 737.11,
+    "text": "you money on the long run. So what's really important with technology that's"
+  },
+  {
+    "start": "00:12:17.110",
+    "end": "00:12:17.120",
+    "start_seconds": 737.11,
+    "end_seconds": 737.12,
+    "text": "really important with technology that's"
+  },
+  {
+    "start": "00:12:17.120",
+    "end": "00:12:19.190",
+    "start_seconds": 737.12,
+    "end_seconds": 739.19,
+    "text": "really important with technology that's entering our lives is that there is a"
+  },
+  {
+    "start": "00:12:19.190",
+    "end": "00:12:19.200",
+    "start_seconds": 739.19,
+    "end_seconds": 739.2,
+    "text": "entering our lives is that there is a"
+  },
+  {
+    "start": "00:12:19.200",
+    "end": "00:12:21.829",
+    "start_seconds": 739.2,
+    "end_seconds": 741.829,
+    "text": "entering our lives is that there is a component of user trust. So people were"
+  },
+  {
+    "start": "00:12:21.829",
+    "end": "00:12:21.839",
+    "start_seconds": 741.829,
+    "end_seconds": 741.8389999999999,
+    "text": "component of user trust. So people were"
+  },
+  {
+    "start": "00:12:21.839",
+    "end": "00:12:23.350",
+    "start_seconds": 741.8389999999999,
+    "end_seconds": 743.35,
+    "text": "component of user trust. So people were bit rather buying and choosing"
+  },
+  {
+    "start": "00:12:23.350",
+    "end": "00:12:23.360",
+    "start_seconds": 743.35,
+    "end_seconds": 743.36,
+    "text": "bit rather buying and choosing"
+  },
+  {
+    "start": "00:12:23.360",
+    "end": "00:12:25.430",
+    "start_seconds": 743.36,
+    "end_seconds": 745.43,
+    "text": "bit rather buying and choosing technology that they trust into their"
+  },
+  {
+    "start": "00:12:25.430",
+    "end": "00:12:25.440",
+    "start_seconds": 745.43,
+    "end_seconds": 745.44,
+    "text": "technology that they trust into their"
+  },
+  {
+    "start": "00:12:25.440",
+    "end": "00:12:27.430",
+    "start_seconds": 745.44,
+    "end_seconds": 747.43,
+    "text": "technology that they trust into their science into their marketing and into"
+  },
+  {
+    "start": "00:12:27.430",
+    "end": "00:12:27.440",
+    "start_seconds": 747.43,
+    "end_seconds": 747.44,
+    "text": "science into their marketing and into"
+  },
+  {
+    "start": "00:12:27.440",
+    "end": "00:12:30.069",
+    "start_seconds": 747.44,
+    "end_seconds": 750.069,
+    "text": "science into their marketing and into the missions of the company. As we've"
+  },
+  {
+    "start": "00:12:30.069",
+    "end": "00:12:30.079",
+    "start_seconds": 750.069,
+    "end_seconds": 750.079,
+    "text": "the missions of the company. As we've"
+  },
+  {
+    "start": "00:12:30.079",
+    "end": "00:12:33.110",
+    "start_seconds": 750.079,
+    "end_seconds": 753.11,
+    "text": "the missions of the company. As we've seen in lately examples with Meta, with"
+  },
+  {
+    "start": "00:12:33.110",
+    "end": "00:12:33.120",
+    "start_seconds": 753.11,
+    "end_seconds": 753.12,
+    "text": "seen in lately examples with Meta, with"
+  },
+  {
+    "start": "00:12:33.120",
+    "end": "00:12:36.710",
+    "start_seconds": 753.12,
+    "end_seconds": 756.71,
+    "text": "seen in lately examples with Meta, with Google, with Snapchat, one lawsuit can"
+  },
+  {
+    "start": "00:12:36.710",
+    "end": "00:12:36.720",
+    "start_seconds": 756.71,
+    "end_seconds": 756.72,
+    "text": "Google, with Snapchat, one lawsuit can"
+  },
+  {
+    "start": "00:12:36.720",
+    "end": "00:12:39.910",
+    "start_seconds": 756.72,
+    "end_seconds": 759.91,
+    "text": "Google, with Snapchat, one lawsuit can cost you way more than participating in"
+  },
+  {
+    "start": "00:12:39.910",
+    "end": "00:12:39.920",
+    "start_seconds": 759.91,
+    "end_seconds": 759.92,
+    "text": "cost you way more than participating in"
+  },
+  {
+    "start": "00:12:39.920",
+    "end": "00:12:43.750",
+    "start_seconds": 759.92,
+    "end_seconds": 763.75,
+    "text": "cost you way more than participating in decade of compliance. And in the end we"
+  },
+  {
+    "start": "00:12:43.750",
+    "end": "00:12:43.760",
+    "start_seconds": 763.75,
+    "end_seconds": 763.76,
+    "text": "decade of compliance. And in the end we"
+  },
+  {
+    "start": "00:12:43.760",
+    "end": "00:12:45.829",
+    "start_seconds": 763.76,
+    "end_seconds": 765.829,
+    "text": "decade of compliance. And in the end we invite industry to help to shape the"
+  },
+  {
+    "start": "00:12:45.829",
+    "end": "00:12:45.839",
+    "start_seconds": 765.829,
+    "end_seconds": 765.8389999999999,
+    "text": "invite industry to help to shape the"
+  },
+  {
+    "start": "00:12:45.839",
+    "end": "00:12:48.230",
+    "start_seconds": 765.8389999999999,
+    "end_seconds": 768.23,
+    "text": "invite industry to help to shape the standards before the standards shape the"
+  },
+  {
+    "start": "00:12:48.230",
+    "end": "00:12:48.240",
+    "start_seconds": 768.23,
+    "end_seconds": 768.24,
+    "text": "standards before the standards shape the"
+  },
+  {
+    "start": "00:12:48.240",
+    "end": "00:12:50.470",
+    "start_seconds": 768.24,
+    "end_seconds": 770.47,
+    "text": "standards before the standards shape the industry. So as mentioned this is the"
+  },
+  {
+    "start": "00:12:50.470",
+    "end": "00:12:50.480",
+    "start_seconds": 770.47,
+    "end_seconds": 770.48,
+    "text": "industry. So as mentioned this is the"
+  },
+  {
+    "start": "00:12:50.480",
+    "end": "00:12:52.710",
+    "start_seconds": 770.48,
+    "end_seconds": 772.71,
+    "text": "industry. So as mentioned this is the window of opportunity when we have still"
+  },
+  {
+    "start": "00:12:52.710",
+    "end": "00:12:52.720",
+    "start_seconds": 772.71,
+    "end_seconds": 772.72,
+    "text": "window of opportunity when we have still"
+  },
+  {
+    "start": "00:12:52.720",
+    "end": "00:12:55.269",
+    "start_seconds": 772.72,
+    "end_seconds": 775.269,
+    "text": "window of opportunity when we have still the time to be shaping these policies"
+  },
+  {
+    "start": "00:12:55.269",
+    "end": "00:12:55.279",
+    "start_seconds": 775.269,
+    "end_seconds": 775.279,
+    "text": "the time to be shaping these policies"
+  },
+  {
+    "start": "00:12:55.279",
+    "end": "00:12:59.030",
+    "start_seconds": 775.279,
+    "end_seconds": 779.03,
+    "text": "the time to be shaping these policies together. And one important thing to"
+  },
+  {
+    "start": "00:12:59.030",
+    "end": "00:12:59.040",
+    "start_seconds": 779.03,
+    "end_seconds": 779.04,
+    "text": "together. And one important thing to"
+  },
+  {
+    "start": "00:12:59.040",
+    "end": "00:13:02.230",
+    "start_seconds": 779.04,
+    "end_seconds": 782.23,
+    "text": "together. And one important thing to think about is that ethical design is"
+  },
+  {
+    "start": "00:13:02.230",
+    "end": "00:13:02.240",
+    "start_seconds": 782.23,
+    "end_seconds": 782.24,
+    "text": "think about is that ethical design is"
+  },
+  {
+    "start": "00:13:02.240",
+    "end": "00:13:05.350",
+    "start_seconds": 782.24,
+    "end_seconds": 785.35,
+    "text": "think about is that ethical design is not a cost. It is an infrastructure for"
+  },
+  {
+    "start": "00:13:05.350",
+    "end": "00:13:05.360",
+    "start_seconds": 785.35,
+    "end_seconds": 785.36,
+    "text": "not a cost. It is an infrastructure for"
+  },
+  {
+    "start": "00:13:05.360",
+    "end": "00:13:08.310",
+    "start_seconds": 785.36,
+    "end_seconds": 788.31,
+    "text": "not a cost. It is an infrastructure for sustainable growth and people really"
+  },
+  {
+    "start": "00:13:08.310",
+    "end": "00:13:08.320",
+    "start_seconds": 788.31,
+    "end_seconds": 788.32,
+    "text": "sustainable growth and people really"
+  },
+  {
+    "start": "00:13:08.320",
+    "end": "00:13:11.990",
+    "start_seconds": 788.32,
+    "end_seconds": 791.99,
+    "text": "sustainable growth and people really need it. And one more time an invite for"
+  },
+  {
+    "start": "00:13:11.990",
+    "end": "00:13:12.000",
+    "start_seconds": 791.99,
+    "end_seconds": 792.0,
+    "text": "need it. And one more time an invite for"
+  },
+  {
+    "start": "00:13:12.000",
+    "end": "00:13:14.710",
+    "start_seconds": 792.0,
+    "end_seconds": 794.71,
+    "text": "need it. And one more time an invite for anyone in the room come and join with us"
+  },
+  {
+    "start": "00:13:14.710",
+    "end": "00:13:14.720",
+    "start_seconds": 794.71,
+    "end_seconds": 794.72,
+    "text": "anyone in the room come and join with us"
+  },
+  {
+    "start": "00:13:14.720",
+    "end": "00:13:16.790",
+    "start_seconds": 794.72,
+    "end_seconds": 796.79,
+    "text": "anyone in the room come and join with us on this big mission to build standards"
+  },
+  {
+    "start": "00:13:16.790",
+    "end": "00:13:16.800",
+    "start_seconds": 796.79,
+    "end_seconds": 796.8,
+    "text": "on this big mission to build standards"
+  },
+  {
+    "start": "00:13:16.800",
+    "end": "00:13:19.350",
+    "start_seconds": 796.8,
+    "end_seconds": 799.35,
+    "text": "on this big mission to build standards and shape them either from the industry"
+  },
+  {
+    "start": "00:13:19.350",
+    "end": "00:13:19.360",
+    "start_seconds": 799.35,
+    "end_seconds": 799.36,
+    "text": "and shape them either from the industry"
+  },
+  {
+    "start": "00:13:19.360",
+    "end": "00:13:22.629",
+    "start_seconds": 799.36,
+    "end_seconds": 802.629,
+    "text": "and shape them either from the industry standpoint, academia, legislation and we"
+  },
+  {
+    "start": "00:13:22.629",
+    "end": "00:13:22.639",
+    "start_seconds": 802.629,
+    "end_seconds": 802.639,
+    "text": "standpoint, academia, legislation and we"
+  },
+  {
+    "start": "00:13:22.639",
+    "end": "00:13:24.870",
+    "start_seconds": 802.639,
+    "end_seconds": 804.87,
+    "text": "standpoint, academia, legislation and we are also inviting investors who are"
+  },
+  {
+    "start": "00:13:24.870",
+    "end": "00:13:24.880",
+    "start_seconds": 804.87,
+    "end_seconds": 804.88,
+    "text": "are also inviting investors who are"
+  },
+  {
+    "start": "00:13:24.880",
+    "end": "00:13:26.790",
+    "start_seconds": 804.88,
+    "end_seconds": 806.79,
+    "text": "are also inviting investors who are interested in learning about this space"
+  },
+  {
+    "start": "00:13:26.790",
+    "end": "00:13:26.800",
+    "start_seconds": 806.79,
+    "end_seconds": 806.8,
+    "text": "interested in learning about this space"
+  },
+  {
+    "start": "00:13:26.800",
+    "end": "00:13:30.710",
+    "start_seconds": 806.8,
+    "end_seconds": 810.71,
+    "text": "interested in learning about this space to join our mission. And with that we"
+  },
+  {
+    "start": "00:13:30.710",
+    "end": "00:13:30.720",
+    "start_seconds": 810.71,
+    "end_seconds": 810.72,
+    "text": "to join our mission. And with that we"
+  },
+  {
+    "start": "00:13:30.720",
+    "end": "00:13:33.670",
+    "start_seconds": 810.72,
+    "end_seconds": 813.67,
+    "text": "to join our mission. And with that we conclude with inviting you all to be a"
+  },
+  {
+    "start": "00:13:33.670",
+    "end": "00:13:33.680",
+    "start_seconds": 813.67,
+    "end_seconds": 813.68,
+    "text": "conclude with inviting you all to be a"
+  },
+  {
+    "start": "00:13:33.680",
+    "end": "00:13:36.870",
+    "start_seconds": 813.68,
+    "end_seconds": 816.87,
+    "text": "conclude with inviting you all to be a part of a more humane future. Thank you"
+  },
+  {
+    "start": "00:13:36.870",
+    "end": "00:13:36.880",
+    "start_seconds": 816.87,
+    "end_seconds": 816.88,
+    "text": "part of a more humane future. Thank you"
+  },
+  {
+    "start": "00:13:36.880",
+    "end": "00:13:45.829",
+    "start_seconds": 816.88,
+    "end_seconds": 825.829,
+    "text": "part of a more humane future. Thank you so much."
+  },
+  {
+    "start": "00:13:45.839",
+    "end": "00:13:46.629",
+    "start_seconds": 825.8389999999999,
+    "end_seconds": 826.629,
+    "text": "questions."
+  },
+  {
+    "start": "00:13:46.629",
+    "end": "00:13:46.639",
+    "start_seconds": 826.629,
+    "end_seconds": 826.639,
+    "text": "questions."
+  },
+  {
+    "start": "00:13:46.639",
+    "end": "00:13:48.710",
+    "start_seconds": 826.639,
+    "end_seconds": 828.71,
+    "text": "questions. >> I mean, do we have are we okay? Yeah."
+  },
+  {
+    "start": "00:13:48.710",
+    "end": "00:13:48.720",
+    "start_seconds": 828.71,
+    "end_seconds": 828.72,
+    "text": ">> I mean, do we have are we okay? Yeah."
+  },
+  {
+    "start": "00:13:48.720",
+    "end": "00:13:49.030",
+    "start_seconds": 828.72,
+    "end_seconds": 829.03,
+    "text": ">> I mean, do we have are we okay? Yeah. Yeah."
+  },
+  {
+    "start": "00:13:49.030",
+    "end": "00:13:49.040",
+    "start_seconds": 829.03,
+    "end_seconds": 829.04,
+    "text": "Yeah."
+  },
+  {
+    "start": "00:13:49.040",
+    "end": "00:13:49.910",
+    "start_seconds": 829.04,
+    "end_seconds": 829.91,
+    "text": "Yeah. >> We'll allow a question."
+  },
+  {
+    "start": "00:13:49.910",
+    "end": "00:13:49.920",
+    "start_seconds": 829.91,
+    "end_seconds": 829.92,
+    "text": ">> We'll allow a question."
+  },
+  {
+    "start": "00:13:49.920",
+    "end": "00:13:52.310",
+    "start_seconds": 829.92,
+    "end_seconds": 832.31,
+    "text": ">> We'll allow a question. >> Happy happy to. Of course. Sure. Thank"
+  },
+  {
+    "start": "00:13:52.310",
+    "end": "00:13:52.320",
+    "start_seconds": 832.31,
+    "end_seconds": 832.32,
+    "text": ">> Happy happy to. Of course. Sure. Thank"
+  },
+  {
+    "start": "00:13:52.320",
+    "end": "00:14:07.750",
+    "start_seconds": 832.32,
+    "end_seconds": 847.75,
+    "text": ">> Happy happy to. Of course. Sure. Thank you."
+  },
+  {
+    "start": "00:14:07.760",
+    "end": "00:14:29.110",
+    "start_seconds": 847.76,
+    "end_seconds": 869.11,
+    "text": "over."
+  },
+  {
+    "start": "00:14:29.120",
+    "end": "00:14:43.990",
+    "start_seconds": 869.12,
+    "end_seconds": 883.99,
+    "text": "Who's cooperating?"
+  },
+  {
+    "start": "00:14:44.000",
+    "end": "00:14:59.430",
+    "start_seconds": 884.0,
+    "end_seconds": 899.43,
+    "text": "system."
+  },
+  {
+    "start": "00:14:59.440",
+    "end": "00:15:10.150",
+    "start_seconds": 899.44,
+    "end_seconds": 910.15,
+    "text": "It's already"
+  },
+  {
+    "start": "00:15:10.160",
+    "end": "00:15:12.310",
+    "start_seconds": 910.16,
+    "end_seconds": 912.31,
+    "text": "five or seven"
+  },
+  {
+    "start": "00:15:12.310",
+    "end": "00:15:12.320",
+    "start_seconds": 912.31,
+    "end_seconds": 912.32,
+    "text": "five or seven"
+  },
+  {
+    "start": "00:15:12.320",
+    "end": "00:15:28.870",
+    "start_seconds": 912.32,
+    "end_seconds": 928.87,
+    "text": "five or seven white."
+  },
+  {
+    "start": "00:15:28.880",
+    "end": "00:15:30.230",
+    "start_seconds": 928.88,
+    "end_seconds": 930.23,
+    "text": "I have on board."
+  },
+  {
+    "start": "00:15:30.230",
+    "end": "00:15:30.240",
+    "start_seconds": 930.23,
+    "end_seconds": 930.24,
+    "text": "I have on board."
+  },
+  {
+    "start": "00:15:30.240",
+    "end": "00:15:32.230",
+    "start_seconds": 930.24,
+    "end_seconds": 932.23,
+    "text": "I have on board. >> Yeah. Thank you so much. Yeah, that's a"
+  },
+  {
+    "start": "00:15:32.230",
+    "end": "00:15:32.240",
+    "start_seconds": 932.23,
+    "end_seconds": 932.24,
+    "text": ">> Yeah. Thank you so much. Yeah, that's a"
+  },
+  {
+    "start": "00:15:32.240",
+    "end": "00:15:34.389",
+    "start_seconds": 932.24,
+    "end_seconds": 934.389,
+    "text": ">> Yeah. Thank you so much. Yeah, that's a really uh great perspective. Thank you"
+  },
+  {
+    "start": "00:15:34.389",
+    "end": "00:15:34.399",
+    "start_seconds": 934.389,
+    "end_seconds": 934.399,
+    "text": "really uh great perspective. Thank you"
+  },
+  {
+    "start": "00:15:34.399",
+    "end": "00:15:38.150",
+    "start_seconds": 934.399,
+    "end_seconds": 938.15,
+    "text": "really uh great perspective. Thank you for sharing that. So,"
+  },
+  {
+    "start": "00:15:38.150",
+    "end": "00:15:38.160",
+    "start_seconds": 938.15,
+    "end_seconds": 938.16,
+    "text": "for sharing that. So,"
+  },
+  {
+    "start": "00:15:38.160",
+    "end": "00:15:40.949",
+    "start_seconds": 938.16,
+    "end_seconds": 940.949,
+    "text": "for sharing that. So, >> no, no, no. Yeah. No, I appre No, very"
+  },
+  {
+    "start": "00:15:40.949",
+    "end": "00:15:40.959",
+    "start_seconds": 940.949,
+    "end_seconds": 940.9590000000001,
+    "text": ">> no, no, no. Yeah. No, I appre No, very"
+  },
+  {
+    "start": "00:15:40.959",
+    "end": "00:15:42.550",
+    "start_seconds": 940.9590000000001,
+    "end_seconds": 942.55,
+    "text": ">> no, no, no. Yeah. No, I appre No, very much appreciate it."
+  },
+  {
+    "start": "00:15:42.550",
+    "end": "00:15:42.560",
+    "start_seconds": 942.55,
+    "end_seconds": 942.56,
+    "text": "much appreciate it."
+  },
+  {
+    "start": "00:15:42.560",
+    "end": "00:15:45.189",
+    "start_seconds": 942.56,
+    "end_seconds": 945.189,
+    "text": "much appreciate it. >> Yeah. Yeah. So, I will answer you with"
+  },
+  {
+    "start": "00:15:45.189",
+    "end": "00:15:45.199",
+    "start_seconds": 945.189,
+    "end_seconds": 945.199,
+    "text": ">> Yeah. Yeah. So, I will answer you with"
+  },
+  {
+    "start": "00:15:45.199",
+    "end": "00:15:46.870",
+    "start_seconds": 945.199,
+    "end_seconds": 946.87,
+    "text": ">> Yeah. Yeah. So, I will answer you with the example of what I've been seeing in"
+  },
+  {
+    "start": "00:15:46.870",
+    "end": "00:15:46.880",
+    "start_seconds": 946.87,
+    "end_seconds": 946.88,
+    "text": "the example of what I've been seeing in"
+  },
+  {
+    "start": "00:15:46.880",
+    "end": "00:15:48.949",
+    "start_seconds": 946.88,
+    "end_seconds": 948.949,
+    "text": "the example of what I've been seeing in the industry. So, I moved to United"
+  },
+  {
+    "start": "00:15:48.949",
+    "end": "00:15:48.959",
+    "start_seconds": 948.949,
+    "end_seconds": 948.9590000000001,
+    "text": "the industry. So, I moved to United"
+  },
+  {
+    "start": "00:15:48.959",
+    "end": "00:15:51.749",
+    "start_seconds": 948.9590000000001,
+    "end_seconds": 951.749,
+    "text": "the industry. So, I moved to United States four years ago uh and started"
+  },
+  {
+    "start": "00:15:51.749",
+    "end": "00:15:51.759",
+    "start_seconds": 951.749,
+    "end_seconds": 951.759,
+    "text": "States four years ago uh and started"
+  },
+  {
+    "start": "00:15:51.759",
+    "end": "00:15:53.910",
+    "start_seconds": 951.759,
+    "end_seconds": 953.91,
+    "text": "States four years ago uh and started building in digital well-being spaces."
+  },
+  {
+    "start": "00:15:53.910",
+    "end": "00:15:53.920",
+    "start_seconds": 953.91,
+    "end_seconds": 953.92,
+    "text": "building in digital well-being spaces."
+  },
+  {
+    "start": "00:15:53.920",
+    "end": "00:15:56.230",
+    "start_seconds": 953.92,
+    "end_seconds": 956.23,
+    "text": "building in digital well-being spaces. So four years ago when I moved to New"
+  },
+  {
+    "start": "00:15:56.230",
+    "end": "00:15:56.240",
+    "start_seconds": 956.23,
+    "end_seconds": 956.24,
+    "text": "So four years ago when I moved to New"
+  },
+  {
+    "start": "00:15:56.240",
+    "end": "00:15:58.710",
+    "start_seconds": 956.24,
+    "end_seconds": 958.71,
+    "text": "So four years ago when I moved to New York when I would tell about like mental"
+  },
+  {
+    "start": "00:15:58.710",
+    "end": "00:15:58.720",
+    "start_seconds": 958.71,
+    "end_seconds": 958.72,
+    "text": "York when I would tell about like mental"
+  },
+  {
+    "start": "00:15:58.720",
+    "end": "00:16:00.470",
+    "start_seconds": 958.72,
+    "end_seconds": 960.47,
+    "text": "York when I would tell about like mental health soft skills we need to protect"
+  },
+  {
+    "start": "00:16:00.470",
+    "end": "00:16:00.480",
+    "start_seconds": 960.47,
+    "end_seconds": 960.48,
+    "text": "health soft skills we need to protect"
+  },
+  {
+    "start": "00:16:00.480",
+    "end": "00:16:02.710",
+    "start_seconds": 960.48,
+    "end_seconds": 962.71,
+    "text": "health soft skills we need to protect humanity everyone was saying like oh"
+  },
+  {
+    "start": "00:16:02.710",
+    "end": "00:16:02.720",
+    "start_seconds": 962.71,
+    "end_seconds": 962.72,
+    "text": "humanity everyone was saying like oh"
+  },
+  {
+    "start": "00:16:02.720",
+    "end": "00:16:05.110",
+    "start_seconds": 962.72,
+    "end_seconds": 965.11,
+    "text": "humanity everyone was saying like oh that's fluff no one cares about it soft"
+  },
+  {
+    "start": "00:16:05.110",
+    "end": "00:16:05.120",
+    "start_seconds": 965.11,
+    "end_seconds": 965.12,
+    "text": "that's fluff no one cares about it soft"
+  },
+  {
+    "start": "00:16:05.120",
+    "end": "00:16:07.509",
+    "start_seconds": 965.12,
+    "end_seconds": 967.509,
+    "text": "that's fluff no one cares about it soft skills are irrelevant we cannot invest"
+  },
+  {
+    "start": "00:16:07.509",
+    "end": "00:16:07.519",
+    "start_seconds": 967.509,
+    "end_seconds": 967.519,
+    "text": "skills are irrelevant we cannot invest"
+  },
+  {
+    "start": "00:16:07.519",
+    "end": "00:16:09.829",
+    "start_seconds": 967.519,
+    "end_seconds": 969.829,
+    "text": "skills are irrelevant we cannot invest in products that are assessing that and"
+  },
+  {
+    "start": "00:16:09.829",
+    "end": "00:16:09.839",
+    "start_seconds": 969.829,
+    "end_seconds": 969.839,
+    "text": "in products that are assessing that and"
+  },
+  {
+    "start": "00:16:09.839",
+    "end": "00:16:11.670",
+    "start_seconds": 969.839,
+    "end_seconds": 971.67,
+    "text": "in products that are assessing that and so for the last four years to be"
+  },
+  {
+    "start": "00:16:11.670",
+    "end": "00:16:11.680",
+    "start_seconds": 971.67,
+    "end_seconds": 971.68,
+    "text": "so for the last four years to be"
+  },
+  {
+    "start": "00:16:11.680",
+    "end": "00:16:14.629",
+    "start_seconds": 971.68,
+    "end_seconds": 974.629,
+    "text": "so for the last four years to be observing what's been happening and how"
+  },
+  {
+    "start": "00:16:14.629",
+    "end": "00:16:14.639",
+    "start_seconds": 974.629,
+    "end_seconds": 974.639,
+    "text": "observing what's been happening and how"
+  },
+  {
+    "start": "00:16:14.639",
+    "end": "00:16:18.310",
+    "start_seconds": 974.639,
+    "end_seconds": 978.31,
+    "text": "observing what's been happening and how much there is now momentum from users"
+  },
+  {
+    "start": "00:16:18.310",
+    "end": "00:16:18.320",
+    "start_seconds": 978.31,
+    "end_seconds": 978.32,
+    "text": "much there is now momentum from users"
+  },
+  {
+    "start": "00:16:18.320",
+    "end": "00:16:20.470",
+    "start_seconds": 978.32,
+    "end_seconds": 980.47,
+    "text": "much there is now momentum from users from the average from the mainstream"
+  },
+  {
+    "start": "00:16:20.470",
+    "end": "00:16:20.480",
+    "start_seconds": 980.47,
+    "end_seconds": 980.48,
+    "text": "from the average from the mainstream"
+  },
+  {
+    "start": "00:16:20.480",
+    "end": "00:16:24.629",
+    "start_seconds": 980.48,
+    "end_seconds": 984.629,
+    "text": "from the average from the mainstream audience people are mad had they really"
+  },
+  {
+    "start": "00:16:24.629",
+    "end": "00:16:24.639",
+    "start_seconds": 984.629,
+    "end_seconds": 984.639,
+    "text": "audience people are mad had they really"
+  },
+  {
+    "start": "00:16:24.639",
+    "end": "00:16:27.350",
+    "start_seconds": 984.639,
+    "end_seconds": 987.35,
+    "text": "audience people are mad had they really are now reacting to this. So hence we"
+  },
+  {
+    "start": "00:16:27.350",
+    "end": "00:16:27.360",
+    "start_seconds": 987.35,
+    "end_seconds": 987.36,
+    "text": "are now reacting to this. So hence we"
+  },
+  {
+    "start": "00:16:27.360",
+    "end": "00:16:29.590",
+    "start_seconds": 987.36,
+    "end_seconds": 989.59,
+    "text": "are now reacting to this. So hence we are seeing a lot of new lawsuits. Uh"
+  },
+  {
+    "start": "00:16:29.590",
+    "end": "00:16:29.600",
+    "start_seconds": 989.59,
+    "end_seconds": 989.6,
+    "text": "are seeing a lot of new lawsuits. Uh"
+  },
+  {
+    "start": "00:16:29.600",
+    "end": "00:16:31.350",
+    "start_seconds": 989.6,
+    "end_seconds": 991.35,
+    "text": "are seeing a lot of new lawsuits. Uh Common Sense Media is a wonderful"
+  },
+  {
+    "start": "00:16:31.350",
+    "end": "00:16:31.360",
+    "start_seconds": 991.35,
+    "end_seconds": 991.36,
+    "text": "Common Sense Media is a wonderful"
+  },
+  {
+    "start": "00:16:31.360",
+    "end": "00:16:33.590",
+    "start_seconds": 991.36,
+    "end_seconds": 993.59,
+    "text": "Common Sense Media is a wonderful organization that has been making a lot"
+  },
+  {
+    "start": "00:16:33.590",
+    "end": "00:16:33.600",
+    "start_seconds": 993.59,
+    "end_seconds": 993.6,
+    "text": "organization that has been making a lot"
+  },
+  {
+    "start": "00:16:33.600",
+    "end": "00:16:35.509",
+    "start_seconds": 993.6,
+    "end_seconds": 995.509,
+    "text": "organization that has been making a lot of change in terms of the legislations"
+  },
+  {
+    "start": "00:16:35.509",
+    "end": "00:16:35.519",
+    "start_seconds": 995.509,
+    "end_seconds": 995.519,
+    "text": "of change in terms of the legislations"
+  },
+  {
+    "start": "00:16:35.519",
+    "end": "00:16:37.509",
+    "start_seconds": 995.519,
+    "end_seconds": 997.509,
+    "text": "of change in terms of the legislations in California. They're doing some stuff"
+  },
+  {
+    "start": "00:16:37.509",
+    "end": "00:16:37.519",
+    "start_seconds": 997.509,
+    "end_seconds": 997.519,
+    "text": "in California. They're doing some stuff"
+  },
+  {
+    "start": "00:16:37.519",
+    "end": "00:16:39.829",
+    "start_seconds": 997.519,
+    "end_seconds": 999.829,
+    "text": "in California. They're doing some stuff in New York and right now they're"
+  },
+  {
+    "start": "00:16:39.829",
+    "end": "00:16:39.839",
+    "start_seconds": 999.829,
+    "end_seconds": 999.8389999999999,
+    "text": "in New York and right now they're"
+  },
+  {
+    "start": "00:16:39.839",
+    "end": "00:16:42.550",
+    "start_seconds": 999.8389999999999,
+    "end_seconds": 1002.55,
+    "text": "in New York and right now they're regulating AI companions and access."
+  },
+  {
+    "start": "00:16:42.550",
+    "end": "00:16:42.560",
+    "start_seconds": 1002.55,
+    "end_seconds": 1002.56,
+    "text": "regulating AI companions and access."
+  },
+  {
+    "start": "00:16:42.560",
+    "end": "00:16:45.350",
+    "start_seconds": 1002.56,
+    "end_seconds": 1005.35,
+    "text": "regulating AI companions and access. Then Jonathan Hyde who's been uh famous"
+  },
+  {
+    "start": "00:16:45.350",
+    "end": "00:16:45.360",
+    "start_seconds": 1005.35,
+    "end_seconds": 1005.36,
+    "text": "Then Jonathan Hyde who's been uh famous"
+  },
+  {
+    "start": "00:16:45.360",
+    "end": "00:16:47.910",
+    "start_seconds": 1005.36,
+    "end_seconds": 1007.91,
+    "text": "Then Jonathan Hyde who's been uh famous for his book anxious generation. Very"
+  },
+  {
+    "start": "00:16:47.910",
+    "end": "00:16:47.920",
+    "start_seconds": 1007.91,
+    "end_seconds": 1007.92,
+    "text": "for his book anxious generation. Very"
+  },
+  {
+    "start": "00:16:47.920",
+    "end": "00:16:50.870",
+    "start_seconds": 1007.92,
+    "end_seconds": 1010.87,
+    "text": "for his book anxious generation. Very similarly he basically with his book"
+  },
+  {
+    "start": "00:16:50.870",
+    "end": "00:16:50.880",
+    "start_seconds": 1010.87,
+    "end_seconds": 1010.88,
+    "text": "similarly he basically with his book"
+  },
+  {
+    "start": "00:16:50.880",
+    "end": "00:16:54.069",
+    "start_seconds": 1010.88,
+    "end_seconds": 1014.069,
+    "text": "similarly he basically with his book created a momentum amongst people that"
+  },
+  {
+    "start": "00:16:54.069",
+    "end": "00:16:54.079",
+    "start_seconds": 1014.069,
+    "end_seconds": 1014.079,
+    "text": "created a momentum amongst people that"
+  },
+  {
+    "start": "00:16:54.079",
+    "end": "00:16:56.150",
+    "start_seconds": 1014.079,
+    "end_seconds": 1016.15,
+    "text": "created a momentum amongst people that are now advocating for the change in the"
+  },
+  {
+    "start": "00:16:56.150",
+    "end": "00:16:56.160",
+    "start_seconds": 1016.15,
+    "end_seconds": 1016.16,
+    "text": "are now advocating for the change in the"
+  },
+  {
+    "start": "00:16:56.160",
+    "end": "00:16:58.470",
+    "start_seconds": 1016.16,
+    "end_seconds": 1018.47,
+    "text": "are now advocating for the change in the governance level. So we've seen it being"
+  },
+  {
+    "start": "00:16:58.470",
+    "end": "00:16:58.480",
+    "start_seconds": 1018.47,
+    "end_seconds": 1018.48,
+    "text": "governance level. So we've seen it being"
+  },
+  {
+    "start": "00:16:58.480",
+    "end": "00:17:00.870",
+    "start_seconds": 1018.48,
+    "end_seconds": 1020.87,
+    "text": "governance level. So we've seen it being regulated already in Australia where uh"
+  },
+  {
+    "start": "00:17:00.870",
+    "end": "00:17:00.880",
+    "start_seconds": 1020.87,
+    "end_seconds": 1020.88,
+    "text": "regulated already in Australia where uh"
+  },
+  {
+    "start": "00:17:00.880",
+    "end": "00:17:02.949",
+    "start_seconds": 1020.88,
+    "end_seconds": 1022.949,
+    "text": "regulated already in Australia where uh smartphones are banned in schools. Now"
+  },
+  {
+    "start": "00:17:02.949",
+    "end": "00:17:02.959",
+    "start_seconds": 1022.949,
+    "end_seconds": 1022.959,
+    "text": "smartphones are banned in schools. Now"
+  },
+  {
+    "start": "00:17:02.959",
+    "end": "00:17:05.429",
+    "start_seconds": 1022.959,
+    "end_seconds": 1025.429,
+    "text": "smartphones are banned in schools. Now that's similarly happening in UK. There"
+  },
+  {
+    "start": "00:17:05.429",
+    "end": "00:17:05.439",
+    "start_seconds": 1025.429,
+    "end_seconds": 1025.439,
+    "text": "that's similarly happening in UK. There"
+  },
+  {
+    "start": "00:17:05.439",
+    "end": "00:17:07.189",
+    "start_seconds": 1025.439,
+    "end_seconds": 1027.189,
+    "text": "that's similarly happening in UK. There are certain school districts in United"
+  },
+  {
+    "start": "00:17:07.189",
+    "end": "00:17:07.199",
+    "start_seconds": 1027.189,
+    "end_seconds": 1027.199,
+    "text": "are certain school districts in United"
+  },
+  {
+    "start": "00:17:07.199",
+    "end": "00:17:10.230",
+    "start_seconds": 1027.199,
+    "end_seconds": 1030.23,
+    "text": "are certain school districts in United States. So hence us being in having that"
+  },
+  {
+    "start": "00:17:10.230",
+    "end": "00:17:10.240",
+    "start_seconds": 1030.23,
+    "end_seconds": 1030.24,
+    "text": "States. So hence us being in having that"
+  },
+  {
+    "start": "00:17:10.240",
+    "end": "00:17:12.390",
+    "start_seconds": 1030.24,
+    "end_seconds": 1032.39,
+    "text": "States. So hence us being in having that approach of like top down and bottoms"
+  },
+  {
+    "start": "00:17:12.390",
+    "end": "00:17:12.400",
+    "start_seconds": 1032.39,
+    "end_seconds": 1032.4,
+    "text": "approach of like top down and bottoms"
+  },
+  {
+    "start": "00:17:12.400",
+    "end": "00:17:14.549",
+    "start_seconds": 1032.4,
+    "end_seconds": 1034.549,
+    "text": "approach of like top down and bottoms up. We understand that especially in"
+  },
+  {
+    "start": "00:17:14.549",
+    "end": "00:17:14.559",
+    "start_seconds": 1034.549,
+    "end_seconds": 1034.559,
+    "text": "up. We understand that especially in"
+  },
+  {
+    "start": "00:17:14.559",
+    "end": "00:17:16.470",
+    "start_seconds": 1034.559,
+    "end_seconds": 1036.47,
+    "text": "up. We understand that especially in United States there will always be ways"
+  },
+  {
+    "start": "00:17:16.470",
+    "end": "00:17:16.480",
+    "start_seconds": 1036.47,
+    "end_seconds": 1036.48,
+    "text": "United States there will always be ways"
+  },
+  {
+    "start": "00:17:16.480",
+    "end": "00:17:18.470",
+    "start_seconds": 1036.48,
+    "end_seconds": 1038.47,
+    "text": "United States there will always be ways for the industry to go around the"
+  },
+  {
+    "start": "00:17:18.470",
+    "end": "00:17:18.480",
+    "start_seconds": 1038.47,
+    "end_seconds": 1038.48,
+    "text": "for the industry to go around the"
+  },
+  {
+    "start": "00:17:18.480",
+    "end": "00:17:21.029",
+    "start_seconds": 1038.48,
+    "end_seconds": 1041.029,
+    "text": "for the industry to go around the legislations and there will be a lot of"
+  },
+  {
+    "start": "00:17:21.029",
+    "end": "00:17:21.039",
+    "start_seconds": 1041.029,
+    "end_seconds": 1041.039,
+    "text": "legislations and there will be a lot of"
+  },
+  {
+    "start": "00:17:21.039",
+    "end": "00:17:22.710",
+    "start_seconds": 1041.039,
+    "end_seconds": 1042.71,
+    "text": "legislations and there will be a lot of push back which is why we invade"
+  },
+  {
+    "start": "00:17:22.710",
+    "end": "00:17:22.720",
+    "start_seconds": 1042.71,
+    "end_seconds": 1042.72,
+    "text": "push back which is why we invade"
+  },
+  {
+    "start": "00:17:22.720",
+    "end": "00:17:25.029",
+    "start_seconds": 1042.72,
+    "end_seconds": 1045.029,
+    "text": "push back which is why we invade inviting them to join us on this. I live"
+  },
+  {
+    "start": "00:17:25.029",
+    "end": "00:17:25.039",
+    "start_seconds": 1045.029,
+    "end_seconds": 1045.039,
+    "text": "inviting them to join us on this. I live"
+  },
+  {
+    "start": "00:17:25.039",
+    "end": "00:17:27.750",
+    "start_seconds": 1045.039,
+    "end_seconds": 1047.75,
+    "text": "inviting them to join us on this. I live in Japan so I'm learning a lot from the"
+  },
+  {
+    "start": "00:17:27.750",
+    "end": "00:17:27.760",
+    "start_seconds": 1047.75,
+    "end_seconds": 1047.76,
+    "text": "in Japan so I'm learning a lot from the"
+  },
+  {
+    "start": "00:17:27.760",
+    "end": "00:17:30.230",
+    "start_seconds": 1047.76,
+    "end_seconds": 1050.23,
+    "text": "in Japan so I'm learning a lot from the government system there. There is a lot"
+  },
+  {
+    "start": "00:17:30.230",
+    "end": "00:17:30.240",
+    "start_seconds": 1050.23,
+    "end_seconds": 1050.24,
+    "text": "government system there. There is a lot"
+  },
+  {
+    "start": "00:17:30.240",
+    "end": "00:17:31.909",
+    "start_seconds": 1050.24,
+    "end_seconds": 1051.909,
+    "text": "government system there. There is a lot of movement on like human machine"
+  },
+  {
+    "start": "00:17:31.909",
+    "end": "00:17:31.919",
+    "start_seconds": 1051.909,
+    "end_seconds": 1051.919,
+    "text": "of movement on like human machine"
+  },
+  {
+    "start": "00:17:31.919",
+    "end": "00:17:34.470",
+    "start_seconds": 1051.919,
+    "end_seconds": 1054.47,
+    "text": "of movement on like human machine symbiosis and healthy coexistence in"
+  },
+  {
+    "start": "00:17:34.470",
+    "end": "00:17:34.480",
+    "start_seconds": 1054.47,
+    "end_seconds": 1054.48,
+    "text": "symbiosis and healthy coexistence in"
+  },
+  {
+    "start": "00:17:34.480",
+    "end": "00:17:36.549",
+    "start_seconds": 1054.48,
+    "end_seconds": 1056.549,
+    "text": "symbiosis and healthy coexistence in between humans and machines. They have a"
+  },
+  {
+    "start": "00:17:36.549",
+    "end": "00:17:36.559",
+    "start_seconds": 1056.549,
+    "end_seconds": 1056.559,
+    "text": "between humans and machines. They have a"
+  },
+  {
+    "start": "00:17:36.559",
+    "end": "00:17:38.549",
+    "start_seconds": 1056.559,
+    "end_seconds": 1058.549,
+    "text": "between humans and machines. They have a billion dollar project going on right"
+  },
+  {
+    "start": "00:17:38.549",
+    "end": "00:17:38.559",
+    "start_seconds": 1058.549,
+    "end_seconds": 1058.559,
+    "text": "billion dollar project going on right"
+  },
+  {
+    "start": "00:17:38.559",
+    "end": "00:17:40.870",
+    "start_seconds": 1058.559,
+    "end_seconds": 1060.87,
+    "text": "billion dollar project going on right now called Moonshot, which is all about"
+  },
+  {
+    "start": "00:17:40.870",
+    "end": "00:17:40.880",
+    "start_seconds": 1060.87,
+    "end_seconds": 1060.88,
+    "text": "now called Moonshot, which is all about"
+  },
+  {
+    "start": "00:17:40.880",
+    "end": "00:17:43.510",
+    "start_seconds": 1060.88,
+    "end_seconds": 1063.51,
+    "text": "now called Moonshot, which is all about social acceptance of robots in society."
+  },
+  {
+    "start": "00:17:43.510",
+    "end": "00:17:43.520",
+    "start_seconds": 1063.51,
+    "end_seconds": 1063.52,
+    "text": "social acceptance of robots in society."
+  },
+  {
+    "start": "00:17:43.520",
+    "end": "00:17:45.590",
+    "start_seconds": 1063.52,
+    "end_seconds": 1065.59,
+    "text": "social acceptance of robots in society. So in order for them to have a high"
+  },
+  {
+    "start": "00:17:45.590",
+    "end": "00:17:45.600",
+    "start_seconds": 1065.59,
+    "end_seconds": 1065.6,
+    "text": "So in order for them to have a high"
+  },
+  {
+    "start": "00:17:45.600",
+    "end": "00:17:48.230",
+    "start_seconds": 1065.6,
+    "end_seconds": 1068.23,
+    "text": "So in order for them to have a high social acceptance rate, they have this"
+  },
+  {
+    "start": "00:17:48.230",
+    "end": "00:17:48.240",
+    "start_seconds": 1068.23,
+    "end_seconds": 1068.24,
+    "text": "social acceptance rate, they have this"
+  },
+  {
+    "start": "00:17:48.240",
+    "end": "00:17:50.549",
+    "start_seconds": 1068.24,
+    "end_seconds": 1070.549,
+    "text": "social acceptance rate, they have this uh holistic approach and there's a lot"
+  },
+  {
+    "start": "00:17:50.549",
+    "end": "00:17:50.559",
+    "start_seconds": 1070.549,
+    "end_seconds": 1070.559,
+    "text": "uh holistic approach and there's a lot"
+  },
+  {
+    "start": "00:17:50.559",
+    "end": "00:17:53.510",
+    "start_seconds": 1070.559,
+    "end_seconds": 1073.51,
+    "text": "uh holistic approach and there's a lot about so they basically measure it by"
+  },
+  {
+    "start": "00:17:53.510",
+    "end": "00:17:53.520",
+    "start_seconds": 1073.51,
+    "end_seconds": 1073.52,
+    "text": "about so they basically measure it by"
+  },
+  {
+    "start": "00:17:53.520",
+    "end": "00:17:55.270",
+    "start_seconds": 1073.52,
+    "end_seconds": 1075.27,
+    "text": "about so they basically measure it by how much humans are perceiving"
+  },
+  {
+    "start": "00:17:55.270",
+    "end": "00:17:55.280",
+    "start_seconds": 1075.27,
+    "end_seconds": 1075.28,
+    "text": "how much humans are perceiving"
+  },
+  {
+    "start": "00:17:55.280",
+    "end": "00:17:57.350",
+    "start_seconds": 1075.28,
+    "end_seconds": 1077.35,
+    "text": "how much humans are perceiving acceptance towards robots. So they're"
+  },
+  {
+    "start": "00:17:57.350",
+    "end": "00:17:57.360",
+    "start_seconds": 1077.35,
+    "end_seconds": 1077.36,
+    "text": "acceptance towards robots. So they're"
+  },
+  {
+    "start": "00:17:57.360",
+    "end": "00:17:59.750",
+    "start_seconds": 1077.36,
+    "end_seconds": 1079.75,
+    "text": "acceptance towards robots. So they're really working on the mindset of their"
+  },
+  {
+    "start": "00:17:59.750",
+    "end": "00:17:59.760",
+    "start_seconds": 1079.75,
+    "end_seconds": 1079.76,
+    "text": "really working on the mindset of their"
+  },
+  {
+    "start": "00:17:59.760",
+    "end": "00:18:03.029",
+    "start_seconds": 1079.76,
+    "end_seconds": 1083.029,
+    "text": "really working on the mindset of their citizens. So, and I'm also from Croatia,"
+  },
+  {
+    "start": "00:18:03.029",
+    "end": "00:18:03.039",
+    "start_seconds": 1083.029,
+    "end_seconds": 1083.039,
+    "text": "citizens. So, and I'm also from Croatia,"
+  },
+  {
+    "start": "00:18:03.039",
+    "end": "00:18:04.870",
+    "start_seconds": 1083.039,
+    "end_seconds": 1084.87,
+    "text": "citizens. So, and I'm also from Croatia, so we're learning from a European"
+  },
+  {
+    "start": "00:18:04.870",
+    "end": "00:18:04.880",
+    "start_seconds": 1084.87,
+    "end_seconds": 1084.88,
+    "text": "so we're learning from a European"
+  },
+  {
+    "start": "00:18:04.880",
+    "end": "00:18:06.630",
+    "start_seconds": 1084.88,
+    "end_seconds": 1086.63,
+    "text": "so we're learning from a European ecosystem where we have a lot of"
+  },
+  {
+    "start": "00:18:06.630",
+    "end": "00:18:06.640",
+    "start_seconds": 1086.63,
+    "end_seconds": 1086.64,
+    "text": "ecosystem where we have a lot of"
+  },
+  {
+    "start": "00:18:06.640",
+    "end": "00:18:08.950",
+    "start_seconds": 1086.64,
+    "end_seconds": 1088.95,
+    "text": "ecosystem where we have a lot of regulations. So, I think that this is"
+  },
+  {
+    "start": "00:18:08.950",
+    "end": "00:18:08.960",
+    "start_seconds": 1088.95,
+    "end_seconds": 1088.96,
+    "text": "regulations. So, I think that this is"
+  },
+  {
+    "start": "00:18:08.960",
+    "end": "00:18:11.510",
+    "start_seconds": 1088.96,
+    "end_seconds": 1091.51,
+    "text": "regulations. So, I think that this is definitely going to be a long process."
+  },
+  {
+    "start": "00:18:11.510",
+    "end": "00:18:11.520",
+    "start_seconds": 1091.51,
+    "end_seconds": 1091.52,
+    "text": "definitely going to be a long process."
+  },
+  {
+    "start": "00:18:11.520",
+    "end": "00:18:14.789",
+    "start_seconds": 1091.52,
+    "end_seconds": 1094.789,
+    "text": "definitely going to be a long process. We are very aware that uh we need to get"
+  },
+  {
+    "start": "00:18:14.789",
+    "end": "00:18:14.799",
+    "start_seconds": 1094.789,
+    "end_seconds": 1094.799,
+    "text": "We are very aware that uh we need to get"
+  },
+  {
+    "start": "00:18:14.799",
+    "end": "00:18:17.510",
+    "start_seconds": 1094.799,
+    "end_seconds": 1097.51,
+    "text": "We are very aware that uh we need to get a big players on board. Right now, we"
+  },
+  {
+    "start": "00:18:17.510",
+    "end": "00:18:17.520",
+    "start_seconds": 1097.51,
+    "end_seconds": 1097.52,
+    "text": "a big players on board. Right now, we"
+  },
+  {
+    "start": "00:18:17.520",
+    "end": "00:18:19.990",
+    "start_seconds": 1097.52,
+    "end_seconds": 1099.99,
+    "text": "a big players on board. Right now, we are working our way towards them. Uh we"
+  },
+  {
+    "start": "00:18:19.990",
+    "end": "00:18:20.000",
+    "start_seconds": 1099.99,
+    "end_seconds": 1100.0,
+    "text": "are working our way towards them. Uh we"
+  },
+  {
+    "start": "00:18:20.000",
+    "end": "00:18:22.230",
+    "start_seconds": 1100.0,
+    "end_seconds": 1102.23,
+    "text": "are working our way towards them. Uh we have not officially connected with uh"
+  },
+  {
+    "start": "00:18:22.230",
+    "end": "00:18:22.240",
+    "start_seconds": 1102.23,
+    "end_seconds": 1102.24,
+    "text": "have not officially connected with uh"
+  },
+  {
+    "start": "00:18:22.240",
+    "end": "00:18:25.110",
+    "start_seconds": 1102.24,
+    "end_seconds": 1105.11,
+    "text": "have not officially connected with uh Optimus or 1X or one of these like large"
+  },
+  {
+    "start": "00:18:25.110",
+    "end": "00:18:25.120",
+    "start_seconds": 1105.11,
+    "end_seconds": 1105.12,
+    "text": "Optimus or 1X or one of these like large"
+  },
+  {
+    "start": "00:18:25.120",
+    "end": "00:18:27.590",
+    "start_seconds": 1105.12,
+    "end_seconds": 1107.59,
+    "text": "Optimus or 1X or one of these like large companies that are uh so famously saying"
+  },
+  {
+    "start": "00:18:27.590",
+    "end": "00:18:27.600",
+    "start_seconds": 1107.59,
+    "end_seconds": 1107.6,
+    "text": "companies that are uh so famously saying"
+  },
+  {
+    "start": "00:18:27.600",
+    "end": "00:18:29.270",
+    "start_seconds": 1107.6,
+    "end_seconds": 1109.27,
+    "text": "companies that are uh so famously saying that humanoids are going to be nanning"
+  },
+  {
+    "start": "00:18:29.270",
+    "end": "00:18:29.280",
+    "start_seconds": 1109.27,
+    "end_seconds": 1109.28,
+    "text": "that humanoids are going to be nanning"
+  },
+  {
+    "start": "00:18:29.280",
+    "end": "00:18:31.590",
+    "start_seconds": 1109.28,
+    "end_seconds": 1111.59,
+    "text": "that humanoids are going to be nanning your children. But we are working our"
+  },
+  {
+    "start": "00:18:31.590",
+    "end": "00:18:31.600",
+    "start_seconds": 1111.59,
+    "end_seconds": 1111.6,
+    "text": "your children. But we are working our"
+  },
+  {
+    "start": "00:18:31.600",
+    "end": "00:18:34.310",
+    "start_seconds": 1111.6,
+    "end_seconds": 1114.31,
+    "text": "your children. But we are working our way towards that. So I do know that"
+  },
+  {
+    "start": "00:18:34.310",
+    "end": "00:18:34.320",
+    "start_seconds": 1114.31,
+    "end_seconds": 1114.32,
+    "text": "way towards that. So I do know that"
+  },
+  {
+    "start": "00:18:34.320",
+    "end": "00:18:36.870",
+    "start_seconds": 1114.32,
+    "end_seconds": 1116.87,
+    "text": "way towards that. So I do know that there will be push back but also seeing"
+  },
+  {
+    "start": "00:18:36.870",
+    "end": "00:18:36.880",
+    "start_seconds": 1116.87,
+    "end_seconds": 1116.88,
+    "text": "there will be push back but also seeing"
+  },
+  {
+    "start": "00:18:36.880",
+    "end": "00:18:39.029",
+    "start_seconds": 1116.88,
+    "end_seconds": 1119.029,
+    "text": "there will be push back but also seeing all this momentum that's happening right"
+  },
+  {
+    "start": "00:18:39.029",
+    "end": "00:18:39.039",
+    "start_seconds": 1119.029,
+    "end_seconds": 1119.039,
+    "text": "all this momentum that's happening right"
+  },
+  {
+    "start": "00:18:39.039",
+    "end": "00:18:41.590",
+    "start_seconds": 1119.039,
+    "end_seconds": 1121.59,
+    "text": "all this momentum that's happening right now. I think with that we do have"
+  },
+  {
+    "start": "00:18:41.590",
+    "end": "00:18:41.600",
+    "start_seconds": 1121.59,
+    "end_seconds": 1121.6,
+    "text": "now. I think with that we do have"
+  },
+  {
+    "start": "00:18:41.600",
+    "end": "00:18:43.990",
+    "start_seconds": 1121.6,
+    "end_seconds": 1123.99,
+    "text": "now. I think with that we do have advantage point especially with the"
+  },
+  {
+    "start": "00:18:43.990",
+    "end": "00:18:44.000",
+    "start_seconds": 1123.99,
+    "end_seconds": 1124.0,
+    "text": "advantage point especially with the"
+  },
+  {
+    "start": "00:18:44.000",
+    "end": "00:18:45.830",
+    "start_seconds": 1124.0,
+    "end_seconds": 1125.83,
+    "text": "advantage point especially with the lobbies that we are working with that"
+  },
+  {
+    "start": "00:18:45.830",
+    "end": "00:18:45.840",
+    "start_seconds": 1125.83,
+    "end_seconds": 1125.84,
+    "text": "lobbies that we are working with that"
+  },
+  {
+    "start": "00:18:45.840",
+    "end": "00:18:48.070",
+    "start_seconds": 1125.84,
+    "end_seconds": 1128.07,
+    "text": "lobbies that we are working with that have been working on the legislation"
+  },
+  {
+    "start": "00:18:48.070",
+    "end": "00:18:48.080",
+    "start_seconds": 1128.07,
+    "end_seconds": 1128.08,
+    "text": "have been working on the legislation"
+  },
+  {
+    "start": "00:18:48.080",
+    "end": "00:18:51.750",
+    "start_seconds": 1128.08,
+    "end_seconds": 1131.75,
+    "text": "have been working on the legislation around the ban of the tobacco. So they"
+  },
+  {
+    "start": "00:18:51.750",
+    "end": "00:18:51.760",
+    "start_seconds": 1131.75,
+    "end_seconds": 1131.76,
+    "text": "around the ban of the tobacco. So they"
+  },
+  {
+    "start": "00:18:51.760",
+    "end": "00:18:55.350",
+    "start_seconds": 1131.76,
+    "end_seconds": 1135.35,
+    "text": "around the ban of the tobacco. So they really have seen from the work how to"
+  },
+  {
+    "start": "00:18:55.350",
+    "end": "00:18:55.360",
+    "start_seconds": 1135.35,
+    "end_seconds": 1135.36,
+    "text": "really have seen from the work how to"
+  },
+  {
+    "start": "00:18:55.360",
+    "end": "00:18:58.549",
+    "start_seconds": 1135.36,
+    "end_seconds": 1138.549,
+    "text": "really have seen from the work how to approach this very very uh big uh issues"
+  },
+  {
+    "start": "00:18:58.549",
+    "end": "00:18:58.559",
+    "start_seconds": 1138.549,
+    "end_seconds": 1138.559,
+    "text": "approach this very very uh big uh issues"
+  },
+  {
+    "start": "00:18:58.559",
+    "end": "00:19:01.590",
+    "start_seconds": 1138.559,
+    "end_seconds": 1141.59,
+    "text": "approach this very very uh big uh issues and I would also say that we can see the"
+  },
+  {
+    "start": "00:19:01.590",
+    "end": "00:19:01.600",
+    "start_seconds": 1141.59,
+    "end_seconds": 1141.6,
+    "text": "and I would also say that we can see the"
+  },
+  {
+    "start": "00:19:01.600",
+    "end": "00:19:05.669",
+    "start_seconds": 1141.6,
+    "end_seconds": 1145.669,
+    "text": "and I would also say that we can see the public is really receptive to how"
+  },
+  {
+    "start": "00:19:05.669",
+    "end": "00:19:05.679",
+    "start_seconds": 1145.669,
+    "end_seconds": 1145.679,
+    "text": "public is really receptive to how"
+  },
+  {
+    "start": "00:19:05.679",
+    "end": "00:19:07.750",
+    "start_seconds": 1145.679,
+    "end_seconds": 1147.75,
+    "text": "public is really receptive to how companies interact with governments that"
+  },
+  {
+    "start": "00:19:07.750",
+    "end": "00:19:07.760",
+    "start_seconds": 1147.75,
+    "end_seconds": 1147.76,
+    "text": "companies interact with governments that"
+  },
+  {
+    "start": "00:19:07.760",
+    "end": "00:19:09.669",
+    "start_seconds": 1147.76,
+    "end_seconds": 1149.669,
+    "text": "companies interact with governments that they don't agree with especially in the"
+  },
+  {
+    "start": "00:19:09.669",
+    "end": "00:19:09.679",
+    "start_seconds": 1149.669,
+    "end_seconds": 1149.679,
+    "text": "they don't agree with especially in the"
+  },
+  {
+    "start": "00:19:09.679",
+    "end": "00:19:12.630",
+    "start_seconds": 1149.679,
+    "end_seconds": 1152.63,
+    "text": "they don't agree with especially in the US um the department of war situation"
+  },
+  {
+    "start": "00:19:12.630",
+    "end": "00:19:12.640",
+    "start_seconds": 1152.63,
+    "end_seconds": 1152.64,
+    "text": "US um the department of war situation"
+  },
+  {
+    "start": "00:19:12.640",
+    "end": "00:19:14.870",
+    "start_seconds": 1152.64,
+    "end_seconds": 1154.87,
+    "text": "US um the department of war situation that happened with open AI and anthropic"
+  },
+  {
+    "start": "00:19:14.870",
+    "end": "00:19:14.880",
+    "start_seconds": 1154.87,
+    "end_seconds": 1154.88,
+    "text": "that happened with open AI and anthropic"
+  },
+  {
+    "start": "00:19:14.880",
+    "end": "00:19:16.789",
+    "start_seconds": 1154.88,
+    "end_seconds": 1156.789,
+    "text": "that happened with open AI and anthropic where they tried to get Anthropic on"
+  },
+  {
+    "start": "00:19:16.789",
+    "end": "00:19:16.799",
+    "start_seconds": 1156.789,
+    "end_seconds": 1156.799,
+    "text": "where they tried to get Anthropic on"
+  },
+  {
+    "start": "00:19:16.799",
+    "end": "00:19:18.950",
+    "start_seconds": 1156.799,
+    "end_seconds": 1158.95,
+    "text": "where they tried to get Anthropic on board then they dropped out and openai"
+  },
+  {
+    "start": "00:19:18.950",
+    "end": "00:19:18.960",
+    "start_seconds": 1158.95,
+    "end_seconds": 1158.96,
+    "text": "board then they dropped out and openai"
+  },
+  {
+    "start": "00:19:18.960",
+    "end": "00:19:21.590",
+    "start_seconds": 1158.96,
+    "end_seconds": 1161.59,
+    "text": "board then they dropped out and openai went on board and even now open AI is"
+  },
+  {
+    "start": "00:19:21.590",
+    "end": "00:19:21.600",
+    "start_seconds": 1161.59,
+    "end_seconds": 1161.6,
+    "text": "went on board and even now open AI is"
+  },
+  {
+    "start": "00:19:21.600",
+    "end": "00:19:24.230",
+    "start_seconds": 1161.6,
+    "end_seconds": 1164.23,
+    "text": "went on board and even now open AI is allegedly selling 5% of their company to"
+  },
+  {
+    "start": "00:19:24.230",
+    "end": "00:19:24.240",
+    "start_seconds": 1164.23,
+    "end_seconds": 1164.24,
+    "text": "allegedly selling 5% of their company to"
+  },
+  {
+    "start": "00:19:24.240",
+    "end": "00:19:25.430",
+    "start_seconds": 1164.24,
+    "end_seconds": 1165.43,
+    "text": "allegedly selling 5% of their company to the US government. I don't know if"
+  },
+  {
+    "start": "00:19:25.430",
+    "end": "00:19:25.440",
+    "start_seconds": 1165.43,
+    "end_seconds": 1165.44,
+    "text": "the US government. I don't know if"
+  },
+  {
+    "start": "00:19:25.440",
+    "end": "00:19:27.350",
+    "start_seconds": 1165.44,
+    "end_seconds": 1167.35,
+    "text": "the US government. I don't know if people have seen that. Um, where Trump"
+  },
+  {
+    "start": "00:19:27.350",
+    "end": "00:19:27.360",
+    "start_seconds": 1167.35,
+    "end_seconds": 1167.36,
+    "text": "people have seen that. Um, where Trump"
+  },
+  {
+    "start": "00:19:27.360",
+    "end": "00:19:29.190",
+    "start_seconds": 1167.36,
+    "end_seconds": 1169.19,
+    "text": "people have seen that. Um, where Trump literally wants to have a stake in"
+  },
+  {
+    "start": "00:19:29.190",
+    "end": "00:19:29.200",
+    "start_seconds": 1169.19,
+    "end_seconds": 1169.2,
+    "text": "literally wants to have a stake in"
+  },
+  {
+    "start": "00:19:29.200",
+    "end": "00:19:32.710",
+    "start_seconds": 1169.2,
+    "end_seconds": 1172.71,
+    "text": "literally wants to have a stake in OpenAI. Um, and the public is responding"
+  },
+  {
+    "start": "00:19:32.710",
+    "end": "00:19:32.720",
+    "start_seconds": 1172.71,
+    "end_seconds": 1172.72,
+    "text": "OpenAI. Um, and the public is responding"
+  },
+  {
+    "start": "00:19:32.720",
+    "end": "00:19:34.310",
+    "start_seconds": 1172.72,
+    "end_seconds": 1174.31,
+    "text": "OpenAI. Um, and the public is responding to that. I mean, the amount of people"
+  },
+  {
+    "start": "00:19:34.310",
+    "end": "00:19:34.320",
+    "start_seconds": 1174.31,
+    "end_seconds": 1174.32,
+    "text": "to that. I mean, the amount of people"
+  },
+  {
+    "start": "00:19:34.320",
+    "end": "00:19:36.230",
+    "start_seconds": 1174.32,
+    "end_seconds": 1176.23,
+    "text": "to that. I mean, the amount of people who have left Chachib and moved over to"
+  },
+  {
+    "start": "00:19:36.230",
+    "end": "00:19:36.240",
+    "start_seconds": 1176.23,
+    "end_seconds": 1176.24,
+    "text": "who have left Chachib and moved over to"
+  },
+  {
+    "start": "00:19:36.240",
+    "end": "00:19:38.789",
+    "start_seconds": 1176.24,
+    "end_seconds": 1178.789,
+    "text": "who have left Chachib and moved over to Claude, like whether the companies want"
+  },
+  {
+    "start": "00:19:38.789",
+    "end": "00:19:38.799",
+    "start_seconds": 1178.789,
+    "end_seconds": 1178.799,
+    "text": "Claude, like whether the companies want"
+  },
+  {
+    "start": "00:19:38.799",
+    "end": "00:19:40.470",
+    "start_seconds": 1178.799,
+    "end_seconds": 1180.47,
+    "text": "Claude, like whether the companies want to accept that or not, like you need"
+  },
+  {
+    "start": "00:19:40.470",
+    "end": "00:19:40.480",
+    "start_seconds": 1180.47,
+    "end_seconds": 1180.48,
+    "text": "to accept that or not, like you need"
+  },
+  {
+    "start": "00:19:40.480",
+    "end": "00:19:43.669",
+    "start_seconds": 1180.48,
+    "end_seconds": 1183.669,
+    "text": "to accept that or not, like you need customers to be a company. So, to be"
+  },
+  {
+    "start": "00:19:43.669",
+    "end": "00:19:43.679",
+    "start_seconds": 1183.669,
+    "end_seconds": 1183.679,
+    "text": "customers to be a company. So, to be"
+  },
+  {
+    "start": "00:19:43.679",
+    "end": "00:19:46.549",
+    "start_seconds": 1183.679,
+    "end_seconds": 1186.549,
+    "text": "customers to be a company. So, to be successful, like you need to appeal to"
+  },
+  {
+    "start": "00:19:46.549",
+    "end": "00:19:46.559",
+    "start_seconds": 1186.549,
+    "end_seconds": 1186.559,
+    "text": "successful, like you need to appeal to"
+  },
+  {
+    "start": "00:19:46.559",
+    "end": "00:19:49.190",
+    "start_seconds": 1186.559,
+    "end_seconds": 1189.19,
+    "text": "successful, like you need to appeal to what the public is is leaning towards."
+  },
+  {
+    "start": "00:19:49.190",
+    "end": "00:19:49.200",
+    "start_seconds": 1189.19,
+    "end_seconds": 1189.2,
+    "text": "what the public is is leaning towards."
+  },
+  {
+    "start": "00:19:49.200",
+    "end": "00:19:50.870",
+    "start_seconds": 1189.2,
+    "end_seconds": 1190.87,
+    "text": "what the public is is leaning towards. And I think the Department of War"
+  },
+  {
+    "start": "00:19:50.870",
+    "end": "00:19:50.880",
+    "start_seconds": 1190.87,
+    "end_seconds": 1190.88,
+    "text": "And I think the Department of War"
+  },
+  {
+    "start": "00:19:50.880",
+    "end": "00:19:53.750",
+    "start_seconds": 1190.88,
+    "end_seconds": 1193.75,
+    "text": "And I think the Department of War situation like really shows that the"
+  },
+  {
+    "start": "00:19:53.750",
+    "end": "00:19:53.760",
+    "start_seconds": 1193.75,
+    "end_seconds": 1193.76,
+    "text": "situation like really shows that the"
+  },
+  {
+    "start": "00:19:53.760",
+    "end": "00:19:55.669",
+    "start_seconds": 1193.76,
+    "end_seconds": 1195.669,
+    "text": "situation like really shows that the public really drives like what companies"
+  },
+  {
+    "start": "00:19:55.669",
+    "end": "00:19:55.679",
+    "start_seconds": 1195.669,
+    "end_seconds": 1195.679,
+    "text": "public really drives like what companies"
+  },
+  {
+    "start": "00:19:55.679",
+    "end": "00:19:57.830",
+    "start_seconds": 1195.679,
+    "end_seconds": 1197.83,
+    "text": "public really drives like what companies do and what will work and what won't"
+  },
+  {
+    "start": "00:19:57.830",
+    "end": "00:19:57.840",
+    "start_seconds": 1197.83,
+    "end_seconds": 1197.84,
+    "text": "do and what will work and what won't"
+  },
+  {
+    "start": "00:19:57.840",
+    "end": "00:19:59.990",
+    "start_seconds": 1197.84,
+    "end_seconds": 1199.99,
+    "text": "do and what will work and what won't work. So even when it comes to robotics,"
+  },
+  {
+    "start": "00:19:59.990",
+    "end": "00:20:00.000",
+    "start_seconds": 1199.99,
+    "end_seconds": 1200.0,
+    "text": "work. So even when it comes to robotics,"
+  },
+  {
+    "start": "00:20:00.000",
+    "end": "00:20:02.070",
+    "start_seconds": 1200.0,
+    "end_seconds": 1202.07,
+    "text": "work. So even when it comes to robotics, if you see companies that are partnering"
+  },
+  {
+    "start": "00:20:02.070",
+    "end": "00:20:02.080",
+    "start_seconds": 1202.07,
+    "end_seconds": 1202.08,
+    "text": "if you see companies that are partnering"
+  },
+  {
+    "start": "00:20:02.080",
+    "end": "00:20:05.029",
+    "start_seconds": 1202.08,
+    "end_seconds": 1205.029,
+    "text": "if you see companies that are partnering with the wrong kind of parties or not"
+  },
+  {
+    "start": "00:20:05.029",
+    "end": "00:20:05.039",
+    "start_seconds": 1205.029,
+    "end_seconds": 1205.039,
+    "text": "with the wrong kind of parties or not"
+  },
+  {
+    "start": "00:20:05.039",
+    "end": "00:20:07.190",
+    "start_seconds": 1205.039,
+    "end_seconds": 1207.19,
+    "text": "with the wrong kind of parties or not necessarily being as safe as as the"
+  },
+  {
+    "start": "00:20:07.190",
+    "end": "00:20:07.200",
+    "start_seconds": 1207.19,
+    "end_seconds": 1207.2,
+    "text": "necessarily being as safe as as the"
+  },
+  {
+    "start": "00:20:07.200",
+    "end": "00:20:09.669",
+    "start_seconds": 1207.2,
+    "end_seconds": 1209.669,
+    "text": "necessarily being as safe as as the public assumes is safe, there will be"
+  },
+  {
+    "start": "00:20:09.669",
+    "end": "00:20:09.679",
+    "start_seconds": 1209.669,
+    "end_seconds": 1209.679,
+    "text": "public assumes is safe, there will be"
+  },
+  {
+    "start": "00:20:09.679",
+    "end": "00:20:14.070",
+    "start_seconds": 1209.679,
+    "end_seconds": 1214.07,
+    "text": "public assumes is safe, there will be push back. I think"
+  },
+  {
+    "start": "00:20:14.080",
+    "end": "00:20:19.909",
+    "start_seconds": 1214.08,
+    "end_seconds": 1219.909,
+    "text": ">> Thank you."
+  },
+  {
+    "start": "00:20:19.919",
+    "end": "00:20:22.470",
+    "start_seconds": 1219.919,
+    "end_seconds": 1222.47,
+    "text": "Yeah, I mean I think the EU AI act is a"
+  },
+  {
+    "start": "00:20:22.470",
+    "end": "00:20:22.480",
+    "start_seconds": 1222.47,
+    "end_seconds": 1222.48,
+    "text": "Yeah, I mean I think the EU AI act is a"
+  },
+  {
+    "start": "00:20:22.480",
+    "end": "00:20:25.029",
+    "start_seconds": 1222.48,
+    "end_seconds": 1225.029,
+    "text": "Yeah, I mean I think the EU AI act is a great like example. Um I think the"
+  },
+  {
+    "start": "00:20:25.029",
+    "end": "00:20:25.039",
+    "start_seconds": 1225.029,
+    "end_seconds": 1225.039,
+    "text": "great like example. Um I think the"
+  },
+  {
+    "start": "00:20:25.039",
+    "end": "00:20:26.470",
+    "start_seconds": 1225.039,
+    "end_seconds": 1226.47,
+    "text": "great like example. Um I think the European government, the UK government"
+  },
+  {
+    "start": "00:20:26.470",
+    "end": "00:20:26.480",
+    "start_seconds": 1226.47,
+    "end_seconds": 1226.48,
+    "text": "European government, the UK government"
+  },
+  {
+    "start": "00:20:26.480",
+    "end": "00:20:27.909",
+    "start_seconds": 1226.48,
+    "end_seconds": 1227.909,
+    "text": "European government, the UK government is doing a lot in terms of at least like"
+  },
+  {
+    "start": "00:20:27.909",
+    "end": "00:20:27.919",
+    "start_seconds": 1227.909,
+    "end_seconds": 1227.919,
+    "text": "is doing a lot in terms of at least like"
+  },
+  {
+    "start": "00:20:27.919",
+    "end": "00:20:30.549",
+    "start_seconds": 1227.919,
+    "end_seconds": 1230.549,
+    "text": "is doing a lot in terms of at least like LLM safety. Um and so I think that's a"
+  },
+  {
+    "start": "00:20:30.549",
+    "end": "00:20:30.559",
+    "start_seconds": 1230.549,
+    "end_seconds": 1230.559,
+    "text": "LLM safety. Um and so I think that's a"
+  },
+  {
+    "start": "00:20:30.559",
+    "end": "00:20:35.110",
+    "start_seconds": 1230.559,
+    "end_seconds": 1235.11,
+    "text": "LLM safety. Um and so I think that's a great example to go off of."
+  },
+  {
+    "start": "00:20:35.120",
+    "end": "00:20:36.310",
+    "start_seconds": 1235.12,
+    "end_seconds": 1236.31,
+    "text": ">> Thank you guys."
+  },
+  {
+    "start": "00:20:36.310",
+    "end": "00:20:36.320",
+    "start_seconds": 1236.31,
+    "end_seconds": 1236.32,
+    "text": ">> Thank you guys."
+  },
+  {
+    "start": "00:20:36.320",
+    "end": "00:20:40.280",
+    "start_seconds": 1236.32,
+    "end_seconds": 1240.28,
+    "text": ">> Thank you guys. >> Thank you. Thank you so much."
+  }
+]

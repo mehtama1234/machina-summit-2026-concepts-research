@@ -1,0 +1,468 @@
+[music]
+>> Hello, hello.
+Um
+All right. So, let's get started.
+I want to give
+this presentation and tell you a new
+perspective on
+how to build foundation models.
+And I want to
+talk to you about this new perspective's
+impact
+in the society.
+And at the same time, at the very end,
+I'm going to leave you with one open
+problem
+that everybody is trying to solve right
+now,
+uh and hopefully open up some
+um
+uh
+you know, light for you to really think
+about, you know, like how where where do
+you go from here?
+So, early on when we saw the results of
+pre-training foundation models, like
+from the OpenAI's of the world and
+DeepMind's of the world,
+um one objective foundation model
+companies emerged with one objective of
+intelligence at all costs, you know, so
+maximizing intelligence along one axis
+to really get to the most kind of um
+intelligent systems that we can get.
+Like to the marketing term for it is
+AGI, you know, this is where everybody
+wants it to get.
+But along the way, recently we have seen
+that
+this maximizing intelligence at all
+costs
+is coming with a certain type of
+challenges.
+And those challenges are
+uh basically the limitations that we
+have around compute, chips, and the
+market that we're seeing right now.
+Memory prices are actually going up. And
+uh you're getting limited on how uh how
+to deploy these solutions like at scale.
+You're seeing that efficiency as an
+afterthought is not is not a solution.
+You cannot just have rely on scaling AI
+systems and then have, let's say,
+post-talk quantization kind of methods
+to actually optimize your solutions.
+You have to think about efficiency from
+scratch when you design AIs.
+And you've seen recently that there are
+governance, compliance, and safety on
+distribution of intelligence that
+actually is a blocker on actually taking
+AIs to the next step.
+You have also seen that the open-source
+AIs are getting a lot more powerful.
+Like for the foundation model company,
+it is something for them to think about.
+So, distribution through open source
+itself is also another uh challenge that
+we need to think about.
+So, to solve this,
+we thought about
+a new framework.
+We thought about a three-axis problem on
+building foundation models.
+And how do you do that? Not just having
+like intelligence maximization,
+but when you design foundation models
+from scratch, think about
+intelligence from the pure capability
+point of view, but also think about
+efficiency of this computation from
+scratch in terms of computational cost
+of intelligence. For example, we have
+the transformer architecture powering
+all the AIs of today. We can also change
+that. We can start thinking about uh
+innovations across architecture to
+getting more efficient uh realization of
+intelligence. And at the same time,
+think about where this intelligence
+system is going to be hosted you know,
+in the physical world. Because right
+now, all the solutions that are like
+foundation model companies are focused
+on have been like dominated in the data
+centers, but there is actually an
+abundance of uh resources outside of
+data centers in the physical world as
+well.
+So, if you have an objective function
+that can allow us to
+build efficient general-purpose AIs at
+every scale,
+this is basically the new framework that
+we built
+liquid AI on top of. So, we are a
+foundation model company that actually
+works across optimization of these three
+axes.
+How does it look like in practice?
+The way we design AI, we put matters of
+let's say foundation model development
+across architecture, learning
+algorithms, data efforts, all of this is
+stack.
+And we basically loop that with the
+physical world.
+When I say physical world, it starts
+from chips, from systems like mobile
+phones and laptops that you communicate
+with the physical work through them, and
+to let's say devices like robots, cars,
+and anything else that moves in our
+society.
+So, and we co-build an optimization loop
+between the substrate, which I call like
+those kind of devices,
+and the innovations that we have on the
+research side.
+Doing this with a meta AI algorithm, so
+at the company itself,
+we built a meta AI system. This AI
+system is actually like a search-based
+algorithm that at the same times across
+the three axes that I actually
+introduced for you, it actually
+optimizes through those axes. Minimum
+amount of memory, imagine given a
+processor on top of which you want to
+deploy the AI,
+minimize the amount of error
+while minimizing memory usage
+while enhancing kind of the speed of the
+models as an optimization problem. This
+is basically AI is designing AI, you
+know, so that's kind of the framework
+that about three and a half years ago
+like spun out of MIT we have started
+like developing.
+So, the core technology at my company is
+all about basically building
+optimization platforms across three
+different axes: substrate, intelligence,
+and efficiency. These are kind of the
+three places is we go.
+There's a I also put like a you know,
+research um
+paper here for you to have like a look
+at like from 2024 to really see how we
+are thinking about this automated
+foundation model design as a whole.
+Now, let's talk about the impact of this
+um
+systems.
+As a result of our automation foundation
+foundation modeling platform, we are
+getting into something that we call
+liquid foundation models. These are a
+new class of artificial intelligence
+systems that are very lightweight and
+they can fit even on a Raspberry Pi.
+So, you can host these models on the
+smallest unit of compute and larger.
+The systems are actually extremely
+popular. These models has been
+downloaded over with a rate of over 1
+million downloads per week.
+So, we are like from the US side, we are
+actually like probably from the Open
+Weight Lab in the top 10 kind of
+companies that are actually releasing
+open source models.
+And we have done that with an amazing
+amount of efficiencies.
+Now, let's look at some stats. When you
+optimize foundation models from scratch
+with the goal of
+three things as I mentioned, memory,
+latency, and quality at the same time,
+you can unlock new Pareto frontiers.
+Here what you see is a comparison
+of a bunch of models across quality on
+the Y axis and on the X axis you see the
+decode speed or the speed of
+computation. The speed should be higher
+and quality should also be higher. You
+can see a comparison between like how
+these models are actually performing.
+At the same time,
+this is another graph, very similar
+thing that on the X axis you see
+quality, on the
+Y axis you see
+um memory.
+The lower memory footprint is better.
+So,
+we have a range of models ranging from
+like 100 million parameter models to,
+let's say, 100 billion parameter models.
+So far, we have actually released some
+of these models in open in an open
+weight fashion.
+And this is a report from artificial
+analysis that you can actually see the
+fastest models on the planet right now.
+There's a Mercury 2 and there's a liquid
+foundation model LFM2 on the second
+instance. And from the price point of
+view, this is kind of the cheapest
+foundation model that you can actually
+get.
+The reason why we can actually unlock
+such efficiencies is because of
+the three axis kind of perspective that
+we have. Maximize intelligence
+while having a look into efficiency of
+models and at the same time caring about
+where intelligence is going to go.
+Now, let's get out of this benchmarking
+kind of
+situation and talk about markets.
+When you have models that can be running
+on any kind of silicon, like on CPUs,
+GPUs, or neural processing units, you
+would be able to host them on devices.
+So, you can go into automotive business,
+you can go into mobile, you can go into
+laptops, you can go into wearables, you
+can deploy models and intelligence
+across many, many different pipelines.
+And there is a lot of processors in the
+world. In fact, there are like 2 billion
+processors every year every year getting
+constructed outside of data centers that
+you can put intelligence on top of.
+And we are actually like enabling
+intelligence on top of those surfaces.
+The value of having fast models, models
+that are designed for a smaller
+processors, is the fact that you can
+also run them in the cloud. The more
+compute you give them, the faster
+operation that a lower latency kind of
+profile you get. So, you can also like
+host them in constrained environments
+when you do not have access to massive
+or abundance of compute.
+For example, in the automotive business,
+which is one of the verticals that we
+work with,
+we are on the path that by 2028 be on 50
+million cars
+enabling
+basically um
+in-car intelligence.
+The thing that that you know like
+imagine an interface where you have like
+your car is actually one of those
+private spaces where you can communicate
+with your car and control your car
+completely with your voice and also like
+with with let's say sensor kind of
+infrastructure that allows you to really
+have full-blown experience of a
+of an intelligent system.
+We are actually hitting on a laptop
+1,400 tokens per second as a web
+browser. So you can actually put our
+technology, this is actually a hugging
+face demo, that um you can actually try
+it out. It's called web GPU. You can try
+it out and you can actually get it on
+your laptop up to like 1,400 tokens per
+second systems that can actually solve
+problems and call tools for you. You can
+build agentic AI on a laptop with this
+kind of speed.
+We just recently um Shopify is one of
+our clients and we just recently hit a
+billion requests going through liquid
+foundation models across the Shop app.
+If you go to the Shop app in Shopify,
+you can actually like whatever you you
+type in there, it goes through a liquid
+foundation model.
+With AMD, we have been like
+democratizing access to local
+intelligence. For example, we're
+building a specialized AI systems like
+let's say a summarizer
+that is really really a document
+summarizer that is extremely good and it
+only consumes about 800 megabytes of RAM
+on a laptop and it can perform as good
+as Claude Sonnet, like the best version
+of the Claude Sonnet. So we are talking
+about maximizing capabilities of a
+specialized models without burning out
+like basically on compute and cost.
+And then there was a video here to show
+that you can also get that these systems
+power robots. For example, we had skill
+selection layer for robotics. Like
+that's something that we can enable like
+on top of models because the models that
+we are putting out there they are
+multi-modal. They can process audio,
+vision, text, and other formats of
+signal.
+So,
+as I told you
+as Liquid AI
+as Liquid AI we're optimizing this
+perspective of
+before design of a foundation model
+you're maximizing for efficiency
+and you're maximizing for intelligence
+while having efficiencies in mind, you
+know, cost efficiency, compute
+efficiencies, and at the same time the
+substrate where intelligence can go
+and design that as an AI designing AI
+problem. Basically, a self kind of
+recursive kind of self-improvement kind
+of loop. And we have designed something
+like that to really build an adaptive
+layer on top of the silicon that is
+outside of data centers. This way we can
+actually bring intelligence to
+everybody.
+Now, I want to conclude my talk by
+giving you
+um
+a question to think about, you know, we
+have been known as Liquid AI as guys
+that we have been like innovating across
+architecture of intelligence. We have
+not been building transformer-based
+architectures. We have been uh
+researching decade-long how can we learn
+inspiration from brains to really bring
+these inspirations back to machine
+learning. Because your brain is
+consuming it's a general-purpose AI your
+brain and it consumes 20 watts of power.
+So, if you can actually learn from
+there, there are like a lot to actually
+unlock.
+So, think about like where we are.
+There is an interaction when we design
+this
+highly powerful AI systems.
+There are matters of architecture
+innovations,
+learning algorithms innovation, and data
+effort innovation in place.
+A combination of all of these things is
+going to give rise to, you know, like
+the most efficient way. So so far, we
+have seen all these scaling a certain
+type of this architecture, certain type
+of learning algorithm, and certain data
+efforts giving rise to basically where
+we are today with the highest kind of
+levels of
+uh foundation models. But But there is a
+zoo of opportunities to really explore
+across this tree, and it's not only the
+architecture that has to be explored.
+I strongly believe through evolution,
+intelligence emerged as a social
+experience.
+So think about it like this.
+Intelligent behavior, it's an emergent
+phenomenon. Nature actually gave rise to
+intelligent beings because of like
+maximizing survival capacity.
+AI's foundation models of today are
+systems that are
+What we did, we tried to actually build
+a process called next token prediction
+as a learning algorithm.
+And that next token at
+next token prediction gave us a
+capability or an emergent capability in
+AI models or in neural networks called
+in-context learning.
+In-context learning was emerged from a
+scaling next token prediction as an
+algorithm. So we started from next token
+prediction, we ended up with where we
+are today.
+And this in-context learning implements
+a pseudo gradient descent pseudo
+optimizer, you know? So it's getting
+very technical.
+But what I want to What I want to
+mention is that there was a prior that
+gave us to the emergent properties of
+learning systems.
+As I mentioned, human brain has a
+massive um
+your capabilities of different types of
+learning. For example, you can learn
+from examples. You can learn in short
+period of time and in long form of time.
+You can actually listen to something and
+at the same time speak and at the same
+time adapt. You're There are massive
+types of uh neural architectures that
+are happening in your brain that are
+giving rise to intelligent behavior. So,
+that many mechanisms of learning are
+emergent properties of natural
+evolution. This is actually what
+happened.
+Now, the question the fundamental
+question that we have to ask is this.
+What should we start with
+from which
+we can emerge multiple kind of learning
+schemes. What is that algorithm that we
+have to start with to really get to the
+place where you have multiple learning
+algorithms emerge?
+Because if you start mimicking
+reinforcement learning like with a
+reinforcement learning pipeline or
+building mimicking behavior is just
+going to give you a mimicry machine.
+They're going to be capable,
+but they're not going to give you the
+maximized basically intelligence
+at all They're going to give you
+maximized intelligence at all costs.
+They're not going to give you an
+efficient form of intelligence that is
+basically we're talking like powerful
+AI.
+What we want to get at is to really
+deeply think about what kind of priors
+we can start a learning process
+and what combination of these tools that
+we are seeing across architecture,
+across learning algorithms, and data
+effort would give rise to that
+format of intelligence.
+Okay? And
+my goal is to give you that question and
+and and really justify through that
+perspective of really there is a big
+open question still how can we build
+something that is actually as efficient
+as your human brain and being able to
+perform multiple mechanisms of learning
+and actually exhibit behavior like
+humans.
+Thank you.

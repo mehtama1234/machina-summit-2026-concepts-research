@@ -1,0 +1,155 @@
+[
+  {
+    "id": "humanoid-robotics",
+    "name": "Humanoid Robotics",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Humanoid robotics is the effort to build general-purpose robots shaped for human environments and work routines.",
+    "ordinary_problem": "Factories, warehouses, homes, and public spaces are built around human bodies, tools, and assumptions.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "If the environment is human-shaped, a robot with compatible mobility, manipulation, perception, and safety behavior can reuse existing infrastructure instead of requiring every workplace to be rebuilt.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to humanoid robotics and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "humanoid-robotics-01",
+      "humanoid-robotics-02",
+      "humanoid-robotics-03"
+    ]
+  },
+  {
+    "id": "physical-ai",
+    "name": "Physical AI",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Physical AI is AI that must act in the real world, where perception, control, uncertainty, latency, safety, and hardware constraints matter.",
+    "ordinary_problem": "Text systems can retry cheaply; physical systems must handle friction, delay, contact, failures, and safety boundaries.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "An embodied system closes the loop from sensing to planning to action to observation. Intelligence is judged by whether the loop works under physical constraints.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to physical ai and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "physical-ai-01",
+      "physical-ai-02",
+      "physical-ai-03"
+    ]
+  },
+  {
+    "id": "robot-scaling",
+    "name": "Scaling Robot Deployment",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Scaling robot deployment means moving from impressive demos to repeatable field operation across customers, sites, and tasks.",
+    "ordinary_problem": "A single robot demo can hide installation cost, maintenance burden, edge cases, and unit economics.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "Deployment scales only when hardware reliability, software updates, support operations, safety validation, and customer workflow integration improve together.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to scaling robot deployment and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "robot-scaling-01",
+      "robot-scaling-02",
+      "robot-scaling-03"
+    ]
+  },
+  {
+    "id": "language-to-action",
+    "name": "Language To Action",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Language-to-action connects human instructions to robot perception, planning, motion, and tool use.",
+    "ordinary_problem": "Humans want to describe goals in ordinary language, while robots need grounded states, coordinates, constraints, and executable policies.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "The system must translate a symbolic or linguistic goal into a grounded action plan, then continuously check whether the physical world matches the plan.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to language to action and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "language-to-action-01",
+      "language-to-action-02",
+      "language-to-action-03"
+    ]
+  },
+  {
+    "id": "robot-data",
+    "name": "Robot Data And Learning",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Robot data is the collection of demonstrations, sensor traces, simulations, failures, and field logs that teaches embodied systems what to do.",
+    "ordinary_problem": "Robotics lacks the internet-scale natural data advantage that language models had.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "A robot learns from trajectories, not just labels. Useful data must connect observations, actions, outcomes, and context.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to robot data and learning and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "robot-data-01",
+      "robot-data-02",
+      "robot-data-03"
+    ]
+  },
+  {
+    "id": "robot-hardware",
+    "name": "Robot Hardware And Components",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Robot hardware includes the actuators, sensors, compute, batteries, materials, and manufacturing systems that turn AI into embodied work.",
+    "ordinary_problem": "A clever policy cannot overcome weak actuators, poor sensing, fragile mechanisms, or uneconomic manufacturing.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "Physical capability is bounded by hardware: force, precision, endurance, cost, repairability, and manufacturability.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to robot hardware and components and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "robot-hardware-01",
+      "robot-hardware-02",
+      "robot-hardware-03"
+    ]
+  },
+  {
+    "id": "robot-business",
+    "name": "Robot Business Models",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Robot business models decide who pays, what workflow is improved, how reliability is guaranteed, and how value exceeds deployment cost.",
+    "ordinary_problem": "Robots can be technically impressive while failing to create a purchaseable, maintainable product.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "A robot company sells an operational outcome, not a robot demo. The economics must include uptime, integration, support, safety, and labor substitution or augmentation.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to robot business models and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "robot-business-01",
+      "robot-business-02",
+      "robot-business-03"
+    ]
+  },
+  {
+    "id": "robot-safety",
+    "name": "Robot Safety And Trust",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Robot safety and trust cover the controls, validation, norms, and operational practices that make humans willing to share space and work with robots.",
+    "ordinary_problem": "Physical failures can damage property or harm people, so acceptable error rates are much lower than in software-only systems.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "Safety is a systems property: perception, motion constraints, fail-safes, human factors, monitoring, and accountability must work together.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to robot safety and trust and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "robot-safety-01",
+      "robot-safety-02",
+      "robot-safety-03"
+    ]
+  },
+  {
+    "id": "agentic-ai-workflows",
+    "name": "Agentic AI Workflows",
+    "theme": "physical-ai and robotics",
+    "plain_language_definition": "Agentic AI workflows use models and tools to perform multi-step work across software, documents, web data, and operations.",
+    "ordinary_problem": "Many valuable tasks require search, state, tool use, verification, and repeated decisions rather than one answer.",
+    "naive_picture": "The naive view is that a polished demo or a larger model is enough to make the capability real.",
+    "why_naive_fails": "Robotics and agentic systems fail in integration: data, hardware, deployment, verification, safety, cost, and customer workflows all interact.",
+    "first_principles": "An agentic workflow is a feedback loop: plan, act, observe, verify, and revise until a useful operational state is reached.",
+    "what_breaks_without_it": "Without this concept, it is easy to confuse a narrow prototype with a repeatable system that can operate in real environments.",
+    "course_role": "This theme organizes summit talks related to agentic ai workflows and gives us a first-pass route for later deep dives.",
+    "evidence_ids": [
+      "agentic-ai-workflows-01",
+      "agentic-ai-workflows-02",
+      "agentic-ai-workflows-03"
+    ]
+  }
+]

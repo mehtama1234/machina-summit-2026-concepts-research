@@ -1,0 +1,507 @@
+[music]
+So hey everyone, thank you so much for
+being here. So I'm Benedict from Alonic.
+Uh and what I'm going to talk about is
+exactly what was mentioned before,
+manufacturing, the manufacturing layer
+behind robotics and the way to make that
+foundation happen for the next
+generation and what we're building at
+Alonic. A little bit of a background. I
+spent the last just about eight eight
+years from beyond my studies uh in
+robotics in various fields of robotics.
+So both advanced robotics for humanoids
+both prosthetics so the ways and and the
+applications that goes go the closest to
+humans and and the various fields that
+are enabling that and we started all
+based on the notion that we discovered
+as everyone knows during that process is
+that robotics hardware is very
+difficult. Big surprise there. There is
+a huge amount of capital that needs to
+flow into it in the beginning. Vast
+supply chains and huge assembly
+overheads that you need to overcome and
+the entire process is slow and it takes
+time to iterate. It takes money to
+iterate. So the problem is that as you
+start adding more complexity and more
+function. This problem doesn't go away.
+It becomes worse as you add more layers
+of the technology and be and make your
+hardware even more difficult to
+compound. So this is one of the primary
+reasons why there are still many many uh
+jobs and many uh tasks in factories and
+warehouses that are still left to
+automate because simply the ROI is not
+there yet. The integration, the
+application, the learning and everything
+included is still too high for many of
+these use cases provided that there is
+workforce to replace it. But this is
+also a reason why when it comes to
+having a new idea like we did when we
+wanted to start a company with being a
+research group simply having the ability
+to spin it out and and do that
+investment forward for building the
+hardware and dealing with all the supply
+chain setup needs and the
+disproportionate MOQs etc is a main
+reason why this hardware is still while
+it is becoming more advanced it is still
+kept back and it's still really
+difficult to overcome these hurdles and
+the big challenge is that as consumer
+robotics and humanoid robotics on such a
+scale scale are getting forward. This is
+simply no longer going to stand because
+we will have like think simply think
+about the numbers. If you have 10
+million humanoids per year that means 20
+million hands per year and that means
+that if you have your fixtures,
+connections, joints etc. That means
+billions and billions of extremely
+complex mechanical components that you
+have to somehow manufacture that you
+have to somehow scale that you have to
+somehow make reliable each and every
+time. And so
+yes, and so perfect example for this, I
+think one of my favorite products out
+there is the Sharpa hand, which is just
+a marvel of engineering. Look at this
+clockwork of function. And I think it's
+per a perfect example of how beautiful
+and how complex human motion is and and
+and the versatility of what we want to
+realize how the complexity of that is
+and what is imagine the amount of work
+that had to go into designing and
+building and scaling something. the
+number of components, the supply chains
+behind the value chain behind this
+entire thing and the fact that the real
+life the the Mercury reality which you
+you will eventually deploy such things
+into how extremely difficult it is to
+ensure that such things don't break. We
+only have a very limited volume here. So
+making sure that that stays on the top
+of its game each and every component the
+assembly line the repair lines that is
+quite a difficult challenge right. So
+the main problem is that the hands
+always break because they are small
+because you don't have this reliability.
+It's very difficult to create this
+reliability. You have massive assemblies
+and extremely tedious processes behind
+this. So you have all of these hundreds
+of components and okay there are simple
+cases but still a hand is insanely
+complex. You have it and you have to
+somehow assemble it. It's insanely
+difficult to automate all of these task.
+Like yeah, bolting is one thing, but if
+you have a tendon driven hand, maybe
+threat doing a knot, it's it's it's just
+something that is so complex and so
+difficult to put on a line, especially
+if you have this level of complexity. So
+this is one side of the things and at
+the second there is this endless debate
+of course of of general purpose robotics
+like the whole humanoid race and the
+task specific robotics like you know
+each has different targets but the point
+is that what is the leading argument for
+general purpose and why do we even care
+about humanoids right everyone probably
+knows the answer sitting here is that we
+build this world for the human form
+factor so what we can do probably
+something with a similar form factor can
+also do there is the data to train it
+there is already the environment set up
+for it. But there is also another reason
+which is kind of the reality check one
+the economical one is that if you have a
+single general purpose product you can
+scale it. It's possible to just expand
+production and to bring that single
+solution to every single use case.
+Basically, even though you have this
+level of complexity, if you have a huge
+supply chain and are able to build all
+that inertia, that means that you can
+actually get there. And this is I think
+the most interesting problem of all in
+this sense because the real challenge is
+that could we somehow find a way to let
+the environment decide? I think there is
+a lot of realization right now in the
+industry is how many problems humanoids
+can solve. But it's it doesn't mean that
+there is no need for task specific
+robots. It doesn't mean that there is
+not a context where both versatility and
+both both precision could matter. It
+doesn't mean that this is not a shared
+space for all of them. But the problem
+is that if you have anything task
+specific or if you want to shift between
+if you want flexibility in hardware
+flexibility in hardware right so what am
+I even talking about how can you even
+reach that how is it possible to do that
+so the question is that the first how do
+the right bodies look like for each
+environment when it comes to human
+interaction how do they feel like it's a
+very understated phenomenon of this
+integration part
+and how can we scale hardware how can we
+scale any hardware ware how can we make
+sure that it's not only one type and one
+track of hardware that we can actually
+scale and actually get there. How can we
+make sure that this is not the only
+scenario that happens but we can somehow
+think differently about how to unlock
+this scaling property in hardware and
+this manufacturing property in hardware
+and if we encounter a new problem which
+maybe doesn't have the solutions may
+maybe one or our one shoe doesn't really
+fit all what can we do about it and so
+this amounts to needing bodies that are
+[snorts] first robust so meaning that
+they actually can survive in the real
+world and don't really break all the
+time they are compliant which means that
+they can actually work in these
+unstructured environments safely. That's
+that being the key word among us
+indexers. So that means that they can
+actually do the job and at the same time
+on the other side of the things they
+should be easy to design meaning that if
+I come up with something new it
+shouldn't break the bank to actually
+bring it to market. It shouldn't cost me
+an infinite amount of time to actually
+get there and design it and prototype
+it. And that's true in terms of
+production that comes right at the next
+step. We need to be able to iterate
+faster. We need to be able to move from
+prototype to prototype to production. We
+need to be able to somehow bridge all
+this gap. We have numerous technologies
+out there which help us make it faster.
+But still it's it's still a huge swath
+of things and and [snorts] scale. We
+need to be able to scale it in a way in
+order for this to become reality where
+the vast inertia of the supply chain is
+actually bypassed where you don't need
+to build up this entire thing which then
+if you want to modify something causes a
+cascade of of compounding effects but
+it's something that you can actually
+maybe completely go around and simp
+circumvent do something about it. So it
+seems like an impossible task in a sense
+right. So this is the way to scale
+hardware that is one of the main
+problems.
+So the question is [snorts] which
+interests us at Alonic is that
+[clears throat]
+how could we simplify all of this the
+production part the scaling part and
+everything without doing what usually
+needs to be done taking away complexity
+from the hardware simplifying function
+essentially since we have live in in the
+advent of complex robotics we don't want
+to simplify function that's the whole
+point and so this notion and our
+interest towards like this human safe
+robotics is what brought us towards
+textile technologies interestingly
+enough because if If you think a little
+bit around it, it's a really out of the
+box concept, but we have the durability
+there. It's absolutely we we have the
+strength there. These are made for
+extremely demanding applications. We
+have softness and we have flexibility
+and it's kind of a massive industry that
+is right now on all of you basically. So
+we have this proven scalability
+and even within that
+good ropes which if we really think
+about it are the exact embedded demand
+of robotics needs like the most
+demanding applications really and the
+heaviest loads that we need to bear the
+flexible loadbearing structures could
+they perhaps hold the answer. So the
+interesting point in ropes is that if
+you look at the connective tissue on our
+body the collagen fibers actually on on
+on a micro level even their helixes have
+striking similarities to how these ropes
+are made the properties which we can
+reach in terms of load bearing per
+cross-section are very very similar with
+the proper technical materials could
+even be exceeded
+and it's a centuries old technology I
+don't know if it's usually a trick
+question but if anyone has previous
+experience with how ropes are made, how
+your shoelac is made. It's a very
+surprisingly complex piece of technology
+for a very very simple product. This
+being uh key identificators. Basically
+what happens is that gear these gears
+are rotating. They're carrying bobbins
+that are interlacing in a specific
+pattern and then there comes your rope.
+And the point is that we are actually
+using them in robotics. There are a lot
+of tendon driven robotics out there and
+and yeah it's sure as every technology
+it has its pros and cons but they work.
+We've been using them for robotics.
+We've been using them for highly
+demanding applications like
+mountaineering, sailing. It's it's a
+huge industry and there's a lot of
+potential. But the problem is that it's
+still just a rope. It cannot solve all
+your problems. We're talking about rope.
+We're talking about tendon. So we had
+the thought that okay, what if we didn't
+stop at the rope? What if we said that
+okay, if it works well for a tendon, if
+it works well for the single dimensional
+structure, what if we could move one
+step forward and think about the
+connective tissue of the human body?
+What if we could create something which
+we call 3D tissue braiding that is
+capable of combining this technology
+with the topological freedom that we
+have in 3D space and create connective
+tissue various design what we have laced
+through our human [snorts] body. And
+basically what this means is that we
+combine the technology then the elements
+that you saw on roiding and create well
+sort of a matrix of a freely
+programmable system that is capable of
+creating these structures which amounts
+to this. So basically what we have with
+hologic is a robotics production
+platform where this is the case of a
+humanoid finger. The bones are pushed
+through the machine and all the
+connective tissues are woven around it.
+In this case, what this means is that
+this is the bones, four bones for a
+finger, right? And it's really just four
+bones. So there is not a single pin or
+bearing or whatever else screw inside.
+It's just the four bones. And the system
+that is holding it together is the weave
+itself, is the braid itself, is the
+connective tissue itself, including the
+tendons, including ligaments and
+everything that is required basically
+for its movement. And the whole point
+behind this is that you have something
+that is a single step instead of all the
+complexity of your manual assembly
+process for a very complex uh uh uh
+mechanical system in a sense. And of
+course I'm showing a finger here but it
+could be whatever that's kind of the
+entire point and you have this unique
+ability to scale without limitations
+because if I want to modify the tenor
+routing the joint joint construction or
+whatever it's just a matter of coding it
+it's just a matter of designing it in
+software and it's an automated step of
+production and the result is a robust
+compliant and body because
+because it's it's composed of the
+textile system and its inherent
+properties which I'll soon get into but
+the the the base underlying Princ
+principle how this works is that you
+have a rope raider essentially a rope
+making system which is combined with
+other rope breaking system braiding
+systems and that you can freely
+interlace and you see here maybe the
+simplest unit which is simply a split
+and that is what we're capable of doing
+it multiffold and in various patterns
+and whatever basically you can imagine
+following the rules of ro breeding which
+are pretty expensive you have a
+softwarebased system where you can
+translate your highle design a little
+bit like slicing and 3D printing from
+this high level design concept
+mechanical engineering concept to actual
+production code based on a topological
+system. This is the algorithm behind it.
+What makes it work? You don't want to
+deal delve with the individual strands.
+And the key benefits are is that you are
+actually unlocking all the benefits of
+biomechanics which means primarily for
+this real and murky word impact
+resistance because you have these f
+instead of single weak points that your
+pins are tiny tiny components represent
+you have fibers hundreds of them
+distributing load over a relatively huge
+surface area ratio. So that means it's
+much harder to break. If it breaks you
+can you can just like a dislocated joint
+you can you can put it back. You have
+inherent a softness of course. So this
+entire thing is based on textiles and
+you have virtually unlimited complexity
+because you can just design whatever you
+want. You can and it's an added point
+that if it's a fiber like it's
+fiberbased technology if it's a fiber we
+can actually work with it. So that means
+that you can functionalize your tissues
+with various types of materials, with
+various technical fibers, various active
+fibers, sensory fibers, whatever you can
+imagine basically. And that is not
+limited by the manufacturing platform
+that is not requiring you to include an
+additional step or sub assembly or
+subsystem in your supply chain that is
+just there. And of course the main point
+to drive home is that it's fully
+automated.
+From the point that you have dreamt up
+the design to the point that you
+actually wire up your actuators, there
+is absolutely no assembly required. You
+just kind of cut it off the machine and
+that's that's the manual step for now.
+So what we are doing is to try to
+transform this huge supply chain that
+you have there which all of these
+components and all of these players and
+all of these necessities that will take
+you hundreds of parts an insane amount
+of time and effort and money to produce
+a very complex robotic system and just
+basically cut the middle of it out. You
+still [laughter] need a few parts. You
+still needed to work with it a little.
+But the whole point is that you have a
+single platform to eliminate most of it.
+And just to show an example
+uh this is one uh uh secondary product
+that we did for customer already. So
+it's we are an early stage company. So
+this is not like it's it's out there in
+scales. Yeah. This is a newly introduced
+technology. It's a simple terror
+operation use case. We did it actually
+for electronics manufacturing where they
+wanted to handle similar sight objects
+and cables and optical connectors etc.
+And what we have here is something that
+is a three-finger gripper of a
+semi-humanoid configuration, but it
+could be whatever else depending on the
+design needs and the customer needs is a
+very easy matter of reconfiguration.
+Just demonstrating a simple set of
+tasks. And of course based on this after
+this, it depends completely on the
+actuator stack or whatever you want to
+put behind it. If if it comes to that
+different types of applications require
+different types of full stacks, but the
+mechanics and the key properties of them
+can stay the same.
+So what this amounts to ultimately is
+that we live in a world where the
+intelligence is becoming accessible.
+More and more products and solutions are
+out there for solving how robots learn,
+how robots operate. We have amazing
+initiative like like like hugging face
+with the robot platform etc. which is
+making it possible for anyone to create
+the the system behind how robots move.
+But what if we could do the same thing
+with hardware? Imagine the possibilities
+that could unlock. How you how you are
+allowed to start thinking a little bit
+differently about what hardware actually
+does. How hardware suddenly is not
+something which is like you know this
+this little treasure that you have that
+is so very expensive. It breaks all the
+time. You have to take very good care of
+it or you have to calculate with
+replacing it all the time. But you can
+create any sort of customization or any
+sort of replaceable solution without
+significant effort
+for cheap. That's the whole point. And
+you can still leverage all of the
+complexity and all of the physical
+advantages of something that we have
+here in our human body and that we've
+been trying so hard with conventional
+engineering methods to replicate all the
+time and we have it. And what an
+additional benefit to the biomechanical
+part is that since we work with fibers
+that means that we have access to a vast
+range of materials for very demanding
+environments. Think about chemical
+resistance, think about radiation
+resistance. So simply the way of
+thinking about it because of the reduced
+complexity and because of the
+functionality that's not impact impacted
+is is broaden to an to an incredible
+scale. We are at the beginning of this
+journey but are super excited to see
+what this will bring. And that kind of
+brings us to the point of uh thanking
+our beautiful team. It should be already
+23 people up there but we have didn't
+have time to make the new pictures but
+we are expanding. So, if you're
+interested in that, especially if you're
+a mechanical engineer interested in
+peculiar machines, here's the QR code
+for you, hopefully visible. [laughter]
+And with that, thank you so much for
+your attention and visit us both outside
+if you're interested in more.

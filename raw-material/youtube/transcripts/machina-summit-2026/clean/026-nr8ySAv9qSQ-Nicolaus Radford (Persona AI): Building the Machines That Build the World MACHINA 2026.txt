@@ -1,0 +1,383 @@
+[music]
+How you guys doing? I know it's late in
+the day.
+I know I'm the only thing standing
+between you guys and a happy hour and a
+black tide Versailles for some of you,
+but uh let's just all hang out for a
+little bit longer and let's uh let's
+dream a little bit. And it's it's not
+hard to dream at a facility like this
+because it's just so inspiring. So many
+incredible companies. Thank you for to
+the Machina organizers. Just an
+incredible event. I think they deserve a
+round of applause. Actually, it's been
+incredible. Thank you. So, my name is
+Nick Radford. I'm CEO of Persona AI. And
+Persona's ambition is to build the
+world's toughest humanoid. Think think
+environments that are outside where it's
+raining. It might be cold. It might be
+super hot. And we need to help
+supplement and provide a labor
+substitution solution for environments
+where you're using tools, whether it's a
+welding torch, whether it's a angle
+grinder. Think like the four Ds, the
+dull, the dirty, the dangerous, and yet
+the declining jobs. The demographics
+around this are stark. There's insane
+labor shortages, replete across so many
+different industries. And we feel that
+one of those applicable solutions is
+going to be uh embodied AI agents like
+humanoids.
+To me, this is one of the most exciting
+moments. I've dreamt for so long about
+being in an industry at the dawn of
+something. I got to NASA in like 2000.
+It was kind of like sort of during the
+space shuttle, kind of building the
+space station. And I had always just
+wondered like what would it have been
+like to have been part of the Apollo
+program, some some new industry as it
+was forming or think aviation when it
+was getting off the ground or the
+telecommunications world or the
+internet. And it just seems like in my
+career I was just like a few years
+behind the big thing every single time.
+So what I love about this is this moment
+right now. We are absolutely at the dawn
+of a completely new industry. this
+embodied AI and our feeling is humanoid
+labor which is going to be just so
+tremendously valuable to the planet and
+the planet's resources.
+The auto industry gets compared to the
+burgeoning humanoid industry a lot, but
+it mainly gets compared from like a
+market size. The humanoid market might
+be something on the order of a couple
+trillion dollars, kind of like the North
+American automotive market, which is
+about $2.2 trillion. But I've always
+felt that that analogy it falls flat
+because the real power of the automotive
+to humanoid analogy has to do with the
+fact that in the early automotive days
+supply chains didn't exist. Suppliers
+didn't exist. There were very few. The
+competition was fierce. There in 1900
+1905 every time you turn around there
+was a new automotive company joining.
+There were like 1,300 brands at one
+point in like 1908 and that consolidated
+down to that consolidated down to uh 80
+and then and then obviously on down to
+the big three as we know it and actually
+the North American automotive market
+today we have about 40 brands as it's
+been uh diversified out uh but that was
+not the case and so if you really want
+to talk comparison of the automotive
+market we have extreme competition right
+now there's There's a humanoid company
+popping up uh it seems like every
+Thursday. There's a model training
+company popping up every Wednesday. And
+that is such an enormously exciting time
+uh of this market. But I've got some
+really bad news. [laughter]
+We the industry is not going to stay
+like this forever. There's going to be
+consolidation. There might be mergers.
+There might be failures. There might be
+things that are occurring where one
+company's suited to out compete the
+other company. This is the wild west
+right now. It's just open war
+competition and I am just tremendously
+overjoyed because I've always wanted
+this moment. And um hopefully we rise to
+the occasion.
+The other part about the automotive
+analogy that I think always just falls a
+little flat is yes, we've got the we've
+got the makers of the cars, but
+underneath them is an incredible vibrant
+industry that is supporting that. Toyota
+today has 60,000
+individual suppliers for their cars.
+60,000.
+And so as the humanoid market matures,
+it's compelling to think about the
+layers of companies and services that
+are going to be built. And we need to
+stop talking, we need to stop calling
+these machines robots. We've been
+talking about humanoid robots for a
+while. We've been talking about
+industrial robots for a while. And we
+keep using the word robot. But I I'm
+here to tell everyone these are
+platforms in the truest sense. These are
+going to create ancillary industries.
+The car was not a car. The automotive
+was not a car. It was a platform. It
+created gas stations, hotels, fast food.
+Like maybe that was a bad idea, but it
+created things that grew up around the
+car. And the humanoid is going to do
+exactly the same thing. It is going to
+instigate new economies. Uh
+so
+here's where Persona diverges from some
+of the thinking uh that's in the
+industry.
+We feel that not every go-to market plan
+is created equal. Back to the
+consolidation of the automotive
+industry.
+There's going to be companies that uh go
+out into the blue yonder and find that
+possibly the market that they thought
+exists doesn't exist. And so the way the
+persona has been defining the market is
+pulling real data from actual vacancies
+of labor. The actual economics behind
+that labor. How complex is the task? How
+envir how predictable is the
+environment? How expensive is it going
+to be to develop that? We moderate that
+by the purchasing power of the client
+and their willingness to adopt. And we
+assign a score to clients. And so I've
+been very public about this, but the
+home is the last place in my view that a
+humanoid robot's going to be
+commercialized. It's extremely chaotic.
+It's low value labor. I've actually
+never had any trouble hiring a cleaning
+service to come to my house. They'll
+show up the same day. They work very
+affordably. And so the price point that
+we're going to have to have humanoids at
+in the home is going to have to be just
+bottom basement pricing. And so the
+environment, as I said, is extremely
+chaotic. And so the development costs
+associated with deploying a robot in
+that environment are very high. So we
+use this equation. We use this
+dimension. We use these dimensions to
+guide us on what we're doing. So,
+Persona's our our ambition is to build
+the largest repository of industrialized
+skill for humanoids. The way we're doing
+that is we're using all these incredible
+NVIDIA tools that I think so many of you
+are are very aware of. But I'm here to
+tell you they're exquisite, right? The
+Isaac lab, the Isaac Sim, the Mojoko,
+the RL uh training uh that you can
+perform in this the SIM to real gap for
+locomotion is actually quite uh it's
+quite small for locomotion.
+manipulation's another another uh
+another example unfortunately but this
+is a you know a real physics simulation
+running the real control policies on the
+robot and so but what feeds all this
+right so we've we're building an entire
+the the entire data pyramid which again
+I'm sure so many of you are focused with
+this is actual data that we're taking
+with partner facilities uh there's
+actually a representative of the uh
+state of Louisiana here which is helping
+we have we were the first humanoid
+company to form partnership with a state
+and so they're helping subsidize the
+activities into fabrication facilities
+where we have cameras on workers and
+collecting all that information
+but we also have to collect the data at
+the task level. So we're building TUMI
+devices uh not a universal manipulation
+interface but a tool universal
+manipulation interface and so we need to
+collect data right at the point of of
+execution. That data then feeds the
+models on the on the post-training side.
+And uh we are uh the ambition is to
+deploy this to thousands of workers,
+collect hundreds of thousands of data,
+thousands of hours of data. And we're
+interested in the the the the
+fabrication task, the the welding, the
+grinding, the painting, assembly in in
+the heavy industrial segment. And so
+Persona had uh we we've been we've been
+around about 18 months. So we in those
+18 months we've been able to raise our
+preede round. We've hired up a team.
+We've went from about five to 85 people
+in in about 18 months. We designed and
+developed our first several generations
+of humanoids. Our gen one, our gen two,
+our gen 3 just went to production for uh
+an appreciable quantity of them. Uh
+we've hired one of the best teams in the
+world in my opinion. We have developed
+an appreciable uh commercial pipeline.
+And what's amazing about this is the
+reception that we we've received from
+our industrial partners has been
+tremendous and uh it feels like uh that
+they're that they're coming to us
+because the the constraints that they're
+facing the real world constraints in
+some of these markets are just it's it's
+hard to describe uh how constraining
+they are to production. So our Gen One,
+we did this in about nine months. our
+Gen two robot in the middle. Uh we built
+it and and about uh about six, seven
+months after we finished our Gen One and
+our Gen 3 we just went to uh production
+on. And so Gen One look like a Gen One
+robot does. We built uh four of these.
+We used all of the tools. We set up all
+the entire infrastructure, the
+simulation, the machine learning that
+you you need to do to train the
+policies. Um it is uh was working as
+about as well as a Gen One could. But
+what we did after that was we quickly
+and expeditiously went to our Gen 2. And
+so our view is we're not going to get it
+right the first time. You're going to
+have to take an iterative approach uh
+and speed through your development. Find
+find the weak points and fix them as
+fast as you as fast as you can. And so
+Gen 3, which is uh these are the uh the
+renders for Gen 3, is already in
+production and we're building many of
+them. And uh the whole concept of
+persona is that we are going to be able
+to outfit the robot very uh distinctly
+different based on the use case, the
+requirement, the environmental. So we
+have a common base that the robot is
+built on and the outer coverings of that
+robot change.
+And one important aspect of that is we
+were also the first humanoid company to
+sign a partnership with a major clothing
+brand. So Under Arour and Persona are
+co-developing soft goods, padding, outer
+coverings, textiles specific for
+humanoid robots. Uh this is one of the
+partnerships that we have at Persona
+that I'm just absolutely uh compelled
+and over the moon by and I think it
+really highlights uh a shift in
+thinking. Uh uh Under Armour in my view
+is one of the most advanced companies
+when it comes to textile manufacturing
+uh thermal wicking material. They house
+some of the highest performing athletes
+in the world uh and keep them safe. And
+so safety has been a huge topic here.
+And we think uh we think some of that
+intrinsic safety is going to start uh on
+the outer coverings of the robot. So our
+beach head market so persona is building
+this heavy industrial humanoid. Our
+beach head market is in one of the most
+uh tremendous and critical industries
+that we have. So we are deploying a
+humanoid robot welder uh with HD
+Hyundai. Uh it's it's public
+information. You can find it online. And
+we are delivering our first batch of
+robots to them at the end of this year.
+So we will have gone from inception to
+shipping product in two years.
+Not bad. [laughter] Thank you. So
+welding is just incredible. So each one
+of these ships uh a 300 to 400 meter
+vessel has about 300 kilometers of
+welding in it. It's just insane. So HD
+produces HD Hyundai produces about 50
+ships a year of this class. That's 14
+million kilometers of welding. That's
+like welding to the moon and back 14
+times. 40 times. I don't do the math.
+It's a lot. And so each worker is doing
+about 5 to 10 meters of weld a day.
+Okay. The problem is they are super
+constrained on labor. They have
+thousands of open positions for jobs
+that we think these humanoids are going
+to do. And so, okay, well, let's set up
+the training pipeline. Let's do some
+expert demonstration uh for the welding.
+So, recently we deployed uh the robot,
+our Gen1 system to an industrial
+facility. Another little piece of advice
+for for the young startup community, get
+out into the market as soon as you can.
+Don't wait. Don't stay too long in the
+lab. go test this thing out into the
+real world because I guarantee you, you
+don't know everything and the only way
+you're gonna learn is to get out there
+and do. So, there's a company in
+Houston, it's a huge fabrication
+facility. We called them up and we said,
+"We want to do some welding for you."
+And so, to my knowledge, this is the
+first humanoid robot
+doing welding I've ever seen. Now, maybe
+they exist. I'm not sure. I haven't seen
+them, but this was a tremendous thing.
+So we were teleyoperating and expertly
+demonstrating to the robot uh how to
+perform the weld. And so we're
+collecting all that data. It's feeding
+back into the uh into the into the
+simulation and foundation model layers.
+And uh not bad for the first time.
+You're actually watching a video of us
+doing this literally the first time. And
+uh you can tell the team was just super
+excited about it. And uh the the um it's
+a little bit of comic relief here at the
+end. I mean, they were kind they were
+kind of tired, you know, watching the
+robot do its job, but uh but so then
+after you expertly demonstrate, go back.
+Go back. So after you Well, that video
+is not playing. Can we play the video?
+That's a video. Well, that's a video of
+a robot doing it uh autonomously.
+And so, you know, this is just an
+absolute dawn of a new age, the Wild
+West. Um it's just incredible. And I
+love this quote from Yates. And this is
+this is uh it's okay. We can skip the
+video. This to me is just speaks volumes
+to our efforts. We're not going to wait
+to strike while the iron's hot. We are
+literally going to make the iron hot by
+striking. And I think that that that
+sort of that deep down ambition is is uh
+is really what sets companies apart from
+each other. Go fast, break things. Um,
+it's been incredible and uh, thank you
+for sharing some time with me.

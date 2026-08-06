@@ -1,0 +1,3838 @@
+[
+  {
+    "start": "00:00:00.654",
+    "end": "00:00:10.870",
+    "start_seconds": 0.654,
+    "end_seconds": 10.87,
+    "text": "[music]"
+  },
+  {
+    "start": "00:00:10.880",
+    "end": "00:00:13.830",
+    "start_seconds": 10.88,
+    "end_seconds": 13.83,
+    "text": "This is our AI."
+  },
+  {
+    "start": "00:00:13.830",
+    "end": "00:00:13.840",
+    "start_seconds": 13.83,
+    "end_seconds": 13.84,
+    "text": "This is our AI."
+  },
+  {
+    "start": "00:00:13.840",
+    "end": "00:00:17.349",
+    "start_seconds": 13.84,
+    "end_seconds": 17.349,
+    "text": "This is our AI. We develop it at UMA. It control a"
+  },
+  {
+    "start": "00:00:17.349",
+    "end": "00:00:17.359",
+    "start_seconds": 17.349,
+    "end_seconds": 17.359,
+    "text": "We develop it at UMA. It control a"
+  },
+  {
+    "start": "00:00:17.359",
+    "end": "00:00:20.310",
+    "start_seconds": 17.359,
+    "end_seconds": 20.31,
+    "text": "We develop it at UMA. It control a standard robot arm to automate the task"
+  },
+  {
+    "start": "00:00:20.310",
+    "end": "00:00:20.320",
+    "start_seconds": 20.31,
+    "end_seconds": 20.32,
+    "text": "standard robot arm to automate the task"
+  },
+  {
+    "start": "00:00:20.320",
+    "end": "00:00:22.790",
+    "start_seconds": 20.32,
+    "end_seconds": 22.79,
+    "text": "standard robot arm to automate the task of picking and sorting anchors of"
+  },
+  {
+    "start": "00:00:22.790",
+    "end": "00:00:22.800",
+    "start_seconds": 22.79,
+    "end_seconds": 22.8,
+    "text": "of picking and sorting anchors of"
+  },
+  {
+    "start": "00:00:22.800",
+    "end": "00:00:24.710",
+    "start_seconds": 22.8,
+    "end_seconds": 24.71,
+    "text": "of picking and sorting anchors of various colors."
+  },
+  {
+    "start": "00:00:24.710",
+    "end": "00:00:24.720",
+    "start_seconds": 24.71,
+    "end_seconds": 24.72,
+    "text": "various colors."
+  },
+  {
+    "start": "00:00:24.720",
+    "end": "00:00:29.029",
+    "start_seconds": 24.72,
+    "end_seconds": 29.029,
+    "text": "various colors. It's a single nural network."
+  },
+  {
+    "start": "00:00:29.039",
+    "end": "00:00:34.069",
+    "start_seconds": 29.039,
+    "end_seconds": 34.069,
+    "text": "So here, nothing here is scripted."
+  },
+  {
+    "start": "00:00:34.069",
+    "end": "00:00:34.079",
+    "start_seconds": 34.069,
+    "end_seconds": 34.079,
+    "text": "So here, nothing here is scripted."
+  },
+  {
+    "start": "00:00:34.079",
+    "end": "00:00:36.630",
+    "start_seconds": 34.079,
+    "end_seconds": 36.63,
+    "text": "So here, nothing here is scripted. No pre-programmed trajectories, no"
+  },
+  {
+    "start": "00:00:36.630",
+    "end": "00:00:36.640",
+    "start_seconds": 36.63,
+    "end_seconds": 36.64,
+    "text": "No pre-programmed trajectories, no"
+  },
+  {
+    "start": "00:00:36.640",
+    "end": "00:00:39.670",
+    "start_seconds": 36.64,
+    "end_seconds": 39.67,
+    "text": "No pre-programmed trajectories, no hardcoded rules that tell it where to go"
+  },
+  {
+    "start": "00:00:39.670",
+    "end": "00:00:39.680",
+    "start_seconds": 39.67,
+    "end_seconds": 39.68,
+    "text": "hardcoded rules that tell it where to go"
+  },
+  {
+    "start": "00:00:39.680",
+    "end": "00:00:44.389",
+    "start_seconds": 39.68,
+    "end_seconds": 44.389,
+    "text": "hardcoded rules that tell it where to go or what to pick next."
+  },
+  {
+    "start": "00:00:44.399",
+    "end": "00:00:49.110",
+    "start_seconds": 44.399,
+    "end_seconds": 49.11,
+    "text": "These robots sees the world's raw pixels"
+  },
+  {
+    "start": "00:00:49.110",
+    "end": "00:00:49.120",
+    "start_seconds": 49.11,
+    "end_seconds": 49.12,
+    "text": "These robots sees the world's raw pixels"
+  },
+  {
+    "start": "00:00:49.120",
+    "end": "00:00:53.430",
+    "start_seconds": 49.12,
+    "end_seconds": 53.43,
+    "text": "These robots sees the world's raw pixels and decides what to do next."
+  },
+  {
+    "start": "00:00:53.430",
+    "end": "00:00:53.440",
+    "start_seconds": 53.43,
+    "end_seconds": 53.44,
+    "text": "and decides what to do next."
+  },
+  {
+    "start": "00:00:53.440",
+    "end": "00:00:57.670",
+    "start_seconds": 53.44,
+    "end_seconds": 57.67,
+    "text": "and decides what to do next. Perception to action, end to end. It's a"
+  },
+  {
+    "start": "00:00:57.670",
+    "end": "00:00:57.680",
+    "start_seconds": 57.67,
+    "end_seconds": 57.68,
+    "text": "Perception to action, end to end. It's a"
+  },
+  {
+    "start": "00:00:57.680",
+    "end": "00:00:59.830",
+    "start_seconds": 57.68,
+    "end_seconds": 59.83,
+    "text": "Perception to action, end to end. It's a bit like you and I when we reach out for"
+  },
+  {
+    "start": "00:00:59.830",
+    "end": "00:00:59.840",
+    "start_seconds": 59.83,
+    "end_seconds": 59.84,
+    "text": "bit like you and I when we reach out for"
+  },
+  {
+    "start": "00:00:59.840",
+    "end": "00:01:07.750",
+    "start_seconds": 59.84,
+    "end_seconds": 67.75,
+    "text": "bit like you and I when we reach out for a cup without even thinking about it."
+  },
+  {
+    "start": "00:01:07.760",
+    "end": "00:01:10.230",
+    "start_seconds": 67.76,
+    "end_seconds": 70.23,
+    "text": "Yeah, this kind of behavior, it's always"
+  },
+  {
+    "start": "00:01:10.230",
+    "end": "00:01:10.240",
+    "start_seconds": 70.23,
+    "end_seconds": 70.24,
+    "text": "Yeah, this kind of behavior, it's always"
+  },
+  {
+    "start": "00:01:10.240",
+    "end": "00:01:13.270",
+    "start_seconds": 70.24,
+    "end_seconds": 73.27,
+    "text": "Yeah, this kind of behavior, it's always amazing to watch."
+  },
+  {
+    "start": "00:01:13.270",
+    "end": "00:01:13.280",
+    "start_seconds": 73.27,
+    "end_seconds": 73.28,
+    "text": "amazing to watch."
+  },
+  {
+    "start": "00:01:13.280",
+    "end": "00:01:15.830",
+    "start_seconds": 73.28,
+    "end_seconds": 75.83,
+    "text": "amazing to watch. What's special with this AI is that it"
+  },
+  {
+    "start": "00:01:15.830",
+    "end": "00:01:15.840",
+    "start_seconds": 75.83,
+    "end_seconds": 75.84,
+    "text": "What's special with this AI is that it"
+  },
+  {
+    "start": "00:01:15.840",
+    "end": "00:01:19.590",
+    "start_seconds": 75.84,
+    "end_seconds": 79.59,
+    "text": "What's special with this AI is that it can operate for hours robustly with"
+  },
+  {
+    "start": "00:01:19.590",
+    "end": "00:01:19.600",
+    "start_seconds": 79.59,
+    "end_seconds": 79.6,
+    "text": "can operate for hours robustly with"
+  },
+  {
+    "start": "00:01:19.600",
+    "end": "00:01:21.350",
+    "start_seconds": 79.6,
+    "end_seconds": 81.35,
+    "text": "can operate for hours robustly with precision,"
+  },
+  {
+    "start": "00:01:21.350",
+    "end": "00:01:21.360",
+    "start_seconds": 81.35,
+    "end_seconds": 81.36,
+    "text": "precision,"
+  },
+  {
+    "start": "00:01:21.360",
+    "end": "00:01:24.870",
+    "start_seconds": 81.36,
+    "end_seconds": 84.87,
+    "text": "precision, adapting to what it sees."
+  },
+  {
+    "start": "00:01:24.870",
+    "end": "00:01:24.880",
+    "start_seconds": 84.87,
+    "end_seconds": 84.88,
+    "text": "adapting to what it sees."
+  },
+  {
+    "start": "00:01:24.880",
+    "end": "00:01:27.350",
+    "start_seconds": 84.88,
+    "end_seconds": 87.35,
+    "text": "adapting to what it sees. And so"
+  },
+  {
+    "start": "00:01:27.350",
+    "end": "00:01:27.360",
+    "start_seconds": 87.35,
+    "end_seconds": 87.36,
+    "text": "And so"
+  },
+  {
+    "start": "00:01:27.360",
+    "end": "00:01:31.109",
+    "start_seconds": 87.36,
+    "end_seconds": 91.10900000000001,
+    "text": "And so what you see here is the beginning of"
+  },
+  {
+    "start": "00:01:31.109",
+    "end": "00:01:31.119",
+    "start_seconds": 91.10900000000001,
+    "end_seconds": 91.119,
+    "text": "what you see here is the beginning of"
+  },
+  {
+    "start": "00:01:31.119",
+    "end": "00:01:35.670",
+    "start_seconds": 91.119,
+    "end_seconds": 95.67,
+    "text": "what you see here is the beginning of something profound."
+  },
+  {
+    "start": "00:01:35.680",
+    "end": "00:01:41.030",
+    "start_seconds": 95.68,
+    "end_seconds": 101.03,
+    "text": "AI is moving into the physical world,"
+  },
+  {
+    "start": "00:01:41.030",
+    "end": "00:01:41.040",
+    "start_seconds": 101.03,
+    "end_seconds": 101.03999999999999,
+    "text": "AI is moving into the physical world,"
+  },
+  {
+    "start": "00:01:41.040",
+    "end": "00:01:44.469",
+    "start_seconds": 101.03999999999999,
+    "end_seconds": 104.469,
+    "text": "AI is moving into the physical world, embodying the next generation of robots."
+  },
+  {
+    "start": "00:01:44.469",
+    "end": "00:01:44.479",
+    "start_seconds": 104.469,
+    "end_seconds": 104.479,
+    "text": "embodying the next generation of robots."
+  },
+  {
+    "start": "00:01:44.479",
+    "end": "00:01:46.469",
+    "start_seconds": 104.479,
+    "end_seconds": 106.469,
+    "text": "embodying the next generation of robots. Robots that are mobile, they can move"
+  },
+  {
+    "start": "00:01:46.469",
+    "end": "00:01:46.479",
+    "start_seconds": 106.469,
+    "end_seconds": 106.479,
+    "text": "Robots that are mobile, they can move"
+  },
+  {
+    "start": "00:01:46.479",
+    "end": "00:01:50.710",
+    "start_seconds": 106.479,
+    "end_seconds": 110.71000000000001,
+    "text": "Robots that are mobile, they can move around, dextrous, they can manipulate"
+  },
+  {
+    "start": "00:01:50.710",
+    "end": "00:01:50.720",
+    "start_seconds": 110.71000000000001,
+    "end_seconds": 110.72,
+    "text": "around, dextrous, they can manipulate"
+  },
+  {
+    "start": "00:01:50.720",
+    "end": "00:01:52.789",
+    "start_seconds": 110.72,
+    "end_seconds": 112.789,
+    "text": "around, dextrous, they can manipulate different type of objects. And they are"
+  },
+  {
+    "start": "00:01:52.789",
+    "end": "00:01:52.799",
+    "start_seconds": 112.789,
+    "end_seconds": 112.799,
+    "text": "different type of objects. And they are"
+  },
+  {
+    "start": "00:01:52.799",
+    "end": "00:01:58.230",
+    "start_seconds": 112.799,
+    "end_seconds": 118.22999999999999,
+    "text": "different type of objects. And they are smart. They learn and adapt."
+  },
+  {
+    "start": "00:01:58.240",
+    "end": "00:02:01.350",
+    "start_seconds": 118.24000000000001,
+    "end_seconds": 121.35,
+    "text": "And these robots will help us in our"
+  },
+  {
+    "start": "00:02:01.350",
+    "end": "00:02:01.360",
+    "start_seconds": 121.35,
+    "end_seconds": 121.36,
+    "text": "And these robots will help us in our"
+  },
+  {
+    "start": "00:02:01.360",
+    "end": "00:02:03.990",
+    "start_seconds": 121.36,
+    "end_seconds": 123.99,
+    "text": "And these robots will help us in our daily lives. They will be in"
+  },
+  {
+    "start": "00:02:03.990",
+    "end": "00:02:04.000",
+    "start_seconds": 123.99,
+    "end_seconds": 124.0,
+    "text": "daily lives. They will be in"
+  },
+  {
+    "start": "00:02:04.000",
+    "end": "00:02:06.870",
+    "start_seconds": 124.0,
+    "end_seconds": 126.87,
+    "text": "daily lives. They will be in manufacturing, in agriculture."
+  },
+  {
+    "start": "00:02:06.870",
+    "end": "00:02:06.880",
+    "start_seconds": 126.87,
+    "end_seconds": 126.88,
+    "text": "manufacturing, in agriculture."
+  },
+  {
+    "start": "00:02:06.880",
+    "end": "00:02:08.869",
+    "start_seconds": 126.88,
+    "end_seconds": 128.869,
+    "text": "manufacturing, in agriculture. They will be even in services and in"
+  },
+  {
+    "start": "00:02:08.869",
+    "end": "00:02:08.879",
+    "start_seconds": 128.869,
+    "end_seconds": 128.879,
+    "text": "They will be even in services and in"
+  },
+  {
+    "start": "00:02:08.879",
+    "end": "00:02:10.790",
+    "start_seconds": 128.879,
+    "end_seconds": 130.79,
+    "text": "They will be even in services and in your rooms."
+  },
+  {
+    "start": "00:02:10.790",
+    "end": "00:02:10.800",
+    "start_seconds": 130.79,
+    "end_seconds": 130.8,
+    "text": "your rooms."
+  },
+  {
+    "start": "00:02:10.800",
+    "end": "00:02:12.630",
+    "start_seconds": 130.8,
+    "end_seconds": 132.63,
+    "text": "your rooms. In labs, they will turn years of"
+  },
+  {
+    "start": "00:02:12.630",
+    "end": "00:02:12.640",
+    "start_seconds": 132.63,
+    "end_seconds": 132.64,
+    "text": "In labs, they will turn years of"
+  },
+  {
+    "start": "00:02:12.640",
+    "end": "00:02:16.309",
+    "start_seconds": 132.64,
+    "end_seconds": 136.309,
+    "text": "In labs, they will turn years of research in just a few months."
+  },
+  {
+    "start": "00:02:16.309",
+    "end": "00:02:16.319",
+    "start_seconds": 136.309,
+    "end_seconds": 136.319,
+    "text": "research in just a few months."
+  },
+  {
+    "start": "00:02:16.319",
+    "end": "00:02:19.990",
+    "start_seconds": 136.319,
+    "end_seconds": 139.99,
+    "text": "research in just a few months. We won't be limited by our capability to"
+  },
+  {
+    "start": "00:02:19.990",
+    "end": "00:02:20.000",
+    "start_seconds": 139.99,
+    "end_seconds": 140.0,
+    "text": "We won't be limited by our capability to"
+  },
+  {
+    "start": "00:02:20.000",
+    "end": "00:02:25.110",
+    "start_seconds": 140.0,
+    "end_seconds": 145.11,
+    "text": "We won't be limited by our capability to make, but only by our imagination."
+  },
+  {
+    "start": "00:02:25.110",
+    "end": "00:02:25.120",
+    "start_seconds": 145.11,
+    "end_seconds": 145.12,
+    "text": "make, but only by our imagination."
+  },
+  {
+    "start": "00:02:25.120",
+    "end": "00:02:28.070",
+    "start_seconds": 145.12,
+    "end_seconds": 148.07,
+    "text": "make, but only by our imagination. We are entering an era of limitless"
+  },
+  {
+    "start": "00:02:28.070",
+    "end": "00:02:28.080",
+    "start_seconds": 148.07,
+    "end_seconds": 148.07999999999998,
+    "text": "We are entering an era of limitless"
+  },
+  {
+    "start": "00:02:28.080",
+    "end": "00:02:32.949",
+    "start_seconds": 148.07999999999998,
+    "end_seconds": 152.949,
+    "text": "We are entering an era of limitless creativity."
+  },
+  {
+    "start": "00:02:32.959",
+    "end": "00:02:35.589",
+    "start_seconds": 152.959,
+    "end_seconds": 155.589,
+    "text": "This might feel like a distant future,"
+  },
+  {
+    "start": "00:02:35.589",
+    "end": "00:02:35.599",
+    "start_seconds": 155.589,
+    "end_seconds": 155.599,
+    "text": "This might feel like a distant future,"
+  },
+  {
+    "start": "00:02:35.599",
+    "end": "00:02:37.830",
+    "start_seconds": 155.599,
+    "end_seconds": 157.82999999999998,
+    "text": "This might feel like a distant future, but it will happen much quicker than we"
+  },
+  {
+    "start": "00:02:37.830",
+    "end": "00:02:37.840",
+    "start_seconds": 157.82999999999998,
+    "end_seconds": 157.84,
+    "text": "but it will happen much quicker than we"
+  },
+  {
+    "start": "00:02:37.840",
+    "end": "00:02:42.070",
+    "start_seconds": 157.84,
+    "end_seconds": 162.07,
+    "text": "but it will happen much quicker than we expect because soon enough those robots,"
+  },
+  {
+    "start": "00:02:42.070",
+    "end": "00:02:42.080",
+    "start_seconds": 162.07,
+    "end_seconds": 162.07999999999998,
+    "text": "expect because soon enough those robots,"
+  },
+  {
+    "start": "00:02:42.080",
+    "end": "00:02:44.390",
+    "start_seconds": 162.07999999999998,
+    "end_seconds": 164.39,
+    "text": "expect because soon enough those robots, they will be absolutely everywhere and"
+  },
+  {
+    "start": "00:02:44.390",
+    "end": "00:02:44.400",
+    "start_seconds": 164.39,
+    "end_seconds": 164.4,
+    "text": "they will be absolutely everywhere and"
+  },
+  {
+    "start": "00:02:44.400",
+    "end": "00:02:49.030",
+    "start_seconds": 164.4,
+    "end_seconds": 169.03,
+    "text": "they will be absolutely everywhere and they will be absolutely needed."
+  },
+  {
+    "start": "00:02:49.040",
+    "end": "00:02:52.710",
+    "start_seconds": 169.04,
+    "end_seconds": 172.71,
+    "text": "And this is because"
+  },
+  {
+    "start": "00:02:52.720",
+    "end": "00:02:55.030",
+    "start_seconds": 172.72,
+    "end_seconds": 175.03,
+    "text": "we are facing three crisis in our"
+  },
+  {
+    "start": "00:02:55.030",
+    "end": "00:02:55.040",
+    "start_seconds": 175.03,
+    "end_seconds": 175.04,
+    "text": "we are facing three crisis in our"
+  },
+  {
+    "start": "00:02:55.040",
+    "end": "00:02:57.270",
+    "start_seconds": 175.04,
+    "end_seconds": 177.27,
+    "text": "we are facing three crisis in our generation hitting us at the same time"
+  },
+  {
+    "start": "00:02:57.270",
+    "end": "00:02:57.280",
+    "start_seconds": 177.27,
+    "end_seconds": 177.28,
+    "text": "generation hitting us at the same time"
+  },
+  {
+    "start": "00:02:57.280",
+    "end": "00:02:59.750",
+    "start_seconds": 177.28,
+    "end_seconds": 179.75,
+    "text": "generation hitting us at the same time and converging on one bottleneck that"
+  },
+  {
+    "start": "00:02:59.750",
+    "end": "00:02:59.760",
+    "start_seconds": 179.75,
+    "end_seconds": 179.76,
+    "text": "and converging on one bottleneck that"
+  },
+  {
+    "start": "00:02:59.760",
+    "end": "00:03:07.750",
+    "start_seconds": 179.76,
+    "end_seconds": 187.75,
+    "text": "and converging on one bottleneck that these robots will solve."
+  },
+  {
+    "start": "00:03:07.760",
+    "end": "00:03:11.589",
+    "start_seconds": 187.76,
+    "end_seconds": 191.589,
+    "text": "And so we need to build these robots now"
+  },
+  {
+    "start": "00:03:11.589",
+    "end": "00:03:11.599",
+    "start_seconds": 191.589,
+    "end_seconds": 191.599,
+    "text": "And so we need to build these robots now"
+  },
+  {
+    "start": "00:03:11.599",
+    "end": "00:03:13.990",
+    "start_seconds": 191.599,
+    "end_seconds": 193.99,
+    "text": "And so we need to build these robots now and we need to build them right. And"
+  },
+  {
+    "start": "00:03:13.990",
+    "end": "00:03:14.000",
+    "start_seconds": 193.99,
+    "end_seconds": 194.0,
+    "text": "and we need to build them right. And"
+  },
+  {
+    "start": "00:03:14.000",
+    "end": "00:03:17.030",
+    "start_seconds": 194.0,
+    "end_seconds": 197.03,
+    "text": "and we need to build them right. And that's why nine months ago I co-ounded"
+  },
+  {
+    "start": "00:03:17.030",
+    "end": "00:03:17.040",
+    "start_seconds": 197.03,
+    "end_seconds": 197.04,
+    "text": "that's why nine months ago I co-ounded"
+  },
+  {
+    "start": "00:03:17.040",
+    "end": "00:03:20.390",
+    "start_seconds": 197.04,
+    "end_seconds": 200.39,
+    "text": "that's why nine months ago I co-ounded UMA to build the universal mechanical"
+  },
+  {
+    "start": "00:03:20.390",
+    "end": "00:03:20.400",
+    "start_seconds": 200.39,
+    "end_seconds": 200.4,
+    "text": "UMA to build the universal mechanical"
+  },
+  {
+    "start": "00:03:20.400",
+    "end": "00:03:23.750",
+    "start_seconds": 200.4,
+    "end_seconds": 203.75,
+    "text": "UMA to build the universal mechanical assistant."
+  },
+  {
+    "start": "00:03:23.760",
+    "end": "00:03:27.430",
+    "start_seconds": 203.76,
+    "end_seconds": 207.43,
+    "text": "So let me tell you"
+  },
+  {
+    "start": "00:03:27.430",
+    "end": "00:03:27.440",
+    "start_seconds": 207.43,
+    "end_seconds": 207.44,
+    "text": "So let me tell you"
+  },
+  {
+    "start": "00:03:27.440",
+    "end": "00:03:30.949",
+    "start_seconds": 207.44,
+    "end_seconds": 210.949,
+    "text": "So let me tell you about this crisis through a series of"
+  },
+  {
+    "start": "00:03:30.949",
+    "end": "00:03:30.959",
+    "start_seconds": 210.949,
+    "end_seconds": 210.959,
+    "text": "about this crisis through a series of"
+  },
+  {
+    "start": "00:03:30.959",
+    "end": "00:03:33.190",
+    "start_seconds": 210.959,
+    "end_seconds": 213.19,
+    "text": "about this crisis through a series of examples that might be a bit confusing"
+  },
+  {
+    "start": "00:03:33.190",
+    "end": "00:03:33.200",
+    "start_seconds": 213.19,
+    "end_seconds": 213.2,
+    "text": "examples that might be a bit confusing"
+  },
+  {
+    "start": "00:03:33.200",
+    "end": "00:03:37.030",
+    "start_seconds": 213.2,
+    "end_seconds": 217.03,
+    "text": "examples that might be a bit confusing at first sight. So first crisis"
+  },
+  {
+    "start": "00:03:37.030",
+    "end": "00:03:37.040",
+    "start_seconds": 217.03,
+    "end_seconds": 217.04,
+    "text": "at first sight. So first crisis"
+  },
+  {
+    "start": "00:03:37.040",
+    "end": "00:03:39.509",
+    "start_seconds": 217.04,
+    "end_seconds": 219.50900000000001,
+    "text": "at first sight. So first crisis demographic."
+  },
+  {
+    "start": "00:03:39.509",
+    "end": "00:03:39.519",
+    "start_seconds": 219.50900000000001,
+    "end_seconds": 219.519,
+    "text": "demographic."
+  },
+  {
+    "start": "00:03:39.519",
+    "end": "00:03:42.309",
+    "start_seconds": 219.519,
+    "end_seconds": 222.309,
+    "text": "demographic. In this image, you can see a factory in"
+  },
+  {
+    "start": "00:03:42.309",
+    "end": "00:03:42.319",
+    "start_seconds": 222.309,
+    "end_seconds": 222.31900000000002,
+    "text": "In this image, you can see a factory in"
+  },
+  {
+    "start": "00:03:42.319",
+    "end": "00:03:44.550",
+    "start_seconds": 222.31900000000002,
+    "end_seconds": 224.55,
+    "text": "In this image, you can see a factory in southern Germany."
+  },
+  {
+    "start": "00:03:44.550",
+    "end": "00:03:44.560",
+    "start_seconds": 224.55,
+    "end_seconds": 224.56,
+    "text": "southern Germany."
+  },
+  {
+    "start": "00:03:44.560",
+    "end": "00:03:48.070",
+    "start_seconds": 224.56,
+    "end_seconds": 228.07,
+    "text": "southern Germany. Profitable but shutting down."
+  },
+  {
+    "start": "00:03:48.070",
+    "end": "00:03:48.080",
+    "start_seconds": 228.07,
+    "end_seconds": 228.07999999999998,
+    "text": "Profitable but shutting down."
+  },
+  {
+    "start": "00:03:48.080",
+    "end": "00:03:50.149",
+    "start_seconds": 228.07999999999998,
+    "end_seconds": 230.149,
+    "text": "Profitable but shutting down. Not because demand fell, but because"
+  },
+  {
+    "start": "00:03:50.149",
+    "end": "00:03:50.159",
+    "start_seconds": 230.149,
+    "end_seconds": 230.159,
+    "text": "Not because demand fell, but because"
+  },
+  {
+    "start": "00:03:50.159",
+    "end": "00:03:53.030",
+    "start_seconds": 230.159,
+    "end_seconds": 233.03,
+    "text": "Not because demand fell, but because they could not hire the machinists, the"
+  },
+  {
+    "start": "00:03:53.030",
+    "end": "00:03:53.040",
+    "start_seconds": 233.03,
+    "end_seconds": 233.04,
+    "text": "they could not hire the machinists, the"
+  },
+  {
+    "start": "00:03:53.040",
+    "end": "00:03:55.430",
+    "start_seconds": 233.04,
+    "end_seconds": 235.43,
+    "text": "they could not hire the machinists, the welders, the technicians."
+  },
+  {
+    "start": "00:03:55.430",
+    "end": "00:03:55.440",
+    "start_seconds": 235.43,
+    "end_seconds": 235.44,
+    "text": "welders, the technicians."
+  },
+  {
+    "start": "00:03:55.440",
+    "end": "00:03:58.789",
+    "start_seconds": 235.44,
+    "end_seconds": 238.789,
+    "text": "welders, the technicians. They tried to raise wages. They tried to"
+  },
+  {
+    "start": "00:03:58.789",
+    "end": "00:03:58.799",
+    "start_seconds": 238.789,
+    "end_seconds": 238.799,
+    "text": "They tried to raise wages. They tried to"
+  },
+  {
+    "start": "00:03:58.799",
+    "end": "00:04:01.509",
+    "start_seconds": 238.799,
+    "end_seconds": 241.509,
+    "text": "They tried to raise wages. They tried to pay for relocation, but nothing worked."
+  },
+  {
+    "start": "00:04:01.509",
+    "end": "00:04:01.519",
+    "start_seconds": 241.509,
+    "end_seconds": 241.519,
+    "text": "pay for relocation, but nothing worked."
+  },
+  {
+    "start": "00:04:01.519",
+    "end": "00:04:04.630",
+    "start_seconds": 241.519,
+    "end_seconds": 244.63,
+    "text": "pay for relocation, but nothing worked. And this is a well doumented phenomenon"
+  },
+  {
+    "start": "00:04:04.630",
+    "end": "00:04:04.640",
+    "start_seconds": 244.63,
+    "end_seconds": 244.64,
+    "text": "And this is a well doumented phenomenon"
+  },
+  {
+    "start": "00:04:04.640",
+    "end": "00:04:07.270",
+    "start_seconds": 244.64,
+    "end_seconds": 247.27,
+    "text": "And this is a well doumented phenomenon happening right now across Europe and"
+  },
+  {
+    "start": "00:04:07.270",
+    "end": "00:04:07.280",
+    "start_seconds": 247.27,
+    "end_seconds": 247.28,
+    "text": "happening right now across Europe and"
+  },
+  {
+    "start": "00:04:07.280",
+    "end": "00:04:10.470",
+    "start_seconds": 247.28,
+    "end_seconds": 250.47,
+    "text": "happening right now across Europe and accelerating."
+  },
+  {
+    "start": "00:04:10.480",
+    "end": "00:04:15.030",
+    "start_seconds": 250.48,
+    "end_seconds": 255.03,
+    "text": "Second crisis environmental"
+  },
+  {
+    "start": "00:04:15.030",
+    "end": "00:04:15.040",
+    "start_seconds": 255.03,
+    "end_seconds": 255.04,
+    "text": "Second crisis environmental"
+  },
+  {
+    "start": "00:04:15.040",
+    "end": "00:04:17.189",
+    "start_seconds": 255.04,
+    "end_seconds": 257.189,
+    "text": "Second crisis environmental the fact that we know how to stop"
+  },
+  {
+    "start": "00:04:17.189",
+    "end": "00:04:17.199",
+    "start_seconds": 257.189,
+    "end_seconds": 257.199,
+    "text": "the fact that we know how to stop"
+  },
+  {
+    "start": "00:04:17.199",
+    "end": "00:04:21.749",
+    "start_seconds": 257.199,
+    "end_seconds": 261.749,
+    "text": "the fact that we know how to stop climate change. The technology exist."
+  },
+  {
+    "start": "00:04:21.749",
+    "end": "00:04:21.759",
+    "start_seconds": 261.749,
+    "end_seconds": 261.759,
+    "text": "climate change. The technology exist."
+  },
+  {
+    "start": "00:04:21.759",
+    "end": "00:04:23.350",
+    "start_seconds": 261.759,
+    "end_seconds": 263.35,
+    "text": "climate change. The technology exist. We need to adapt and build the"
+  },
+  {
+    "start": "00:04:23.350",
+    "end": "00:04:23.360",
+    "start_seconds": 263.35,
+    "end_seconds": 263.36,
+    "text": "We need to adapt and build the"
+  },
+  {
+    "start": "00:04:23.360",
+    "end": "00:04:25.909",
+    "start_seconds": 263.36,
+    "end_seconds": 265.909,
+    "text": "We need to adapt and build the infrastructure quickly enough. And for"
+  },
+  {
+    "start": "00:04:25.909",
+    "end": "00:04:25.919",
+    "start_seconds": 265.909,
+    "end_seconds": 265.919,
+    "text": "infrastructure quickly enough. And for"
+  },
+  {
+    "start": "00:04:25.919",
+    "end": "00:04:29.670",
+    "start_seconds": 265.919,
+    "end_seconds": 269.67,
+    "text": "infrastructure quickly enough. And for this you need someone that manufacture,"
+  },
+  {
+    "start": "00:04:29.670",
+    "end": "00:04:29.680",
+    "start_seconds": 269.67,
+    "end_seconds": 269.68,
+    "text": "this you need someone that manufacture,"
+  },
+  {
+    "start": "00:04:29.680",
+    "end": "00:04:34.390",
+    "start_seconds": 269.68,
+    "end_seconds": 274.39,
+    "text": "this you need someone that manufacture, assemble and install the the technology."
+  },
+  {
+    "start": "00:04:34.390",
+    "end": "00:04:34.400",
+    "start_seconds": 274.39,
+    "end_seconds": 274.4,
+    "text": "assemble and install the the technology."
+  },
+  {
+    "start": "00:04:34.400",
+    "end": "00:04:36.469",
+    "start_seconds": 274.4,
+    "end_seconds": 276.469,
+    "text": "assemble and install the the technology. And so in this picture, we illustrate"
+  },
+  {
+    "start": "00:04:36.469",
+    "end": "00:04:36.479",
+    "start_seconds": 276.469,
+    "end_seconds": 276.479,
+    "text": "And so in this picture, we illustrate"
+  },
+  {
+    "start": "00:04:36.479",
+    "end": "00:04:38.150",
+    "start_seconds": 276.479,
+    "end_seconds": 278.15,
+    "text": "And so in this picture, we illustrate that"
+  },
+  {
+    "start": "00:04:38.150",
+    "end": "00:04:38.160",
+    "start_seconds": 278.15,
+    "end_seconds": 278.15999999999997,
+    "text": "that"
+  },
+  {
+    "start": "00:04:38.160",
+    "end": "00:04:40.070",
+    "start_seconds": 278.15999999999997,
+    "end_seconds": 280.07,
+    "text": "that families"
+  },
+  {
+    "start": "00:04:40.070",
+    "end": "00:04:40.080",
+    "start_seconds": 280.07,
+    "end_seconds": 280.08,
+    "text": "families"
+  },
+  {
+    "start": "00:04:40.080",
+    "end": "00:04:42.950",
+    "start_seconds": 280.08,
+    "end_seconds": 282.95,
+    "text": "families stopped their plan to install solar"
+  },
+  {
+    "start": "00:04:42.950",
+    "end": "00:04:42.960",
+    "start_seconds": 282.95,
+    "end_seconds": 282.96,
+    "text": "stopped their plan to install solar"
+  },
+  {
+    "start": "00:04:42.960",
+    "end": "00:04:44.870",
+    "start_seconds": 282.96,
+    "end_seconds": 284.87,
+    "text": "stopped their plan to install solar panel on the roof because it just became"
+  },
+  {
+    "start": "00:04:44.870",
+    "end": "00:04:44.880",
+    "start_seconds": 284.87,
+    "end_seconds": 284.88,
+    "text": "panel on the roof because it just became"
+  },
+  {
+    "start": "00:04:44.880",
+    "end": "00:04:53.830",
+    "start_seconds": 284.88,
+    "end_seconds": 293.83,
+    "text": "panel on the roof because it just became too expensive when the labor is missing."
+  },
+  {
+    "start": "00:04:53.840",
+    "end": "00:04:57.510",
+    "start_seconds": 293.84000000000003,
+    "end_seconds": 297.51,
+    "text": "The third crisis, it's about economy."
+  },
+  {
+    "start": "00:04:57.510",
+    "end": "00:04:57.520",
+    "start_seconds": 297.51,
+    "end_seconds": 297.52,
+    "text": "The third crisis, it's about economy."
+  },
+  {
+    "start": "00:04:57.520",
+    "end": "00:05:00.390",
+    "start_seconds": 297.52,
+    "end_seconds": 300.39,
+    "text": "The third crisis, it's about economy. It's linked to"
+  },
+  {
+    "start": "00:05:00.390",
+    "end": "00:05:00.400",
+    "start_seconds": 300.39,
+    "end_seconds": 300.4,
+    "text": "It's linked to"
+  },
+  {
+    "start": "00:05:00.400",
+    "end": "00:05:04.390",
+    "start_seconds": 300.4,
+    "end_seconds": 304.39,
+    "text": "It's linked to supply chain organization worldwide. So"
+  },
+  {
+    "start": "00:05:04.390",
+    "end": "00:05:04.400",
+    "start_seconds": 304.39,
+    "end_seconds": 304.4,
+    "text": "supply chain organization worldwide. So"
+  },
+  {
+    "start": "00:05:04.400",
+    "end": "00:05:07.029",
+    "start_seconds": 304.4,
+    "end_seconds": 307.029,
+    "text": "supply chain organization worldwide. So I'm sure you remember co"
+  },
+  {
+    "start": "00:05:07.029",
+    "end": "00:05:07.039",
+    "start_seconds": 307.029,
+    "end_seconds": 307.039,
+    "text": "I'm sure you remember co"
+  },
+  {
+    "start": "00:05:07.039",
+    "end": "00:05:11.510",
+    "start_seconds": 307.039,
+    "end_seconds": 311.51,
+    "text": "I'm sure you remember co um we discovered that among the most"
+  },
+  {
+    "start": "00:05:11.510",
+    "end": "00:05:11.520",
+    "start_seconds": 311.51,
+    "end_seconds": 311.52,
+    "text": "um we discovered that among the most"
+  },
+  {
+    "start": "00:05:11.520",
+    "end": "00:05:14.390",
+    "start_seconds": 311.52,
+    "end_seconds": 314.39,
+    "text": "um we discovered that among the most powerful nations on earth some were"
+  },
+  {
+    "start": "00:05:14.390",
+    "end": "00:05:14.400",
+    "start_seconds": 314.39,
+    "end_seconds": 314.4,
+    "text": "powerful nations on earth some were"
+  },
+  {
+    "start": "00:05:14.400",
+    "end": "00:05:15.909",
+    "start_seconds": 314.4,
+    "end_seconds": 315.909,
+    "text": "powerful nations on earth some were struggling to manufacture their own"
+  },
+  {
+    "start": "00:05:15.909",
+    "end": "00:05:15.919",
+    "start_seconds": 315.909,
+    "end_seconds": 315.919,
+    "text": "struggling to manufacture their own"
+  },
+  {
+    "start": "00:05:15.919",
+    "end": "00:05:18.790",
+    "start_seconds": 315.919,
+    "end_seconds": 318.79,
+    "text": "struggling to manufacture their own masks and we are just talking about a"
+  },
+  {
+    "start": "00:05:18.790",
+    "end": "00:05:18.800",
+    "start_seconds": 318.79,
+    "end_seconds": 318.8,
+    "text": "masks and we are just talking about a"
+  },
+  {
+    "start": "00:05:18.800",
+    "end": "00:05:22.870",
+    "start_seconds": 318.8,
+    "end_seconds": 322.87,
+    "text": "masks and we are just talking about a piece of paper and elastic."
+  },
+  {
+    "start": "00:05:22.870",
+    "end": "00:05:22.880",
+    "start_seconds": 322.87,
+    "end_seconds": 322.88,
+    "text": "piece of paper and elastic."
+  },
+  {
+    "start": "00:05:22.880",
+    "end": "00:05:24.870",
+    "start_seconds": 322.88,
+    "end_seconds": 324.87,
+    "text": "piece of paper and elastic. Another example is the US canal"
+  },
+  {
+    "start": "00:05:24.870",
+    "end": "00:05:24.880",
+    "start_seconds": 324.87,
+    "end_seconds": 324.88,
+    "text": "Another example is the US canal"
+  },
+  {
+    "start": "00:05:24.880",
+    "end": "00:05:28.390",
+    "start_seconds": 324.88,
+    "end_seconds": 328.39,
+    "text": "Another example is the US canal blockage. one ship stuck the all uh the"
+  },
+  {
+    "start": "00:05:28.390",
+    "end": "00:05:28.400",
+    "start_seconds": 328.39,
+    "end_seconds": 328.4,
+    "text": "blockage. one ship stuck the all uh the"
+  },
+  {
+    "start": "00:05:28.400",
+    "end": "00:05:31.749",
+    "start_seconds": 328.4,
+    "end_seconds": 331.749,
+    "text": "blockage. one ship stuck the all uh the world economy for two weeks"
+  },
+  {
+    "start": "00:05:31.749",
+    "end": "00:05:31.759",
+    "start_seconds": 331.749,
+    "end_seconds": 331.759,
+    "text": "world economy for two weeks"
+  },
+  {
+    "start": "00:05:31.759",
+    "end": "00:05:34.629",
+    "start_seconds": 331.759,
+    "end_seconds": 334.629,
+    "text": "world economy for two weeks and and then maybe recently you try to"
+  },
+  {
+    "start": "00:05:34.629",
+    "end": "00:05:34.639",
+    "start_seconds": 334.629,
+    "end_seconds": 334.639,
+    "text": "and and then maybe recently you try to"
+  },
+  {
+    "start": "00:05:34.639",
+    "end": "00:05:36.710",
+    "start_seconds": 334.639,
+    "end_seconds": 336.71,
+    "text": "and and then maybe recently you try to purchase a new cell phone or a new"
+  },
+  {
+    "start": "00:05:36.710",
+    "end": "00:05:36.720",
+    "start_seconds": 336.71,
+    "end_seconds": 336.72,
+    "text": "purchase a new cell phone or a new"
+  },
+  {
+    "start": "00:05:36.720",
+    "end": "00:05:40.230",
+    "start_seconds": 336.72,
+    "end_seconds": 340.23,
+    "text": "purchase a new cell phone or a new smartphone the price uh went up and"
+  },
+  {
+    "start": "00:05:40.230",
+    "end": "00:05:40.240",
+    "start_seconds": 340.23,
+    "end_seconds": 340.24,
+    "text": "smartphone the price uh went up and"
+  },
+  {
+    "start": "00:05:40.240",
+    "end": "00:05:42.950",
+    "start_seconds": 340.24,
+    "end_seconds": 342.95,
+    "text": "smartphone the price uh went up and that's because of a single choke point"
+  },
+  {
+    "start": "00:05:42.950",
+    "end": "00:05:42.960",
+    "start_seconds": 342.95,
+    "end_seconds": 342.96,
+    "text": "that's because of a single choke point"
+  },
+  {
+    "start": "00:05:42.960",
+    "end": "00:05:48.950",
+    "start_seconds": 342.96,
+    "end_seconds": 348.95,
+    "text": "that's because of a single choke point in uh Asia for the manufacturing of RAM."
+  },
+  {
+    "start": "00:05:48.950",
+    "end": "00:05:48.960",
+    "start_seconds": 348.95,
+    "end_seconds": 348.96,
+    "text": "in uh Asia for the manufacturing of RAM."
+  },
+  {
+    "start": "00:05:48.960",
+    "end": "00:05:51.110",
+    "start_seconds": 348.96,
+    "end_seconds": 351.11,
+    "text": "in uh Asia for the manufacturing of RAM. So"
+  },
+  {
+    "start": "00:05:51.110",
+    "end": "00:05:51.120",
+    "start_seconds": 351.11,
+    "end_seconds": 351.12,
+    "text": "So"
+  },
+  {
+    "start": "00:05:51.120",
+    "end": "00:05:53.189",
+    "start_seconds": 351.12,
+    "end_seconds": 353.189,
+    "text": "So most of the goods that the world"
+  },
+  {
+    "start": "00:05:53.189",
+    "end": "00:05:53.199",
+    "start_seconds": 353.189,
+    "end_seconds": 353.199,
+    "text": "most of the goods that the world"
+  },
+  {
+    "start": "00:05:53.199",
+    "end": "00:05:56.629",
+    "start_seconds": 353.199,
+    "end_seconds": 356.629,
+    "text": "most of the goods that the world consumed today are manufactured in just"
+  },
+  {
+    "start": "00:05:56.629",
+    "end": "00:05:56.639",
+    "start_seconds": 356.629,
+    "end_seconds": 356.639,
+    "text": "consumed today are manufactured in just"
+  },
+  {
+    "start": "00:05:56.639",
+    "end": "00:05:59.430",
+    "start_seconds": 356.639,
+    "end_seconds": 359.43,
+    "text": "consumed today are manufactured in just a few places which create massive"
+  },
+  {
+    "start": "00:05:59.430",
+    "end": "00:05:59.440",
+    "start_seconds": 359.43,
+    "end_seconds": 359.44,
+    "text": "a few places which create massive"
+  },
+  {
+    "start": "00:05:59.440",
+    "end": "00:06:02.230",
+    "start_seconds": 359.44,
+    "end_seconds": 362.23,
+    "text": "a few places which create massive dependencies and geopolitical tension"
+  },
+  {
+    "start": "00:06:02.230",
+    "end": "00:06:02.240",
+    "start_seconds": 362.23,
+    "end_seconds": 362.24,
+    "text": "dependencies and geopolitical tension"
+  },
+  {
+    "start": "00:06:02.240",
+    "end": "00:06:05.189",
+    "start_seconds": 362.24,
+    "end_seconds": 365.189,
+    "text": "dependencies and geopolitical tension and we are in a in an era where we need"
+  },
+  {
+    "start": "00:06:05.189",
+    "end": "00:06:05.199",
+    "start_seconds": 365.189,
+    "end_seconds": 365.199,
+    "text": "and we are in a in an era where we need"
+  },
+  {
+    "start": "00:06:05.199",
+    "end": "00:06:08.870",
+    "start_seconds": 365.199,
+    "end_seconds": 368.87,
+    "text": "and we are in a in an era where we need to avoid this at all cost."
+  },
+  {
+    "start": "00:06:08.870",
+    "end": "00:06:08.880",
+    "start_seconds": 368.87,
+    "end_seconds": 368.88,
+    "text": "to avoid this at all cost."
+  },
+  {
+    "start": "00:06:08.880",
+    "end": "00:06:12.950",
+    "start_seconds": 368.88,
+    "end_seconds": 372.95,
+    "text": "to avoid this at all cost. So the few examples that I mentioned"
+  },
+  {
+    "start": "00:06:12.950",
+    "end": "00:06:12.960",
+    "start_seconds": 372.95,
+    "end_seconds": 372.96,
+    "text": "So the few examples that I mentioned"
+  },
+  {
+    "start": "00:06:12.960",
+    "end": "00:06:15.110",
+    "start_seconds": 372.96,
+    "end_seconds": 375.11,
+    "text": "So the few examples that I mentioned they might feel unrelated but they are"
+  },
+  {
+    "start": "00:06:15.110",
+    "end": "00:06:15.120",
+    "start_seconds": 375.11,
+    "end_seconds": 375.12,
+    "text": "they might feel unrelated but they are"
+  },
+  {
+    "start": "00:06:15.120",
+    "end": "00:06:18.550",
+    "start_seconds": 375.12,
+    "end_seconds": 378.55,
+    "text": "they might feel unrelated but they are not"
+  },
+  {
+    "start": "00:06:18.560",
+    "end": "00:06:20.550",
+    "start_seconds": 378.56,
+    "end_seconds": 380.55,
+    "text": "three crisis"
+  },
+  {
+    "start": "00:06:20.550",
+    "end": "00:06:20.560",
+    "start_seconds": 380.55,
+    "end_seconds": 380.56,
+    "text": "three crisis"
+  },
+  {
+    "start": "00:06:20.560",
+    "end": "00:06:23.029",
+    "start_seconds": 380.56,
+    "end_seconds": 383.029,
+    "text": "three crisis demographic environmental"
+  },
+  {
+    "start": "00:06:23.029",
+    "end": "00:06:23.039",
+    "start_seconds": 383.029,
+    "end_seconds": 383.039,
+    "text": "demographic environmental"
+  },
+  {
+    "start": "00:06:23.039",
+    "end": "00:06:24.550",
+    "start_seconds": 383.039,
+    "end_seconds": 384.55,
+    "text": "demographic environmental economic"
+  },
+  {
+    "start": "00:06:24.550",
+    "end": "00:06:24.560",
+    "start_seconds": 384.55,
+    "end_seconds": 384.56,
+    "text": "economic"
+  },
+  {
+    "start": "00:06:24.560",
+    "end": "00:06:26.469",
+    "start_seconds": 384.56,
+    "end_seconds": 386.469,
+    "text": "economic and they converge on one bottleneck"
+  },
+  {
+    "start": "00:06:26.469",
+    "end": "00:06:26.479",
+    "start_seconds": 386.469,
+    "end_seconds": 386.479,
+    "text": "and they converge on one bottleneck"
+  },
+  {
+    "start": "00:06:26.479",
+    "end": "00:06:29.590",
+    "start_seconds": 386.479,
+    "end_seconds": 389.59,
+    "text": "and they converge on one bottleneck which is labor its availability and its"
+  },
+  {
+    "start": "00:06:29.590",
+    "end": "00:06:29.600",
+    "start_seconds": 389.59,
+    "end_seconds": 389.6,
+    "text": "which is labor its availability and its"
+  },
+  {
+    "start": "00:06:29.600",
+    "end": "00:06:34.309",
+    "start_seconds": 389.6,
+    "end_seconds": 394.30899999999997,
+    "text": "which is labor its availability and its cost"
+  },
+  {
+    "start": "00:06:34.319",
+    "end": "00:06:37.430",
+    "start_seconds": 394.319,
+    "end_seconds": 397.43,
+    "text": "and this is accelerating. So if you have"
+  },
+  {
+    "start": "00:06:37.430",
+    "end": "00:06:37.440",
+    "start_seconds": 397.43,
+    "end_seconds": 397.44,
+    "text": "and this is accelerating. So if you have"
+  },
+  {
+    "start": "00:06:37.440",
+    "end": "00:06:40.710",
+    "start_seconds": 397.44,
+    "end_seconds": 400.71,
+    "text": "and this is accelerating. So if you have to remember only one statistic it would"
+  },
+  {
+    "start": "00:06:40.710",
+    "end": "00:06:40.720",
+    "start_seconds": 400.71,
+    "end_seconds": 400.72,
+    "text": "to remember only one statistic it would"
+  },
+  {
+    "start": "00:06:40.720",
+    "end": "00:06:43.670",
+    "start_seconds": 400.72,
+    "end_seconds": 403.67,
+    "text": "to remember only one statistic it would be the number of children per family"
+  },
+  {
+    "start": "00:06:43.670",
+    "end": "00:06:43.680",
+    "start_seconds": 403.67,
+    "end_seconds": 403.68,
+    "text": "be the number of children per family"
+  },
+  {
+    "start": "00:06:43.680",
+    "end": "00:06:46.390",
+    "start_seconds": 403.68,
+    "end_seconds": 406.39,
+    "text": "be the number of children per family across every continent"
+  },
+  {
+    "start": "00:06:46.390",
+    "end": "00:06:46.400",
+    "start_seconds": 406.39,
+    "end_seconds": 406.4,
+    "text": "across every continent"
+  },
+  {
+    "start": "00:06:46.400",
+    "end": "00:06:48.469",
+    "start_seconds": 406.4,
+    "end_seconds": 408.469,
+    "text": "across every continent it's going down"
+  },
+  {
+    "start": "00:06:48.469",
+    "end": "00:06:48.479",
+    "start_seconds": 408.469,
+    "end_seconds": 408.479,
+    "text": "it's going down"
+  },
+  {
+    "start": "00:06:48.479",
+    "end": "00:06:51.430",
+    "start_seconds": 408.479,
+    "end_seconds": 411.43,
+    "text": "it's going down and we are almost below the replacement"
+  },
+  {
+    "start": "00:06:51.430",
+    "end": "00:06:51.440",
+    "start_seconds": 411.43,
+    "end_seconds": 411.44,
+    "text": "and we are almost below the replacement"
+  },
+  {
+    "start": "00:06:51.440",
+    "end": "00:06:54.710",
+    "start_seconds": 411.44,
+    "end_seconds": 414.71,
+    "text": "and we are almost below the replacement rate that's the number at which the"
+  },
+  {
+    "start": "00:06:54.710",
+    "end": "00:06:54.720",
+    "start_seconds": 414.71,
+    "end_seconds": 414.72,
+    "text": "rate that's the number at which the"
+  },
+  {
+    "start": "00:06:54.720",
+    "end": "00:06:56.870",
+    "start_seconds": 414.72,
+    "end_seconds": 416.87,
+    "text": "rate that's the number at which the global population of the world just"
+  },
+  {
+    "start": "00:06:56.870",
+    "end": "00:06:56.880",
+    "start_seconds": 416.87,
+    "end_seconds": 416.88,
+    "text": "global population of the world just"
+  },
+  {
+    "start": "00:06:56.880",
+    "end": "00:06:59.270",
+    "start_seconds": 416.88,
+    "end_seconds": 419.27,
+    "text": "global population of the world just decreased. So this is a a normal"
+  },
+  {
+    "start": "00:06:59.270",
+    "end": "00:06:59.280",
+    "start_seconds": 419.27,
+    "end_seconds": 419.28,
+    "text": "decreased. So this is a a normal"
+  },
+  {
+    "start": "00:06:59.280",
+    "end": "00:07:03.029",
+    "start_seconds": 419.28,
+    "end_seconds": 423.029,
+    "text": "decreased. So this is a a normal phenomenon just societies evolved."
+  },
+  {
+    "start": "00:07:03.029",
+    "end": "00:07:03.039",
+    "start_seconds": 423.029,
+    "end_seconds": 423.039,
+    "text": "phenomenon just societies evolved."
+  },
+  {
+    "start": "00:07:03.039",
+    "end": "00:07:06.469",
+    "start_seconds": 423.039,
+    "end_seconds": 426.469,
+    "text": "phenomenon just societies evolved. But for your information,"
+  },
+  {
+    "start": "00:07:06.469",
+    "end": "00:07:06.479",
+    "start_seconds": 426.469,
+    "end_seconds": 426.479,
+    "text": "But for your information,"
+  },
+  {
+    "start": "00:07:06.479",
+    "end": "00:07:09.749",
+    "start_seconds": 426.479,
+    "end_seconds": 429.749,
+    "text": "But for your information, the US, Europe and China are well well"
+  },
+  {
+    "start": "00:07:09.749",
+    "end": "00:07:09.759",
+    "start_seconds": 429.749,
+    "end_seconds": 429.759,
+    "text": "the US, Europe and China are well well"
+  },
+  {
+    "start": "00:07:09.759",
+    "end": "00:07:17.270",
+    "start_seconds": 429.759,
+    "end_seconds": 437.27,
+    "text": "the US, Europe and China are well well below this rate already."
+  },
+  {
+    "start": "00:07:17.280",
+    "end": "00:07:20.150",
+    "start_seconds": 437.28,
+    "end_seconds": 440.15,
+    "text": "As a result, 85 million workers will be"
+  },
+  {
+    "start": "00:07:20.150",
+    "end": "00:07:20.160",
+    "start_seconds": 440.15,
+    "end_seconds": 440.16,
+    "text": "As a result, 85 million workers will be"
+  },
+  {
+    "start": "00:07:20.160",
+    "end": "00:07:22.390",
+    "start_seconds": 440.16,
+    "end_seconds": 442.39,
+    "text": "As a result, 85 million workers will be short in less than four years from now."
+  },
+  {
+    "start": "00:07:22.390",
+    "end": "00:07:22.400",
+    "start_seconds": 442.39,
+    "end_seconds": 442.4,
+    "text": "short in less than four years from now."
+  },
+  {
+    "start": "00:07:22.400",
+    "end": "00:07:24.870",
+    "start_seconds": 442.4,
+    "end_seconds": 444.87,
+    "text": "short in less than four years from now. And this is the equivalent of 8.5"
+  },
+  {
+    "start": "00:07:24.870",
+    "end": "00:07:24.880",
+    "start_seconds": 444.87,
+    "end_seconds": 444.88,
+    "text": "And this is the equivalent of 8.5"
+  },
+  {
+    "start": "00:07:24.880",
+    "end": "00:07:27.749",
+    "start_seconds": 444.88,
+    "end_seconds": 447.749,
+    "text": "And this is the equivalent of 8.5 trillion in economic value just gone in"
+  },
+  {
+    "start": "00:07:27.749",
+    "end": "00:07:27.759",
+    "start_seconds": 447.749,
+    "end_seconds": 447.759,
+    "text": "trillion in economic value just gone in"
+  },
+  {
+    "start": "00:07:27.759",
+    "end": "00:07:32.150",
+    "start_seconds": 447.759,
+    "end_seconds": 452.15,
+    "text": "trillion in economic value just gone in less than four years. And and this can"
+  },
+  {
+    "start": "00:07:32.150",
+    "end": "00:07:32.160",
+    "start_seconds": 452.15,
+    "end_seconds": 452.15999999999997,
+    "text": "less than four years. And and this can"
+  },
+  {
+    "start": "00:07:32.160",
+    "end": "00:07:35.189",
+    "start_seconds": 452.15999999999997,
+    "end_seconds": 455.189,
+    "text": "less than four years. And and this can be compared to the GDP combined the"
+  },
+  {
+    "start": "00:07:35.189",
+    "end": "00:07:35.199",
+    "start_seconds": 455.189,
+    "end_seconds": 455.199,
+    "text": "be compared to the GDP combined the"
+  },
+  {
+    "start": "00:07:35.199",
+    "end": "00:07:41.189",
+    "start_seconds": 455.199,
+    "end_seconds": 461.189,
+    "text": "be compared to the GDP combined the combined GDP of the UK and Japan."
+  },
+  {
+    "start": "00:07:41.199",
+    "end": "00:07:43.909",
+    "start_seconds": 461.199,
+    "end_seconds": 463.909,
+    "text": "So three crisis"
+  },
+  {
+    "start": "00:07:43.909",
+    "end": "00:07:43.919",
+    "start_seconds": 463.909,
+    "end_seconds": 463.919,
+    "text": "So three crisis"
+  },
+  {
+    "start": "00:07:43.919",
+    "end": "00:07:46.790",
+    "start_seconds": 463.919,
+    "end_seconds": 466.79,
+    "text": "So three crisis and one solution."
+  },
+  {
+    "start": "00:07:46.790",
+    "end": "00:07:46.800",
+    "start_seconds": 466.79,
+    "end_seconds": 466.8,
+    "text": "and one solution."
+  },
+  {
+    "start": "00:07:46.800",
+    "end": "00:07:49.430",
+    "start_seconds": 466.8,
+    "end_seconds": 469.43,
+    "text": "and one solution. We need to build this next generation of"
+  },
+  {
+    "start": "00:07:49.430",
+    "end": "00:07:49.440",
+    "start_seconds": 469.43,
+    "end_seconds": 469.44,
+    "text": "We need to build this next generation of"
+  },
+  {
+    "start": "00:07:49.440",
+    "end": "00:07:52.469",
+    "start_seconds": 469.44,
+    "end_seconds": 472.469,
+    "text": "We need to build this next generation of robots as quickly as possible. because"
+  },
+  {
+    "start": "00:07:52.469",
+    "end": "00:07:52.479",
+    "start_seconds": 472.469,
+    "end_seconds": 472.479,
+    "text": "robots as quickly as possible. because"
+  },
+  {
+    "start": "00:07:52.479",
+    "end": "00:07:55.189",
+    "start_seconds": 472.479,
+    "end_seconds": 475.189,
+    "text": "robots as quickly as possible. because they will address the labor shortage and"
+  },
+  {
+    "start": "00:07:55.189",
+    "end": "00:07:55.199",
+    "start_seconds": 475.189,
+    "end_seconds": 475.199,
+    "text": "they will address the labor shortage and"
+  },
+  {
+    "start": "00:07:55.199",
+    "end": "00:07:58.790",
+    "start_seconds": 475.199,
+    "end_seconds": 478.79,
+    "text": "they will address the labor shortage and fill this gap."
+  },
+  {
+    "start": "00:07:58.800",
+    "end": "00:08:07.430",
+    "start_seconds": 478.8,
+    "end_seconds": 487.43,
+    "text": "So what are the challenges?"
+  },
+  {
+    "start": "00:08:07.440",
+    "end": "00:08:09.990",
+    "start_seconds": 487.44,
+    "end_seconds": 489.99,
+    "text": "First challenge it's building the robot"
+  },
+  {
+    "start": "00:08:09.990",
+    "end": "00:08:10.000",
+    "start_seconds": 489.99,
+    "end_seconds": 490.0,
+    "text": "First challenge it's building the robot"
+  },
+  {
+    "start": "00:08:10.000",
+    "end": "00:08:13.990",
+    "start_seconds": 490.0,
+    "end_seconds": 493.99,
+    "text": "First challenge it's building the robot brain."
+  },
+  {
+    "start": "00:08:14.000",
+    "end": "00:08:17.749",
+    "start_seconds": 494.0,
+    "end_seconds": 497.749,
+    "text": "This means that we need the ability,"
+  },
+  {
+    "start": "00:08:17.749",
+    "end": "00:08:17.759",
+    "start_seconds": 497.749,
+    "end_seconds": 497.759,
+    "text": "This means that we need the ability,"
+  },
+  {
+    "start": "00:08:17.759",
+    "end": "00:08:20.550",
+    "start_seconds": 497.759,
+    "end_seconds": 500.55,
+    "text": "This means that we need the ability, I mean those robots need the ability to"
+  },
+  {
+    "start": "00:08:20.550",
+    "end": "00:08:20.560",
+    "start_seconds": 500.55,
+    "end_seconds": 500.56,
+    "text": "I mean those robots need the ability to"
+  },
+  {
+    "start": "00:08:20.560",
+    "end": "00:08:22.710",
+    "start_seconds": 500.56,
+    "end_seconds": 502.71,
+    "text": "I mean those robots need the ability to learn as quickly as possible, as"
+  },
+  {
+    "start": "00:08:22.710",
+    "end": "00:08:22.720",
+    "start_seconds": 502.71,
+    "end_seconds": 502.72,
+    "text": "learn as quickly as possible, as"
+  },
+  {
+    "start": "00:08:22.720",
+    "end": "00:08:25.589",
+    "start_seconds": 502.72,
+    "end_seconds": 505.589,
+    "text": "learn as quickly as possible, as efficiently as possible the task that we"
+  },
+  {
+    "start": "00:08:25.589",
+    "end": "00:08:25.599",
+    "start_seconds": 505.589,
+    "end_seconds": 505.599,
+    "text": "efficiently as possible the task that we"
+  },
+  {
+    "start": "00:08:25.599",
+    "end": "00:08:29.589",
+    "start_seconds": 505.599,
+    "end_seconds": 509.589,
+    "text": "efficiently as possible the task that we do. And so at UMA, we took a unique"
+  },
+  {
+    "start": "00:08:29.589",
+    "end": "00:08:29.599",
+    "start_seconds": 509.589,
+    "end_seconds": 509.599,
+    "text": "do. And so at UMA, we took a unique"
+  },
+  {
+    "start": "00:08:29.599",
+    "end": "00:08:31.589",
+    "start_seconds": 509.599,
+    "end_seconds": 511.589,
+    "text": "do. And so at UMA, we took a unique approach."
+  },
+  {
+    "start": "00:08:31.589",
+    "end": "00:08:31.599",
+    "start_seconds": 511.589,
+    "end_seconds": 511.599,
+    "text": "approach."
+  },
+  {
+    "start": "00:08:31.599",
+    "end": "00:08:34.870",
+    "start_seconds": 511.599,
+    "end_seconds": 514.87,
+    "text": "approach. Even before scaling data and compute,"
+  },
+  {
+    "start": "00:08:34.870",
+    "end": "00:08:34.880",
+    "start_seconds": 514.87,
+    "end_seconds": 514.88,
+    "text": "Even before scaling data and compute,"
+  },
+  {
+    "start": "00:08:34.880",
+    "end": "00:08:37.430",
+    "start_seconds": 514.88,
+    "end_seconds": 517.43,
+    "text": "Even before scaling data and compute, we came back to the fundamentals"
+  },
+  {
+    "start": "00:08:37.430",
+    "end": "00:08:37.440",
+    "start_seconds": 517.43,
+    "end_seconds": 517.44,
+    "text": "we came back to the fundamentals"
+  },
+  {
+    "start": "00:08:37.440",
+    "end": "00:08:42.149",
+    "start_seconds": 517.44,
+    "end_seconds": 522.149,
+    "text": "we came back to the fundamentals and develop and focused on a radically"
+  },
+  {
+    "start": "00:08:42.149",
+    "end": "00:08:42.159",
+    "start_seconds": 522.149,
+    "end_seconds": 522.159,
+    "text": "and develop and focused on a radically"
+  },
+  {
+    "start": "00:08:42.159",
+    "end": "00:08:45.910",
+    "start_seconds": 522.159,
+    "end_seconds": 525.91,
+    "text": "and develop and focused on a radically efficient learning approach. We call it"
+  },
+  {
+    "start": "00:08:45.910",
+    "end": "00:08:45.920",
+    "start_seconds": 525.91,
+    "end_seconds": 525.92,
+    "text": "efficient learning approach. We call it"
+  },
+  {
+    "start": "00:08:45.920",
+    "end": "00:08:49.750",
+    "start_seconds": 525.92,
+    "end_seconds": 529.75,
+    "text": "efficient learning approach. We call it realtime learning and it is inspired by"
+  },
+  {
+    "start": "00:08:49.750",
+    "end": "00:08:49.760",
+    "start_seconds": 529.75,
+    "end_seconds": 529.76,
+    "text": "realtime learning and it is inspired by"
+  },
+  {
+    "start": "00:08:49.760",
+    "end": "00:08:55.269",
+    "start_seconds": 529.76,
+    "end_seconds": 535.269,
+    "text": "realtime learning and it is inspired by how you and I, we learn."
+  },
+  {
+    "start": "00:08:55.279",
+    "end": "00:08:56.870",
+    "start_seconds": 535.279,
+    "end_seconds": 536.87,
+    "text": "Do you remember the first time you"
+  },
+  {
+    "start": "00:08:56.870",
+    "end": "00:08:56.880",
+    "start_seconds": 536.87,
+    "end_seconds": 536.88,
+    "text": "Do you remember the first time you"
+  },
+  {
+    "start": "00:08:56.880",
+    "end": "00:08:59.910",
+    "start_seconds": 536.88,
+    "end_seconds": 539.91,
+    "text": "Do you remember the first time you learned how to tie your shoes?"
+  },
+  {
+    "start": "00:08:59.910",
+    "end": "00:08:59.920",
+    "start_seconds": 539.91,
+    "end_seconds": 539.92,
+    "text": "learned how to tie your shoes?"
+  },
+  {
+    "start": "00:08:59.920",
+    "end": "00:09:04.630",
+    "start_seconds": 539.92,
+    "end_seconds": 544.63,
+    "text": "learned how to tie your shoes? I'm sure that u your parents teach it"
+  },
+  {
+    "start": "00:09:04.630",
+    "end": "00:09:04.640",
+    "start_seconds": 544.63,
+    "end_seconds": 544.64,
+    "text": "I'm sure that u your parents teach it"
+  },
+  {
+    "start": "00:09:04.640",
+    "end": "00:09:06.230",
+    "start_seconds": 544.64,
+    "end_seconds": 546.23,
+    "text": "I'm sure that u your parents teach it teach you how to do it like she just"
+  },
+  {
+    "start": "00:09:06.230",
+    "end": "00:09:06.240",
+    "start_seconds": 546.23,
+    "end_seconds": 546.24,
+    "text": "teach you how to do it like she just"
+  },
+  {
+    "start": "00:09:06.240",
+    "end": "00:09:09.350",
+    "start_seconds": 546.24,
+    "end_seconds": 549.35,
+    "text": "teach you how to do it like she just show you the task then you fumbled you"
+  },
+  {
+    "start": "00:09:09.350",
+    "end": "00:09:09.360",
+    "start_seconds": 549.35,
+    "end_seconds": 549.36,
+    "text": "show you the task then you fumbled you"
+  },
+  {
+    "start": "00:09:09.360",
+    "end": "00:09:12.790",
+    "start_seconds": 549.36,
+    "end_seconds": 552.79,
+    "text": "show you the task then you fumbled you try again you practiced and at some"
+  },
+  {
+    "start": "00:09:12.790",
+    "end": "00:09:12.800",
+    "start_seconds": 552.79,
+    "end_seconds": 552.8,
+    "text": "try again you practiced and at some"
+  },
+  {
+    "start": "00:09:12.800",
+    "end": "00:09:15.350",
+    "start_seconds": 552.8,
+    "end_seconds": 555.35,
+    "text": "try again you practiced and at some point your hands just knew and that's"
+  },
+  {
+    "start": "00:09:15.350",
+    "end": "00:09:15.360",
+    "start_seconds": 555.35,
+    "end_seconds": 555.36,
+    "text": "point your hands just knew and that's"
+  },
+  {
+    "start": "00:09:15.360",
+    "end": "00:09:18.949",
+    "start_seconds": 555.36,
+    "end_seconds": 558.949,
+    "text": "point your hands just knew and that's real time learning."
+  },
+  {
+    "start": "00:09:18.959",
+    "end": "00:09:28.790",
+    "start_seconds": 558.959,
+    "end_seconds": 568.79,
+    "text": "So now please have a look to this video."
+  },
+  {
+    "start": "00:09:28.800",
+    "end": "00:09:32.710",
+    "start_seconds": 568.8,
+    "end_seconds": 572.71,
+    "text": "So this is our AI controlling two robot"
+  },
+  {
+    "start": "00:09:32.710",
+    "end": "00:09:32.720",
+    "start_seconds": 572.71,
+    "end_seconds": 572.72,
+    "text": "So this is our AI controlling two robot"
+  },
+  {
+    "start": "00:09:32.720",
+    "end": "00:09:34.630",
+    "start_seconds": 572.72,
+    "end_seconds": 574.63,
+    "text": "So this is our AI controlling two robot arm"
+  },
+  {
+    "start": "00:09:34.630",
+    "end": "00:09:34.640",
+    "start_seconds": 574.63,
+    "end_seconds": 574.64,
+    "text": "arm"
+  },
+  {
+    "start": "00:09:34.640",
+    "end": "00:09:37.030",
+    "start_seconds": 574.64,
+    "end_seconds": 577.03,
+    "text": "arm and automating the task of picking and"
+  },
+  {
+    "start": "00:09:37.030",
+    "end": "00:09:37.040",
+    "start_seconds": 577.03,
+    "end_seconds": 577.04,
+    "text": "and automating the task of picking and"
+  },
+  {
+    "start": "00:09:37.040",
+    "end": "00:09:40.470",
+    "start_seconds": 577.04,
+    "end_seconds": 580.47,
+    "text": "and automating the task of picking and sorting various items. Actually picking"
+  },
+  {
+    "start": "00:09:40.470",
+    "end": "00:09:40.480",
+    "start_seconds": 580.47,
+    "end_seconds": 580.48,
+    "text": "sorting various items. Actually picking"
+  },
+  {
+    "start": "00:09:40.480",
+    "end": "00:09:44.150",
+    "start_seconds": 580.48,
+    "end_seconds": 584.15,
+    "text": "sorting various items. Actually picking and scanning and dropping various items."
+  },
+  {
+    "start": "00:09:44.150",
+    "end": "00:09:44.160",
+    "start_seconds": 584.15,
+    "end_seconds": 584.16,
+    "text": "and scanning and dropping various items."
+  },
+  {
+    "start": "00:09:44.160",
+    "end": "00:09:45.990",
+    "start_seconds": 584.16,
+    "end_seconds": 585.99,
+    "text": "and scanning and dropping various items. four items that are extremely"
+  },
+  {
+    "start": "00:09:45.990",
+    "end": "00:09:46.000",
+    "start_seconds": 585.99,
+    "end_seconds": 586.0,
+    "text": "four items that are extremely"
+  },
+  {
+    "start": "00:09:46.000",
+    "end": "00:09:49.350",
+    "start_seconds": 586.0,
+    "end_seconds": 589.35,
+    "text": "four items that are extremely challenging with today technology inter"
+  },
+  {
+    "start": "00:09:49.350",
+    "end": "00:09:49.360",
+    "start_seconds": 589.35,
+    "end_seconds": 589.36,
+    "text": "challenging with today technology inter"
+  },
+  {
+    "start": "00:09:49.360",
+    "end": "00:09:52.630",
+    "start_seconds": 589.36,
+    "end_seconds": 592.63,
+    "text": "challenging with today technology inter robotics. So the first item is cables"
+  },
+  {
+    "start": "00:09:52.630",
+    "end": "00:09:52.640",
+    "start_seconds": 592.63,
+    "end_seconds": 592.64,
+    "text": "robotics. So the first item is cables"
+  },
+  {
+    "start": "00:09:52.640",
+    "end": "00:09:54.630",
+    "start_seconds": 592.64,
+    "end_seconds": 594.63,
+    "text": "robotics. So the first item is cables that are deformable. Then you have"
+  },
+  {
+    "start": "00:09:54.630",
+    "end": "00:09:54.640",
+    "start_seconds": 594.63,
+    "end_seconds": 594.64,
+    "text": "that are deformable. Then you have"
+  },
+  {
+    "start": "00:09:54.640",
+    "end": "00:09:57.269",
+    "start_seconds": 594.64,
+    "end_seconds": 597.269,
+    "text": "that are deformable. Then you have shampoo quite slippery. You have mouse"
+  },
+  {
+    "start": "00:09:57.269",
+    "end": "00:09:57.279",
+    "start_seconds": 597.269,
+    "end_seconds": 597.279,
+    "text": "shampoo quite slippery. You have mouse"
+  },
+  {
+    "start": "00:09:57.279",
+    "end": "00:09:59.829",
+    "start_seconds": 597.279,
+    "end_seconds": 599.829,
+    "text": "shampoo quite slippery. You have mouse pad super thin and then you have those"
+  },
+  {
+    "start": "00:09:59.829",
+    "end": "00:09:59.839",
+    "start_seconds": 599.829,
+    "end_seconds": 599.8389999999999,
+    "text": "pad super thin and then you have those"
+  },
+  {
+    "start": "00:09:59.839",
+    "end": "00:10:02.070",
+    "start_seconds": 599.8389999999999,
+    "end_seconds": 602.07,
+    "text": "pad super thin and then you have those bags that need to be handled with care"
+  },
+  {
+    "start": "00:10:02.070",
+    "end": "00:10:02.080",
+    "start_seconds": 602.07,
+    "end_seconds": 602.08,
+    "text": "bags that need to be handled with care"
+  },
+  {
+    "start": "00:10:02.080",
+    "end": "00:10:04.150",
+    "start_seconds": 602.08,
+    "end_seconds": 604.15,
+    "text": "bags that need to be handled with care because they are fragile."
+  },
+  {
+    "start": "00:10:04.150",
+    "end": "00:10:04.160",
+    "start_seconds": 604.15,
+    "end_seconds": 604.16,
+    "text": "because they are fragile."
+  },
+  {
+    "start": "00:10:04.160",
+    "end": "00:10:06.470",
+    "start_seconds": 604.16,
+    "end_seconds": 606.47,
+    "text": "because they are fragile. So you see the the AI retry retry and"
+  },
+  {
+    "start": "00:10:06.470",
+    "end": "00:10:06.480",
+    "start_seconds": 606.47,
+    "end_seconds": 606.48,
+    "text": "So you see the the AI retry retry and"
+  },
+  {
+    "start": "00:10:06.480",
+    "end": "00:10:08.870",
+    "start_seconds": 606.48,
+    "end_seconds": 608.87,
+    "text": "So you see the the AI retry retry and then I get it."
+  },
+  {
+    "start": "00:10:08.870",
+    "end": "00:10:08.880",
+    "start_seconds": 608.87,
+    "end_seconds": 608.88,
+    "text": "then I get it."
+  },
+  {
+    "start": "00:10:08.880",
+    "end": "00:10:16.069",
+    "start_seconds": 608.88,
+    "end_seconds": 616.069,
+    "text": "then I get it. Here we are messing with it."
+  },
+  {
+    "start": "00:10:16.079",
+    "end": "00:10:25.269",
+    "start_seconds": 616.079,
+    "end_seconds": 625.269,
+    "text": "It's amazing to watch. No."
+  },
+  {
+    "start": "00:10:25.279",
+    "end": "00:10:28.150",
+    "start_seconds": 625.279,
+    "end_seconds": 628.15,
+    "text": "And finally it succeeded."
+  },
+  {
+    "start": "00:10:28.150",
+    "end": "00:10:28.160",
+    "start_seconds": 628.15,
+    "end_seconds": 628.16,
+    "text": "And finally it succeeded."
+  },
+  {
+    "start": "00:10:28.160",
+    "end": "00:10:30.790",
+    "start_seconds": 628.16,
+    "end_seconds": 630.79,
+    "text": "And finally it succeeded. We really tried hard to mess with it and"
+  },
+  {
+    "start": "00:10:30.790",
+    "end": "00:10:30.800",
+    "start_seconds": 630.79,
+    "end_seconds": 630.8,
+    "text": "We really tried hard to mess with it and"
+  },
+  {
+    "start": "00:10:30.800",
+    "end": "00:10:36.630",
+    "start_seconds": 630.8,
+    "end_seconds": 636.63,
+    "text": "We really tried hard to mess with it and still it figures out."
+  },
+  {
+    "start": "00:10:36.640",
+    "end": "00:10:38.150",
+    "start_seconds": 636.64,
+    "end_seconds": 638.15,
+    "text": "And"
+  },
+  {
+    "start": "00:10:38.150",
+    "end": "00:10:38.160",
+    "start_seconds": 638.15,
+    "end_seconds": 638.16,
+    "text": "And"
+  },
+  {
+    "start": "00:10:38.160",
+    "end": "00:10:41.509",
+    "start_seconds": 638.16,
+    "end_seconds": 641.509,
+    "text": "And this is how you go from one robot doing"
+  },
+  {
+    "start": "00:10:41.509",
+    "end": "00:10:41.519",
+    "start_seconds": 641.509,
+    "end_seconds": 641.519,
+    "text": "this is how you go from one robot doing"
+  },
+  {
+    "start": "00:10:41.519",
+    "end": "00:10:45.110",
+    "start_seconds": 641.519,
+    "end_seconds": 645.11,
+    "text": "this is how you go from one robot doing one task to billions of robots doing"
+  },
+  {
+    "start": "00:10:45.110",
+    "end": "00:10:45.120",
+    "start_seconds": 645.11,
+    "end_seconds": 645.12,
+    "text": "one task to billions of robots doing"
+  },
+  {
+    "start": "00:10:45.120",
+    "end": "00:10:50.310",
+    "start_seconds": 645.12,
+    "end_seconds": 650.31,
+    "text": "one task to billions of robots doing almost anything."
+  },
+  {
+    "start": "00:10:50.320",
+    "end": "00:10:54.230",
+    "start_seconds": 650.32,
+    "end_seconds": 654.23,
+    "text": "So now second challenge building the"
+  },
+  {
+    "start": "00:10:54.230",
+    "end": "00:10:54.240",
+    "start_seconds": 654.23,
+    "end_seconds": 654.24,
+    "text": "So now second challenge building the"
+  },
+  {
+    "start": "00:10:54.240",
+    "end": "00:10:57.430",
+    "start_seconds": 654.24,
+    "end_seconds": 657.43,
+    "text": "So now second challenge building the body of the robot."
+  },
+  {
+    "start": "00:10:57.430",
+    "end": "00:10:57.440",
+    "start_seconds": 657.43,
+    "end_seconds": 657.44,
+    "text": "body of the robot."
+  },
+  {
+    "start": "00:10:57.440",
+    "end": "00:11:00.790",
+    "start_seconds": 657.44,
+    "end_seconds": 660.79,
+    "text": "body of the robot. Atuma, our conviction is that to learn"
+  },
+  {
+    "start": "00:11:00.790",
+    "end": "00:11:00.800",
+    "start_seconds": 660.79,
+    "end_seconds": 660.8,
+    "text": "Atuma, our conviction is that to learn"
+  },
+  {
+    "start": "00:11:00.800",
+    "end": "00:11:02.870",
+    "start_seconds": 660.8,
+    "end_seconds": 662.87,
+    "text": "Atuma, our conviction is that to learn like us, to automate the task that we"
+  },
+  {
+    "start": "00:11:02.870",
+    "end": "00:11:02.880",
+    "start_seconds": 662.87,
+    "end_seconds": 662.88,
+    "text": "like us, to automate the task that we"
+  },
+  {
+    "start": "00:11:02.880",
+    "end": "00:11:07.829",
+    "start_seconds": 662.88,
+    "end_seconds": 667.829,
+    "text": "like us, to automate the task that we do, these robots need to be humanoid."
+  },
+  {
+    "start": "00:11:07.829",
+    "end": "00:11:07.839",
+    "start_seconds": 667.829,
+    "end_seconds": 667.839,
+    "text": "do, these robots need to be humanoid."
+  },
+  {
+    "start": "00:11:07.839",
+    "end": "00:11:11.269",
+    "start_seconds": 667.839,
+    "end_seconds": 671.269,
+    "text": "do, these robots need to be humanoid. They need a body to navigate our space"
+  },
+  {
+    "start": "00:11:11.269",
+    "end": "00:11:11.279",
+    "start_seconds": 671.269,
+    "end_seconds": 671.279,
+    "text": "They need a body to navigate our space"
+  },
+  {
+    "start": "00:11:11.279",
+    "end": "00:11:16.389",
+    "start_seconds": 671.279,
+    "end_seconds": 676.389,
+    "text": "They need a body to navigate our space and hands to handle our tools."
+  },
+  {
+    "start": "00:11:16.389",
+    "end": "00:11:16.399",
+    "start_seconds": 676.389,
+    "end_seconds": 676.399,
+    "text": "and hands to handle our tools."
+  },
+  {
+    "start": "00:11:16.399",
+    "end": "00:11:19.110",
+    "start_seconds": 676.399,
+    "end_seconds": 679.11,
+    "text": "and hands to handle our tools. And so today"
+  },
+  {
+    "start": "00:11:19.110",
+    "end": "00:11:19.120",
+    "start_seconds": 679.11,
+    "end_seconds": 679.12,
+    "text": "And so today"
+  },
+  {
+    "start": "00:11:19.120",
+    "end": "00:11:22.069",
+    "start_seconds": 679.12,
+    "end_seconds": 682.069,
+    "text": "And so today I'm extremely excited"
+  },
+  {
+    "start": "00:11:22.069",
+    "end": "00:11:22.079",
+    "start_seconds": 682.069,
+    "end_seconds": 682.079,
+    "text": "I'm extremely excited"
+  },
+  {
+    "start": "00:11:22.079",
+    "end": "00:11:23.990",
+    "start_seconds": 682.079,
+    "end_seconds": 683.99,
+    "text": "I'm extremely excited to unveil"
+  },
+  {
+    "start": "00:11:23.990",
+    "end": "00:11:24.000",
+    "start_seconds": 683.99,
+    "end_seconds": 684.0,
+    "text": "to unveil"
+  },
+  {
+    "start": "00:11:24.000",
+    "end": "00:11:36.710",
+    "start_seconds": 684.0,
+    "end_seconds": 696.71,
+    "text": "to unveil our northstar design."
+  },
+  {
+    "start": "00:11:36.720",
+    "end": "00:11:40.870",
+    "start_seconds": 696.72,
+    "end_seconds": 700.87,
+    "text": "We designed it to be approachable,"
+  },
+  {
+    "start": "00:11:40.870",
+    "end": "00:11:40.880",
+    "start_seconds": 700.87,
+    "end_seconds": 700.88,
+    "text": "We designed it to be approachable,"
+  },
+  {
+    "start": "00:11:40.880",
+    "end": "00:11:43.590",
+    "start_seconds": 700.88,
+    "end_seconds": 703.59,
+    "text": "We designed it to be approachable, calm, and competent."
+  },
+  {
+    "start": "00:11:43.590",
+    "end": "00:11:43.600",
+    "start_seconds": 703.59,
+    "end_seconds": 703.6,
+    "text": "calm, and competent."
+  },
+  {
+    "start": "00:11:43.600",
+    "end": "00:11:46.550",
+    "start_seconds": 703.6,
+    "end_seconds": 706.55,
+    "text": "calm, and competent. A robot you would feel at ease having"
+  },
+  {
+    "start": "00:11:46.550",
+    "end": "00:11:46.560",
+    "start_seconds": 706.55,
+    "end_seconds": 706.56,
+    "text": "A robot you would feel at ease having"
+  },
+  {
+    "start": "00:11:46.560",
+    "end": "00:11:49.350",
+    "start_seconds": 706.56,
+    "end_seconds": 709.35,
+    "text": "A robot you would feel at ease having around in your workplace but also at"
+  },
+  {
+    "start": "00:11:49.350",
+    "end": "00:11:49.360",
+    "start_seconds": 709.35,
+    "end_seconds": 709.36,
+    "text": "around in your workplace but also at"
+  },
+  {
+    "start": "00:11:49.360",
+    "end": "00:11:52.150",
+    "start_seconds": 709.36,
+    "end_seconds": 712.15,
+    "text": "around in your workplace but also at home. And here you can see it wearing"
+  },
+  {
+    "start": "00:11:52.150",
+    "end": "00:11:52.160",
+    "start_seconds": 712.15,
+    "end_seconds": 712.16,
+    "text": "home. And here you can see it wearing"
+  },
+  {
+    "start": "00:11:52.160",
+    "end": "00:11:55.430",
+    "start_seconds": 712.16,
+    "end_seconds": 715.43,
+    "text": "home. And here you can see it wearing clothes like futuristic looking kind of"
+  },
+  {
+    "start": "00:11:55.430",
+    "end": "00:11:55.440",
+    "start_seconds": 715.43,
+    "end_seconds": 715.44,
+    "text": "clothes like futuristic looking kind of"
+  },
+  {
+    "start": "00:11:55.440",
+    "end": "00:11:59.590",
+    "start_seconds": 715.44,
+    "end_seconds": 719.59,
+    "text": "clothes like futuristic looking kind of clothes"
+  },
+  {
+    "start": "00:11:59.600",
+    "end": "00:12:03.670",
+    "start_seconds": 719.6,
+    "end_seconds": 723.67,
+    "text": "and"
+  },
+  {
+    "start": "00:12:03.680",
+    "end": "00:12:07.509",
+    "start_seconds": 723.68,
+    "end_seconds": 727.509,
+    "text": "we design it with three safety design"
+  },
+  {
+    "start": "00:12:07.509",
+    "end": "00:12:07.519",
+    "start_seconds": 727.509,
+    "end_seconds": 727.519,
+    "text": "we design it with three safety design"
+  },
+  {
+    "start": "00:12:07.519",
+    "end": "00:12:11.750",
+    "start_seconds": 727.519,
+    "end_seconds": 731.75,
+    "text": "we design it with three safety design principle."
+  },
+  {
+    "start": "00:12:11.760",
+    "end": "00:12:13.750",
+    "start_seconds": 731.76,
+    "end_seconds": 733.75,
+    "text": "Safety"
+  },
+  {
+    "start": "00:12:13.750",
+    "end": "00:12:13.760",
+    "start_seconds": 733.75,
+    "end_seconds": 733.76,
+    "text": "Safety"
+  },
+  {
+    "start": "00:12:13.760",
+    "end": "00:12:16.629",
+    "start_seconds": 733.76,
+    "end_seconds": 736.629,
+    "text": "Safety is fundamental. It's it is at the core"
+  },
+  {
+    "start": "00:12:16.629",
+    "end": "00:12:16.639",
+    "start_seconds": 736.629,
+    "end_seconds": 736.639,
+    "text": "is fundamental. It's it is at the core"
+  },
+  {
+    "start": "00:12:16.639",
+    "end": "00:12:20.470",
+    "start_seconds": 736.639,
+    "end_seconds": 740.47,
+    "text": "is fundamental. It's it is at the core of what we do at UMA. And it means"
+  },
+  {
+    "start": "00:12:20.470",
+    "end": "00:12:20.480",
+    "start_seconds": 740.47,
+    "end_seconds": 740.48,
+    "text": "of what we do at UMA. And it means"
+  },
+  {
+    "start": "00:12:20.480",
+    "end": "00:12:22.629",
+    "start_seconds": 740.48,
+    "end_seconds": 742.629,
+    "text": "of what we do at UMA. And it means caring for people and looking after"
+  },
+  {
+    "start": "00:12:22.629",
+    "end": "00:12:22.639",
+    "start_seconds": 742.629,
+    "end_seconds": 742.639,
+    "text": "caring for people and looking after"
+  },
+  {
+    "start": "00:12:22.639",
+    "end": "00:12:25.750",
+    "start_seconds": 742.639,
+    "end_seconds": 745.75,
+    "text": "caring for people and looking after them."
+  },
+  {
+    "start": "00:12:25.760",
+    "end": "00:12:29.670",
+    "start_seconds": 745.76,
+    "end_seconds": 749.67,
+    "text": "And first safety principle, it is"
+  },
+  {
+    "start": "00:12:29.670",
+    "end": "00:12:29.680",
+    "start_seconds": 749.67,
+    "end_seconds": 749.68,
+    "text": "And first safety principle, it is"
+  },
+  {
+    "start": "00:12:29.680",
+    "end": "00:12:31.269",
+    "start_seconds": 749.68,
+    "end_seconds": 751.269,
+    "text": "And first safety principle, it is lightweight,"
+  },
+  {
+    "start": "00:12:31.269",
+    "end": "00:12:31.279",
+    "start_seconds": 751.269,
+    "end_seconds": 751.279,
+    "text": "lightweight,"
+  },
+  {
+    "start": "00:12:31.279",
+    "end": "00:12:34.710",
+    "start_seconds": 751.279,
+    "end_seconds": 754.71,
+    "text": "lightweight, less mass, less kinetic energy. We baked"
+  },
+  {
+    "start": "00:12:34.710",
+    "end": "00:12:34.720",
+    "start_seconds": 754.71,
+    "end_seconds": 754.72,
+    "text": "less mass, less kinetic energy. We baked"
+  },
+  {
+    "start": "00:12:34.720",
+    "end": "00:12:37.110",
+    "start_seconds": 754.72,
+    "end_seconds": 757.11,
+    "text": "less mass, less kinetic energy. We baked safety into the physics."
+  },
+  {
+    "start": "00:12:37.110",
+    "end": "00:12:37.120",
+    "start_seconds": 757.11,
+    "end_seconds": 757.12,
+    "text": "safety into the physics."
+  },
+  {
+    "start": "00:12:37.120",
+    "end": "00:12:40.870",
+    "start_seconds": 757.12,
+    "end_seconds": 760.87,
+    "text": "safety into the physics. Second, we borrow from iOS space"
+  },
+  {
+    "start": "00:12:40.870",
+    "end": "00:12:40.880",
+    "start_seconds": 760.87,
+    "end_seconds": 760.88,
+    "text": "Second, we borrow from iOS space"
+  },
+  {
+    "start": "00:12:40.880",
+    "end": "00:12:44.230",
+    "start_seconds": 760.88,
+    "end_seconds": 764.23,
+    "text": "Second, we borrow from iOS space redundant independence layers of safety"
+  },
+  {
+    "start": "00:12:44.230",
+    "end": "00:12:44.240",
+    "start_seconds": 764.23,
+    "end_seconds": 764.24,
+    "text": "redundant independence layers of safety"
+  },
+  {
+    "start": "00:12:44.240",
+    "end": "00:12:47.030",
+    "start_seconds": 764.24,
+    "end_seconds": 767.03,
+    "text": "redundant independence layers of safety that reinforce each other term of"
+  },
+  {
+    "start": "00:12:47.030",
+    "end": "00:12:47.040",
+    "start_seconds": 767.03,
+    "end_seconds": 767.04,
+    "text": "that reinforce each other term of"
+  },
+  {
+    "start": "00:12:47.040",
+    "end": "00:12:50.069",
+    "start_seconds": 767.04,
+    "end_seconds": 770.069,
+    "text": "that reinforce each other term of software systems."
+  },
+  {
+    "start": "00:12:50.069",
+    "end": "00:12:50.079",
+    "start_seconds": 770.069,
+    "end_seconds": 770.079,
+    "text": "software systems."
+  },
+  {
+    "start": "00:12:50.079",
+    "end": "00:12:54.949",
+    "start_seconds": 770.079,
+    "end_seconds": 774.949,
+    "text": "software systems. Third, our own world models is dedicated"
+  },
+  {
+    "start": "00:12:54.949",
+    "end": "00:12:54.959",
+    "start_seconds": 774.949,
+    "end_seconds": 774.9590000000001,
+    "text": "Third, our own world models is dedicated"
+  },
+  {
+    "start": "00:12:54.959",
+    "end": "00:12:59.829",
+    "start_seconds": 774.9590000000001,
+    "end_seconds": 779.829,
+    "text": "Third, our own world models is dedicated to safety. before any action."
+  },
+  {
+    "start": "00:12:59.829",
+    "end": "00:12:59.839",
+    "start_seconds": 779.829,
+    "end_seconds": 779.8389999999999,
+    "text": "to safety. before any action."
+  },
+  {
+    "start": "00:12:59.839",
+    "end": "00:13:03.110",
+    "start_seconds": 779.8389999999999,
+    "end_seconds": 783.11,
+    "text": "to safety. before any action. Our world model predict the outcome"
+  },
+  {
+    "start": "00:13:03.110",
+    "end": "00:13:03.120",
+    "start_seconds": 783.11,
+    "end_seconds": 783.12,
+    "text": "Our world model predict the outcome"
+  },
+  {
+    "start": "00:13:03.120",
+    "end": "00:13:07.190",
+    "start_seconds": 783.12,
+    "end_seconds": 787.19,
+    "text": "Our world model predict the outcome and then it's just enable the movement"
+  },
+  {
+    "start": "00:13:07.190",
+    "end": "00:13:07.200",
+    "start_seconds": 787.19,
+    "end_seconds": 787.2,
+    "text": "and then it's just enable the movement"
+  },
+  {
+    "start": "00:13:07.200",
+    "end": "00:13:12.710",
+    "start_seconds": 787.2,
+    "end_seconds": 792.71,
+    "text": "and then it's just enable the movement only when the path is clear."
+  },
+  {
+    "start": "00:13:12.720",
+    "end": "00:13:17.190",
+    "start_seconds": 792.72,
+    "end_seconds": 797.19,
+    "text": "And I'm sure that the companies that win"
+  },
+  {
+    "start": "00:13:17.190",
+    "end": "00:13:17.200",
+    "start_seconds": 797.19,
+    "end_seconds": 797.2,
+    "text": "And I'm sure that the companies that win"
+  },
+  {
+    "start": "00:13:17.200",
+    "end": "00:13:19.829",
+    "start_seconds": 797.2,
+    "end_seconds": 799.829,
+    "text": "And I'm sure that the companies that win at robotics are not the one that ship"
+  },
+  {
+    "start": "00:13:19.829",
+    "end": "00:13:19.839",
+    "start_seconds": 799.829,
+    "end_seconds": 799.8389999999999,
+    "text": "at robotics are not the one that ship"
+  },
+  {
+    "start": "00:13:19.839",
+    "end": "00:13:22.150",
+    "start_seconds": 799.8389999999999,
+    "end_seconds": 802.15,
+    "text": "at robotics are not the one that ship the most units today."
+  },
+  {
+    "start": "00:13:22.150",
+    "end": "00:13:22.160",
+    "start_seconds": 802.15,
+    "end_seconds": 802.16,
+    "text": "the most units today."
+  },
+  {
+    "start": "00:13:22.160",
+    "end": "00:13:25.030",
+    "start_seconds": 802.16,
+    "end_seconds": 805.03,
+    "text": "the most units today. They are the one that earn the trust on"
+  },
+  {
+    "start": "00:13:25.030",
+    "end": "00:13:25.040",
+    "start_seconds": 805.03,
+    "end_seconds": 805.04,
+    "text": "They are the one that earn the trust on"
+  },
+  {
+    "start": "00:13:25.040",
+    "end": "00:13:27.990",
+    "start_seconds": 805.04,
+    "end_seconds": 807.99,
+    "text": "They are the one that earn the trust on the long term."
+  },
+  {
+    "start": "00:13:28.000",
+    "end": "00:13:31.269",
+    "start_seconds": 808.0,
+    "end_seconds": 811.269,
+    "text": "And at TUMA we are building the safest"
+  },
+  {
+    "start": "00:13:31.269",
+    "end": "00:13:31.279",
+    "start_seconds": 811.269,
+    "end_seconds": 811.279,
+    "text": "And at TUMA we are building the safest"
+  },
+  {
+    "start": "00:13:31.279",
+    "end": "00:13:34.150",
+    "start_seconds": 811.279,
+    "end_seconds": 814.15,
+    "text": "And at TUMA we are building the safest but also the more capable most capable"
+  },
+  {
+    "start": "00:13:34.150",
+    "end": "00:13:34.160",
+    "start_seconds": 814.15,
+    "end_seconds": 814.16,
+    "text": "but also the more capable most capable"
+  },
+  {
+    "start": "00:13:34.160",
+    "end": "00:13:38.550",
+    "start_seconds": 814.16,
+    "end_seconds": 818.55,
+    "text": "but also the more capable most capable robot starting with our very first"
+  },
+  {
+    "start": "00:13:38.550",
+    "end": "00:13:38.560",
+    "start_seconds": 818.55,
+    "end_seconds": 818.56,
+    "text": "robot starting with our very first"
+  },
+  {
+    "start": "00:13:38.560",
+    "end": "00:13:40.310",
+    "start_seconds": 818.56,
+    "end_seconds": 820.31,
+    "text": "robot starting with our very first prototype"
+  },
+  {
+    "start": "00:13:40.310",
+    "end": "00:13:40.320",
+    "start_seconds": 820.31,
+    "end_seconds": 820.32,
+    "text": "prototype"
+  },
+  {
+    "start": "00:13:40.320",
+    "end": "00:13:43.110",
+    "start_seconds": 820.32,
+    "end_seconds": 823.11,
+    "text": "prototype develop in our lab to validate the"
+  },
+  {
+    "start": "00:13:43.110",
+    "end": "00:13:43.120",
+    "start_seconds": 823.11,
+    "end_seconds": 823.12,
+    "text": "develop in our lab to validate the"
+  },
+  {
+    "start": "00:13:43.120",
+    "end": "00:13:45.269",
+    "start_seconds": 823.12,
+    "end_seconds": 825.269,
+    "text": "develop in our lab to validate the fundamentals."
+  },
+  {
+    "start": "00:13:45.269",
+    "end": "00:13:45.279",
+    "start_seconds": 825.269,
+    "end_seconds": 825.279,
+    "text": "fundamentals."
+  },
+  {
+    "start": "00:13:45.279",
+    "end": "00:13:52.870",
+    "start_seconds": 825.279,
+    "end_seconds": 832.87,
+    "text": "fundamentals. We call it version zero."
+  },
+  {
+    "start": "00:13:52.880",
+    "end": "00:14:00.790",
+    "start_seconds": 832.88,
+    "end_seconds": 840.79,
+    "text": "I like"
+  },
+  {
+    "start": "00:14:00.800",
+    "end": "00:14:05.750",
+    "start_seconds": 840.8,
+    "end_seconds": 845.75,
+    "text": "AI software hardware a small team 9"
+  },
+  {
+    "start": "00:14:05.750",
+    "end": "00:14:05.760",
+    "start_seconds": 845.75,
+    "end_seconds": 845.76,
+    "text": "AI software hardware a small team 9"
+  },
+  {
+    "start": "00:14:05.760",
+    "end": "00:14:08.389",
+    "start_seconds": 845.76,
+    "end_seconds": 848.389,
+    "text": "AI software hardware a small team 9 months"
+  },
+  {
+    "start": "00:14:08.389",
+    "end": "00:14:08.399",
+    "start_seconds": 848.389,
+    "end_seconds": 848.399,
+    "text": "months"
+  },
+  {
+    "start": "00:14:08.399",
+    "end": "00:14:13.750",
+    "start_seconds": 848.399,
+    "end_seconds": 853.75,
+    "text": "months designed and assembled in Paris"
+  },
+  {
+    "start": "00:14:13.760",
+    "end": "00:14:17.030",
+    "start_seconds": 853.76,
+    "end_seconds": 857.03,
+    "text": "and so I often get asked why did you"
+  },
+  {
+    "start": "00:14:17.030",
+    "end": "00:14:17.040",
+    "start_seconds": 857.03,
+    "end_seconds": 857.04,
+    "text": "and so I often get asked why did you"
+  },
+  {
+    "start": "00:14:17.040",
+    "end": "00:14:21.189",
+    "start_seconds": 857.04,
+    "end_seconds": 861.189,
+    "text": "and so I often get asked why did you start UMAR in Europe"
+  },
+  {
+    "start": "00:14:21.189",
+    "end": "00:14:21.199",
+    "start_seconds": 861.189,
+    "end_seconds": 861.199,
+    "text": "start UMAR in Europe"
+  },
+  {
+    "start": "00:14:21.199",
+    "end": "00:14:24.230",
+    "start_seconds": 861.199,
+    "end_seconds": 864.23,
+    "text": "start UMAR in Europe it's because it's the best market."
+  },
+  {
+    "start": "00:14:24.230",
+    "end": "00:14:24.240",
+    "start_seconds": 864.23,
+    "end_seconds": 864.24,
+    "text": "it's because it's the best market."
+  },
+  {
+    "start": "00:14:24.240",
+    "end": "00:14:26.629",
+    "start_seconds": 864.24,
+    "end_seconds": 866.629,
+    "text": "it's because it's the best market. That's where the situation is the most"
+  },
+  {
+    "start": "00:14:26.629",
+    "end": "00:14:26.639",
+    "start_seconds": 866.629,
+    "end_seconds": 866.639,
+    "text": "That's where the situation is the most"
+  },
+  {
+    "start": "00:14:26.639",
+    "end": "00:14:28.150",
+    "start_seconds": 866.639,
+    "end_seconds": 868.15,
+    "text": "That's where the situation is the most critical."
+  },
+  {
+    "start": "00:14:28.150",
+    "end": "00:14:28.160",
+    "start_seconds": 868.15,
+    "end_seconds": 868.16,
+    "text": "critical."
+  },
+  {
+    "start": "00:14:28.160",
+    "end": "00:14:30.470",
+    "start_seconds": 868.16,
+    "end_seconds": 870.47,
+    "text": "critical. Highest demand in term of automation,"
+  },
+  {
+    "start": "00:14:30.470",
+    "end": "00:14:30.480",
+    "start_seconds": 870.47,
+    "end_seconds": 870.48,
+    "text": "Highest demand in term of automation,"
+  },
+  {
+    "start": "00:14:30.480",
+    "end": "00:14:34.230",
+    "start_seconds": 870.48,
+    "end_seconds": 874.23,
+    "text": "Highest demand in term of automation, highest cost of labor. That's why we"
+  },
+  {
+    "start": "00:14:34.230",
+    "end": "00:14:34.240",
+    "start_seconds": 874.23,
+    "end_seconds": 874.24,
+    "text": "highest cost of labor. That's why we"
+  },
+  {
+    "start": "00:14:34.240",
+    "end": "00:14:38.870",
+    "start_seconds": 874.24,
+    "end_seconds": 878.87,
+    "text": "highest cost of labor. That's why we started Umar in Europe and North America"
+  },
+  {
+    "start": "00:14:38.870",
+    "end": "00:14:38.880",
+    "start_seconds": 878.87,
+    "end_seconds": 878.88,
+    "text": "started Umar in Europe and North America"
+  },
+  {
+    "start": "00:14:38.880",
+    "end": "00:14:43.350",
+    "start_seconds": 878.88,
+    "end_seconds": 883.35,
+    "text": "started Umar in Europe and North America and Asia will soon follow."
+  },
+  {
+    "start": "00:14:43.350",
+    "end": "00:14:43.360",
+    "start_seconds": 883.35,
+    "end_seconds": 883.36,
+    "text": "and Asia will soon follow."
+  },
+  {
+    "start": "00:14:43.360",
+    "end": "00:14:48.069",
+    "start_seconds": 883.36,
+    "end_seconds": 888.069,
+    "text": "and Asia will soon follow. In term of go to market,"
+  },
+  {
+    "start": "00:14:48.079",
+    "end": "00:14:51.350",
+    "start_seconds": 888.079,
+    "end_seconds": 891.35,
+    "text": "three steps. First, logistics. That's"
+  },
+  {
+    "start": "00:14:51.350",
+    "end": "00:14:51.360",
+    "start_seconds": 891.35,
+    "end_seconds": 891.36,
+    "text": "three steps. First, logistics. That's"
+  },
+  {
+    "start": "00:14:51.360",
+    "end": "00:14:54.069",
+    "start_seconds": 891.36,
+    "end_seconds": 894.069,
+    "text": "three steps. First, logistics. That's where we have control environments."
+  },
+  {
+    "start": "00:14:54.069",
+    "end": "00:14:54.079",
+    "start_seconds": 894.069,
+    "end_seconds": 894.079,
+    "text": "where we have control environments."
+  },
+  {
+    "start": "00:14:54.079",
+    "end": "00:14:56.310",
+    "start_seconds": 894.079,
+    "end_seconds": 896.31,
+    "text": "where we have control environments. We can deploy hundreds of robots at a"
+  },
+  {
+    "start": "00:14:56.310",
+    "end": "00:14:56.320",
+    "start_seconds": 896.31,
+    "end_seconds": 896.32,
+    "text": "We can deploy hundreds of robots at a"
+  },
+  {
+    "start": "00:14:56.320",
+    "end": "00:15:00.230",
+    "start_seconds": 896.32,
+    "end_seconds": 900.23,
+    "text": "We can deploy hundreds of robots at a single site and demand is im immediate."
+  },
+  {
+    "start": "00:15:00.230",
+    "end": "00:15:00.240",
+    "start_seconds": 900.23,
+    "end_seconds": 900.24,
+    "text": "single site and demand is im immediate."
+  },
+  {
+    "start": "00:15:00.240",
+    "end": "00:15:03.590",
+    "start_seconds": 900.24,
+    "end_seconds": 903.59,
+    "text": "single site and demand is im immediate. Second step manufacturing that's where"
+  },
+  {
+    "start": "00:15:03.590",
+    "end": "00:15:03.600",
+    "start_seconds": 903.59,
+    "end_seconds": 903.6,
+    "text": "Second step manufacturing that's where"
+  },
+  {
+    "start": "00:15:03.600",
+    "end": "00:15:06.389",
+    "start_seconds": 903.6,
+    "end_seconds": 906.389,
+    "text": "Second step manufacturing that's where the requirement in term of dexterity is"
+  },
+  {
+    "start": "00:15:06.389",
+    "end": "00:15:06.399",
+    "start_seconds": 906.389,
+    "end_seconds": 906.399,
+    "text": "the requirement in term of dexterity is"
+  },
+  {
+    "start": "00:15:06.399",
+    "end": "00:15:09.750",
+    "start_seconds": 906.399,
+    "end_seconds": 909.75,
+    "text": "the requirement in term of dexterity is higher and third homes where this"
+  },
+  {
+    "start": "00:15:09.750",
+    "end": "00:15:09.760",
+    "start_seconds": 909.75,
+    "end_seconds": 909.76,
+    "text": "higher and third homes where this"
+  },
+  {
+    "start": "00:15:09.760",
+    "end": "00:15:14.310",
+    "start_seconds": 909.76,
+    "end_seconds": 914.31,
+    "text": "higher and third homes where this technology will increase the"
+  },
+  {
+    "start": "00:15:14.310",
+    "end": "00:15:14.320",
+    "start_seconds": 914.31,
+    "end_seconds": 914.32,
+    "text": "technology will increase the"
+  },
+  {
+    "start": "00:15:14.320",
+    "end": "00:15:19.509",
+    "start_seconds": 914.32,
+    "end_seconds": 919.509,
+    "text": "technology will increase the quality of life for everyone."
+  },
+  {
+    "start": "00:15:19.519",
+    "end": "00:15:23.829",
+    "start_seconds": 919.519,
+    "end_seconds": 923.829,
+    "text": "So now we know what to build, how to"
+  },
+  {
+    "start": "00:15:23.829",
+    "end": "00:15:23.839",
+    "start_seconds": 923.829,
+    "end_seconds": 923.8389999999999,
+    "text": "So now we know what to build, how to"
+  },
+  {
+    "start": "00:15:23.839",
+    "end": "00:15:27.590",
+    "start_seconds": 923.8389999999999,
+    "end_seconds": 927.59,
+    "text": "So now we know what to build, how to build it, and where to deploy. But how"
+  },
+  {
+    "start": "00:15:27.590",
+    "end": "00:15:27.600",
+    "start_seconds": 927.59,
+    "end_seconds": 927.6,
+    "text": "build it, and where to deploy. But how"
+  },
+  {
+    "start": "00:15:27.600",
+    "end": "00:15:29.990",
+    "start_seconds": 927.6,
+    "end_seconds": 929.99,
+    "text": "build it, and where to deploy. But how do we build these robots quickly enough"
+  },
+  {
+    "start": "00:15:29.990",
+    "end": "00:15:30.000",
+    "start_seconds": 929.99,
+    "end_seconds": 930.0,
+    "text": "do we build these robots quickly enough"
+  },
+  {
+    "start": "00:15:30.000",
+    "end": "00:15:35.030",
+    "start_seconds": 930.0,
+    "end_seconds": 935.03,
+    "text": "do we build these robots quickly enough to address the crisis I talk about?"
+  },
+  {
+    "start": "00:15:35.030",
+    "end": "00:15:35.040",
+    "start_seconds": 935.03,
+    "end_seconds": 935.04,
+    "text": "to address the crisis I talk about?"
+  },
+  {
+    "start": "00:15:35.040",
+    "end": "00:15:39.269",
+    "start_seconds": 935.04,
+    "end_seconds": 939.269,
+    "text": "to address the crisis I talk about? Let me tell you about smartphones."
+  },
+  {
+    "start": "00:15:39.269",
+    "end": "00:15:39.279",
+    "start_seconds": 939.269,
+    "end_seconds": 939.279,
+    "text": "Let me tell you about smartphones."
+  },
+  {
+    "start": "00:15:39.279",
+    "end": "00:15:41.829",
+    "start_seconds": 939.279,
+    "end_seconds": 941.829,
+    "text": "Let me tell you about smartphones. From the first iPhone"
+  },
+  {
+    "start": "00:15:41.829",
+    "end": "00:15:41.839",
+    "start_seconds": 941.829,
+    "end_seconds": 941.8389999999999,
+    "text": "From the first iPhone"
+  },
+  {
+    "start": "00:15:41.839",
+    "end": "00:15:46.230",
+    "start_seconds": 941.8389999999999,
+    "end_seconds": 946.23,
+    "text": "From the first iPhone to as many as people on earth, it took"
+  },
+  {
+    "start": "00:15:46.230",
+    "end": "00:15:46.240",
+    "start_seconds": 946.23,
+    "end_seconds": 946.24,
+    "text": "to as many as people on earth, it took"
+  },
+  {
+    "start": "00:15:46.240",
+    "end": "00:15:50.230",
+    "start_seconds": 946.24,
+    "end_seconds": 950.23,
+    "text": "to as many as people on earth, it took the industry only 12 years."
+  },
+  {
+    "start": "00:15:50.230",
+    "end": "00:15:50.240",
+    "start_seconds": 950.23,
+    "end_seconds": 950.24,
+    "text": "the industry only 12 years."
+  },
+  {
+    "start": "00:15:50.240",
+    "end": "00:15:52.389",
+    "start_seconds": 950.24,
+    "end_seconds": 952.389,
+    "text": "the industry only 12 years. But"
+  },
+  {
+    "start": "00:15:52.389",
+    "end": "00:15:52.399",
+    "start_seconds": 952.389,
+    "end_seconds": 952.399,
+    "text": "But"
+  },
+  {
+    "start": "00:15:52.399",
+    "end": "00:15:54.629",
+    "start_seconds": 952.399,
+    "end_seconds": 954.629,
+    "text": "But a smartphone cannot build another"
+  },
+  {
+    "start": "00:15:54.629",
+    "end": "00:15:54.639",
+    "start_seconds": 954.629,
+    "end_seconds": 954.639,
+    "text": "a smartphone cannot build another"
+  },
+  {
+    "start": "00:15:54.639",
+    "end": "00:15:59.509",
+    "start_seconds": 954.639,
+    "end_seconds": 959.509,
+    "text": "a smartphone cannot build another smartphone. A robot can."
+  },
+  {
+    "start": "00:15:59.519",
+    "end": "00:16:03.110",
+    "start_seconds": 959.519,
+    "end_seconds": 963.11,
+    "text": "So each generation of UMA robots"
+  },
+  {
+    "start": "00:16:03.110",
+    "end": "00:16:03.120",
+    "start_seconds": 963.11,
+    "end_seconds": 963.12,
+    "text": "So each generation of UMA robots"
+  },
+  {
+    "start": "00:16:03.120",
+    "end": "00:16:06.389",
+    "start_seconds": 963.12,
+    "end_seconds": 966.389,
+    "text": "So each generation of UMA robots is going to build the next one"
+  },
+  {
+    "start": "00:16:06.389",
+    "end": "00:16:06.399",
+    "start_seconds": 966.389,
+    "end_seconds": 966.399,
+    "text": "is going to build the next one"
+  },
+  {
+    "start": "00:16:06.399",
+    "end": "00:16:08.310",
+    "start_seconds": 966.399,
+    "end_seconds": 968.31,
+    "text": "is going to build the next one more capable,"
+  },
+  {
+    "start": "00:16:08.310",
+    "end": "00:16:08.320",
+    "start_seconds": 968.31,
+    "end_seconds": 968.32,
+    "text": "more capable,"
+  },
+  {
+    "start": "00:16:08.320",
+    "end": "00:16:10.710",
+    "start_seconds": 968.32,
+    "end_seconds": 970.71,
+    "text": "more capable, safer"
+  },
+  {
+    "start": "00:16:10.710",
+    "end": "00:16:10.720",
+    "start_seconds": 970.71,
+    "end_seconds": 970.72,
+    "text": "safer"
+  },
+  {
+    "start": "00:16:10.720",
+    "end": "00:16:16.710",
+    "start_seconds": 970.72,
+    "end_seconds": 976.71,
+    "text": "safer and at a speed which is exponential"
+  },
+  {
+    "start": "00:16:16.720",
+    "end": "00:16:20.550",
+    "start_seconds": 976.72,
+    "end_seconds": 980.55,
+    "text": "robots building robots. That's how we go"
+  },
+  {
+    "start": "00:16:20.550",
+    "end": "00:16:20.560",
+    "start_seconds": 980.55,
+    "end_seconds": 980.56,
+    "text": "robots building robots. That's how we go"
+  },
+  {
+    "start": "00:16:20.560",
+    "end": "00:16:24.949",
+    "start_seconds": 980.56,
+    "end_seconds": 984.949,
+    "text": "robots building robots. That's how we go quickly enough."
+  },
+  {
+    "start": "00:16:24.959",
+    "end": "00:16:29.990",
+    "start_seconds": 984.959,
+    "end_seconds": 989.99,
+    "text": "So this next generation of robots,"
+  },
+  {
+    "start": "00:16:29.990",
+    "end": "00:16:30.000",
+    "start_seconds": 989.99,
+    "end_seconds": 990.0,
+    "text": "So this next generation of robots,"
+  },
+  {
+    "start": "00:16:30.000",
+    "end": "00:16:33.829",
+    "start_seconds": 990.0,
+    "end_seconds": 993.829,
+    "text": "So this next generation of robots, it is about making sure that the work"
+  },
+  {
+    "start": "00:16:33.829",
+    "end": "00:16:33.839",
+    "start_seconds": 993.829,
+    "end_seconds": 993.8389999999999,
+    "text": "it is about making sure that the work"
+  },
+  {
+    "start": "00:16:33.839",
+    "end": "00:16:36.389",
+    "start_seconds": 993.8389999999999,
+    "end_seconds": 996.389,
+    "text": "it is about making sure that the work that holds our society and our life"
+  },
+  {
+    "start": "00:16:36.389",
+    "end": "00:16:36.399",
+    "start_seconds": 996.389,
+    "end_seconds": 996.399,
+    "text": "that holds our society and our life"
+  },
+  {
+    "start": "00:16:36.399",
+    "end": "00:16:40.069",
+    "start_seconds": 996.399,
+    "end_seconds": 1000.069,
+    "text": "that holds our society and our life together still gets done and done for"
+  },
+  {
+    "start": "00:16:40.069",
+    "end": "00:16:40.079",
+    "start_seconds": 1000.069,
+    "end_seconds": 1000.079,
+    "text": "together still gets done and done for"
+  },
+  {
+    "start": "00:16:40.079",
+    "end": "00:16:44.389",
+    "start_seconds": 1000.079,
+    "end_seconds": 1004.389,
+    "text": "together still gets done and done for every one of us."
+  },
+  {
+    "start": "00:16:44.399",
+    "end": "00:16:47.670",
+    "start_seconds": 1004.399,
+    "end_seconds": 1007.67,
+    "text": "Every generation faces challenges that"
+  },
+  {
+    "start": "00:16:47.670",
+    "end": "00:16:47.680",
+    "start_seconds": 1007.67,
+    "end_seconds": 1007.68,
+    "text": "Every generation faces challenges that"
+  },
+  {
+    "start": "00:16:47.680",
+    "end": "00:16:51.269",
+    "start_seconds": 1007.68,
+    "end_seconds": 1011.269,
+    "text": "Every generation faces challenges that shape the future. And this is our turn."
+  },
+  {
+    "start": "00:16:51.269",
+    "end": "00:16:51.279",
+    "start_seconds": 1011.269,
+    "end_seconds": 1011.279,
+    "text": "shape the future. And this is our turn."
+  },
+  {
+    "start": "00:16:51.279",
+    "end": "00:16:54.069",
+    "start_seconds": 1011.279,
+    "end_seconds": 1014.069,
+    "text": "shape the future. And this is our turn. And at Tuma, we build this future with a"
+  },
+  {
+    "start": "00:16:54.069",
+    "end": "00:16:54.079",
+    "start_seconds": 1014.069,
+    "end_seconds": 1014.079,
+    "text": "And at Tuma, we build this future with a"
+  },
+  {
+    "start": "00:16:54.079",
+    "end": "00:16:56.710",
+    "start_seconds": 1014.079,
+    "end_seconds": 1016.71,
+    "text": "And at Tuma, we build this future with a deep sense of responsibility, humanistic"
+  },
+  {
+    "start": "00:16:56.710",
+    "end": "00:16:56.720",
+    "start_seconds": 1016.71,
+    "end_seconds": 1016.72,
+    "text": "deep sense of responsibility, humanistic"
+  },
+  {
+    "start": "00:16:56.720",
+    "end": "00:17:00.949",
+    "start_seconds": 1016.72,
+    "end_seconds": 1020.949,
+    "text": "deep sense of responsibility, humanistic values, and passion."
+  },
+  {
+    "start": "00:17:00.949",
+    "end": "00:17:00.959",
+    "start_seconds": 1020.949,
+    "end_seconds": 1020.959,
+    "text": "values, and passion."
+  },
+  {
+    "start": "00:17:00.959",
+    "end": "00:17:04.199",
+    "start_seconds": 1020.959,
+    "end_seconds": 1024.199,
+    "text": "values, and passion. Thank you."
+  }
+]

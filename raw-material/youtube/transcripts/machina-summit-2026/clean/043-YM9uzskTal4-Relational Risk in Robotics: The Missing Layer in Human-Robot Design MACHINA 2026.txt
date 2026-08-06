@@ -1,0 +1,469 @@
+[music]
+Uh hello hi uh thank you all for joining
+this session. So we've been listening a
+lot about different types of risks in
+robotics industry and what we want to
+leave you with today is the psychosocial
+safety and trust in terms of robotics
+industry. So we're going to be
+presenting some of the work that we are
+doing at the Institute for Humane
+Robotics. Um so first question that I'm
+going to have for all of you is what
+will happen to humanity when robots
+enter our life at scale. This is the
+centerpiece question of the work that we
+are doing at the institute. And what we
+are, we are a private research
+organization and a standards body that's
+working on all robots entering human
+environments, specifically caregiving,
+household, education, and healthcare.
+So, historically speaking, what we've
+seen with technology industry is that we
+build, we deploy, and then we are
+dealing with the consequences.
+And so a couple of examples of that
+would be studying with social media. So
+for 12 years now we already have all the
+depth of the research on how social
+media has been shaping especially child
+development but also generally humanity.
+Some of the cases that we've been seeing
+in the last years are related to cyber
+bullying, increase in anxiety,
+depression and suicide rates. Similar to
+that we are also now experiencing the
+same problems in AI space. Um most
+recently we've seen a couple of uh cases
+when uh teenagers would commit suicide
+with the help of their AI specifically
+with the story of Adam. He had 277
+mentions of suicide in his
+correspondence with Chad Gypit. It went
+so far that Chad GPT helped him to
+brainstorm the ways how he should tie a
+knot that he used to end up hanging
+himself and unfortunately after that his
+parents found him dead in his room. Now
+Open Eye is going through a lawsuit with
+the family and what we are seeing is
+this is something that might also happen
+in the robotics industry. One example of
+something that already did happen in the
+robotics industry is with our beloved
+Moxy. Moxy was one of the earliest
+social companion robots that came out of
+MIT. Uh it was built to have a emotional
+and social support for kids. But when
+the company went bankrupt, Moxy just
+stopped working. And all of the sudden
+all these households and people and
+families that have had Moxy as a part of
+their family have left with the
+questions of how do I explain to my
+child that this thing that he connected
+to or she connected to is no longer
+alive and we are entering the era of
+humanoids. uh some of the founders of
+the largest companies are so willingly
+sharing in their media campaigns that
+their robots among other things are also
+going to be naming your children. And so
+the use case that we are seeing that is
+going to become as a intentional
+utilization of their robots. But if you
+look at their team structure, if you
+look at their frameworks, no child
+development experts, no family mental
+health experts. So what we are seeing is
+that we could come across at a much much
+much larger crisis with robots entering
+our households. And as mentioned before,
+this is something that we don't really
+have to predict. We already have the
+data. We already have the history to
+learn from. And now we have a window of
+opportunity to actually impact that
+space. and I'm going to give it to
+Roshni to talk a little bit about one of
+the most important ingredients of this
+process.
+Thank you. So I want to talk a bit about
+empathy. My research looked at how
+empathy and antisocial behavior
+manifests in the brain and in humans as
+well as in AI. So just to start with a
+quick definition of what empathy is, um
+the most basic way you can define it is
+to understand and share the feelings of
+others. But when we think of
+neuroscience and psychology, we actually
+go a bit deeper than that and actually
+split empathy into these two different
+subtypes of cognitive empathy and
+affective empathy. So cognitive empathy
+is our ability to infer and model the
+states of others while affective empathy
+is actually our ability to share the
+states of others. And when we look in
+the brain, these actually relate to
+different neural processes.
+Specifically, cognitive empathy is
+related to the default mode network,
+which is a set of brain regions that are
+often activated together when you think
+of self self-reerential thought,
+daydreaming, what we call resting state
+in the fMRI scanner, where we have
+people just lie there and think of
+whatever they want to think of. Um, in
+terms of affective empathy, which is
+sharing the states of others, this
+relates to activity in the insular
+cortex. It's kind of like a mini brain
+if you open the brain up and damage to
+this area actually leads to a lack of a
+ability to share states with others. And
+so these are two dissociable systems
+which means one of these can run without
+the other. And what we can see is that
+when one type of empathy works without
+the other, we get what is called in AI
+at least as misalignment. In biology,
+this is sometimes referred to as
+antisocial behavior, psychopathy, which
+is when you see one type of empathy with
+the lack of the other. Specifically,
+this is when you have an enhanced
+ability of cognitive empathy of
+predicting the states of others and and
+lack of being able to share those
+states. So when you think of AI models
+that are built entirely on human data,
+they are very very advanced at
+predicting our states, at understanding
+human emotion, at understanding human
+vulnerabilities, but they're not
+embodied and they lack this ability of
+sharing these states with us. So um when
+we think about misalignment, this can
+obviously lead to misalignment is this
+mismatch of empathy. From a biological
+perspective, we can see that these
+antisocial behaviors or misaligned
+behaviors can occur when there is a
+hyper sensitive sensitivity to reward
+where people are overly sensitive to
+money or power or whatever reward means
+to them paired with this impaired
+empathy and this can lead to these
+undesirable personalities. Similar
+things can happen in artificial systems
+or artificial intelligence where you can
+have this enhanced sensitivity to reward
+as well as this dysfunction and empathy.
+Um, and one prominent example that we
+can actually study very well in human
+systems is the dark triad of
+personality.
+So this is what my dissertation focused
+on was how do we better understand
+misalignment using these frameworks that
+we can use from human intelligence and
+from the biological side of things. So
+the dark triad is a set of three traits
+which is narcissism, mchavelianism and
+psychopathy. And one thing that links
+these together is an enhanced cognitive
+empathy abilities with a lack of
+affective empathy. And I studied this at
+three levels. I looked at the brain, I
+looked at behavior, and then I also
+looked at AI specifically how these dark
+triad personas might be able to manifest
+in large language models.
+So, one of the things that I did was ask
+this these different moral dilemmas to
+both humans and to my AI models that I
+had fine-tuned into these personas. Um,
+so it's a very basic trolley dilemma,
+but there were many different versions
+of it. One of them is, is it appropriate
+to swerve and hit an old lady in order
+to save a young mother and her child?
+And I wanted to see how easily, not
+necessarily can the [clears throat]
+models take on these personas. We know
+AI models are very very good at persona
+modeling, but how easily can we actually
+tweak them into changing their response,
+which was actually very very easy. I
+used as few as 36 examples in the
+fine-tuning data set, which if you're
+familiar with fine-tuning, that's
+incredibly small for large language
+models. Um, and again, it's not
+necessarily surprising that this is
+possible, that they are able to take on
+the personas. But the surprising thing
+is how easily they can be manipulated,
+how easily these AI models can actually
+become misaligned.
+And what's even more concerning is these
+models are being deployed into other
+autonomous agents as well as into
+robots. Um, for example, if you think of
+the same trolley dilemma, but in a more
+real world example with a Tesla that
+actually has to make this decision. Um,
+it's concerning that these models are so
+easily manipulated and so easily
+misaligned.
+And as we know, a lot of these large
+language models are actually being
+deployed into robots. Um, for example,
+even the mechanism behind full
+self-driving is being integrated into
+Tesla's Optimus. And the fact that these
+models can be so easily misaligned,
+whether it's large language models or
+robots, leads to a question of trust of
+how how easily can we trust these robots
+when we bring them into our homes. And
+this leads to the safety layer that we
+want to build at the Institute for
+Humane Robotics.
+You um okay so I'm going to share a
+little bit about the actual work that we
+are doing at the institute. So how we
+run is on the ecosystem approach. So we
+have a five department model. So we work
+directly with industry with different
+robotics companies across United States,
+Asia and Europe. We bring them into
+research labs and we help university to
+get access to the robots that they
+usually wouldn't be able to access
+because of the subscription subscription
+model. And during that process, we are
+learning a lot of wonderful insights and
+those insights are translated into
+policy. So we work with lobbyists in
+Washington DC on new legislations that
+are going to be regulating the
+psychosocial safety segment of the
+industry. But not just that, we know
+that in order for us to be able to
+really make a change, we also have to
+have a bottoms up approach. So besides
+just approaching through policy,
+industry and research, we are also
+working on education and media. So we
+are going to be running different docu
+series, shows, movies, podcasts to be
+able to educate an average Joe to
+understand and demystify the concepts
+from robotics industry.
+So as you can see, we have a uh three
+co-founder team. So Roshni just finished
+her PhD in neuroscience and technology.
+Phyllis from MIT Media Lab and uh from
+Microsoft and my background is in
+digital well-being and uh technologies
+impact on child's development where I
+was building uh three different startups
+in this space but we are not doing this
+alone. So we already have a quite of a
+uh partner network. So we work with Bay
+Area Robotics, Mass Robotics, with
+UNICEF, MIT Media Lab, Princeton, Altech
+is human and we are inviting
+collaborators to help us to shape the
+standards that are going to be impacting
+this space and as mentioned at the
+beginning of the speech this time we
+actually have an opportunity to break
+the pattern. So what we could do is we
+can create standards before we are
+scaling in the industry. We can create
+relational risk audits. We can have exit
+plans by design, knowing what happens
+when your technology stops working and
+how it's going to be impacting humans.
+And we also can have open frameworks and
+shared playbooks that we develop
+jointly. And one thing that we always
+like to pinpoint to the industry is that
+human- centered design actually saves
+you money on the long run. So what's
+really important with technology that's
+entering our lives is that there is a
+component of user trust. So people were
+bit rather buying and choosing
+technology that they trust into their
+science into their marketing and into
+the missions of the company. As we've
+seen in lately examples with Meta, with
+Google, with Snapchat, one lawsuit can
+cost you way more than participating in
+decade of compliance. And in the end we
+invite industry to help to shape the
+standards before the standards shape the
+industry. So as mentioned this is the
+window of opportunity when we have still
+the time to be shaping these policies
+together. And one important thing to
+think about is that ethical design is
+not a cost. It is an infrastructure for
+sustainable growth and people really
+need it. And one more time an invite for
+anyone in the room come and join with us
+on this big mission to build standards
+and shape them either from the industry
+standpoint, academia, legislation and we
+are also inviting investors who are
+interested in learning about this space
+to join our mission. And with that we
+conclude with inviting you all to be a
+part of a more humane future. Thank you
+so much.
+questions.
+>> I mean, do we have are we okay? Yeah.
+Yeah.
+>> We'll allow a question.
+>> Happy happy to. Of course. Sure. Thank
+you.
+over.
+Who's cooperating?
+system.
+It's already
+five or seven
+white.
+I have on board.
+>> Yeah. Thank you so much. Yeah, that's a
+really uh great perspective. Thank you
+for sharing that. So,
+>> no, no, no. Yeah. No, I appre No, very
+much appreciate it.
+>> Yeah. Yeah. So, I will answer you with
+the example of what I've been seeing in
+the industry. So, I moved to United
+States four years ago uh and started
+building in digital well-being spaces.
+So four years ago when I moved to New
+York when I would tell about like mental
+health soft skills we need to protect
+humanity everyone was saying like oh
+that's fluff no one cares about it soft
+skills are irrelevant we cannot invest
+in products that are assessing that and
+so for the last four years to be
+observing what's been happening and how
+much there is now momentum from users
+from the average from the mainstream
+audience people are mad had they really
+are now reacting to this. So hence we
+are seeing a lot of new lawsuits. Uh
+Common Sense Media is a wonderful
+organization that has been making a lot
+of change in terms of the legislations
+in California. They're doing some stuff
+in New York and right now they're
+regulating AI companions and access.
+Then Jonathan Hyde who's been uh famous
+for his book anxious generation. Very
+similarly he basically with his book
+created a momentum amongst people that
+are now advocating for the change in the
+governance level. So we've seen it being
+regulated already in Australia where uh
+smartphones are banned in schools. Now
+that's similarly happening in UK. There
+are certain school districts in United
+States. So hence us being in having that
+approach of like top down and bottoms
+up. We understand that especially in
+United States there will always be ways
+for the industry to go around the
+legislations and there will be a lot of
+push back which is why we invade
+inviting them to join us on this. I live
+in Japan so I'm learning a lot from the
+government system there. There is a lot
+of movement on like human machine
+symbiosis and healthy coexistence in
+between humans and machines. They have a
+billion dollar project going on right
+now called Moonshot, which is all about
+social acceptance of robots in society.
+So in order for them to have a high
+social acceptance rate, they have this
+uh holistic approach and there's a lot
+about so they basically measure it by
+how much humans are perceiving
+acceptance towards robots. So they're
+really working on the mindset of their
+citizens. So, and I'm also from Croatia,
+so we're learning from a European
+ecosystem where we have a lot of
+regulations. So, I think that this is
+definitely going to be a long process.
+We are very aware that uh we need to get
+a big players on board. Right now, we
+are working our way towards them. Uh we
+have not officially connected with uh
+Optimus or 1X or one of these like large
+companies that are uh so famously saying
+that humanoids are going to be nanning
+your children. But we are working our
+way towards that. So I do know that
+there will be push back but also seeing
+all this momentum that's happening right
+now. I think with that we do have
+advantage point especially with the
+lobbies that we are working with that
+have been working on the legislation
+around the ban of the tobacco. So they
+really have seen from the work how to
+approach this very very uh big uh issues
+and I would also say that we can see the
+public is really receptive to how
+companies interact with governments that
+they don't agree with especially in the
+US um the department of war situation
+that happened with open AI and anthropic
+where they tried to get Anthropic on
+board then they dropped out and openai
+went on board and even now open AI is
+allegedly selling 5% of their company to
+the US government. I don't know if
+people have seen that. Um, where Trump
+literally wants to have a stake in
+OpenAI. Um, and the public is responding
+to that. I mean, the amount of people
+who have left Chachib and moved over to
+Claude, like whether the companies want
+to accept that or not, like you need
+customers to be a company. So, to be
+successful, like you need to appeal to
+what the public is is leaning towards.
+And I think the Department of War
+situation like really shows that the
+public really drives like what companies
+do and what will work and what won't
+work. So even when it comes to robotics,
+if you see companies that are partnering
+with the wrong kind of parties or not
+necessarily being as safe as as the
+public assumes is safe, there will be
+push back. I think
+>> Thank you.
+Yeah, I mean I think the EU AI act is a
+great like example. Um I think the
+European government, the UK government
+is doing a lot in terms of at least like
+LLM safety. Um and so I think that's a
+great example to go off of.
+>> Thank you guys.
+>> Thank you. Thank you so much.

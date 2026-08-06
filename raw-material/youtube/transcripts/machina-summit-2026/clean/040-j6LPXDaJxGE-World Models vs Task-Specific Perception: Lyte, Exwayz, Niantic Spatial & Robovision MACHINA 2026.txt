@@ -1,0 +1,805 @@
+[music]
+Hi everyone. I'm very excited to be here
+and uh glad to see there's still a lot
+of people here even though it's been a
+long and probably a bit hot day. Um so
+the topic of today's session is actually
+around world models versus task task
+specific perception. And I think this is
+actually a really interesting topic
+because on the surface uh you know it
+sounds very easy like a very simple
+question but I think with the current
+acceleration in physical AI there's
+actually a lot of complexity and
+actually lots of different schools of
+thought in terms of how we need to
+actually um progress in terms of
+perception and capability in order to
+accelerate uh the development of
+physical AI and the deployment of
+humanoid robots. And so there are
+different uh ideas around general world
+models, VA architectures as well as
+highly specialized models. And the panel
+we have today is actually a very diverse
+panel that will actually I think
+represent some of the different ways in
+which people are actually approaching
+this problem. So to start with, I'd
+actually like to start with just a bit
+more of a general question um and ask
+the panelists to share a view on what
+they believe perception for a robot
+basically encompasses in terms of what
+the robot should actually see and what
+do you think is the biggest uh shortfall
+or current challenge in terms of what
+the robot's actually not seeing today.
+Um so maybe I'll just start here.
+>> I think the robot needs to see what it
+needs to see. uh and that doesn't mean
+that it has uh to have the same sensors
+as the human and that is the biggest
+difficulty is that the human is always
+the developer of a system and needs to
+understand what goes wrong because a lot
+of development is debugging um yeah edge
+cases h and yeah with deep learning of
+course we have this neutrality to
+sensors and also a very good um yeah
+model to
+uh look for the needle in the haststack.
+So um that's my view.
+>> Hi, my name is Inhy. I'm the CEO of
+Ninetic Spatial. Let me just give a
+little context to answer the question on
+what robot seeds. We don't build robots.
+We don't build the bodies nor the
+brains. What we do build are the
+foundation models to give you geospatial
+awareness. Much like humans need a map.
+Think of us as building a 3D
+highfidelity map that is machine
+readable for robots. autonomous vehicles
+and also can navigate spaces in a safe
+way, efficient way and in spaces where
+GPS is denied. So you can imagine the
+possibility of where that has value for
+robotics. The piece that I think is
+missing in data is is data. um meaning
+unlike LLMs, you're going to need more
+verticalized special data that often is
+somewhat private and real data for
+deployments. So,
+>> um hi, I'm Hassan, CEO of X-ways. Um
+also like yeah, first thanks for the
+invitation. Super happy to be here uh in
+front of all all of you guys. So, uh um
+quick introduction about Xways. So at
+X-rays we are building a foundational
+layer for uh perception in a general
+sense for mobile robotics more towards
+like wheeled robots or drones. Um but
+really what we build can adapt to any
+kind of robots including humanoids and
+what we have been focusing on for the
+five pastures is uh mapping and
+localization with 3D LAR sensors. So
+that's just to give a bit of a
+background and I would say that the for
+us so in our perspective the one of the
+biggest challenge we have right now is
+making the models we are building um
+more generalizable meaning that when you
+have change sensor um like our sensor
+sets uh being able to adapt to uh
+different kind of sensor [snorts] noise
+or scanning pattern or stuff like that.
+And of course I I I join you on the on
+the data availability and stuff like
+that. But um hopefully with all the
+progress we have on world models and
+stuff, I think that we will have uh way
+more data and having access also to edge
+case data which is super exciting for
+the future.
+Okay, I'm Alex, CEO of flight. Um to
+answer your question, perception it does
+not exist in isolation. It's means to an
+end and the end is actuation and action.
+So robot needs to see whatever
+it needs to see in order to trust the
+environment and uh as light we measure
+pixels. We we measure physics directly
+not infrared from pixels at runtime. So
+we share it a little bit although we are
+not uh married to lidars or anything
+else. Evolution didn't have lightars
+available. No lasers
+evolved.
+Um so
+what's most important in perception is
+something that
+doesn't fail you because the cost of
+error is catastrophic many times. This
+is not an hallucination. You can change
+a word or two. If a robot fails and uh
+crashes something or crashes the human
+that's the end of the project. So safety
+>> um I think that's very interesting in
+terms of you know there's a couple of
+answers here around well the robot needs
+to see what it needs to see to go and
+actually make the actions and the
+decisions. So I guess brings us back to
+the fact that there maybe isn't one
+single view of what actually the robot
+needs in order to be able to effectively
+function. Um but I think right now in
+terms of there's a lot of emphasis on
+VAS and visual models. Um but I've
+already heard a couple of things around
+LAR and other sensors. So maybe I kind
+of want to throw back to Hassan and
+maybe then Alex um to talk about do you
+think that there has been enough focus
+on other forms of uh you know uh
+basically different modalities uh
+incorporated into robot systems today?
+Um do you think that's something that's
+going to be very important um in order
+for robots to actually be able to see
+essentially the information?
+>> Um yeah super interesting question. So
+first of all, I don't think it's it's
+never enough, you know, like we still
+need to push uh on on vision based um
+models even though like the state of the
+art today is is mesmerizing. I mean I've
+been working on this field for the past
+15 years and it it's just amazing the
+pace of evolution but for sure there is
+more room on u building foundational
+models on uh LAR data 3D data and that's
+what actually we are focusing on right
+now at Xways. So yeah, pretty hard task
+uh and have part of my team in the
+audience and that's the the hard job
+they they are working working on right
+now. Um and also one thing I would would
+like to add is maybe the next step is
+also being able to have to build uh
+foundational embeddings with joint uh
+sensor modality modalities because you
+have Alex talking about like safety and
+I deeply believe that uh safety comes
+from redundancy and being able to truly
+fuse sensor modalities at this lower
+level is is really the the next step and
+super hard to do because even before
+talking about models and and AI and
+stuff. We always have been uh hearing
+about like fusing light with cameras or
+lightars with radars, cameras with
+radars and that's a super hard task to
+do at the lower level but super
+interesting stuff to to work on.
+>> Thanks. [clears throat] So I
+categorically subscribe to um early
+sensor fusion. Um in terms of sensors I
+think there is not u there is a tax to
+pay. So smarter sensors, smaller brain.
+Smaller sensors, bigger brain. In fact,
+humans have a very big 20% of our brain
+is to process visual. Uh for mice, for
+example, uh there is additional one that
+processes whiskers
+big portion because they they kind of
+sense. So I think it's a trade-off. It's
+also where you pay the tax. you either
+pay the tax at at uh training or or you
+pay the tax at uh inference. Uh so there
+is no one good answer. Uh what I would
+like to say is
+my feeling is that we should not be
+dogmatic about this sensor modality.
+Physical AI needs uh to use all
+available means to be safe and efficient
+and fast and economical. So um really
+hotly subscribe to multimodel fusion
+measuring directly preventing these
+little failures. Uh that's something
+that will make robots real.
+Yeah. At at Robo Vision we have thousand
+robots in the field already for uh 10
+years. Um so a base that has grown
+steadily and what I hear not so often is
+the business case. uh every situation
+with a robot needs a business case and
+the business case has a cycle time and a
+cycle time creates dependencies on
+sensor and on training stuff because if
+you have to deploy over thousands of
+situations you cannot go to Ohio to a
+family business of four people and stay
+there with two weeks with experts. So a
+lot needs to be engineered in. So I
+would say that whatever technique is a
+good inspiration uh and becomes a
+configuration to a business to be
+deployed because all in all we all raise
+money as tech startups. We need to get
+that money to our investors with a
+multiple and that means that uh apart
+from the technical analysis we need to
+do a lot of business case analysis and
+this industry is of course extremely
+young. There is a lot of billions that
+go into humanoids, but if you look at
+the business cases, it's not entirely
+clear. You see them jumping and kung
+fuing, but in the end, it needs to work
+in a logistics plant. It needs to uh do
+the payback for the one who paid the
+money.
+>> Can I add to that? I also think the
+economics are changing a lot. So, I
+think about what we're building at
+Niantic Spatial as being cheaper,
+better, faster. Um so when I think about
+the cheaper it's uh the cost of of
+cameras has come down quite a bit and we
+can understand your standard
+off-the-shelf iPhone or Android phone
+camera as well as 360 camera. So the
+ability to even scan a space has gotten
+easier and faster. So we can do that uh
+much quicker in minutes possibly hours
+doing this whole station F as an
+example. In the past, you would have
+spent days. You would have had to use
+really expensive equipment. Now, you can
+do that in a few hundred dollars. The
+last piece is really the use case.
+Depending on if you're in an industrial
+complex, are you doing cityscale
+logistics delivery? Um, what we want to
+do is really think about making sure
+whatever your use case is that we're
+efficient, you're getting better
+optimization, and as Alex hit on safety.
+At the end of the day, we're talking
+these are non-deterministic spaces,
+meaning spaces where you're going to
+have humans or robots interact. And you
+have to be able to have clarity around
+um all of the all of the possibilities
+of movement for not only the robot, but
+also the human. So, you want to keep
+both completely safe.
+I feel like uh Ini you touched on a
+really good point there which is
+actually the fusion of different kinds
+of information and uh to actually enable
+the safety and actual and deployment of
+robots. So it feels like even though the
+topic is world models versus task task
+specific perceptions, sorry this is such
+a tongue twister. Um but it feels like
+actually to some extent maybe these
+models actually need to coexist and um I
+know that you're working on a lot of
+these uh spatial models and bringing
+this together into world models so that
+you actually have the location data and
+be able to have the geospatial
+awareness. Um, so I'm just curious uh
+from your perspective if you can uh
+provide a bit more insight about how you
+see this maybe coming together in terms
+of the interaction across different
+types of models um and the full set of
+capabilities.
+>> In the large language models category,
+you can have a generalized model um
+because it's easier. Language is for
+text, writing, speaking. As you get into
+the category of physical AI, it I don't
+think there's a single generalized
+model. Um if anything it's going to be
+more specialized vertical as well as
+domain um horizontal rules. It'll also
+be uh determined on the rules. As an
+example, you can fly a drone in I'm
+headquartered in San Francisco. We have
+an office in London. You can fly a drone
+in San Francisco. You cannot fly a drone
+in Los Angeles downtown. There are
+different rules by city, by location.
+So, if you were to do an aerial uh
+reconstruction that incorporates data
+from the air plus the ground to do 3D
+reconstructions, you're going to be
+constrained by the rules of the city.
+And every city is going to be different
+around the world as an example. Another
+example is if you're um deploying robots
+in an airport versus I'm deploying
+robots in an industrial factory or a oil
+and gas refinery,
+you're going to have machines, a lot of
+physical equipment. Uh GPS is denied in
+both places. Uh and the way you want to
+operate in terms of the safety
+protocols, the interactions and the
+services are very very different. So
+it's going to require uh unique data
+sets that are provided by those
+enterprises wanting to engage. And so
+that's the way we think about it is
+these specialized models but the
+computation of space at a what we
+consider a voxal meaning the volume and
+what comprises a space is unique and
+that can be generalized over time.
+I would just add to that that it's a
+configuration that suits a business case
+and still a human team that has to
+choose uh what is most uh appropriate
+for a specific business case. I think
+this is also an evolution of robotics.
+So if we look 10 20 years ago, robotics
+was uh pre-programmed right there's this
+famous graph by I think someone in
+someone at NVIDIA maybe Jensen. So
+pre-programmed then specialist robots
+and then specialist generalist. So I
+think we are somewhere nearing the
+specialist but this is not the end
+right? This is a path. So with evolution
+we will get someday to the robots that
+will do everything equally well. Today
+robots have bodies. Uh there are
+projects right projects have budgets and
+rather than trying to solve the whole
+world uh it's easier to just concentrate
+on one task and solve it.
+I'd like to dive into that a deep a bit
+more because um even though you know you
+mentioned specialized to generalized I
+feel like there's plenty of companies
+out there that are focused on very much
+generalized models and I think of world
+models as being you know infrastructure
+that we perceive that you know all
+applications or deployments will sit on
+top of. Um so I guess my question is do
+you think that world model uh
+infrastructure is a critical layer to
+enable a lot of this deployment or do
+you actually think that specialized
+deployment um without the real emergence
+of you know a mature world model will
+come first and is that actually the
+maybe more cost-effective or high ROI
+approach towards deployment.
+I I think u we can learn a lot on how
+the LLM revolution took place and what
+you see five years ago it was terribly
+difficult to prune a model and to make
+it more efficient just by especially
+training it on a thing and Andre Karpati
+said that the LLM was almost like a new
+operating system and I think this
+parallelism holds completely true for
+robotics. Of course, everything was
+specialized not so long ago, but
+everyone in robotics fully realizes that
+if you go to generalistic models, uh,
+and you specially train them on specific
+situations, you better start with a
+generalistic model and then you go to
+the specialized model and depending on
+the speed and the capacity of specially
+training it, um, you can then fit your
+business case. And of course, you have
+two focuses. If a company fully focus on
+a world model, that's the mission of the
+company and it's almost like the
+provider of an operating system in the
+old IT world. And then you have very
+pragmatic companies that will have a
+closer interface with the customers and
+and solve that on top of it much like
+the old IT world where applications come
+on top of Windows uh for instance and I
+think many in the audience here are
+already using this LLM as their entropic
+context or chat context as the new
+operating system to manage their lives.
+Uh nobody's like clicking the desktop
+anymore.
+Uh yes super interesting question. What
+I would like to add um is um uh for
+about like um simulation. So right now
+like it's it's a common knowledge that
+like simulation is a super tool to um to
+make deployment faster because you can
+like in theory test a lot beforehand
+before going to the field. But actually
+where you work really with simulation
+you find out that it's [snorts]
+like today they are like expert tools.
+you know, you need like to staff people
+uh very expert on on being able to build
+this whole simulation infrastructure.
+And what I what I foresee with these new
+um world model and not only on you know
+um let's say like camera modalities
+because we have seen like um gion
+splatting you know world model that can
+output ganian splatting or like 3D 3D
+data that's super interesting because or
+or even like LAR data with um with the
+Google deep mind uh um effort research
+effort. So this is super interesting
+because for me what I foresee is that
+like this world model will allow us to
+have like a plugandplay simulation tool
+because you just going to give like an
+image snapshot or light frame snapshot
+and then they will be able to to
+continue this and also generate edge
+cases which are like super interesting
+for for safety for you know these um you
+know very rare use cases. Um so for me
+it's like this part of the answer that
+that is super interesting because for me
+this will bridge the gap you know as
+making the simulation as just like as
+easy to use as an LLM you know like just
+to prompt it prompt it and then anybody
+can can use it and generate synthetic
+data in yeah like uh volumes that are
+incredibly high.
+>> Okay. I was going to say I also think
+there's an unlock when you make
+technology more readily available. So
+yesterday we announced um additional
+capabilities for USDZ format. So we can
+take a three uh D let's say Gausian
+splat that you've scanned with your
+phone or 360 camera. You can go into our
+web browser which is scanners and
+construct that format so that it is
+deployable within your training policies
+for a simulation to real deployment
+where the polygons and mesh are aligned.
+My view of that is we're now making it
+at a costefficient level. You can start
+to test it. If you're ready to break out
+of the lab and the simulation world to
+the real physical world, we're a good
+starting point for that. I think more
+technology that's available that's
+readily available that people can start
+to self-s serve for the developers of
+robotics in different ways and
+components will unlock more use cases.
+So when we think today about uh world
+model uh what comes to mind is a data
+center is like a 100 kilo what of
+compute at the moment you wait for a
+while right so I claim that this should
+not be the case right this is just today
+what we do at light we kind of collapse
+the divide between perception and and
+world modeling
+I think with time the gap will be gone
+and this will be the world model will be
+created in the moment of perception and
+uh as a nature inspired example we can
+uh look at the better for example if uh
+you know 100 miles per hour or 160 km
+per hour for Europe uh ball uh for
+baseball right the batter should commit
+to the swing
+somewhere where the the ball is like
+one/ird of the way um in only. So
+actually the better runs a world model,
+right? It's a very fast one. It's kind
+of a reflex. It's indistinguishable from
+perception. But this is a proof that
+there is a world model because without
+what is world model is predicting the
+next state of the world given current
+state history and the action. Right? So
+uh that should converge.
+>> I think we're of course here in France
+Paris um and we had this schism between
+the old um popes of AI let's say Joshua
+Benju Yan Lea and Jeffrey Hinton and and
+Yan Lai is the world model guy and he
+strongly believes that uh of course uh
+the current architecture is not good
+enough to build this world model. I
+think this also uh deserves some some
+attention that we're still not there yet
+maybe as a substrate to absorb all this
+data. Um and I was personally preview of
+uh I mean I started my career at the in
+institute of neuroinformatics in 1999
+and there we were um really like tapping
+into cat brains with electrodes to see
+how they processed uh visual data and I
+think we still of of course hopefully
+not with cat brains but uh I still will
+not yet dare to understand how efficient
+our own brain works and maybe this a
+whole AI revolution can compound to let
+us escape from the semicon paradigm in
+order to go to more fu flexible
+configurations of matter to absorb
+reality in a much more efficient way.
+I want to add uh about since you
+mentioned brain. So there is this world
+u well-known theory that uh actually
+brain is a bag of tricks. So each trick
+is a perception, right? You you learned
+it, you you don't think about your
+tricks, right? But if the baby doesn't
+have the tricks, uh it takes the baby a
+long time to learn. On top of it, there
+is some reasoning and kind of abstract
+world model running. I think this is
+probably the architecture that should uh
+prevail because with no hierarchy, there
+is just too much uh inefficiency going
+on.
+So I think it's very interesting to hear
+that actually we all believe that
+fundamentally we need some form of this
+world model to drive um the ability for
+us to actually uh create anything useful
+to make decisions um and be able to
+deploy. Um but it feels like even though
+we all believe that's the case, we're
+still far from it. Um but there are a
+lot of tools, techniques and things that
+are being done to address it. Um so I
+just want to throw and another question
+which is um what do you see as the
+potential bottleneck that you think
+needs to happen to come the challenges?
+Is it actually something in terms of the
+architecture? Do you think it's a data
+problem? Um maybe what's one thing that
+you think over the next one or two years
+um we should be focused on um thinking
+about how to break through uh to that
+kind of next level. Yeah, it's a
+combination of both. Of course, you need
+and the data and innovations in the
+architecture of uh this AI to be able to
+work much more efficiently with with
+this conundrum of data. I mean, it's of
+course much more data than the the whole
+text of the of the worldwide web.
+>> Any particular type of data that you
+think is is missing today or need we
+need more of?
+Uh well the problem is 3D scanning um
+that the sensors are still lacking the
+innovations of the AI revolution. So if
+you look at where it all started with
+the Microsoft connect um it was pretty
+spectacular for that time. We're talking
+15 years ago and what we have right now
+is not so much better in terms of 3D
+stream. It's still I mean it's maybe
+doubling the resolution but it's it's uh
+it's real sense took over at some point
+but it's it's it's kind of lagging the
+whole GPU AI revolution. I think that's
+that's an important thing.
+>> I'm laughing because uh some of you
+might not know Alex actually was on the
+uh core engineering team that uh
+supported connect. [laughter]
+>> Yes.
+>> Yeah. I mean it was my reference design.
+I'm guilty. Sorry.
+>> Really? [laughter]
+>> Thanks for mentioning.
+>> Can I have your signature afterwards?
+[clears throat]
+>> It sounds like they haven't made much
+progress since your design.
+>> But are you agreeing with me or not that
+there is not so much progress in 3D
+streaming data apart? Of course, we can
+do a lot with AI with RGB, but that's
+not a hardware innovation. That's an AI
+innovation.
+>> Yeah. when we started I think 20 years
+ago started prime sense with the idea of
+giving vision to machines right and the
+problem is was that there was no compute
+right we made quickly made the 3D sensor
+and the worked with about 2,000 robotic
+labs which looked like uh two people and
+half a robot so nothing really was ready
+uh therefore the biggest commercial
+application of connect was uh in gaming.
+So it actually connect wasn't connect
+was a kind of idea early idea for
+perception and then it found its way to
+face ID actually interestingly [snorts]
+I wanted to comment uh on kind of a
+whole different uh uh different thing
+but maybe I'll uh I'll yield and then
+then I'll make a comment. Maybe adding
+on both your comments, I uh physics of
+everything is a very broad subject. It's
+so different than my prior background
+before this job was I was president
+product technology for docysine. So
+language, LLMs, understanding um AI and
+data in a readable form and going deep
+on a vertical like that is easier task
+than what we're talking about. And so
+even for us, we're going down a very
+specific computer vision aspect which is
+on vision modalities aka camera types
+and data types um old form pre-existing
+data versus new scan spaces uh and to
+make sense of that space through depth.
+Depth is one of the UNITA aspects that
+we have really uh the best researchers
+um thinking about because it's a
+complicated element when you talk about
+how robots enter spaces, move out of
+spaces, um what fits where. These are
+not things you just search on Google.
+You don't go because it's got to
+understand the physics of how things
+move. And then you add other aspects,
+other sensory aspects, auditory, touch,
+feel, temperature. These are really
+complicated things. So this we're just
+at the beginning stages. And as Alex
+said, the compute hasn't been available.
+Now it's more available. I think the
+modalities are going to increase. The
+cost of sensors has come down. You can
+now have more customized actuators for
+robotics build. So I think a lot of
+factors in the economics of these things
+are changing and the tech is changing.
+>> Just to refine the and continue the the
+answer. So when there was no compute
+nothing could help. Now now we have
+compute right? Compute is get getting
+better and better. Now when compute is
+here officially uh I think the most
+important is data. Um
+actually architectures are are there
+they will evolve as well but they're
+kind of passible at this point. So data
+and uh you know we all have the
+cerebellum each one of us has it right
+but there is one Ronaldo because uh kind
+of there is a slightly better
+architecture I would I would argue and
+uh a lot more training right so a lot
+more data a lot more actual observations
+so we want Ronaldo robots going forward
+>> maybe if I can add something so u I
+would be the yeah the 3D guy uh I would
+go like against what you said I Yeah,
+hopefully like 3D sensors have evolved a
+lot. I mean, maybe not that much on the
+3D camera space which we're referring
+to, but on LAR is just just insane like
+seeing where we were 10 years ago and
+where we are right now. So, um and yeah,
+I mean
+>> we can compare notes
+>> and compare notes where we are.
+>> Yeah. Um and and I would say to to
+answer the the your question say is um
+for me what the real challenge is of
+course yeah as I mean as you said you
+don't have like this whole uh bank of
+free images where on which you can learn
+for 3D data but I would say that the
+challenge is not that much data because
+you can like go plug a LAR on a car and
+just drive a city and get like thousands
+or even more hours of of data is more
+how you you train your models, you know,
+and like it's more the techniques, you
+know, to self uh supervised training and
+and not rely on just people annotating
+uh point bypoint data. I think that's
+that's the real challenge is and
+leveraging all the stuff that have been
+done on the other modalities to be able
+to train faster these models on 3D data.
+That's that's my answer to the the
+challenge actually we are working on
+right now.
+>> All right. So, I'm going to close with
+just one last question. Um, in the next
+12 months, um, what's one thing that you
+personally or your company is going to
+be working on that you think will make a
+difference, um, in terms of helping
+robots see better,
+>> coping with um, yeah, organic reality,
+God-made products. A lot of challenges
+[snorts] here have to do with households
+industry logistics, but to really move a
+robot head through a jungle of leaves
+and grab a tomato and that's what we're
+working on. That is something that we
+really see working in 12 months with
+Robo Vision.
+So we announced yesterday sort of this
+advancement around the policy training
+from rim uh from simulation to real
+deployments so that you can uh input
+into NVIDIA's Isaac SIM uh as an
+example.
+What I see kind of a year from now too
+is because of the way we're also
+thinking about our models and being able
+to put them at the edge on device in a
+highly efficient way that'll unlock a
+lot of opportunities. So I imagine um
+there's constraints on compute on the
+device. There's going to be constraints
+on how much you want to spend and
+mapping those areas. So I I think we're
+I'm super excited about what we're
+doing. So I welcome all of you to come
+partner with us.
+>> Yeah. on our side is including uh
+temporal data into like the foundational
+uh perception model we are building uh
+on light on 3D data you know so it's not
+just space but including also time and
+that's something we um as x been
+focusing on building simultaneous
+localization and mapping uh software and
+algorithm based on on lighter data and
+we think that this is the key to bring
+to bridge this gap you know in including
+the the the time in like as a as a new
+dimension to to the models.
+>> We are now working with the leading
+robotic to to enable next generation
+robots. So maybe some of the robots will
+be walking around. Uh in addition we are
+providing the most complete uh physics
+capture uh real time at capture time uh
+set with geometry motion
+um context color
+u friction all other things and within
+the uh next year we would we would we
+are going to incorporate also internal
+states of the robot as well as action
+because uh in our view training robotics
+training is nothing without action
+because robots need to act on the world
+and if they don't then they're not very
+useful.
+>> All right, thank you to our panelists
+today um and hope you enjoyed the
+session and we have obviously been
+trading notes and there's already going
+to be conversations coming out of this.
+So hopefully um for everyone else who's
+here feel free to come and uh chat more
+about what we're working on this space.

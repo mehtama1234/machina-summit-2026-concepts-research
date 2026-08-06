@@ -1,0 +1,635 @@
+[music]
+All right, everyone. Thanks for joining
+us. My name is Evan Hilda. I'm the head
+of physical AI at Nebus. Uh I'm building
+out a team that is working on some
+services to really provide uh more
+automated workflows in physical AI.
+We're building out a control plane to
+really run the entire data flywheel, if
+you will, in physical AI from data
+curation to training to evaluation to
+inference and back again. The biggest
+bottleneck we're seeing right now in the
+space is evaluation, right? Does
+[clears throat] the model do what we
+think it's going to do? And can we
+actively put it into the field? Can we
+understand where the gaps are in our
+model and our in our data sets? And uh I
+met Antioch a few months ago. They are
+by far the most impressive tool I've
+seen for evaluation and robotics. So I
+felt compelled to bring them here and
+talk about it. Um can you give a quick
+intro uh you your background what you've
+been working on and then we'll go into
+all things Antioch.
+>> Certainly really appreciate that Evan.
+Um hey everyone my name is Harry Melop
+one of the co-founders of Antioch. Uh my
+background I met my co-founding team all
+at Stanford actually. We're all
+undergrad and grad school there
+together. I spent a bit of time on the
+autopilot team at Tesla where I was
+responsible for training machine
+learning models that ran on the car and
+also on the the humanoid robot Optimus.
+Um I left to build my first company in
+the national security space again
+applying machine learning techniques to
+track trace and sort of solve various
+types of financial crime. Uh we sold
+that company in 2023 and then I began
+kind of working on Antioch with many of
+the same team and that takes us to where
+we are now.
+>> Amazing. It's an awesome journey. So I
+want to open up with a quote that you
+said to me and I'm going to paraphrase
+but this quote has stuck in my mind
+incessantly the last few days. You said
+that with things like cursor and clawed
+code these agentic development tools
+software engineering became a tailwind
+from LLMs right and we've really tied
+the software industry software
+development industry to the intelligence
+of models
+>> but we're a long ways away from doing
+that in the physical world. How can we
+create a similar effect a similar
+tailwind in the physical world?
+>> Yeah, I think it's exactly exactly the
+right question. So I think you know it
+probably behooves us to sort of first
+explore how that happened uh with with
+cursor initially and then claude code
+and now you know tools like factory and
+cognition that have created this AI
+software engineer and I think what's
+kind of interesting is they've taken the
+entire engineering cycle right like
+being an engineer is a lot more than
+writing code it and I think of it as
+sort of this five-step process where you
+start with the existing system you find
+a problem you develop a hypothesis you
+write some code, make changes, run
+tests, learn from it, and and kind of
+repeat. And in the world of software
+engineering, that's all represented
+fundamentally as code. LLMs, you know,
+innately deeply understand that problem
+domain. In the world of physical AI,
+it's harder to reason about, you know,
+if we make a change to that system, how
+did that actually sort of impact the
+performance overall, right? like if we
+were to change a hardware component, if
+we were to rewrite some software,
+retrain a model, like how do we kind of
+give the agent the ability to reason
+about the quality of its own changes and
+so I think we at Antioch think a lot
+about this in terms of providing agents
+with this idea of a verifier, right? So,
+you know, where has AI been most
+impactful? Like we've seen incredible
+breakthroughs in mathematics, right? Uh
+GPT 5.5 was able to crack an EDO
+problem, you know, a month or so ago and
+it's because in mathematics we've got a
+verifier. If the agent makes a change,
+it can immediately validate the efficacy
+of that. In software, we compile, we run
+the code, the same thing. And so at
+Antioch, we think about bringing that
+verification, which uh in our minds
+boils down to sort of simulation as a
+general domain. And we're not
+opinionated about exactly what simulator
+we use necessarily, but it's really this
+problem space of like how do we give the
+agent the ability to explore the
+efficacy of its own change. It's a
+combination of classical simulation of
+world models of the ability to to author
+changes across hardware, software,
+firmware, and update models, retrain
+models. Um, and I think that those sort
+of pieces come together so that there's
+this flywheel effect that ultimately
+builds.
+>> Amazing. So, I feel like when you drop
+the word simulation here, half the
+people just tune out,
+>> right?
+>> It's a very polarizing topic. A lot of
+people don't believe in simulation. They
+think the material gap is too large.
+We're a ways away. is not good enough
+fidelity. You've had to overcome that
+quite a bit. I see the customers you
+work with.
+>> Yeah,
+>> it's working in certain areas. What is
+your go-to talk track to the skeptics
+about simulation today?
+>> It's a great question. I mean, I think
+if we look at the domains in which
+physical AI today is most scaled, it's
+autonomous driving, right? Like we've
+had a decade now of of sort of
+autonomous driving improving
+monotonically, getting better and
+better, and today you can go and buy a
+Tesla. If you're in the right city, you
+go take a Whimo, it works pretty close
+to flawlessly. And a key reason for that
+is these companies have thought about
+how to collapse their iteration cycle.
+on simulation in its most general sense
+whether that's a classical physical
+simulator model likely a combination of
+both today in many cases that provides
+that feedback loop and it makes that
+iteration velocity so quick so in sort
+of leading areas of physical AI we've
+seen simulation be deeply embraced uh it
+stands to reason that that you know that
+should kind of continue as we see the
+proliferation of physical AI across
+other industries uh the sort of question
+that I think about is not can simulation
+do this or not but rather what is the
+cost of actually making that that
+possible? Like how much work do we have
+to put in for each given domain? Whether
+it's a a drone or a dextrous humanoid,
+you know, there's sort of different ends
+of the spectrum of difficulty. Um, but
+we sort of think about attacking that in
+a very principled and disciplined way uh
+with, you know, using autonomous driving
+kind of as our northstar of what great
+looks like in the limit there.
+>> Totally. So, before we get into the
+weeds of how you're solving some of
+these problems, let's in let's inspire
+people really quickly.
+Fast forward 10, 20 years in the future,
+Antioch's a massive success. What does
+the developer experience look like when,
+as you call yourselves, the cursor of
+physical AI? And that's true. What does
+a day in the life look like for
+developer?
+>> Yeah. No, it's it's a great question.
+So, I think, you know, I look a lot at
+how has software engineering changed
+over the last few years and software
+engineering has gone from, you know,
+being incredibly down in the detail each
+and every day to being much more intent
+driven, right? Like now I think the
+process of building has become much more
+of establishing what that northstar what
+great looks like whether that's you know
+start with some test coverage start with
+some sort of objective function and then
+AI kind of does all of the work and
+we've seen these massive speed ups and
+it's collapsed the cost of software
+right so I think you know it's a sort of
+common refrain at the moment that
+there's no moat in the world of of
+software anymore um and I think you know
+that that creates a lot of concern for a
+lot of people but what's really exciting
+about that is we going to have so much
+more of it. The cost is reduced. And so
+I think if we think about what that
+plays out in the physical world, you
+know, what are some of our biggest
+societal challenges at the moment? We've
+got runaway inflation. Uh we've got, you
+know, sort of an increasingly uncertain
+geopolitical environment where people
+are looking for certainty and the way
+that costs and availability of goods and
+services is in a predictable way. And I
+think that's the end case of this. I
+think it is, you know, we can as a
+society codify the intent behind the
+systems that we're building and then
+these sort of autonomous agents can go
+off and actually deliver that uh in a
+way that's just going to sort of
+fundamentally change the way that we
+live in a really positive way. I think
+>> amazing. Let's dive into the platform a
+little bit because I think you guys are
+solving some of the hardest problems in
+a really unique way. What exists now
+with Antioch that either didn't exist
+before or was just really hard to do
+before, right? So for example, some of
+the things you're doing with taking in
+real world sensor data to calibrate the
+virtual sensors, things like this.
+>> Yeah. Uh totally. So I think I'd sort of
+think about it on two halves. there's
+like how do we attack the problem of
+simulation fidelity and that's this you
+know what we call the pair setting
+process basically and that's where we
+try to take the strengths of classical
+physical simulation amazing tools from
+some of our partners like Nvidia with
+Isaac sim and and other types of
+technologies there and also the
+strengths of what we're seeing in the
+sort of generative world right this
+ability to close the sim toreal gap over
+time using more and more data we bring
+that together under one roof in the
+platform without customers actually
+having to think about that so when you
+on forward into Antioch, you know, we're
+sort of looking at your real world
+deployments, automating that
+calibration, and using kind of the best
+of both worlds to collapse that. So
+suddenly the fidelity of your simulation
+is just so much better than it was
+before. But what's more most exciting
+about that really is not simulation for
+the sake of simulation. Like what we
+really care about is robots in the real
+world, not simulating them, right? And
+so it's then using that as the substrate
+against which agents can kind of
+engineer. So if you've got a 30 40
+person engineering team or even larger,
+you're now reinforcing them with agents
+who are reasoning about your systems in
+the same way that your engineers do just
+as we've kind of seen factory and
+cognition and some other amazing
+companies do in the world of software
+engineering.
+>> Got it. So let's double click on the
+symmetry gap a little bit like many
+people have been trying to solve this
+problem for a long time and they've
+failed.
+Why is this time different? And to tee
+you up a bit more, you talked a little
+bit about uh using like SIM as a machine
+learning process less a development
+process. Can you speak to that concept a
+little bit?
+>> Totally. Yeah. So, I mean I, you know,
+hesitate to come back to the
+self-driving idea, but I think it's
+really relevant. And so, like, you know,
+if we think about the history of
+self-driving vehicles starting with, you
+know, maybe like the DARPA Grand
+Challenge, you know, decades ago now, it
+was very much framed as a software
+problem to start with. We're using
+traditional computer science techniques
+to try and save the uh to to solve this
+problem. And I think what we ultimately
+found is like over time, you know,
+initially companies like Wave and now
+this is very much a consensus opinion in
+the world of self-driving is if you
+reframe what was once a software problem
+as a machine learning problem as a data
+problem, you just get these
+extraordinary compounding results and
+you get this monotonicity in the
+improvement of these systems. And I
+think we think about simulation in very
+much the same way, right? There are some
+advantages to having classical software.
+you get determinism, you get
+repeatability, but there are also kind
+of gaps that form just as there were
+gaps that were forming in the world of
+self-driving vehicles. And so by sort of
+reframing this as a data problem and a
+machine learning problem, we're able to
+sort of systematically collapse many of
+those gaps uh in a way that I think
+we've seen, you know, leaders in in
+other industries do in the past. And,
+you know, to sort of make this kind of
+concrete, like I think many people are
+probably very familiar with with tools
+like Nvidia Cosmos where you're able to
+sort of do these domain shifts. We think
+very much about that but in a multimodal
+context right so if you've got a sort of
+simulated camera image what does it take
+to make that perfectly realistic you
+train a model like cosmos but it's the
+same with radar lidar infrared all these
+different types of sensor modalities
+that are really really important so we
+need to have those kind of point
+solutions available across the board and
+that's what we're really focused on atte
+Yeah.
+>> Can you speak a little bit to one of the
+advantages you guys were trying to
+acrewue
+>> in that once you see a sensor in a
+certain context that's locked in?
+>> Yeah.
+>> And there's starting to be a
+proliferation. Everyone's going to be
+using similar sensors. They're going to
+see similar lighting in similar context.
+But once you have that, that gap is now
+closed or closing over time. Can you
+speak a little bit to how you guys are
+doing that and what you're doing?
+>> Yeah, definitely. So I think you know
+there's the sort of plethora of hardware
+components and there's also the plethora
+of different environments that robots
+are deployed into right and so you know
+to sort of be concrete like maybe the
+first time we see a given radar
+component it's deployed on an AMR or an
+AGV or something in a manufacturing
+context but what we're observing in our
+customer base is that you actually then
+start to see those same chips deployed
+on drones and so suddenly on drones
+you're seeing different types of things
+that you never saw before like weather
+effects and rain and these things that
+you don't experience experience inside a
+warehouse. And so we use that kind of as
+an opportunity to improve our
+understanding of, you know, not just
+that individual radar component, but
+what does it mean to operate as a radar,
+how does that work from a fundamental
+sort of physical phenomena perspective
+and layer those improvements into the
+platform. So the next time, you know,
+ideally we maybe see the same radar
+component again and it's just a one
+shot, like it's straight out of the box,
+ready to go, perfectly calibrated for
+our customers or maybe it's a little
+different. Maybe it's a it's a slightly
+new a newer model or something, but
+we're sort of going from a a running
+start, if you will, because we've solved
+these these types of problems before.
+>> That's awesome. That's compelling.
+So, last question on the SIM to real
+topic. Um, I want to sort of
+create a framework or a scale for people
+in terms of where it's easy.
+>> Yeah.
+>> Where it's hard but solvable and where
+it's impossible.
+across the customers you've worked with
+and what you've seen where is it easy
+and people here should just go do it
+because it doesn't exist where is it
+hard you got to just earn it
+>> where is it impossible we need it need
+some innovation so
+>> yeah it's a great question so I think
+again I come back to this idea of like
+well where is simulation come from it's
+come from a combination of the
+self-driving space and actually of video
+games in in many cases as well and so
+where it's really strong today are those
+areas of domain so sort of visual
+fidelity light based sensors, these
+types of things, particularly when you
+add layers like cosmos and stuff on top
+of the underlying sort of simulator. So
+I think a lot about, you know, what is
+physical autonomy? You can sort of boil
+it down to this idea of like sense,
+think, and act. The sense problem today,
+we're really generally pretty good at.
+And especially with this type of sort of
+machine learning approach where we take
+real customer data like to sort of train
+each customer's you know individual
+calibration models um you know the
+fidelity of that sensing especially in
+the light based domain radar camera
+infrared these types of things is really
+very good. I think where things get
+harder is in the action space and so I
+think again it just comes back to well
+you know what did self-driving need?
+What did video games need? They didn't
+need the same degree of sort of physical
+fidelity that we're now demanding out of
+like complex dextrous tasks,
+manipulation, deformables, these types
+of things. So to me, it just comes down
+again to like a question of cost. It's
+not that we're not going to get there,
+it's just that it's going to take more
+data, more engineering time, more sort
+of concerted effort to push there over
+time. We're already seeing some of that.
+Like we do we do deployments with you
+know deformable things like cardboard
+boxes and you know all sorts of stuff
+that that that that's pretty tricky to
+model material removal and manufacturing
+processes and stuff as well. All of this
+is possible. It's just simply a question
+of prioritizing especially based on a
+cost equation.
+>> Got it.
+So when customers embark on this
+journey,
+what's the most common failure mode you
+see like as you're from the idea of
+trying to figure out what to measure the
+benchmarks, how to create the sim, what
+failure modes exist along that I guess
+hill climb towards a good simulation.
+Yeah, I mean I think it's uh I I think
+people often get trapped at sort of the
+very first phase of like how do we even
+sort of start to think and how do we
+systematize about creating the digital
+twin in the first place and the reality
+is that if you go and you use an
+off-the-shelf simulator today generally
+it's going to start by not being very
+effective at your task area like it's
+not going to be well calibrated there's
+some innate sim tore gap these tools are
+really hard to use in the first place as
+well so sort of even getting that very
+first version of something that works
+somewhat like your real system is
+complicated. So we spend a lot of time
+thinking about how we automate that for
+our customers. And then I think sort of
+about this long tail and and it's it's
+the same long tail that we see in so
+many other engineering problems, machine
+learning type problems where okay, it's
+working 85% of the time, but that's
+unacceptable and you sort of slowly
+wretch at the nines. And I think that's
+really where framing this as a machine
+learning problem is really helpful
+because you can use some of the classic
+techniques that we've pioneered in
+machine learning like you can run your
+high loss experiments and all of these
+types of things to sort of
+systematically uncover here is where
+it's failing. Here's how we might
+improve it. Here's the data that we need
+to go out and collect to actually better
+calibrate these systems. And you then
+just start running a proper engineering
+process that enables the sort of
+monotonic strive towards like greater
+fidelity and improvement over time. But
+if you sort of that first phase is is
+really very tricky and we spend a lot of
+time thinking about how we automate
+that.
+>> Got it. So almost last question as we
+land the plane here. Um
+the holy grail is a closed loop and like
+continuous learning.
+>> And there's a lot you can do in your
+platform to do eval but to go train the
+model. Yes.
+>> And to go deploy the model on the robots
+to put the data back in the customer's
+own data lake. there's lots of other
+environments and tools that have to be
+pulled into this.
+>> What's missing today for you guys and
+for your customers to close that loop?
+Yeah.
+>> And bring all those tools into one
+unified system.
+>> It's a great question. Um, you know, I
+think for us within Antioch by itself
+today, you can change the hardware
+components, you can change some of the
+software, but I think to your point,
+thinking about the life cycle of how we
+retrain a model, right? Like how do we
+custody the data? how do we think about
+our training data splits and like how we
+do fine-tuning and all these types of
+processes that's something that we don't
+do today in Antioch and I think it's
+like that's why we're excited to be
+working together right like um I think
+you know as we sort of deepen uh the
+integrations between Antioch and and and
+Nebius and the sort of physical AI
+workbench and these types of things is I
+think the missing link uh today and
+we'll sort of see more and more of this
+autonomous engineering cycle over time
+>> and that's our that's our teaser for the
+audience that that's the problem we're
+we're working on and so
+>> if you want to learn more talk to us
+after about how we're doing it. Um,
+I guess one last question that's a
+little more philosophical and maybe
+personal, um, I end every podcast I do
+with this same question, which is,
+as humans, as we look at this
+exponential liftoff, right, a lot of
+change is going to happen. The world's
+going to get weird. I'm still not used
+to seeing robots walking around. It
+still kind of freaks me out, even though
+I'm trying to bring it into the world.
+>> Yeah. Um,
+but as we try to prepare for this future
+either as individuals,
+as a society to best thrive in it,
+what do you think is the most important
+question we should be asking ourselves
+to elicit the right conversation and
+best prepare? Yeah, I think across the
+board if you're building a company or if
+you're, you know, an employee or just
+operating in the world generally,
+I think people need to really be
+thinking a lot about how you tie, you
+know, what you are focused on, what you
+are building to the sort of underlying
+and exponential growth in the
+intelligence layer of these models. And
+I think that's why, you know, companies
+like factory and cognition have been so
+successful is it allows software
+companies to do exactly that. It's like,
+okay, it's big and scary. It's getting
+very cheap to write software that could
+be perceived to be a threat and and
+maybe it is a threat in certain areas.
+But if you're able to sort of refactor
+or rethink the way that you build
+whatever it is that you're interested in
+to become a tailwind on the sort of
+model intelligence layer.
+That's all but certain at this point
+that you know that the intelligence is
+improving. There's interesting questions
+about whether it will become superhuman.
+at very least it's going to reduce the
+sort of cost of intelligence close to
+zero over time. Uh and I think you want
+to be attached as a tailwind to sort of
+ultimately how you think about that.
+>> Perfect. Full circle from our first
+conversation. Our our talk about closed
+loop learning was the loop was closed.
+>> It's self closed loop. Yeah.
+>> Uh so basically what you're saying is
+like
+>> you got to trust fall into these models.
+Yes. Yes. And like ride the wave and
+expect the advances to come and be
+>> not just living on the edge, living
+ahead of the edge, expecting them to
+catch up,
+>> the wave to kind of catch you and just
+all the touch points throughout the
+organization, everything that you build,
+how you operate, the the entire kind of
+shebang being sort of very attached to
+that.
+>> Amazing.
+>> Well, I think it's a good place to end.
+If you want to learn more about how
+we're closing the loop together, come
+chat with us afterwards. And uh thank
+you guys for your attention and time.
+>> Awesome. Thanks, everyone. Thanks, Evan.

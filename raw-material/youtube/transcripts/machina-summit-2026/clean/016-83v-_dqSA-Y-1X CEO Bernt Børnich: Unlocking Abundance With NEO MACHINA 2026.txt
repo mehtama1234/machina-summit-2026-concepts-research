@@ -1,0 +1,374 @@
+[music]
+So uh I want to have a bit of a
+different talk today because usually
+we've always been seen as the consumer
+company and 1X is amongst others a
+consumer company but one of the really
+big things to us has been over the last
+decade the company is really about how
+do we create an abundance of labor And
+consumer has a very important part to
+play in this. But of course, juvenoids
+to me is about how do we create general
+labor that can be deployed across
+society. And while while the home has
+the best data and I think also will be
+one of the biggest markets in the end, I
+do think there's a lot to say about when
+you have this beautiful platform that
+we've spent so long to really bring to
+life and we're ready to scale this,
+we're ready to manufacture this,
+how do we let everyone help? How do we
+kind of create this biggest possible
+ecosystem around robotics? Because
+general automation on robotics is
+actually still quite small. And if we're
+really going to come to an abundance of
+labor, then I don't think this is
+something we can do alone. And uh we
+have some pretty big announcements
+coming up in a couple of weeks that
+you're going to get like a small taste
+of today uh with respect to how we are
+going to launch Neo as a developer
+platform and really a call to action for
+everyone to come build on this system
+and see how we can create so much value
+in society by by applying general
+automation.
+There we go. Okay.
+So, there's been a lot of talk about
+data, and I do think ultimately it's all
+about data to get the models to be the
+best. And one thing that we're pretty
+proud of that I think is quite unique
+about Neo is that it will be shipping
+with full 22 degrees of freedom hands
+just like we have, or we have like 25,
+but it's pretty close. And we're super
+excited to really see
+what can all of you guys out there do
+with this uh as you start developing and
+also how can we make this even
+accelerate what we're doing towards
+consumer. So even though it might be a
+bit confusing for us to talk about a
+developer platform um as the consumer
+company I also want to assure everyone
+that hopefully here order a robot that
+we are shipping to consumers this year.
+It's going to be very rough and a lot of
+fun and we're going to hand select a few
+of you guys to be part of this and we're
+going to scale it as fast as we
+absolutely can but we want to do it in a
+manner that is safe and that is uh
+really responsible. So it's going to be
+slow in the beginning but there's going
+to be a few who gets the robot this year
+and um through really enabling this
+developer ecosystem. We also hope to
+really accelerate the deployments into
+the home and enable everyone to build
+these small applications that they can
+really either for fun or for useful
+things get more out of their Neo.
+So
+if you think about it like this, um, 1X
+is at this point really where we we have
+a factory that is ready to scale and we
+can produce a lot of robots
+and this is all manufactured by the way
+in Hayward in California, uh, except for
+magnets which we buy from China. But um
+it's it is really as far as I know one
+of the few western alternatives to all
+of this great hardware that comes out of
+China. And if we now insist that we are
+going to build all this ourself, then
+it's going to take us a long while.
+Because if you think about all of the
+different things you want to do, right?
+You have the very dear to me like the
+developers that are like someone who
+just begs mom and dad for a robot to try
+to solve some unsolved problems to all
+of the startups that we're talking to
+that wants to automate on top of some of
+these new platforms. You have all the
+big research labs from the frontier labs
+to more of the new uh neolabs to the
+more classical integrators that want to
+modernize and think about how can they
+apply more general general systems. Um,
+this is a lot of work and it can create
+a lot of value today. And what we really
+really want to make sure we focus on as
+1x is we want to stay a product company.
+So we do not want to be in all of these
+markets working out how to integrate
+against all of these different ERP
+systems or MRP systems or other customer
+applications. We would really like to
+partner on this and we think this is a
+great opportunity to really start
+growing that ecosystem and of course we
+will do some of it ourselves. So there
+are a few hand selected customers that
+we will do. But um I do really hope that
+after this talk today there is a few
+people in the room here that gives Neo a
+try and really thinks is this something
+I can build on? Is this something where
+I can create value?
+And
+when you think about Neo, I want to talk
+a bit about how Neo is different because
+to be uh robotics has already always
+really been about safety. And there is
+of course no such thing as a fully safe
+system if you are doing useful labor,
+but you can do a lot to make your system
+as safe as possible. And I'm very
+excited to see that like how can we
+apply robots, not just industrial
+manufacturing. Now, of course, we're
+using Neo in our own factory and we're
+doing manufacturing, but this is such a
+small subset of the world, right? And
+ultimately, safety can be this very
+complicated thing. But to me, safety is
+quite simple. Safety defines where you
+can go, like how useful can you be,
+where can you apply your useful labor?
+And the duel of that is of course where
+can you gather data? How much data
+diversity can you have? How can you
+ensure that you have as many and as
+broad experiences as possible to create
+the most intelligent models? And I don't
+think this is essentially talked enough
+about because
+if you want to build robots that are
+safe then you need to build them a bit
+differently than kind of like what I
+would say like is the classical systems.
+So you know
+for the last 60 70 years we've generally
+been building robots by having these
+very heavily geared systems where you
+can think about it like if I move my arm
+like this and there's a gear inside here
+that's 100 to1
+this would spin at say 20,000 RPM and
+that contains a lot of energy. Kinetic
+energy is the velocity squared. And
+through this, you create these robotic
+systems that are quite strong, but
+they're they're stiff and they're
+they're heavy and they're high energy
+and they work really well in these
+industrial use cases, but they're not so
+well designed for these unstructured
+environments we humans live in. Now, of
+course, we humans, we work very
+differently. We're we're compliant,
+we're low energy, we're safe, we're
+soft, and we really wanted to build this
+into the machine. And I kind of like to
+look at this as a tech tree. And I'm
+going to steal this from Jim Fan who
+talked about the Age of Empires 2 tech
+tree because I think it's a great
+analogy. Um, if you start at the top and
+you have a normal motor and then you use
+this and you you select some high ratio
+gears and you start having to add a lot
+of sensors because now your system is
+stiff, it's hard to modulate and it gets
+kind of complicated and in the end you
+can solve it for some tasks. But what we
+really did was we started differently.
+We invented a motor that is so strong
+that we can pull on these tendons
+instead and kind of like loosely
+inspired by nature, create these
+beautiful soft compliant systems that
+are more energy efficient and can
+interface with the world in a safe
+manner. Now, of course, there's a lot of
+smart people here today that know a lot
+of technical things and have been in
+robotics for a while. So, then you all
+know that like tendons are amazing. Like
+they're the holy grail of robotics, but
+they don't really work that well. um
+they're finicky, they break, they're not
+that durable, they're really hard to
+design around. There's a lot of unsolved
+problems. And this is something we're
+really really proud of because it's one
+of those problems that
+there's no one solution. We've been
+grinding on this problem for a decade
+and all the way from like new
+discoveries in material science to how
+to weave these things to how to process,
+how to postprocess, how to design
+around. We're finally at where we're
+going to ship a product that I think we
+can u have better durability and better
+reliability than the classical geared
+systems, but we can do it with this
+tandem based system. Um, and I think
+that's u really one of the biggest
+achievements of 1x and what ultimately
+of course I'll skip to this one. What
+ultimately allowed us to build some
+hands that I think is quite unique in
+the capabilities because this is really
+where even nature is not able to really
+put all of your muscles in your hand for
+your hand. You're kind of forced to do
+tandem based system if you want to do
+hands that are as strong and as dextrous
+and as back drivable and force compliant
+as human hands are. So this has been a
+big project over the last um
+having a bit of trouble with my videos
+not playing. There's a hand supposed to
+be in the background here, but uh you
+saw the hand earlier. So, uh it's one of
+those uh things that we've been working
+on for a long time and that we're very
+proud to ship now. And as part of the
+as part of the developer platform, uh
+we're going to ship Neo with the 22
+degree of freedom hands and we're going
+to try to create this homogeneous um
+type of platform so that when we all
+build on this, we will be able to not
+only
+solve some useful problems, but also try
+to create some reproducibility across
+research, which I'm very excited about.
+And we're partnering quite heavily with
+Nvidia here to build this out. And I
+wanted to spend like two minutes talking
+a bit about how I see the platform
+because it's so diverse. So we want to
+ensure that Neo can cater to all
+different types of platform customers.
+So that means we will have some
+customers like the Frontier Labs who's
+going to say like we don't really want
+any of your guys' stuff. We just want
+the robot and we're going to build our
+own model and we're going to deploy that
+and we're okay with that. Um we just
+want to create the value that come from
+building a great ecosystem. But we also
+want to go all the other way and say
+here's a system where you not only get
+Neo, you get the data collection
+equipment. So sensors like gloves,
+cameras, etc. you can put on yourself,
+VR uh control systems together with the
+robots. So you can gather data. This
+data automatically gets uploaded in our
+cloud. Our cloud has some pretty good,
+in our opinion, pretty good at least uh
+models that we've trained to do
+filtering, dense captioning, everything
+that needs to happen with your data. So
+you can select the right model that you
+want to fine-tune. Hopefully you're
+going to select the 1x world model. We
+think that's the best model. Uh and but
+there will be other models in there and
+then deploy this into simulation, do
+evaluation, deploy this on the robot and
+solve your uh solve your problem so that
+we can really cater to this very large
+breath of the ecosystem from people who
+want to build the entire stack
+themselves to people who essentially
+have a problem and they want to gather
+some data to apply this to solve the
+problem. And
+I think this is incredibly important
+because if you want to enable a large
+ecosystem, it really starts by how do
+you get the cost down. And even though
+we're quite proud of being able to sell
+Neo as a developer platform that is very
+cost competitive.
+Not everyone can afford a robot day one.
+So we are really going to strive hard
+for that when we're launching Neo from
+day one. Sim simulation together with
+Nvidia is a first class citizen. so that
+you can do all of your experiments in
+simulation and you can run all of your
+models in simulation and see how far you
+can push this before you actually even
+have a robot. And one thing that I'm
+incredibly excited about when it comes
+to that and uh that we're going to roll
+out towards the end of the year is what
+I essentially what I call uh the NeoARM.
+So we're planning to run actual
+evaluation in real and the way this will
+work is that we will have leaderboards
+across different uh model evaluations
+for different tasks and then we want to
+automatically run a certain set of the
+top models on these leaderboards
+on actual Neos. So we will build
+physical simulations where we have Neos
+in resettable environments and we will
+allow you guys to run your codes on
+them. So that if you really come up with
+some novel ways to solve some problems
+on the learning side and you don't have
+the money to buy robots, you can still
+actually run this on real robots and get
+actual deployed benchmarks so that we
+can create fairness on structure and
+score around benchmarks for robotics
+which I think is something that's been
+sorely missing. So
+I want to end on the on the high side. I
+think we're coming into some incredibly
+exciting years. It's extremely hard to
+predict whether we will have this kind
+of like abundance of labor happening in
+the next two years, three years or next
+decade, but I'm pretty confident it's
+not decades. And I think together we can
+build such an incredible value by
+working on this problem. And I can't
+wait to see Neo and these other
+embodiment that we will enable to be out
+there in labs completing experiments,
+closing the loop on scientific
+experiments, which is such a big missing
+thing for um
+for uh in general AI right now, right?
+We have the digital models, but we're
+not able to build and run the
+experiments to help out in healthcare,
+to help out with companionship and
+loneliness, to help out in factories, to
+help out in across society in general.
+And um I really hope some of you guys
+want to help us on that journey and that
+we can build this together because I do
+think that the path to abundance through
+robotics is going to be through platform
+and developers and through building this
+incredibly large ecosystem that will
+enable us to crowdsource crowdsource
+solving a lot of these problems. Thank
+you.

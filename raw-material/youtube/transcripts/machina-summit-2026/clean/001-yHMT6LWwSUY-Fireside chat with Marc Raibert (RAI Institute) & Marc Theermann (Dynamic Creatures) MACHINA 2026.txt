@@ -1,0 +1,481 @@
+[music]
+So, you have two marks from Boston
+Dynamics uh on the stage, although I'm
+no longer with the company.
+>> Neither am I.
+>> True.
+>> And it's funny when when people stop me
+in the crowd and ask to take a selfie
+with me. I know they're confusing me
+with you.
+>> Um
+>> but you're not wearing the right shirt.
+>> No, that's true. Yeah. So
+I would love to start at the very
+beginning. Take us back to the first hop
+when in the early 1990s the first robot
+started hopping.
+So when I was a graduate student at MIT,
+I uh went to my first conference in my
+life and there was a man uh Bob McGee
+showing a six-legged robot uh that he'd
+built. And in those days, there weren't
+too many legged robots at all. And this
+conference was all biologists. Uh it was
+about animal locomotion.
+And I looked at his robot and then first
+I thought, "Wow, that is really cool
+six-legged robot." But then I looked at
+it and thought, "This is all wrong. This
+is static. It's going slowly because it
+doesn't want to uh fall over."
+And I thought about animals. I'd been
+studying biology a little bit. And you
+know, we fly through the air when we
+walk, when we run. uh we balance, we
+store energy in our tendons and muscles.
+And I just thought, okay, there's got to
+be another way. And that launched me on
+the idea of making a pogo stick robot
+where the energetic cycle of kinetic
+energy of flying, potential energy of
+elevation, potential energy of
+compression were key ingredients. But
+and on top of that, balance. And for the
+next many years that drove what I worked
+on.
+>> And do you remember the year when you
+had the first pogo stick robot which is
+now in the Boston Dynamics Museum I
+believe? Right.
+>> You know in 1981 and 83. In ' 81 we had
+a simplified uh pogo stick robot. In 83
+we had one that operated freely in the
+room. I say operated freely, but it had
+wires that went to a computer in the
+next room because there were no
+microprocessors. It had hydraulic hoses
+that went to a big 200lb pump. Uh but we
+made it as free as it could be and it
+was balancing itself uh walking around.
+>> Do you still remember who was in the
+room then? And are you still in contact
+with everybody that was in the room?
+Jeff Coaching was there, Jessica Hajins
+was there, Mike Japonis, Jean Hastings,
+>> that was the and Ben Brown.
+>> Amazing.
+>> Um, so the leap of faith question in the
+early 1980s, most roboticists believe
+that dynamic balance was too hard. Um,
+and that stable robotics was the only
+path. What made you believe that it was
+going to be possible?
+you know when I I give a culture talk at
+uh where when I speak and I talk one of
+the ingredients is uh technical
+fearlessness. Now I don't think at the
+time I knew I had technical fearlessness
+and looking back you could just call it
+stupidity or overconfidence.
+I didn't know how we were going to make
+a thing do that, but I thought that that
+was the important thing to do. And so we
+just flung oursel at it. And uh
+amazingly, it didn't turn out to be as
+hard as I thought it would be. Almost
+disappointingly
+when we had the first one-legged freely
+moving hopping machine working in the
+lab, it was a little boring.
+Uh, and it wasn't until when I made
+presentations, if I showed outtakes
+where you could see how quickly it could
+fall over, if it didn't work right, uh,
+that's when people said, "Oh, that's
+really cool."
+>> Was that the beginning of the viral
+videos, or was it really when Big Dog
+was falling on the ice and being kicked
+that you knew you were on to something?
+The beginning of the outtake videos
+was when I was still a graduate student,
+Dan Whitney. Dan Whitney was a robotics
+researcher who worked at the Draper lab
+at uh which was connected to MIT at the
+time. And he was doing assembly,
+automatic assembly of uh water pumps
+from a car. And he had this great videos
+where the the arm would pick up a
+electric screwdriver, screw something
+down, and then at the end, if he didn't
+do it right, boom, all the parts went
+flying in the air, uh, because he had it
+on a spring-loaded table, uh, that was
+made so he didn't have to break the
+table when it didn't work right. And I
+looked at that and thought that was
+fantastic. And so, ever since I used
+outtakes, and outtakes really inspire an
+audience. Yeah,
+>> I had people visit my lab at MIT once
+where I showed them around. We we showed
+them technical stuff for 30 minutes and
+then I showed them outtakes and one of
+them said, "Oh, I heard you give a talk
+15 years ago and they hadn't realized it
+was me. Uh, but the outtakes, you know,
+stuck in their head."
+>> Yeah. And YouTube really of course
+accelerated that. Yeah.
+>> Yeah. YouTube made it possible to get
+communicate with a lot of people and
+just show whatever you wanted to show.
+>> So entertainment was always a part of
+Boston Dynamics and especially you
+always you told me this funny story
+about the the movie with Shan Connory
+where they looked at the robot and said
+yes we need a robot in the Shan Conory
+movie and the disaster that uh occurred
+then
+>> you want to hear about that?
+>> Yeah.
+So before Boston Dynamics existed, when
+it was still the MIT lab, uh the the
+director uh a very famous director,
+Philip Calfman, who had done the
+unbearable lightness of being, which was
+a famous movie, uh his people called me
+up and said, "We need a robot for a
+scene in this movie." And we'd never
+been out of the lab, and I thought,
+"Okay, maybe this will be a good time to
+see what the real world is like." So, we
+packed up uh two of our robots and four
+graduate students and went out to 20th
+Century Fox thing
+and uh although the first day we got
+some stuff working, it was a total
+disaster. Uh we were out on this
+location, they didn't understand our
+world and we didn't understand theirs.
+Fortunately, by the end of the week, we
+got some footage which you can see in
+the movie. So, we have a scene with Sean
+Conry, Wesley Snipes, two of my robots,
+and two of my grad students in the
+background, and then there's a guy
+playing me.
+>> So, that was an eye-opening experience.
+>> The real world is different than the
+than the lab.
+>> Yeah. You always said that you prefer
+building over simulation. And in an era
+where so much is going towards
+simulation,
+um, is that still your instinct? And in
+an ML first world, how do you think
+about this?
+>> Today, I'm a convert.
+But for many years,
+uh the simulation tools, at least the
+ones we had, were so slow, so hard to
+work. You really needed expert people to
+do everything. And we were really expert
+at building a machine, getting it into
+lab, instrumenting it so we could
+collect data from it, and just running
+it. And from day one, we had people to
+repair the robots. So we didn't count on
+them working without breaking, but we
+counted every day cycle was come in, do
+some work, break the robots. The repair
+team would come in, repair the robots,
+and then rinse and repeat. So it was
+possible to do things physically, and
+the the tasks we were doing were
+simpler. But today, it's a changed
+world. Physics-based simulation.
+Now, it has to be physics-based
+simulation developed by real engineers
+who have real data and know what the
+physical robot really is, not a not a
+video game version of the robot. That's
+a little bit of dig at Nvidia because in
+the early days, their simulations were
+really video game simulations. Now,
+they've done a lot of work to make them
+much more physically realistic. There's
+still some closed parts that need to be
+open. I guess I shouldn't do a tirade on
+Nvidia, but um now using physics-based
+simulation and reinforcement learning,
+you can get so much more behavior
+without uh the hardware being uh in the
+loop the whole time.
+>> Yeah.
+>> So, of the 10,000 failures, was there
+one that stood out where you had like a
+breakthrough moment or an aha moment or
+something that taught you more than
+others?
+Well, there was a
+a success that looked like a failure
+when we first when we took Big Dog out
+and uh it was marching around our uh
+parking lot. This was in Boston, so it
+was the winter and there was a patch of
+ice and the robot went on the ice and
+started flailing but stayed on its feet
+and that appeared in the first video we
+ever put on uh YouTube and uh you know
+it was a uh a big success in getting
+people to pay attention. We were a
+company with no investors.
+Uh we didn't have a PR organization. In
+fact, we never had a PR organization
+until uh we were acquired by Google uh
+many years 20 years in
+uh yet everybody around the world uh who
+was interested in this kind of thing
+started to know who we were. So that was
+one. But I would say more generally that
+we learn much more
+by seeing something that's not working
+than when it is working. And it's a lot
+more fun. Basically, if you can crash
+the robot in some dramatic way, uh it uh
+it's fun for everybody who works in the
+lab. You know, sometimes we had a lot of
+hydraulic robots. We'd break a hose and
+there'd be a water fountain.
+>> Uh
+>> I don't know, we caught one on fire. I'm
+not really supposed to talk about it,
+but we had one uh you know, a gasoline
+powered robot uh with a battery problem
+that caught on fire, and uh that was
+pretty spectacular.
+So as a as a more commercial entity,
+there's always a tension between very
+cool product demo and commercially
+viable product. How do you think about
+that?
+>> There have been times when other people
+showed our outtakes in a way that was
+very painful because it didn't situate
+it in the context of what we had
+achieved. Uh after the first DARPA
+robotics challenge, it wasn't only our
+outtakes. DARPA released a video that
+was all outtakes of the humanoid robots.
+And a lot of those robots had done very
+good performance in the testing. And the
+whole idea was to push them as far as
+you could until they failed. Yet, their
+outtake thing didn't really couple it
+with the successes. So, you know, that's
+a thing. I think people appreciate the
+honesty of showing what's working and
+what's not working. We try and do that.
+Sometimes it's very hard to be, it's not
+that we're dishonest, but you want to
+show the thing that you think is the key
+problem and you don't show every other
+thing that's going on and sometimes you
+get criticized for that. But
+>> but at Boston Dynamics, the policy was
+always to only show what the hardware
+and software can currently do. How do
+you feel that's going for the rest of
+the industry?
+>> Um,
+let me let me switch that question to
+the early days of Boston Dynamics. We
+were operating in a desert.
+Pretty much no one cared about this
+stuff. Um, you did it because you loved
+it. Absolutely only because you loved
+it. you could get stuff funded, but the
+idea that you were going to make a
+product that was going to make money was
+nowhere in sight
+>> uh for many of those years. And we were
+funded by uh you know, DARPA is always
+looking to the future and trying to make
+new things happen. And we were great at
+exploring that future. The reason I left
+DARPA uh Boston Dynamics and went to Ray
+is because that's really what I want to
+do is look a little further out, figure
+out what the hardest problems are and
+work on them. Um, and I think today
+there's a lot of people who are overly
+optimistic about where this is going to
+go or how quickly it's going to go. Uh,
+and it sure was in some ways nicer not
+having so much uh, attention and uh,
+potential competition, I guess. But it's
+also very exciting to see. I mean, we
+have all these friends and colleagues
+now.
+>> Yeah.
+>> Who weren't really there. They were
+mostly saying, "Oh, Rbert's crazy. Why
+is he wasting his time doing that?
+>> Yeah, we still think that you're crazy,
+but you're not wasting your time. Do you
+want to talk about uh the Ray Institute
+for a couple of minutes and why you spun
+out of Boston Dynamics and what Ray is
+currently focused on?
+Yeah, you know, as we as uh Boston
+Dynamics was owned initially by Google
+after 20 something years of being
+independent
+uh and then we went to SoftBank, there
+became more and more interest in seeing
+if we could uh commercialize and make
+money and uh my uh second in command for
+many of those years, Rob Plater wanted
+to do commercialization. So I stepped
+down as CEO as CEO became chairman and
+made him the CEO. And over the years the
+company became more and more commercial.
+We spent more and more time, money and
+talent on reliability, engineering, cost
+reduction, marketing, customer success,
+and less on breaking the glass of trying
+something that wasn't going to mature uh
+for uh years in the future.
+Uh, even the dancing robot thing, I was
+in charge of the dancing robot stuff
+because I was the only one who could
+make us do that. Everybody else was too
+focused on practical things. And now, of
+course, it's part of the Boston Dynamics
+culture. Um, so anyway, so my idea for
+Rey was a zero revenue
+uh further look out to the to the longer
+timeline of at least 5 years, seven
+years and uh work on those problems
+because I they're still today essential
+real dexterity rivaling people doesn't
+exist in robots and we're working on
+that. mobility that could go out and
+take the subway or the public
+transportation in Paris doesn't exist in
+robots and we're working on that through
+our Zurich office. Uh
+we have an ethics and policy group
+trying to understand how workers are
+going to feel about the robots and uh
+what ways we can enable their commercial
+success uh by understanding some of
+those problems. Another thing, any of
+you people could come into a factory and
+in 10 or 15 minutes watch another person
+do a job. And even if you couldn't do it
+as an expert, you could get started
+doing productive work.
+Most robots take a team of very skilled
+programmers, subject matter experts,
+months of programming in order to get
+them to work. So, we have a project
+called watch, understand, do, which you
+could call on the job training. And
+we've been working on that for four
+years, and it is really tough, but we're
+going to keep working on it. And uh I
+think we can make progress on that uh
+eventually.
+>> So, when my kids are my age, what will
+robots do around us?
+>> How old are your kids now? [laughter]
+>> 20. So in 20 years
+I you know they there'll there will be a
+lot more robots doing a lot more things.
+Uh I'm I'm confident in that. But that's
+a 20-year horizon. I think I think it's
+going to you know one of the things is
+that the culture of factories and
+warehouses and people's homes are not
+yet ready uh for this new technology.
+And so part of the job I mean you know
+so everybody knows Mark was leading a
+huge effort a a very successful effort
+selling Boston Dynamics robots and one
+of the things he did was make a customer
+success team which helped develop the
+culture smooth over the problems of
+getting the robots into a money-m world
+and that's still there. You know, I test
+drove my first Tesla, the Roadster, and
+it took 12 years before the S product
+came out. And this is a car. Everybody
+knows how to buy a car. Everybody knows
+how to drive a car. Everybody wants a
+car. And this robots aren't there. So, I
+think we can expect 10 years for the
+culture to develop uh to get the kind
+the levels of uh acceptance that you
+want. But lest anybody think I'm a
+naysayer, I love robotics. I'm in it for
+life. Uh I'm doing it because of the
+love and I think it's so much fun seeing
+what you can make them do. Uh seeing how
+they can screw you up
+and uh you know that's what it's about
+for me.
+>> Any specific applications that you're
+particularly excited about? You know,
+we're trying not to be an application
+group, but to do the work that will
+enable all applications. Dexterity is
+one of those. Uh real mobility or
+semantic uh navigation is one of those
+things. If we could succeed with on the
+job training, I think that would uh
+really help and uh I think uh a lot of
+the people here could benefit from that
+uh progress.
+>> When are we going to see robots in our
+homes?
+Uh I don't know. Uh the the people who
+have tried haven't been too successful
+yet. Uh even Alexa, you know.
+>> Yeah,
+>> I I mean I have a couple of Alexexas and
+I use it, but uh it hasn't really gone
+beyond that level.
+>> But is Alexa a robot?
+>> You know, I I'm a big tent robotics
+person. So, uh sure. It's it's part it's
+one of the ingredients. When are we
+going to have legged robots in the home?
+I mean, obviously people have vacuum
+cleaners uh already and and Alexexas,
+but when are we going to have legged
+robots in the home? I think if you're
+going to be at all practical, you have
+to realize I think the warehouse is uh
+already starting to be a success and
+some companies is a success. The factory
+is next. But the home has the three
+problems of real functionality that's
+useful, cost, and safety. And all those
+three are fighting each other. So I
+think it's still going to be a little
+while. On the other hand, it's a huge
+market potentially. So it'll motivate a
+lot of people.
+>> Yeah.
+>> Great. Well, I know that the audience
+would love to ask questions, but we
+don't have that capability, so um they
+will need to find you afterwards, but
+Thank you so much for the talk. Really
+appreciate it.
+>> That's fine.
+>> That's right. Yeah.

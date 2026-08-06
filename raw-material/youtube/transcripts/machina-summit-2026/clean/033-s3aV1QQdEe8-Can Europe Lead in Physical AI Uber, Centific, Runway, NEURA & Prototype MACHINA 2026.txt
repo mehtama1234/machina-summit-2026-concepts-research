@@ -1,0 +1,923 @@
+[music]
+Sweet. So I will instantly uh reframe
+the question from can Europe lead
+physically AI to how can Europe lead
+physically AI and how will we lead
+physical AI because I have a lot of
+questions about this. Uh we will do a
+quick round of introductions. Uh I will
+start with myself. Uh my name is
+Andreas. I'm an investor in uh mostly
+robotics. Uh I think we're currently one
+of the most active investors in robotics
+and early stage in Europe. I also do
+policy work in Brussels. So if anybody
+of you wants to know anybody thing about
+politics,
+come to me and traumatize me uh because
+I uh work on a lot of those topics as
+well. And uh I will head over to David.
+>> Hi everyone, my name is David, founder
+and CEO of Neur Robotics. Um what we do
+is like we build uh basically cognitive
+robots which can hear, see, feel, think
+and react fully autonomously and for
+that like it's a little bit more than
+just robots. It's basically the brain
+behind and the platform so everyone can
+adjust it and contribute to it. That's
+what we're doing.
+>> Hey everyone, great to be here. I'm
+Anastasis, co-founder, coco of Runway.
+Uh we focus, we're a foundation model
+company that's focused on video
+generation and world models. So kind of
+building uh kind of end to end kind of
+systems for simulating, understanding,
+kind of interacting with the real world.
+Um a lot of our focus for a long time
+has been video generation for content
+creation, for making films, making ads,
+making any kind of content. Uh and over
+the past few years, we've been also
+focusing on robotics. how can the same
+models that are used kind of pre-trained
+on large scale video data be used to
+actually uh predict actions that a robot
+can take in the world help uh generate
+data for robotics to train.
+>> Um this is Vicki um based in Seattle. uh
+so scientific we focus on training data
+sets and also provide a good quality of
+the benchmarking data sets and
+especially working with hyperscaler and
+uh also physical AI world models. So
+that's including you know what is in the
+uh egocentric data um teleoper operation
+data and also um realto theme data um
+anything that you can think about and to
+help robotics and to see things
+understand things and reason things and
+interact and working with humans and we
+focus on the uh global skills so across
+into uh 33 different countries and heavy
+you know uh putting on the regulations
+data sovereignty into our consideration
+Hey all um this is Ankit. I lead the
+international business for Uber AI
+solutions. So somewhere in between a
+ride and a burger. We ended up building
+this massive network of infrastructure
+around data operations really helping
+companies get to the ground truth u be
+it longtail edge case scenarios in
+autonomous vehicle generally or physical
+AI more broadly or in the genai world to
+sort of understand how you can train
+your models better with human in the
+loop. um really scaling at 70 plus
+markets that we are operating today. Um
+and yeah, good to be here.
+>> Cool. Um so I have basically three big
+topics I want to cover. Number one is uh
+the US versus Europe. Number two is
+China versus Europe and number three is
+training data specifically because right
+now we're in this moment of like
+reasoning models and vision models and
+all this kind of stuff actually becoming
+moving out of the uncanny valley and
+like training data is a big part of
+that. But before we do that, uh David,
+uh you recently raised what I think is
+the biggest round for any German startup
+so far. Is it correct?
+>> Yes, correct. What did you do in that
+evening afterwards?
+I think so. Um yeah, basically focusing
+right now right away focusing already on
+the next uh things. Uh we will have a
+celebration actually this Friday. So uh
+it came a little late, but that's how it
+is. Um I think the first thing we did is
+like we came back to the company and we
+started to restructure the company
+actually completely. So we had one week
+of completely restructuring and now
+going forward and building the
+physically AI company for the world and
+that's what we're doing.
+>> I I can also imagine like that I so you
+have been doing this for quite some time
+now and this hasn't been like an easy
+journey and like now also like this
+massive round that must have been like
+an insane moment for the whole team
+right? Yes, it was for sure. It was
+milestone, let's say like that. It's
+like I think everyone in our company is
+aware it's it's just a step between. I
+mean, we are not done yet. We are far
+away from there. Um but but we are now
+let's say in the stage I think we're
+like there weren't so many German
+companies on the stage and I think it is
+um for us it was a huge milestone simply
+because uh it was uh kindly like it was
+always said it is impossible to do
+something like that out of Germany and
+Europe and I think um to build something
+which is impossible it just makes us
+satisfied so we are having fun and at
+the same time knowing also how much
+responsibility it takes also for the
+next companies coming after us. So, and
+this is also what we are focusing right
+now just succeeding so others after us
+have it easier than us.
+>> It's it's always impossible until
+somebody simply does it.
+>> Um
+why is physical AI important for Europe
+from your point of view?
+Um yeah, I think I'm slightly biased but
+I do believe um like physical eyes
+actually the in my opinion the last big
+chance actually for Europe actually
+having built something which is
+important enough or big enough also
+going forward like um to to contribute
+contribute actually also uh to uh let's
+say be important to the world and why is
+this so important simply because that's
+the only thing why Europe exists and the
+same time also why we having let's say
+peace or we had peace and at the same
+time also prosperity like the wealth we
+have built was mainly built on our
+technological advancement and because
+the world was needing things we are
+building now I think physical AI is
+again a chance for us big enough
+important enough because here we are
+talking about let's say a technology
+which is basically covering um the
+biggest contribution of let's say the
+global GDP or so I'm talking about
+physical labor um like of 65% of the
+global GDP is actually uh how to say it
+done by physical labor uh work and and
+this is I think a huge opportunity for
+us uh to build something which is
+important and um let's say how to say it
+yeah that's that's it or
+>> uh Anastasis um you originally from
+Greece uh could you have started runway
+in Greece
+>> no
+>> uh to put this into magnitudes what kind
+of amounts of money do you need for your
+current word models
+Uh so we've raised in total about uh 800
+million at this point. Um and that a lot
+of that goes to research and scaling the
+the video models that we train. Uh I
+would say runway is a special story
+because um I think it could only have
+started in New York uh out of all all
+the places like the New York you know we
+started in uh in grad school uh in New
+York and New York has this intersection
+of creative industries technology um
+like uh advertising media uh in a way
+that doesn't that that's very difficult
+to find anywhere else and so New York
+has been a big part of like the runway
+origin story. At the same time, a lot of
+our research uh was done in Europe. Like
+we have a research team in the UK and
+now we're opening another office in in
+Paris. Um our first I think our first
+three researchers uh were kind of all
+European. Um a lot of the progress in
+image and video generation actually has
+happened uh in Europe uh both kind of in
+happened inside runway but also outside
+runway uh in places like deep mind or um
+kind of here there's a lot of a lot of
+research happening in Paris as well um
+so I think the story of like where
+actually foundation models are trained
+where research is happening is there is
+a common misconception that it's all
+happening in the Bay Area that's not
+actually the case at all uh as we prove
+uh being kind in New York and Europe.
+Uh, and I think uh the the talent that's
+here, the the level of rigor, academic
+rigor, um the in physical AI, the kind
+of deployment base that's in Europe
+makes it uh you know gives a much larger
+opportunity I think for Europe to uh to
+succeed in physical AI maybe compared to
+the pure world of uh uh of bits. That's
+uh where I think a lot of the progress
+has happened in the Bay Area. Um I used
+to live five six years in the Bay Area
+and I always joke that US startups are
+just rappers for European, Chinese and
+Indian talent. Um and it feels like with
+a lot of the AI labs that like core
+teams are usually like very frequently
+core people there are European. Um from
+your point of view as like a a Greek who
+moved to the New York uh what would what
+would you wish for Europe to change so
+that the next Greek uh AI researcher
+like can start the next runway in
+Europe?
+I think there's a few things. So, um I
+guess a big important thing which I
+think is improving is kind of the
+funding environment. I think those es
+especially the scale up rounds that you
+know the AI companies are are getting
+are very difficult to there's not that
+level of uh kind of capital that's fine
+in Europe at the moment. Um that's again
+that's changing. We've had like really
+big successful uh rounds happening uh
+both on the model side and the um and
+and the hardware side. But that that's a
+big important piece like if you want to
+train foundation models like you can't
+do that you know scaling laws are real
+you need to scale comput you need to
+scale data um and that's that's
+difficult uh that requires a lot of uh
+uh a lot of investment in those areas.
+Um and then I think uh it's I I I think
+especially as we um I think there's at
+the same time some opportunities for
+Europe to stay ahead. I think the level
+of collaboration that's happening with
+different governments uh in Europe and
+kind of partnerships with different
+governments and there is some nice kind
+of competition between like which
+government will be more AI forward which
+government will partner with AI
+companies. that's creates a really nice
+environment I think for for European
+companies to leverage compared to the US
+which is a more monolithic um monolithic
+kind of uh environment. So so there is
+like there is some opportunities now
+with AI for for companies to to kind of
+be more kind of strategic partners of uh
+of governments in a way that didn't
+really make sense with like the SAS
+companies of the previous decade. Ankit
+you are currently first of all can you
+explain to people the difference between
+Uber and Uber AI services I think a lot
+of people are aware and then second of
+all you're currently bringing uh
+physical AI to Europe actually uh
+especially in Munich with the robot
+taxes and multiple other cities. Can you
+talk about this for a second?
+>> Um so it's funny we're sitting in Paris
+today because if you walk down the
+memory lane u back in 2008 this was the
+place where Uber was born on a snowy
+night. This was where the concept of the
+founders realizing that they couldn't
+find a taxi um was actually where Uber
+was born. So, you know, when we started
+to scale Uber, uh we quickly realized
+that we can't just rely on sort of the
+third party providers. If you were to
+get your ETA right, if you were to make
+sure that the driver is arriving where
+the the rider is and so on and so forth.
+So we spun up an internal team to really
+start thinking about data and collecting
+real world ground truth data to train
+and the algorithms back then today known
+as more models. Um and and over time
+that sort of expanded into the labeling
+into Uber Eat use cases and and last two
+decades we've really been building that
+for our in-house use case. 2024 we
+externalized that because we started to
+realize how important it is especially
+in the physical AI world but also in the
+Gen AI world data is super important not
+just about access to real world ground
+truth in 70 plus markets that we operate
+but also more importantly how do you
+kind of make use of that data so us
+running the biggest gig workforce we
+really truly bring that expert layer and
+I think in the broad scheme of things
+Uber's vision has evolved to not just
+run the biggest marketplace of you know
+moving people and goods from place point
+A to point B but also evolve to running
+the biggest gig marketplace for anyone
+and any task you're a PhD with a lot of
+specific degrees with spec specialized
+skill set you may need that capability
+to train certain specific models and
+that's what Uber solution essentially is
+um to answer your second question so if
+I take a step back you know in 2020 we
+sort of uh did a transaction for our own
+autonomous one P model and move to a
+pure partnership model because we
+believe our end goal is to have every
+robo taxi deployed on our marketplace.
+And as a result today we partner with
+almost all of the companies out there
+that are building um robo taxis. Um so
+for example we recently announced
+autorains partnership in Germany with
+momenta for example in Germany as well
+and in Spain with vite. I think our goal
+is to kind of make sure that we partner
+with everyone. And this is where Europe
+comes in interesting because, you know,
+you've got some companies that are
+building just the hardware, some
+companies that are just building the
+software, the AV 2.0. Um, and then if
+you think about the uh the OEMs, they're
+building the actual body. So, I think we
+as Uber are trying to play the
+orchestration layer so to speak, the
+connective tissue uh from demand
+generation all the way to fleet and
+infrastructure. But before that actually
+really providing the longtail edge case
+scenarios. So next time you may take an
+Uber in in the US you may not know but
+there are sensors fitted outside that
+are really helping collect data sets to
+train a models too. Yeah.
+>> So, so your if I understood this
+correctly like because momentum is for
+example like company from Beijing like
+Uber is a company from the states. Lift
+is now acquired a bunch of companies in
+Europe and is like introducing uh I
+think self-driving from BU if I remember
+correctly. So where is like you just
+said it but like just to repeat it like
+where do you think in that stack is like
+the Europe's role? Um I think Europe
+plays in in the AV space physically when
+we talk about physical AI plays a role
+to a be the orchestration layer b I
+think also the OEMs if you think about
+all the OEMs outside of China and US and
+most importantly all the leading OEMs
+are actually based out of Europe so
+there is a lot of sensor configuration
+there's a lot of calibration that goes
+on and there's a lot of settings that
+needs to happen in the hardware setup
+and that I think that's where Europe
+will lead a lot so we've we've announced
+partnership ship with Nvidia, Stalantis,
+um Wave and us coming together. So
+that's a perfect example because Wave is
+building the end toend model, Stalantis
+brings the um the OEM, Nvidia brings the
+processing and the data uh piece and we
+bring the data factory, the real world
+data, we bring the data annotation layer
+and we also bring the infrastructure of
+operating and operational management. Uh
+before we jump into OM which is a good
+topic on this one actually uh Vicki you
+also uh we as you called it like your
+data factory company you're selling
+globally like do you see difference in
+how what customers demand and also do
+you see industries or platforms
+currently emerging that people don't
+have on their radar yet
+>> um we see that now this whole world uh
+physical AI keeps evolving it's on a
+daily basis uh I put into different
+layers so first of all when we talk
+about infrastructure readiness We mainly
+dealing with older devices. We give you
+example that now um we recently visited
+ODMs major OEMs and hubs. We see that
+it's not just producing robotics bodies
+anymore. They are talking about
+egocentric devices smart gloves where
+that they can measure your fingers and
+bones level. So that is gives you
+density depth of what is the data set is
+needed. So all the things not like a
+GTP3 training uh where there's a large
+data set existing in the world today
+those data doesn't exist. So that's the
+number one challenge. So all this
+manufacturies and also labs and trying
+to catch up what is the right devices
+setup and that is needed for training
+the uh uh physical ground model. Second
+thing is now when they are dealing with
+the models uh they nobody has to figure
+out what is the data needed. So for
+example if anybody catch Nvidia's
+recently released they announced Cosmos
+3 reasoning model they also announced
+that they are trying to partners with
+the people industry researchers in the
+industry trying to see what is the
+benchmark data sets it means that they
+haven't figured out what is the kind of
+data is needed rather than the quantity
+of the data sets so that's completely
+different way compared with the GTP
+training third way if you talk about
+academic world, you know, Fifi Le or,
+you know, any of this world leading labs
+and they are still trying to big bat on
+whether they should um big bat on the
+tele operation skill set and to get the
+data set or the egocentric data or you
+know real scene uh moder uh the
+simulators. So nobody has to figure out
+that so there's not a no answer that
+people can follow the path. You have to
+just be curious and then figure out the
+answers together.
+Um let's jump to OEM and hardware. So um
+there used to be a saying in the last
+few years that's thankfully going a
+little bit away because it makes me
+leave zoom calls with founders uh which
+is hardware is a commodity we focus on
+the software layer. Uh David do you
+agree is hardware a commodity?
+It's not. So and I think yeah it's good
+if the other think that way but uh it's
+actually not. Um the reason for it is
+very simple. I think um even talking
+about AI and data or like if you if
+you're talking about physical AI then
+the big difference is there is no data
+for that like existing maybe there is
+right now some in production but there
+is not really a lot of data existing and
+the other difference is actually that
+the data comes actually out of what the
+sensorization so and if you do not have
+the right sensorization on you will
+never have a brain understanding
+anything of it because you never had the
+data for it so and and that's actually
+where where where we I think why we
+actually built first of all also the
+physical embodiment for the robots and
+the second also like different
+embodiment. The reason for that is
+actually that we do need to define the
+core one uh is the sensorization let's
+say the fingertips uh like the
+sensitivity on the fingertips. The other
+is like uh vision the other part is
+audio. So you have like a multimodal
+version. Um and and then the other part
+is actually the compute. Uh because even
+if you tell me like there is already
+everything set for that uh it's again
+something is good if other think that
+way but it's it isn't actually because
+um if you're talking about physical AI
+the difference is actually that you're
+in a physical world which is dynamic. So
+it's it's actually moving and it's
+changing. So it means actually you need
+to be reactive and and this you can't
+learn that all with your brain actually.
+So you do need to have like also uh
+another nervous system and that's also
+why I we're working a lot on and it's
+what you're seeing right now in our
+recent funding round is like we focused
+on sensorization partners for that
+strategic partner for the compute
+infrastructure brain [snorts] nervous
+system and then actually the cloud
+compute and distribution and then going
+further even for machine economy. So it
+means also the the whole transactions
+how how do you transfer knowhow like and
+and how do you distribute it actually
+let's say in in a way that everyone can
+actually contribute at the same time
+benefit from it. I think again sorry I I
+took long for that but it's it's
+actually not commodity yet so we do need
+to define it and I think um and and it
+will be one day but uh and even there it
+will just get better and better but um
+we are not there yet
+>> also like um especially in the current
+wave of startups if you're trying to
+innovate some specific industry let's
+say farming uh you can't just say let's
+wait for a Chinese company to build an
+automated tractor you have to build the
+automated tractor and likely that like
+half of your product development is in
+hardware and not in software alone, you
+know. So, um you you also like very
+famous now for sourcing mostly if not
+completely in Europe. Is this true?
+>> Yes. Uh for the humanoid we are we're
+right now trying to source almost 100%.
+So it means there is some rare materials
+whatever which we can't like get from
+Europe yet. But um but the uh like all
+their production and uh assembling
+everything is done in Europe and uh
+we're focusing like on that to build the
+supply chain for that. So actually we're
+transforming a existing supply chain of
+automotive um into basically robotics.
+>> What where do you see the trick to be
+here competitive with China and like how
+much full stack vert verticalization do
+you need to do as neuro? So I think here
+it's important that like first like we
+are not against China and whatever. So I
+think right now it's more to focus to
+build the whole ecosystem around us to
+actually be able to build an economic
+pillar which is independent and at the
+same time strong enough and actually to
+actually arise from Germany and Europe.
+I think it's important for the
+beginning. I think in in the longer term
+I I do believe that it will be let's say
+global sourcing. I hope it will start
+like because I'm still a believer in the
+globalization even the world's right now
+delizing
+but I I do believe in globalization
+because that's also the core for Europe
+but for that we need to build first the
+technologies which is important enough
+which the world needs which is better
+than something on the on other parts of
+the world and then actually I think this
+is and then we contribute again like to
+the globalization part and um I I do
+believe we will source everywhere so and
+the cool thing about uh about physically
+and robotics is actually but it's a huge
+topic if I start but is actually um that
+it's the only way in my opinion to to
+actually let's say get production back
+to Europe or in the same time also to us
+I mean Donald Trump has a good idea like
+bring all the production back to us but
+the the difficulty he will have is that
+the skill sets are not there yet so it
+means actually it's the same actually
+transferring like Apple transferring
+basically um the production from China
+to India it didn't work out the way they
+they they wish and they expected or the
+reason for that there's different skill
+sets in um in uh in like in a population
+or so and and this is I think the
+difference in in physically and robotics
+that you it doesn't matter where you are
+you know on which part of the planet the
+only way is in my opinion that's
+actually the the future vessel of
+knowhow and you can transfer it wherever
+you want in the planet and I think it
+will contribute to the globalization
+again
+>> I I want to chime in uh for that point
+um I feel like that Europe has a really
+good chance to um in terms of the
+motivation the needs and get leading
+into this physical AI world the thing is
+if we look at uh Asia market US market
+yes there's a fantastic companies and
+especially in China robots can do
+anything dancing you know movement and
+nursing the people anything you can
+imagine but the thing is now if you look
+at how they make the money very few
+company make the
+Um there are probably between 20 or 23
+companies really famous and including
+some of the uh great companies on the
+floor. Um if you ask them yes valuation
+is um very much double digits but the
+commercial model is very thin. The
+problem they have is um the labor is
+very cheap there. If you are making a
+robot which going to help you to clean
+your dish and mop your floor, there's
+nobody in Asia is going to buy the
+robots. they can just hire a nanny and
+you know people assist in doing that
+versus that US what we see is now
+there's a huge labs doing all this
+fantastic models they haven't really
+figure out the answer yet but they
+haven't also quite figure out how to
+land the commercialized model they are
+trying to get the manufacturers there's
+a very limited the um you know robotics
+OEMs and hardware ready for them so
+that's a different focus so when I look
+at Europe I feel like the manufacturers
+is here the verticals and healthcare you
+know all this needs is here um and you
+know all Europe needs to do is to you
+know catch up all this devices
+ecosystems and infrastructure readiness
+and then get the data which is not a
+rocket science so that's just in my
+opinion
+>> uh it's a good point actually David what
+is needed to make the vast supply chain
+in Europe more accessible to startup
+founders
+>> it's the belief of the existing supply
+chain or I mean we in like the reason
+for us being so let's say going so deep
+like in even developing our own sensors
+gearboxes motors whatever has the the
+the reason for that was that there was
+um let's say the whole supply chain
+existing supply chain was not believing
+in that story of robotics and that this
+will scale one day but I think this time
+changed because you you do see that um
+like especially like in in Germany like
+the supply chain of of automotive is
+really like I think they have they have
+now a lot of energy actually or a lot of
+hope in a lot of little things where
+where they can actually um how to say
+find a new market for them I think they
+have to there's no other ways for them
+to survive they have to find new markets
+and things which they actually can
+believe in bet on and actually go inside
+the same time like not just for the
+investors but also for themselves uh to
+actually sustain in that space so I
+think um it's it's getting accessible
+because simply there is a need there is
+a pressure there's uh like hope like a
+lot of hopelessness or like in in in
+that space of automotive supply chain
+and I think and they're ready to believe
+in in even little things and and and
+drive them there so I think it's a good
+time right now
+>> I mean this is the interesting thing we
+used to outsource to China because it's
+cheaper labor then we realized uh then
+they uh uh then we now outsource to them
+because they are the only ones that have
+like on that detail and that deaf and
+breath the supply chain and now they're
+starting to automate all of that and the
+question is like we should just use the
+automation to nearshore again and we
+talked like to multiple startups that do
+a lot of industries that we thought
+about like pretty much gone to the to
+the to China and to Asia like coming
+back now because you can actually fully
+verticalize and fully automate that
+whole process. Um I have a question
+because David said something before
+about uh um data and like data not being
+available in uh manufacturing and so on
+and so on. Um and this might be a little
+bit pointed question but our the reason
+why word models are so popular right now
+and like make such a huge progress right
+now is because there's like a vast
+amount of massive general data that you
+can use to train the word models and
+very little specific data to just like
+do small thing for a specific purpose.
+>> I think that's a good summary. So I
+think the biggest the biggest problem in
+uh robotics at least on the software
+intelligence layer is generalization.
+You want a robot that's able to not just
+perform the tasks that it's been
+pre-programmed to do, but actually be
+able to follow arbitrary kind of
+instructions that are, you know, in
+natural language and be able to adapt to
+situations that it hasn't seen before.
+It hasn't been explicitly trained on. Uh
+otherwise you're not going to build
+actually systems that can operate in
+kind of in the real world and can kind
+of uh you know you you won't be able to
+build humanoids that are in the home and
+can deal with all the complexity of the
+different layouts different environments
+different household tasks uh kind of a
+robot that will follow you around kind
+of help you know go to the supermarket
+come back to the house like perform
+basically deal with the complexity of
+daily life um and in order to get there
+I don't I think if we can only get
+there. If we train uh a model just on a
+single embodiment, a single uh form
+factor, I don't think we're going to get
+there. We need to build a model that can
+transfer from um especially essentially
+human data. There is uh a vast amount of
+kind of real world video of humans
+performing different tasks in the world.
+And if we can leverage that knowledge
+and bootstrap to bootstrap models that
+then need only very little amounts of
+data from um actual robotic embodiment
+then uh I think that's a much faster
+path to getting there compared to
+actually collecting that same scale of
+data um just just com just uh with kind
+of uh on just robotic embodiment. Um and
+so that's the bed of world models is uh
+you can bootstrap and kind of start kind
+of cold start those uh those models by
+just pretraining on massive amounts of
+kind of human data of human of humans
+performing different tasks in the world
+and learning from that both kind of the
+diversity of kind of tasks that humans
+care about. Learn about physics, learn
+about kind of the how the world works
+and then use that as a starting point
+for any work that you do in robotics.
+Use that to generate data. use those
+models directly to uh to adapt them as
+action models that predict the actions
+that the robots will take. Uh so we we
+think that's a much faster uh and really
+the the the the only path I would say to
+getting to getting there.
+>> Anit I work in Brussels, you work at
+Uber. I give you one minute to become my
+anger uh speaker uh about regulation in
+Europe. Please go.
+>> Interesting. You know, I have a
+different perspective on regulation when
+it comes to physical AI actually. Um, if
+you talk about general tech, yes, more
+regulation slows things down and it's
+it's sort of the death spiral. But if
+you think about physical AI, the biggest
+challenge for scaling is safety and
+scaling it at a point where it becomes
+more efficient. And I think Europe
+leading the way from a regulation point
+of view might feel like it's taking a
+step back. But if I think about two-year
+horizon or three-year horizon, I
+actually think because the regulations
+are being set now, scalability in the
+future is going to become much more
+important. And I actually so my my view
+is that what's happening in the
+regulation world from a regulatory world
+from a physical AI perspective it's a
+good thing eventually that I think is
+going to accelerate the the deployment
+for example not just in the AV world but
+in general physical AI world because I
+think to your point about data right I
+think world models so AV 1.0 to 2.0 So
+as a perfect example, a lot of people
+are now using general data to train
+parts of the model and then they need
+some longtail edge case scenarios to
+train very specific data types for their
+specific cities deployment and so on. I
+think regulation there comes in very
+handy because that will allow you to
+actually accelerate let's say
+deployment. You can launch Munich
+tomorrow, you can launch Frankfurt next
+week. You don't need to collect tons of
+data and I think regulatory framework
+allows you to do that.
+Sorry, I'm not going to be angry, but I
+think that's my
+>> that was not what I was before, but it's
+um Yeah, fair enough. You have to
+represent Uber here, I guess. Um
+Vicki, what is an uh uh because like we
+spoke about self-driving, we spoke about
+word models with luxury. What is like an
+absolutely unique data set that you're
+recently selling more and more of that
+you haven't thought about like most
+likely most people here don't have on
+their horizon? Um if I just looking at
+H1 of this year, we see that there's
+several waves change. Um January to
+March, we see there's a huge spikes that
+all of a sudden um companies to jump
+into egocentric data. What does it mean
+is you just have a hatmounted devices
+and put on the top of your heads and
+start to collect the data. But very soon
+we see that in this companies after
+March they all died because of two
+reason number one those data lacks of
+depths and there's and angle 3D angle
+it's just not there number two is the
+data regulation there's right now
+there's more and more countries put
+strict uh restrictions in how to ship
+the data globally so that's another
+thing and then after March we see the
+waves and start to shift to more like a
+3D Datas uh versus even today's 4D data
+plus there there is a spatial movement
+data with sensing involvement. So what
+does it mean is there's a higher
+requirement uh to get the uh correct
+devices so that it's just resolve the
+first step of the the problem but then
+second problems is where you going to
+collect the data where you going to
+create the data um I'll give you a very
+detailed number when we look at the GPT
+um u genai right now that's the um most
+of the challenges is stay with the post
+trainings in RJI S and H uh SFTTS and
+all the things but the data annotation
+is not a huge huge challenge here in
+physical AI most of the companies still
+talk about training data sets they are
+not getting into the annotation yet so
+that means nobody has to figure out how
+to label the 3D 21 points and hand
+tracking datas this is just one of the
+examples so stay with that track we see
+that now the second wave people start to
+change the devices but they are still
+like a changing from you egocentric data
+sets to smart gloves. Look at the whole
+world how many companies has a smart
+gloves to figure out and that's just uh
+one of the challenge I learn soon that
+you see that there's a combinations from
+you know VR data sets and the smart
+glass data sets and so that's not it
+just uh I feel like we're still on the
+early journey in getting figure out what
+is the data is the most effective data
+and then we get the uh annotations and
+how are you going to produce the most
+effective data sets rather than two
+hours out of the eight hours and how are
+you going to increase to six out of
+eight hours. So now those are the very
+tactical problems we see is every day
+>> and it's still the very early days. Um I
+want to make two things. Number one, I
+want to make a prediction. I think uh
+next year it will be completely normal
+that we will talk about robotic startups
+doing fully verticalized production in
+Europe at competitive prices to China.
+Uh this is a bold claim.
+I stay by it. No, I literally stay by
+like I see a lot of stealth companies
+right now. I I literally stay by it and
+I also think that Neuro is basically
+like like leading like uh especially in
+the supply chain to make this happen.
+And number two, the second thing I want
+to do is I want to thank you all for the
+discussion and um thank you very much.
+>> Thank you all. Thank you.

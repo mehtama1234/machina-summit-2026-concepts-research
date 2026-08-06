@@ -1,0 +1,6463 @@
+[
+  {
+    "start": "00:00:00.654",
+    "end": "00:00:07.550",
+    "start_seconds": 0.654,
+    "end_seconds": 7.55,
+    "text": "[music]"
+  },
+  {
+    "start": "00:00:07.560",
+    "end": "00:00:08.870",
+    "start_seconds": 7.56,
+    "end_seconds": 8.87,
+    "text": ">> Hello, hello."
+  },
+  {
+    "start": "00:00:08.870",
+    "end": "00:00:08.880",
+    "start_seconds": 8.87,
+    "end_seconds": 8.88,
+    "text": ">> Hello, hello."
+  },
+  {
+    "start": "00:00:08.880",
+    "end": "00:00:10.750",
+    "start_seconds": 8.88,
+    "end_seconds": 10.75,
+    "text": ">> Hello, hello. Um"
+  },
+  {
+    "start": "00:00:10.750",
+    "end": "00:00:10.760",
+    "start_seconds": 10.75,
+    "end_seconds": 10.76,
+    "text": "Um"
+  },
+  {
+    "start": "00:00:10.760",
+    "end": "00:00:14.790",
+    "start_seconds": 10.76,
+    "end_seconds": 14.79,
+    "text": "Um All right. So, let's get started."
+  },
+  {
+    "start": "00:00:14.790",
+    "end": "00:00:14.800",
+    "start_seconds": 14.79,
+    "end_seconds": 14.8,
+    "text": "All right. So, let's get started."
+  },
+  {
+    "start": "00:00:14.800",
+    "end": "00:00:16.390",
+    "start_seconds": 14.8,
+    "end_seconds": 16.39,
+    "text": "All right. So, let's get started. I want to give"
+  },
+  {
+    "start": "00:00:16.390",
+    "end": "00:00:16.400",
+    "start_seconds": 16.39,
+    "end_seconds": 16.4,
+    "text": "I want to give"
+  },
+  {
+    "start": "00:00:16.400",
+    "end": "00:00:18.790",
+    "start_seconds": 16.4,
+    "end_seconds": 18.79,
+    "text": "I want to give this presentation and tell you a new"
+  },
+  {
+    "start": "00:00:18.790",
+    "end": "00:00:18.800",
+    "start_seconds": 18.79,
+    "end_seconds": 18.8,
+    "text": "this presentation and tell you a new"
+  },
+  {
+    "start": "00:00:18.800",
+    "end": "00:00:21.270",
+    "start_seconds": 18.8,
+    "end_seconds": 21.27,
+    "text": "this presentation and tell you a new perspective on"
+  },
+  {
+    "start": "00:00:21.270",
+    "end": "00:00:21.280",
+    "start_seconds": 21.27,
+    "end_seconds": 21.28,
+    "text": "perspective on"
+  },
+  {
+    "start": "00:00:21.280",
+    "end": "00:00:24.110",
+    "start_seconds": 21.28,
+    "end_seconds": 24.11,
+    "text": "perspective on how to build foundation models."
+  },
+  {
+    "start": "00:00:24.110",
+    "end": "00:00:24.120",
+    "start_seconds": 24.11,
+    "end_seconds": 24.12,
+    "text": "how to build foundation models."
+  },
+  {
+    "start": "00:00:24.120",
+    "end": "00:00:25.950",
+    "start_seconds": 24.12,
+    "end_seconds": 25.95,
+    "text": "how to build foundation models. And I want to"
+  },
+  {
+    "start": "00:00:25.950",
+    "end": "00:00:25.960",
+    "start_seconds": 25.95,
+    "end_seconds": 25.96,
+    "text": "And I want to"
+  },
+  {
+    "start": "00:00:25.960",
+    "end": "00:00:28.270",
+    "start_seconds": 25.96,
+    "end_seconds": 28.27,
+    "text": "And I want to talk to you about this new perspective's"
+  },
+  {
+    "start": "00:00:28.270",
+    "end": "00:00:28.280",
+    "start_seconds": 28.27,
+    "end_seconds": 28.28,
+    "text": "talk to you about this new perspective's"
+  },
+  {
+    "start": "00:00:28.280",
+    "end": "00:00:29.590",
+    "start_seconds": 28.28,
+    "end_seconds": 29.59,
+    "text": "talk to you about this new perspective's impact"
+  },
+  {
+    "start": "00:00:29.590",
+    "end": "00:00:29.600",
+    "start_seconds": 29.59,
+    "end_seconds": 29.6,
+    "text": "impact"
+  },
+  {
+    "start": "00:00:29.600",
+    "end": "00:00:31.750",
+    "start_seconds": 29.6,
+    "end_seconds": 31.75,
+    "text": "impact in the society."
+  },
+  {
+    "start": "00:00:31.750",
+    "end": "00:00:31.760",
+    "start_seconds": 31.75,
+    "end_seconds": 31.76,
+    "text": "in the society."
+  },
+  {
+    "start": "00:00:31.760",
+    "end": "00:00:33.790",
+    "start_seconds": 31.76,
+    "end_seconds": 33.79,
+    "text": "in the society. And at the same time, at the very end,"
+  },
+  {
+    "start": "00:00:33.790",
+    "end": "00:00:33.800",
+    "start_seconds": 33.79,
+    "end_seconds": 33.8,
+    "text": "And at the same time, at the very end,"
+  },
+  {
+    "start": "00:00:33.800",
+    "end": "00:00:37.030",
+    "start_seconds": 33.8,
+    "end_seconds": 37.03,
+    "text": "And at the same time, at the very end, I'm going to leave you with one open"
+  },
+  {
+    "start": "00:00:37.030",
+    "end": "00:00:37.040",
+    "start_seconds": 37.03,
+    "end_seconds": 37.04,
+    "text": "I'm going to leave you with one open"
+  },
+  {
+    "start": "00:00:37.040",
+    "end": "00:00:38.110",
+    "start_seconds": 37.04,
+    "end_seconds": 38.11,
+    "text": "I'm going to leave you with one open problem"
+  },
+  {
+    "start": "00:00:38.110",
+    "end": "00:00:38.120",
+    "start_seconds": 38.11,
+    "end_seconds": 38.12,
+    "text": "problem"
+  },
+  {
+    "start": "00:00:38.120",
+    "end": "00:00:40.710",
+    "start_seconds": 38.12,
+    "end_seconds": 40.71,
+    "text": "problem that everybody is trying to solve right"
+  },
+  {
+    "start": "00:00:40.710",
+    "end": "00:00:40.720",
+    "start_seconds": 40.71,
+    "end_seconds": 40.72,
+    "text": "that everybody is trying to solve right"
+  },
+  {
+    "start": "00:00:40.720",
+    "end": "00:00:41.710",
+    "start_seconds": 40.72,
+    "end_seconds": 41.71,
+    "text": "that everybody is trying to solve right now,"
+  },
+  {
+    "start": "00:00:41.710",
+    "end": "00:00:41.720",
+    "start_seconds": 41.71,
+    "end_seconds": 41.72,
+    "text": "now,"
+  },
+  {
+    "start": "00:00:41.720",
+    "end": "00:00:43.670",
+    "start_seconds": 41.72,
+    "end_seconds": 43.67,
+    "text": "now, uh and hopefully open up some"
+  },
+  {
+    "start": "00:00:43.670",
+    "end": "00:00:43.680",
+    "start_seconds": 43.67,
+    "end_seconds": 43.68,
+    "text": "uh and hopefully open up some"
+  },
+  {
+    "start": "00:00:43.680",
+    "end": "00:00:45.550",
+    "start_seconds": 43.68,
+    "end_seconds": 45.55,
+    "text": "uh and hopefully open up some um"
+  },
+  {
+    "start": "00:00:45.550",
+    "end": "00:00:45.560",
+    "start_seconds": 45.55,
+    "end_seconds": 45.56,
+    "text": "um"
+  },
+  {
+    "start": "00:00:45.560",
+    "end": "00:00:46.110",
+    "start_seconds": 45.56,
+    "end_seconds": 46.11,
+    "text": "um uh"
+  },
+  {
+    "start": "00:00:46.110",
+    "end": "00:00:46.120",
+    "start_seconds": 46.11,
+    "end_seconds": 46.12,
+    "text": "uh"
+  },
+  {
+    "start": "00:00:46.120",
+    "end": "00:00:47.590",
+    "start_seconds": 46.12,
+    "end_seconds": 47.59,
+    "text": "uh you know, light for you to really think"
+  },
+  {
+    "start": "00:00:47.590",
+    "end": "00:00:47.600",
+    "start_seconds": 47.59,
+    "end_seconds": 47.6,
+    "text": "you know, light for you to really think"
+  },
+  {
+    "start": "00:00:47.600",
+    "end": "00:00:49.230",
+    "start_seconds": 47.6,
+    "end_seconds": 49.23,
+    "text": "you know, light for you to really think about, you know, like how where where do"
+  },
+  {
+    "start": "00:00:49.230",
+    "end": "00:00:49.240",
+    "start_seconds": 49.23,
+    "end_seconds": 49.24,
+    "text": "about, you know, like how where where do"
+  },
+  {
+    "start": "00:00:49.240",
+    "end": "00:00:50.750",
+    "start_seconds": 49.24,
+    "end_seconds": 50.75,
+    "text": "about, you know, like how where where do you go from here?"
+  },
+  {
+    "start": "00:00:50.750",
+    "end": "00:00:50.760",
+    "start_seconds": 50.75,
+    "end_seconds": 50.76,
+    "text": "you go from here?"
+  },
+  {
+    "start": "00:00:50.760",
+    "end": "00:00:53.670",
+    "start_seconds": 50.76,
+    "end_seconds": 53.67,
+    "text": "you go from here? So, early on when we saw the results of"
+  },
+  {
+    "start": "00:00:53.670",
+    "end": "00:00:53.680",
+    "start_seconds": 53.67,
+    "end_seconds": 53.68,
+    "text": "So, early on when we saw the results of"
+  },
+  {
+    "start": "00:00:53.680",
+    "end": "00:00:55.270",
+    "start_seconds": 53.68,
+    "end_seconds": 55.27,
+    "text": "So, early on when we saw the results of pre-training foundation models, like"
+  },
+  {
+    "start": "00:00:55.270",
+    "end": "00:00:55.280",
+    "start_seconds": 55.27,
+    "end_seconds": 55.28,
+    "text": "pre-training foundation models, like"
+  },
+  {
+    "start": "00:00:55.280",
+    "end": "00:00:56.670",
+    "start_seconds": 55.28,
+    "end_seconds": 56.67,
+    "text": "pre-training foundation models, like from the OpenAI's of the world and"
+  },
+  {
+    "start": "00:00:56.670",
+    "end": "00:00:56.680",
+    "start_seconds": 56.67,
+    "end_seconds": 56.68,
+    "text": "from the OpenAI's of the world and"
+  },
+  {
+    "start": "00:00:56.680",
+    "end": "00:00:59.430",
+    "start_seconds": 56.68,
+    "end_seconds": 59.43,
+    "text": "from the OpenAI's of the world and DeepMind's of the world,"
+  },
+  {
+    "start": "00:00:59.430",
+    "end": "00:00:59.440",
+    "start_seconds": 59.43,
+    "end_seconds": 59.44,
+    "text": "DeepMind's of the world,"
+  },
+  {
+    "start": "00:00:59.440",
+    "end": "00:01:01.430",
+    "start_seconds": 59.44,
+    "end_seconds": 61.43,
+    "text": "DeepMind's of the world, um one objective foundation model"
+  },
+  {
+    "start": "00:01:01.430",
+    "end": "00:01:01.440",
+    "start_seconds": 61.43,
+    "end_seconds": 61.44,
+    "text": "um one objective foundation model"
+  },
+  {
+    "start": "00:01:01.440",
+    "end": "00:01:03.750",
+    "start_seconds": 61.44,
+    "end_seconds": 63.75,
+    "text": "um one objective foundation model companies emerged with one objective of"
+  },
+  {
+    "start": "00:01:03.750",
+    "end": "00:01:03.760",
+    "start_seconds": 63.75,
+    "end_seconds": 63.76,
+    "text": "companies emerged with one objective of"
+  },
+  {
+    "start": "00:01:03.760",
+    "end": "00:01:06.150",
+    "start_seconds": 63.76,
+    "end_seconds": 66.15,
+    "text": "companies emerged with one objective of intelligence at all costs, you know, so"
+  },
+  {
+    "start": "00:01:06.150",
+    "end": "00:01:06.160",
+    "start_seconds": 66.15,
+    "end_seconds": 66.16,
+    "text": "intelligence at all costs, you know, so"
+  },
+  {
+    "start": "00:01:06.160",
+    "end": "00:01:09.190",
+    "start_seconds": 66.16,
+    "end_seconds": 69.19,
+    "text": "intelligence at all costs, you know, so maximizing intelligence along one axis"
+  },
+  {
+    "start": "00:01:09.190",
+    "end": "00:01:09.200",
+    "start_seconds": 69.19,
+    "end_seconds": 69.2,
+    "text": "maximizing intelligence along one axis"
+  },
+  {
+    "start": "00:01:09.200",
+    "end": "00:01:13.990",
+    "start_seconds": 69.2,
+    "end_seconds": 73.99,
+    "text": "maximizing intelligence along one axis to really get to the most kind of um"
+  },
+  {
+    "start": "00:01:13.990",
+    "end": "00:01:14.000",
+    "start_seconds": 73.99,
+    "end_seconds": 74.0,
+    "text": "to really get to the most kind of um"
+  },
+  {
+    "start": "00:01:14.000",
+    "end": "00:01:15.470",
+    "start_seconds": 74.0,
+    "end_seconds": 75.47,
+    "text": "to really get to the most kind of um intelligent systems that we can get."
+  },
+  {
+    "start": "00:01:15.470",
+    "end": "00:01:15.480",
+    "start_seconds": 75.47,
+    "end_seconds": 75.48,
+    "text": "intelligent systems that we can get."
+  },
+  {
+    "start": "00:01:15.480",
+    "end": "00:01:17.190",
+    "start_seconds": 75.48,
+    "end_seconds": 77.19,
+    "text": "intelligent systems that we can get. Like to the marketing term for it is"
+  },
+  {
+    "start": "00:01:17.190",
+    "end": "00:01:17.200",
+    "start_seconds": 77.19,
+    "end_seconds": 77.2,
+    "text": "Like to the marketing term for it is"
+  },
+  {
+    "start": "00:01:17.200",
+    "end": "00:01:19.230",
+    "start_seconds": 77.2,
+    "end_seconds": 79.23,
+    "text": "Like to the marketing term for it is AGI, you know, this is where everybody"
+  },
+  {
+    "start": "00:01:19.230",
+    "end": "00:01:19.240",
+    "start_seconds": 79.23,
+    "end_seconds": 79.24,
+    "text": "AGI, you know, this is where everybody"
+  },
+  {
+    "start": "00:01:19.240",
+    "end": "00:01:20.910",
+    "start_seconds": 79.24,
+    "end_seconds": 80.91,
+    "text": "AGI, you know, this is where everybody wants it to get."
+  },
+  {
+    "start": "00:01:20.910",
+    "end": "00:01:20.920",
+    "start_seconds": 80.91,
+    "end_seconds": 80.92,
+    "text": "wants it to get."
+  },
+  {
+    "start": "00:01:20.920",
+    "end": "00:01:23.230",
+    "start_seconds": 80.92,
+    "end_seconds": 83.23,
+    "text": "wants it to get. But along the way, recently we have seen"
+  },
+  {
+    "start": "00:01:23.230",
+    "end": "00:01:23.240",
+    "start_seconds": 83.23,
+    "end_seconds": 83.24,
+    "text": "But along the way, recently we have seen"
+  },
+  {
+    "start": "00:01:23.240",
+    "end": "00:01:24.270",
+    "start_seconds": 83.24,
+    "end_seconds": 84.27,
+    "text": "But along the way, recently we have seen that"
+  },
+  {
+    "start": "00:01:24.270",
+    "end": "00:01:24.280",
+    "start_seconds": 84.27,
+    "end_seconds": 84.28,
+    "text": "that"
+  },
+  {
+    "start": "00:01:24.280",
+    "end": "00:01:26.550",
+    "start_seconds": 84.28,
+    "end_seconds": 86.55,
+    "text": "that this maximizing intelligence at all"
+  },
+  {
+    "start": "00:01:26.550",
+    "end": "00:01:26.560",
+    "start_seconds": 86.55,
+    "end_seconds": 86.56,
+    "text": "this maximizing intelligence at all"
+  },
+  {
+    "start": "00:01:26.560",
+    "end": "00:01:27.670",
+    "start_seconds": 86.56,
+    "end_seconds": 87.67,
+    "text": "this maximizing intelligence at all costs"
+  },
+  {
+    "start": "00:01:27.670",
+    "end": "00:01:27.680",
+    "start_seconds": 87.67,
+    "end_seconds": 87.68,
+    "text": "costs"
+  },
+  {
+    "start": "00:01:27.680",
+    "end": "00:01:29.630",
+    "start_seconds": 87.68,
+    "end_seconds": 89.63,
+    "text": "costs is coming with a certain type of"
+  },
+  {
+    "start": "00:01:29.630",
+    "end": "00:01:29.640",
+    "start_seconds": 89.63,
+    "end_seconds": 89.64,
+    "text": "is coming with a certain type of"
+  },
+  {
+    "start": "00:01:29.640",
+    "end": "00:01:30.990",
+    "start_seconds": 89.64,
+    "end_seconds": 90.99,
+    "text": "is coming with a certain type of challenges."
+  },
+  {
+    "start": "00:01:30.990",
+    "end": "00:01:31.000",
+    "start_seconds": 90.99,
+    "end_seconds": 91.0,
+    "text": "challenges."
+  },
+  {
+    "start": "00:01:31.000",
+    "end": "00:01:34.150",
+    "start_seconds": 91.0,
+    "end_seconds": 94.15,
+    "text": "challenges. And those challenges are"
+  },
+  {
+    "start": "00:01:34.150",
+    "end": "00:01:34.160",
+    "start_seconds": 94.15,
+    "end_seconds": 94.16,
+    "text": "And those challenges are"
+  },
+  {
+    "start": "00:01:34.160",
+    "end": "00:01:36.910",
+    "start_seconds": 94.16,
+    "end_seconds": 96.91,
+    "text": "And those challenges are uh basically the limitations that we"
+  },
+  {
+    "start": "00:01:36.910",
+    "end": "00:01:36.920",
+    "start_seconds": 96.91,
+    "end_seconds": 96.92,
+    "text": "uh basically the limitations that we"
+  },
+  {
+    "start": "00:01:36.920",
+    "end": "00:01:38.830",
+    "start_seconds": 96.92,
+    "end_seconds": 98.83,
+    "text": "uh basically the limitations that we have around compute, chips, and the"
+  },
+  {
+    "start": "00:01:38.830",
+    "end": "00:01:38.840",
+    "start_seconds": 98.83,
+    "end_seconds": 98.84,
+    "text": "have around compute, chips, and the"
+  },
+  {
+    "start": "00:01:38.840",
+    "end": "00:01:40.470",
+    "start_seconds": 98.84,
+    "end_seconds": 100.47,
+    "text": "have around compute, chips, and the market that we're seeing right now."
+  },
+  {
+    "start": "00:01:40.470",
+    "end": "00:01:40.480",
+    "start_seconds": 100.47,
+    "end_seconds": 100.47999999999999,
+    "text": "market that we're seeing right now."
+  },
+  {
+    "start": "00:01:40.480",
+    "end": "00:01:43.470",
+    "start_seconds": 100.47999999999999,
+    "end_seconds": 103.47,
+    "text": "market that we're seeing right now. Memory prices are actually going up. And"
+  },
+  {
+    "start": "00:01:43.470",
+    "end": "00:01:43.480",
+    "start_seconds": 103.47,
+    "end_seconds": 103.47999999999999,
+    "text": "Memory prices are actually going up. And"
+  },
+  {
+    "start": "00:01:43.480",
+    "end": "00:01:46.550",
+    "start_seconds": 103.47999999999999,
+    "end_seconds": 106.55,
+    "text": "Memory prices are actually going up. And uh you're getting limited on how uh how"
+  },
+  {
+    "start": "00:01:46.550",
+    "end": "00:01:46.560",
+    "start_seconds": 106.55,
+    "end_seconds": 106.56,
+    "text": "uh you're getting limited on how uh how"
+  },
+  {
+    "start": "00:01:46.560",
+    "end": "00:01:50.190",
+    "start_seconds": 106.56,
+    "end_seconds": 110.19,
+    "text": "uh you're getting limited on how uh how to deploy these solutions like at scale."
+  },
+  {
+    "start": "00:01:50.190",
+    "end": "00:01:50.200",
+    "start_seconds": 110.19,
+    "end_seconds": 110.2,
+    "text": "to deploy these solutions like at scale."
+  },
+  {
+    "start": "00:01:50.200",
+    "end": "00:01:52.070",
+    "start_seconds": 110.2,
+    "end_seconds": 112.07,
+    "text": "to deploy these solutions like at scale. You're seeing that efficiency as an"
+  },
+  {
+    "start": "00:01:52.070",
+    "end": "00:01:52.080",
+    "start_seconds": 112.07,
+    "end_seconds": 112.08,
+    "text": "You're seeing that efficiency as an"
+  },
+  {
+    "start": "00:01:52.080",
+    "end": "00:01:55.350",
+    "start_seconds": 112.08,
+    "end_seconds": 115.35,
+    "text": "You're seeing that efficiency as an afterthought is not is not a solution."
+  },
+  {
+    "start": "00:01:55.350",
+    "end": "00:01:55.360",
+    "start_seconds": 115.35,
+    "end_seconds": 115.36,
+    "text": "afterthought is not is not a solution."
+  },
+  {
+    "start": "00:01:55.360",
+    "end": "00:01:58.030",
+    "start_seconds": 115.36,
+    "end_seconds": 118.03,
+    "text": "afterthought is not is not a solution. You cannot just have rely on scaling AI"
+  },
+  {
+    "start": "00:01:58.030",
+    "end": "00:01:58.040",
+    "start_seconds": 118.03,
+    "end_seconds": 118.03999999999999,
+    "text": "You cannot just have rely on scaling AI"
+  },
+  {
+    "start": "00:01:58.040",
+    "end": "00:02:00.430",
+    "start_seconds": 118.03999999999999,
+    "end_seconds": 120.43,
+    "text": "You cannot just have rely on scaling AI systems and then have, let's say,"
+  },
+  {
+    "start": "00:02:00.430",
+    "end": "00:02:00.440",
+    "start_seconds": 120.43,
+    "end_seconds": 120.44,
+    "text": "systems and then have, let's say,"
+  },
+  {
+    "start": "00:02:00.440",
+    "end": "00:02:02.670",
+    "start_seconds": 120.44,
+    "end_seconds": 122.67,
+    "text": "systems and then have, let's say, post-talk quantization kind of methods"
+  },
+  {
+    "start": "00:02:02.670",
+    "end": "00:02:02.680",
+    "start_seconds": 122.67,
+    "end_seconds": 122.68,
+    "text": "post-talk quantization kind of methods"
+  },
+  {
+    "start": "00:02:02.680",
+    "end": "00:02:06.230",
+    "start_seconds": 122.68,
+    "end_seconds": 126.23,
+    "text": "post-talk quantization kind of methods to actually optimize your solutions."
+  },
+  {
+    "start": "00:02:06.230",
+    "end": "00:02:06.240",
+    "start_seconds": 126.23,
+    "end_seconds": 126.24,
+    "text": "to actually optimize your solutions."
+  },
+  {
+    "start": "00:02:06.240",
+    "end": "00:02:07.750",
+    "start_seconds": 126.24,
+    "end_seconds": 127.75,
+    "text": "to actually optimize your solutions. You have to think about efficiency from"
+  },
+  {
+    "start": "00:02:07.750",
+    "end": "00:02:07.760",
+    "start_seconds": 127.75,
+    "end_seconds": 127.76,
+    "text": "You have to think about efficiency from"
+  },
+  {
+    "start": "00:02:07.760",
+    "end": "00:02:10.710",
+    "start_seconds": 127.76,
+    "end_seconds": 130.71,
+    "text": "You have to think about efficiency from scratch when you design AIs."
+  },
+  {
+    "start": "00:02:10.710",
+    "end": "00:02:10.720",
+    "start_seconds": 130.71,
+    "end_seconds": 130.72,
+    "text": "scratch when you design AIs."
+  },
+  {
+    "start": "00:02:10.720",
+    "end": "00:02:12.150",
+    "start_seconds": 130.72,
+    "end_seconds": 132.15,
+    "text": "scratch when you design AIs. And you've seen recently that there are"
+  },
+  {
+    "start": "00:02:12.150",
+    "end": "00:02:12.160",
+    "start_seconds": 132.15,
+    "end_seconds": 132.16,
+    "text": "And you've seen recently that there are"
+  },
+  {
+    "start": "00:02:12.160",
+    "end": "00:02:14.870",
+    "start_seconds": 132.16,
+    "end_seconds": 134.87,
+    "text": "And you've seen recently that there are governance, compliance, and safety on"
+  },
+  {
+    "start": "00:02:14.870",
+    "end": "00:02:14.880",
+    "start_seconds": 134.87,
+    "end_seconds": 134.88,
+    "text": "governance, compliance, and safety on"
+  },
+  {
+    "start": "00:02:14.880",
+    "end": "00:02:16.670",
+    "start_seconds": 134.88,
+    "end_seconds": 136.67000000000002,
+    "text": "governance, compliance, and safety on distribution of intelligence that"
+  },
+  {
+    "start": "00:02:16.670",
+    "end": "00:02:16.680",
+    "start_seconds": 136.67000000000002,
+    "end_seconds": 136.68,
+    "text": "distribution of intelligence that"
+  },
+  {
+    "start": "00:02:16.680",
+    "end": "00:02:19.070",
+    "start_seconds": 136.68,
+    "end_seconds": 139.07,
+    "text": "distribution of intelligence that actually is a blocker on actually taking"
+  },
+  {
+    "start": "00:02:19.070",
+    "end": "00:02:19.080",
+    "start_seconds": 139.07,
+    "end_seconds": 139.07999999999998,
+    "text": "actually is a blocker on actually taking"
+  },
+  {
+    "start": "00:02:19.080",
+    "end": "00:02:22.030",
+    "start_seconds": 139.07999999999998,
+    "end_seconds": 142.03,
+    "text": "actually is a blocker on actually taking AIs to the next step."
+  },
+  {
+    "start": "00:02:22.030",
+    "end": "00:02:22.040",
+    "start_seconds": 142.03,
+    "end_seconds": 142.04,
+    "text": "AIs to the next step."
+  },
+  {
+    "start": "00:02:22.040",
+    "end": "00:02:23.670",
+    "start_seconds": 142.04,
+    "end_seconds": 143.67000000000002,
+    "text": "AIs to the next step. You have also seen that the open-source"
+  },
+  {
+    "start": "00:02:23.670",
+    "end": "00:02:23.680",
+    "start_seconds": 143.67000000000002,
+    "end_seconds": 143.68,
+    "text": "You have also seen that the open-source"
+  },
+  {
+    "start": "00:02:23.680",
+    "end": "00:02:26.310",
+    "start_seconds": 143.68,
+    "end_seconds": 146.31,
+    "text": "You have also seen that the open-source AIs are getting a lot more powerful."
+  },
+  {
+    "start": "00:02:26.310",
+    "end": "00:02:26.320",
+    "start_seconds": 146.31,
+    "end_seconds": 146.32,
+    "text": "AIs are getting a lot more powerful."
+  },
+  {
+    "start": "00:02:26.320",
+    "end": "00:02:28.230",
+    "start_seconds": 146.32,
+    "end_seconds": 148.23,
+    "text": "AIs are getting a lot more powerful. Like for the foundation model company,"
+  },
+  {
+    "start": "00:02:28.230",
+    "end": "00:02:28.240",
+    "start_seconds": 148.23,
+    "end_seconds": 148.24,
+    "text": "Like for the foundation model company,"
+  },
+  {
+    "start": "00:02:28.240",
+    "end": "00:02:30.230",
+    "start_seconds": 148.24,
+    "end_seconds": 150.23,
+    "text": "Like for the foundation model company, it is something for them to think about."
+  },
+  {
+    "start": "00:02:30.230",
+    "end": "00:02:30.240",
+    "start_seconds": 150.23,
+    "end_seconds": 150.24,
+    "text": "it is something for them to think about."
+  },
+  {
+    "start": "00:02:30.240",
+    "end": "00:02:32.190",
+    "start_seconds": 150.24,
+    "end_seconds": 152.19,
+    "text": "it is something for them to think about. So, distribution through open source"
+  },
+  {
+    "start": "00:02:32.190",
+    "end": "00:02:32.200",
+    "start_seconds": 152.19,
+    "end_seconds": 152.2,
+    "text": "So, distribution through open source"
+  },
+  {
+    "start": "00:02:32.200",
+    "end": "00:02:34.949",
+    "start_seconds": 152.2,
+    "end_seconds": 154.949,
+    "text": "So, distribution through open source itself is also another uh challenge that"
+  },
+  {
+    "start": "00:02:34.949",
+    "end": "00:02:34.959",
+    "start_seconds": 154.949,
+    "end_seconds": 154.959,
+    "text": "itself is also another uh challenge that"
+  },
+  {
+    "start": "00:02:34.959",
+    "end": "00:02:36.830",
+    "start_seconds": 154.959,
+    "end_seconds": 156.82999999999998,
+    "text": "itself is also another uh challenge that we need to think about."
+  },
+  {
+    "start": "00:02:36.830",
+    "end": "00:02:36.840",
+    "start_seconds": 156.82999999999998,
+    "end_seconds": 156.84,
+    "text": "we need to think about."
+  },
+  {
+    "start": "00:02:36.840",
+    "end": "00:02:39.949",
+    "start_seconds": 156.84,
+    "end_seconds": 159.949,
+    "text": "we need to think about. So, to solve this,"
+  },
+  {
+    "start": "00:02:39.949",
+    "end": "00:02:39.959",
+    "start_seconds": 159.949,
+    "end_seconds": 159.959,
+    "text": "So, to solve this,"
+  },
+  {
+    "start": "00:02:39.959",
+    "end": "00:02:42.070",
+    "start_seconds": 159.959,
+    "end_seconds": 162.07,
+    "text": "So, to solve this, we thought about"
+  },
+  {
+    "start": "00:02:42.070",
+    "end": "00:02:42.080",
+    "start_seconds": 162.07,
+    "end_seconds": 162.07999999999998,
+    "text": "we thought about"
+  },
+  {
+    "start": "00:02:42.080",
+    "end": "00:02:43.750",
+    "start_seconds": 162.07999999999998,
+    "end_seconds": 163.75,
+    "text": "we thought about a new framework."
+  },
+  {
+    "start": "00:02:43.750",
+    "end": "00:02:43.760",
+    "start_seconds": 163.75,
+    "end_seconds": 163.76,
+    "text": "a new framework."
+  },
+  {
+    "start": "00:02:43.760",
+    "end": "00:02:46.390",
+    "start_seconds": 163.76,
+    "end_seconds": 166.39,
+    "text": "a new framework. We thought about a three-axis problem on"
+  },
+  {
+    "start": "00:02:46.390",
+    "end": "00:02:46.400",
+    "start_seconds": 166.39,
+    "end_seconds": 166.4,
+    "text": "We thought about a three-axis problem on"
+  },
+  {
+    "start": "00:02:46.400",
+    "end": "00:02:48.550",
+    "start_seconds": 166.4,
+    "end_seconds": 168.55,
+    "text": "We thought about a three-axis problem on building foundation models."
+  },
+  {
+    "start": "00:02:48.550",
+    "end": "00:02:48.560",
+    "start_seconds": 168.55,
+    "end_seconds": 168.56,
+    "text": "building foundation models."
+  },
+  {
+    "start": "00:02:48.560",
+    "end": "00:02:51.390",
+    "start_seconds": 168.56,
+    "end_seconds": 171.39,
+    "text": "building foundation models. And how do you do that? Not just having"
+  },
+  {
+    "start": "00:02:51.390",
+    "end": "00:02:51.400",
+    "start_seconds": 171.39,
+    "end_seconds": 171.4,
+    "text": "And how do you do that? Not just having"
+  },
+  {
+    "start": "00:02:51.400",
+    "end": "00:02:53.590",
+    "start_seconds": 171.4,
+    "end_seconds": 173.59,
+    "text": "And how do you do that? Not just having like intelligence maximization,"
+  },
+  {
+    "start": "00:02:53.590",
+    "end": "00:02:53.600",
+    "start_seconds": 173.59,
+    "end_seconds": 173.6,
+    "text": "like intelligence maximization,"
+  },
+  {
+    "start": "00:02:53.600",
+    "end": "00:02:55.390",
+    "start_seconds": 173.6,
+    "end_seconds": 175.39,
+    "text": "like intelligence maximization, but when you design foundation models"
+  },
+  {
+    "start": "00:02:55.390",
+    "end": "00:02:55.400",
+    "start_seconds": 175.39,
+    "end_seconds": 175.4,
+    "text": "but when you design foundation models"
+  },
+  {
+    "start": "00:02:55.400",
+    "end": "00:02:58.670",
+    "start_seconds": 175.4,
+    "end_seconds": 178.67000000000002,
+    "text": "but when you design foundation models from scratch, think about"
+  },
+  {
+    "start": "00:02:58.670",
+    "end": "00:02:58.680",
+    "start_seconds": 178.67000000000002,
+    "end_seconds": 178.68,
+    "text": "from scratch, think about"
+  },
+  {
+    "start": "00:02:58.680",
+    "end": "00:03:00.350",
+    "start_seconds": 178.68,
+    "end_seconds": 180.35,
+    "text": "from scratch, think about intelligence from the pure capability"
+  },
+  {
+    "start": "00:03:00.350",
+    "end": "00:03:00.360",
+    "start_seconds": 180.35,
+    "end_seconds": 180.36,
+    "text": "intelligence from the pure capability"
+  },
+  {
+    "start": "00:03:00.360",
+    "end": "00:03:02.070",
+    "start_seconds": 180.36,
+    "end_seconds": 182.07,
+    "text": "intelligence from the pure capability point of view, but also think about"
+  },
+  {
+    "start": "00:03:02.070",
+    "end": "00:03:02.080",
+    "start_seconds": 182.07,
+    "end_seconds": 182.08,
+    "text": "point of view, but also think about"
+  },
+  {
+    "start": "00:03:02.080",
+    "end": "00:03:04.870",
+    "start_seconds": 182.08,
+    "end_seconds": 184.87,
+    "text": "point of view, but also think about efficiency of this computation from"
+  },
+  {
+    "start": "00:03:04.870",
+    "end": "00:03:04.880",
+    "start_seconds": 184.87,
+    "end_seconds": 184.88,
+    "text": "efficiency of this computation from"
+  },
+  {
+    "start": "00:03:04.880",
+    "end": "00:03:07.110",
+    "start_seconds": 184.88,
+    "end_seconds": 187.11,
+    "text": "efficiency of this computation from scratch in terms of computational cost"
+  },
+  {
+    "start": "00:03:07.110",
+    "end": "00:03:07.120",
+    "start_seconds": 187.11,
+    "end_seconds": 187.12,
+    "text": "scratch in terms of computational cost"
+  },
+  {
+    "start": "00:03:07.120",
+    "end": "00:03:08.550",
+    "start_seconds": 187.12,
+    "end_seconds": 188.55,
+    "text": "scratch in terms of computational cost of intelligence. For example, we have"
+  },
+  {
+    "start": "00:03:08.550",
+    "end": "00:03:08.560",
+    "start_seconds": 188.55,
+    "end_seconds": 188.56,
+    "text": "of intelligence. For example, we have"
+  },
+  {
+    "start": "00:03:08.560",
+    "end": "00:03:10.550",
+    "start_seconds": 188.56,
+    "end_seconds": 190.55,
+    "text": "of intelligence. For example, we have the transformer architecture powering"
+  },
+  {
+    "start": "00:03:10.550",
+    "end": "00:03:10.560",
+    "start_seconds": 190.55,
+    "end_seconds": 190.56,
+    "text": "the transformer architecture powering"
+  },
+  {
+    "start": "00:03:10.560",
+    "end": "00:03:12.910",
+    "start_seconds": 190.56,
+    "end_seconds": 192.91,
+    "text": "the transformer architecture powering all the AIs of today. We can also change"
+  },
+  {
+    "start": "00:03:12.910",
+    "end": "00:03:12.920",
+    "start_seconds": 192.91,
+    "end_seconds": 192.92,
+    "text": "all the AIs of today. We can also change"
+  },
+  {
+    "start": "00:03:12.920",
+    "end": "00:03:15.470",
+    "start_seconds": 192.92,
+    "end_seconds": 195.47,
+    "text": "all the AIs of today. We can also change that. We can start thinking about uh"
+  },
+  {
+    "start": "00:03:15.470",
+    "end": "00:03:15.480",
+    "start_seconds": 195.47,
+    "end_seconds": 195.48,
+    "text": "that. We can start thinking about uh"
+  },
+  {
+    "start": "00:03:15.480",
+    "end": "00:03:17.150",
+    "start_seconds": 195.48,
+    "end_seconds": 197.15,
+    "text": "that. We can start thinking about uh innovations across architecture to"
+  },
+  {
+    "start": "00:03:17.150",
+    "end": "00:03:17.160",
+    "start_seconds": 197.15,
+    "end_seconds": 197.16,
+    "text": "innovations across architecture to"
+  },
+  {
+    "start": "00:03:17.160",
+    "end": "00:03:19.310",
+    "start_seconds": 197.16,
+    "end_seconds": 199.31,
+    "text": "innovations across architecture to getting more efficient uh realization of"
+  },
+  {
+    "start": "00:03:19.310",
+    "end": "00:03:19.320",
+    "start_seconds": 199.31,
+    "end_seconds": 199.32,
+    "text": "getting more efficient uh realization of"
+  },
+  {
+    "start": "00:03:19.320",
+    "end": "00:03:21.350",
+    "start_seconds": 199.32,
+    "end_seconds": 201.35,
+    "text": "getting more efficient uh realization of intelligence. And at the same time,"
+  },
+  {
+    "start": "00:03:21.350",
+    "end": "00:03:21.360",
+    "start_seconds": 201.35,
+    "end_seconds": 201.36,
+    "text": "intelligence. And at the same time,"
+  },
+  {
+    "start": "00:03:21.360",
+    "end": "00:03:23.710",
+    "start_seconds": 201.36,
+    "end_seconds": 203.71,
+    "text": "intelligence. And at the same time, think about where this intelligence"
+  },
+  {
+    "start": "00:03:23.710",
+    "end": "00:03:23.720",
+    "start_seconds": 203.71,
+    "end_seconds": 203.72,
+    "text": "think about where this intelligence"
+  },
+  {
+    "start": "00:03:23.720",
+    "end": "00:03:25.630",
+    "start_seconds": 203.72,
+    "end_seconds": 205.63,
+    "text": "think about where this intelligence system is going to be hosted you know,"
+  },
+  {
+    "start": "00:03:25.630",
+    "end": "00:03:25.640",
+    "start_seconds": 205.63,
+    "end_seconds": 205.64,
+    "text": "system is going to be hosted you know,"
+  },
+  {
+    "start": "00:03:25.640",
+    "end": "00:03:27.550",
+    "start_seconds": 205.64,
+    "end_seconds": 207.55,
+    "text": "system is going to be hosted you know, in the physical world. Because right"
+  },
+  {
+    "start": "00:03:27.550",
+    "end": "00:03:27.560",
+    "start_seconds": 207.55,
+    "end_seconds": 207.56,
+    "text": "in the physical world. Because right"
+  },
+  {
+    "start": "00:03:27.560",
+    "end": "00:03:30.430",
+    "start_seconds": 207.56,
+    "end_seconds": 210.43,
+    "text": "in the physical world. Because right now, all the solutions that are like"
+  },
+  {
+    "start": "00:03:30.430",
+    "end": "00:03:30.440",
+    "start_seconds": 210.43,
+    "end_seconds": 210.44,
+    "text": "now, all the solutions that are like"
+  },
+  {
+    "start": "00:03:30.440",
+    "end": "00:03:31.990",
+    "start_seconds": 210.44,
+    "end_seconds": 211.99,
+    "text": "now, all the solutions that are like foundation model companies are focused"
+  },
+  {
+    "start": "00:03:31.990",
+    "end": "00:03:32.000",
+    "start_seconds": 211.99,
+    "end_seconds": 212.0,
+    "text": "foundation model companies are focused"
+  },
+  {
+    "start": "00:03:32.000",
+    "end": "00:03:33.949",
+    "start_seconds": 212.0,
+    "end_seconds": 213.949,
+    "text": "foundation model companies are focused on have been like dominated in the data"
+  },
+  {
+    "start": "00:03:33.949",
+    "end": "00:03:33.959",
+    "start_seconds": 213.949,
+    "end_seconds": 213.959,
+    "text": "on have been like dominated in the data"
+  },
+  {
+    "start": "00:03:33.959",
+    "end": "00:03:35.750",
+    "start_seconds": 213.959,
+    "end_seconds": 215.75,
+    "text": "on have been like dominated in the data centers, but there is actually an"
+  },
+  {
+    "start": "00:03:35.750",
+    "end": "00:03:35.760",
+    "start_seconds": 215.75,
+    "end_seconds": 215.76,
+    "text": "centers, but there is actually an"
+  },
+  {
+    "start": "00:03:35.760",
+    "end": "00:03:39.150",
+    "start_seconds": 215.76,
+    "end_seconds": 219.15,
+    "text": "centers, but there is actually an abundance of uh resources outside of"
+  },
+  {
+    "start": "00:03:39.150",
+    "end": "00:03:39.160",
+    "start_seconds": 219.15,
+    "end_seconds": 219.16,
+    "text": "abundance of uh resources outside of"
+  },
+  {
+    "start": "00:03:39.160",
+    "end": "00:03:40.870",
+    "start_seconds": 219.16,
+    "end_seconds": 220.87,
+    "text": "abundance of uh resources outside of data centers in the physical world as"
+  },
+  {
+    "start": "00:03:40.870",
+    "end": "00:03:40.880",
+    "start_seconds": 220.87,
+    "end_seconds": 220.88,
+    "text": "data centers in the physical world as"
+  },
+  {
+    "start": "00:03:40.880",
+    "end": "00:03:41.750",
+    "start_seconds": 220.88,
+    "end_seconds": 221.75,
+    "text": "data centers in the physical world as well."
+  },
+  {
+    "start": "00:03:41.750",
+    "end": "00:03:41.760",
+    "start_seconds": 221.75,
+    "end_seconds": 221.76,
+    "text": "well."
+  },
+  {
+    "start": "00:03:41.760",
+    "end": "00:03:44.190",
+    "start_seconds": 221.76,
+    "end_seconds": 224.19,
+    "text": "well. So, if you have an objective function"
+  },
+  {
+    "start": "00:03:44.190",
+    "end": "00:03:44.200",
+    "start_seconds": 224.19,
+    "end_seconds": 224.2,
+    "text": "So, if you have an objective function"
+  },
+  {
+    "start": "00:03:44.200",
+    "end": "00:03:46.670",
+    "start_seconds": 224.2,
+    "end_seconds": 226.67000000000002,
+    "text": "So, if you have an objective function that can allow us to"
+  },
+  {
+    "start": "00:03:46.670",
+    "end": "00:03:46.680",
+    "start_seconds": 226.67000000000002,
+    "end_seconds": 226.68,
+    "text": "that can allow us to"
+  },
+  {
+    "start": "00:03:46.680",
+    "end": "00:03:48.870",
+    "start_seconds": 226.68,
+    "end_seconds": 228.87,
+    "text": "that can allow us to build efficient general-purpose AIs at"
+  },
+  {
+    "start": "00:03:48.870",
+    "end": "00:03:48.880",
+    "start_seconds": 228.87,
+    "end_seconds": 228.88,
+    "text": "build efficient general-purpose AIs at"
+  },
+  {
+    "start": "00:03:48.880",
+    "end": "00:03:50.390",
+    "start_seconds": 228.88,
+    "end_seconds": 230.39,
+    "text": "build efficient general-purpose AIs at every scale,"
+  },
+  {
+    "start": "00:03:50.390",
+    "end": "00:03:50.400",
+    "start_seconds": 230.39,
+    "end_seconds": 230.4,
+    "text": "every scale,"
+  },
+  {
+    "start": "00:03:50.400",
+    "end": "00:03:53.150",
+    "start_seconds": 230.4,
+    "end_seconds": 233.15,
+    "text": "every scale, this is basically the new framework that"
+  },
+  {
+    "start": "00:03:53.150",
+    "end": "00:03:53.160",
+    "start_seconds": 233.15,
+    "end_seconds": 233.16,
+    "text": "this is basically the new framework that"
+  },
+  {
+    "start": "00:03:53.160",
+    "end": "00:03:54.590",
+    "start_seconds": 233.16,
+    "end_seconds": 234.59,
+    "text": "this is basically the new framework that we built"
+  },
+  {
+    "start": "00:03:54.590",
+    "end": "00:03:54.600",
+    "start_seconds": 234.59,
+    "end_seconds": 234.6,
+    "text": "we built"
+  },
+  {
+    "start": "00:03:54.600",
+    "end": "00:03:56.750",
+    "start_seconds": 234.6,
+    "end_seconds": 236.75,
+    "text": "we built liquid AI on top of. So, we are a"
+  },
+  {
+    "start": "00:03:56.750",
+    "end": "00:03:56.760",
+    "start_seconds": 236.75,
+    "end_seconds": 236.76,
+    "text": "liquid AI on top of. So, we are a"
+  },
+  {
+    "start": "00:03:56.760",
+    "end": "00:03:59.030",
+    "start_seconds": 236.76,
+    "end_seconds": 239.03,
+    "text": "liquid AI on top of. So, we are a foundation model company that actually"
+  },
+  {
+    "start": "00:03:59.030",
+    "end": "00:03:59.040",
+    "start_seconds": 239.03,
+    "end_seconds": 239.04,
+    "text": "foundation model company that actually"
+  },
+  {
+    "start": "00:03:59.040",
+    "end": "00:04:01.590",
+    "start_seconds": 239.04,
+    "end_seconds": 241.59,
+    "text": "foundation model company that actually works across optimization of these three"
+  },
+  {
+    "start": "00:04:01.590",
+    "end": "00:04:01.600",
+    "start_seconds": 241.59,
+    "end_seconds": 241.6,
+    "text": "works across optimization of these three"
+  },
+  {
+    "start": "00:04:01.600",
+    "end": "00:04:03.950",
+    "start_seconds": 241.6,
+    "end_seconds": 243.95,
+    "text": "works across optimization of these three axes."
+  },
+  {
+    "start": "00:04:03.950",
+    "end": "00:04:03.960",
+    "start_seconds": 243.95,
+    "end_seconds": 243.96,
+    "text": "axes."
+  },
+  {
+    "start": "00:04:03.960",
+    "end": "00:04:06.070",
+    "start_seconds": 243.96,
+    "end_seconds": 246.07,
+    "text": "axes. How does it look like in practice?"
+  },
+  {
+    "start": "00:04:06.070",
+    "end": "00:04:06.080",
+    "start_seconds": 246.07,
+    "end_seconds": 246.08,
+    "text": "How does it look like in practice?"
+  },
+  {
+    "start": "00:04:06.080",
+    "end": "00:04:09.590",
+    "start_seconds": 246.08,
+    "end_seconds": 249.59,
+    "text": "How does it look like in practice? The way we design AI, we put matters of"
+  },
+  {
+    "start": "00:04:09.590",
+    "end": "00:04:09.600",
+    "start_seconds": 249.59,
+    "end_seconds": 249.6,
+    "text": "The way we design AI, we put matters of"
+  },
+  {
+    "start": "00:04:09.600",
+    "end": "00:04:10.990",
+    "start_seconds": 249.6,
+    "end_seconds": 250.99,
+    "text": "The way we design AI, we put matters of let's say foundation model development"
+  },
+  {
+    "start": "00:04:10.990",
+    "end": "00:04:11.000",
+    "start_seconds": 250.99,
+    "end_seconds": 251.0,
+    "text": "let's say foundation model development"
+  },
+  {
+    "start": "00:04:11.000",
+    "end": "00:04:12.830",
+    "start_seconds": 251.0,
+    "end_seconds": 252.83,
+    "text": "let's say foundation model development across architecture, learning"
+  },
+  {
+    "start": "00:04:12.830",
+    "end": "00:04:12.840",
+    "start_seconds": 252.83,
+    "end_seconds": 252.84,
+    "text": "across architecture, learning"
+  },
+  {
+    "start": "00:04:12.840",
+    "end": "00:04:15.710",
+    "start_seconds": 252.84,
+    "end_seconds": 255.71,
+    "text": "across architecture, learning algorithms, data efforts, all of this is"
+  },
+  {
+    "start": "00:04:15.710",
+    "end": "00:04:15.720",
+    "start_seconds": 255.71,
+    "end_seconds": 255.72,
+    "text": "algorithms, data efforts, all of this is"
+  },
+  {
+    "start": "00:04:15.720",
+    "end": "00:04:17.030",
+    "start_seconds": 255.72,
+    "end_seconds": 257.03,
+    "text": "algorithms, data efforts, all of this is stack."
+  },
+  {
+    "start": "00:04:17.030",
+    "end": "00:04:17.040",
+    "start_seconds": 257.03,
+    "end_seconds": 257.04,
+    "text": "stack."
+  },
+  {
+    "start": "00:04:17.040",
+    "end": "00:04:19.229",
+    "start_seconds": 257.04,
+    "end_seconds": 259.229,
+    "text": "stack. And we basically loop that with the"
+  },
+  {
+    "start": "00:04:19.229",
+    "end": "00:04:19.239",
+    "start_seconds": 259.229,
+    "end_seconds": 259.239,
+    "text": "And we basically loop that with the"
+  },
+  {
+    "start": "00:04:19.239",
+    "end": "00:04:20.550",
+    "start_seconds": 259.239,
+    "end_seconds": 260.55,
+    "text": "And we basically loop that with the physical world."
+  },
+  {
+    "start": "00:04:20.550",
+    "end": "00:04:20.560",
+    "start_seconds": 260.55,
+    "end_seconds": 260.56,
+    "text": "physical world."
+  },
+  {
+    "start": "00:04:20.560",
+    "end": "00:04:22.310",
+    "start_seconds": 260.56,
+    "end_seconds": 262.31,
+    "text": "physical world. When I say physical world, it starts"
+  },
+  {
+    "start": "00:04:22.310",
+    "end": "00:04:22.320",
+    "start_seconds": 262.31,
+    "end_seconds": 262.32,
+    "text": "When I say physical world, it starts"
+  },
+  {
+    "start": "00:04:22.320",
+    "end": "00:04:24.909",
+    "start_seconds": 262.32,
+    "end_seconds": 264.909,
+    "text": "When I say physical world, it starts from chips, from systems like mobile"
+  },
+  {
+    "start": "00:04:24.909",
+    "end": "00:04:24.919",
+    "start_seconds": 264.909,
+    "end_seconds": 264.919,
+    "text": "from chips, from systems like mobile"
+  },
+  {
+    "start": "00:04:24.919",
+    "end": "00:04:26.590",
+    "start_seconds": 264.919,
+    "end_seconds": 266.59,
+    "text": "from chips, from systems like mobile phones and laptops that you communicate"
+  },
+  {
+    "start": "00:04:26.590",
+    "end": "00:04:26.600",
+    "start_seconds": 266.59,
+    "end_seconds": 266.6,
+    "text": "phones and laptops that you communicate"
+  },
+  {
+    "start": "00:04:26.600",
+    "end": "00:04:28.750",
+    "start_seconds": 266.6,
+    "end_seconds": 268.75,
+    "text": "phones and laptops that you communicate with the physical work through them, and"
+  },
+  {
+    "start": "00:04:28.750",
+    "end": "00:04:28.760",
+    "start_seconds": 268.75,
+    "end_seconds": 268.76,
+    "text": "with the physical work through them, and"
+  },
+  {
+    "start": "00:04:28.760",
+    "end": "00:04:31.710",
+    "start_seconds": 268.76,
+    "end_seconds": 271.71,
+    "text": "with the physical work through them, and to let's say devices like robots, cars,"
+  },
+  {
+    "start": "00:04:31.710",
+    "end": "00:04:31.720",
+    "start_seconds": 271.71,
+    "end_seconds": 271.72,
+    "text": "to let's say devices like robots, cars,"
+  },
+  {
+    "start": "00:04:31.720",
+    "end": "00:04:33.909",
+    "start_seconds": 271.72,
+    "end_seconds": 273.909,
+    "text": "to let's say devices like robots, cars, and anything else that moves in our"
+  },
+  {
+    "start": "00:04:33.909",
+    "end": "00:04:33.919",
+    "start_seconds": 273.909,
+    "end_seconds": 273.919,
+    "text": "and anything else that moves in our"
+  },
+  {
+    "start": "00:04:33.919",
+    "end": "00:04:35.150",
+    "start_seconds": 273.919,
+    "end_seconds": 275.15,
+    "text": "and anything else that moves in our society."
+  },
+  {
+    "start": "00:04:35.150",
+    "end": "00:04:35.160",
+    "start_seconds": 275.15,
+    "end_seconds": 275.15999999999997,
+    "text": "society."
+  },
+  {
+    "start": "00:04:35.160",
+    "end": "00:04:38.470",
+    "start_seconds": 275.15999999999997,
+    "end_seconds": 278.47,
+    "text": "society. So, and we co-build an optimization loop"
+  },
+  {
+    "start": "00:04:38.470",
+    "end": "00:04:38.480",
+    "start_seconds": 278.47,
+    "end_seconds": 278.48,
+    "text": "So, and we co-build an optimization loop"
+  },
+  {
+    "start": "00:04:38.480",
+    "end": "00:04:40.909",
+    "start_seconds": 278.48,
+    "end_seconds": 280.909,
+    "text": "So, and we co-build an optimization loop between the substrate, which I call like"
+  },
+  {
+    "start": "00:04:40.909",
+    "end": "00:04:40.919",
+    "start_seconds": 280.909,
+    "end_seconds": 280.919,
+    "text": "between the substrate, which I call like"
+  },
+  {
+    "start": "00:04:40.919",
+    "end": "00:04:42.750",
+    "start_seconds": 280.919,
+    "end_seconds": 282.75,
+    "text": "between the substrate, which I call like those kind of devices,"
+  },
+  {
+    "start": "00:04:42.750",
+    "end": "00:04:42.760",
+    "start_seconds": 282.75,
+    "end_seconds": 282.76,
+    "text": "those kind of devices,"
+  },
+  {
+    "start": "00:04:42.760",
+    "end": "00:04:44.630",
+    "start_seconds": 282.76,
+    "end_seconds": 284.63,
+    "text": "those kind of devices, and the innovations that we have on the"
+  },
+  {
+    "start": "00:04:44.630",
+    "end": "00:04:44.640",
+    "start_seconds": 284.63,
+    "end_seconds": 284.64,
+    "text": "and the innovations that we have on the"
+  },
+  {
+    "start": "00:04:44.640",
+    "end": "00:04:47.670",
+    "start_seconds": 284.64,
+    "end_seconds": 287.67,
+    "text": "and the innovations that we have on the research side."
+  },
+  {
+    "start": "00:04:47.680",
+    "end": "00:04:51.270",
+    "start_seconds": 287.68,
+    "end_seconds": 291.27,
+    "text": "Doing this with a meta AI algorithm, so"
+  },
+  {
+    "start": "00:04:51.270",
+    "end": "00:04:51.280",
+    "start_seconds": 291.27,
+    "end_seconds": 291.28,
+    "text": "Doing this with a meta AI algorithm, so"
+  },
+  {
+    "start": "00:04:51.280",
+    "end": "00:04:53.110",
+    "start_seconds": 291.28,
+    "end_seconds": 293.11,
+    "text": "Doing this with a meta AI algorithm, so at the company itself,"
+  },
+  {
+    "start": "00:04:53.110",
+    "end": "00:04:53.120",
+    "start_seconds": 293.11,
+    "end_seconds": 293.12,
+    "text": "at the company itself,"
+  },
+  {
+    "start": "00:04:53.120",
+    "end": "00:04:55.390",
+    "start_seconds": 293.12,
+    "end_seconds": 295.39,
+    "text": "at the company itself, we built a meta AI system. This AI"
+  },
+  {
+    "start": "00:04:55.390",
+    "end": "00:04:55.400",
+    "start_seconds": 295.39,
+    "end_seconds": 295.4,
+    "text": "we built a meta AI system. This AI"
+  },
+  {
+    "start": "00:04:55.400",
+    "end": "00:04:57.390",
+    "start_seconds": 295.4,
+    "end_seconds": 297.39,
+    "text": "we built a meta AI system. This AI system is actually like a search-based"
+  },
+  {
+    "start": "00:04:57.390",
+    "end": "00:04:57.400",
+    "start_seconds": 297.39,
+    "end_seconds": 297.4,
+    "text": "system is actually like a search-based"
+  },
+  {
+    "start": "00:04:57.400",
+    "end": "00:04:59.630",
+    "start_seconds": 297.4,
+    "end_seconds": 299.63,
+    "text": "system is actually like a search-based algorithm that at the same times across"
+  },
+  {
+    "start": "00:04:59.630",
+    "end": "00:04:59.640",
+    "start_seconds": 299.63,
+    "end_seconds": 299.64,
+    "text": "algorithm that at the same times across"
+  },
+  {
+    "start": "00:04:59.640",
+    "end": "00:05:01.390",
+    "start_seconds": 299.64,
+    "end_seconds": 301.39,
+    "text": "algorithm that at the same times across the three axes that I actually"
+  },
+  {
+    "start": "00:05:01.390",
+    "end": "00:05:01.400",
+    "start_seconds": 301.39,
+    "end_seconds": 301.4,
+    "text": "the three axes that I actually"
+  },
+  {
+    "start": "00:05:01.400",
+    "end": "00:05:03.230",
+    "start_seconds": 301.4,
+    "end_seconds": 303.23,
+    "text": "the three axes that I actually introduced for you, it actually"
+  },
+  {
+    "start": "00:05:03.230",
+    "end": "00:05:03.240",
+    "start_seconds": 303.23,
+    "end_seconds": 303.24,
+    "text": "introduced for you, it actually"
+  },
+  {
+    "start": "00:05:03.240",
+    "end": "00:05:05.909",
+    "start_seconds": 303.24,
+    "end_seconds": 305.909,
+    "text": "introduced for you, it actually optimizes through those axes. Minimum"
+  },
+  {
+    "start": "00:05:05.909",
+    "end": "00:05:05.919",
+    "start_seconds": 305.909,
+    "end_seconds": 305.919,
+    "text": "optimizes through those axes. Minimum"
+  },
+  {
+    "start": "00:05:05.919",
+    "end": "00:05:07.590",
+    "start_seconds": 305.919,
+    "end_seconds": 307.59,
+    "text": "optimizes through those axes. Minimum amount of memory, imagine given a"
+  },
+  {
+    "start": "00:05:07.590",
+    "end": "00:05:07.600",
+    "start_seconds": 307.59,
+    "end_seconds": 307.6,
+    "text": "amount of memory, imagine given a"
+  },
+  {
+    "start": "00:05:07.600",
+    "end": "00:05:09.510",
+    "start_seconds": 307.6,
+    "end_seconds": 309.51,
+    "text": "amount of memory, imagine given a processor on top of which you want to"
+  },
+  {
+    "start": "00:05:09.510",
+    "end": "00:05:09.520",
+    "start_seconds": 309.51,
+    "end_seconds": 309.52,
+    "text": "processor on top of which you want to"
+  },
+  {
+    "start": "00:05:09.520",
+    "end": "00:05:11.190",
+    "start_seconds": 309.52,
+    "end_seconds": 311.19,
+    "text": "processor on top of which you want to deploy the AI,"
+  },
+  {
+    "start": "00:05:11.190",
+    "end": "00:05:11.200",
+    "start_seconds": 311.19,
+    "end_seconds": 311.2,
+    "text": "deploy the AI,"
+  },
+  {
+    "start": "00:05:11.200",
+    "end": "00:05:13.670",
+    "start_seconds": 311.2,
+    "end_seconds": 313.67,
+    "text": "deploy the AI, minimize the amount of error"
+  },
+  {
+    "start": "00:05:13.670",
+    "end": "00:05:13.680",
+    "start_seconds": 313.67,
+    "end_seconds": 313.68,
+    "text": "minimize the amount of error"
+  },
+  {
+    "start": "00:05:13.680",
+    "end": "00:05:16.630",
+    "start_seconds": 313.68,
+    "end_seconds": 316.63,
+    "text": "minimize the amount of error while minimizing memory usage"
+  },
+  {
+    "start": "00:05:16.630",
+    "end": "00:05:16.640",
+    "start_seconds": 316.63,
+    "end_seconds": 316.64,
+    "text": "while minimizing memory usage"
+  },
+  {
+    "start": "00:05:16.640",
+    "end": "00:05:19.150",
+    "start_seconds": 316.64,
+    "end_seconds": 319.15,
+    "text": "while minimizing memory usage while enhancing kind of the speed of the"
+  },
+  {
+    "start": "00:05:19.150",
+    "end": "00:05:19.160",
+    "start_seconds": 319.15,
+    "end_seconds": 319.16,
+    "text": "while enhancing kind of the speed of the"
+  },
+  {
+    "start": "00:05:19.160",
+    "end": "00:05:21.590",
+    "start_seconds": 319.16,
+    "end_seconds": 321.59,
+    "text": "while enhancing kind of the speed of the models as an optimization problem. This"
+  },
+  {
+    "start": "00:05:21.590",
+    "end": "00:05:21.600",
+    "start_seconds": 321.59,
+    "end_seconds": 321.6,
+    "text": "models as an optimization problem. This"
+  },
+  {
+    "start": "00:05:21.600",
+    "end": "00:05:23.750",
+    "start_seconds": 321.6,
+    "end_seconds": 323.75,
+    "text": "models as an optimization problem. This is basically AI is designing AI, you"
+  },
+  {
+    "start": "00:05:23.750",
+    "end": "00:05:23.760",
+    "start_seconds": 323.75,
+    "end_seconds": 323.76,
+    "text": "is basically AI is designing AI, you"
+  },
+  {
+    "start": "00:05:23.760",
+    "end": "00:05:25.710",
+    "start_seconds": 323.76,
+    "end_seconds": 325.71,
+    "text": "is basically AI is designing AI, you know, so that's kind of the framework"
+  },
+  {
+    "start": "00:05:25.710",
+    "end": "00:05:25.720",
+    "start_seconds": 325.71,
+    "end_seconds": 325.72,
+    "text": "know, so that's kind of the framework"
+  },
+  {
+    "start": "00:05:25.720",
+    "end": "00:05:27.590",
+    "start_seconds": 325.72,
+    "end_seconds": 327.59,
+    "text": "know, so that's kind of the framework that about three and a half years ago"
+  },
+  {
+    "start": "00:05:27.590",
+    "end": "00:05:27.600",
+    "start_seconds": 327.59,
+    "end_seconds": 327.6,
+    "text": "that about three and a half years ago"
+  },
+  {
+    "start": "00:05:27.600",
+    "end": "00:05:29.430",
+    "start_seconds": 327.6,
+    "end_seconds": 329.43,
+    "text": "that about three and a half years ago like spun out of MIT we have started"
+  },
+  {
+    "start": "00:05:29.430",
+    "end": "00:05:29.440",
+    "start_seconds": 329.43,
+    "end_seconds": 329.44,
+    "text": "like spun out of MIT we have started"
+  },
+  {
+    "start": "00:05:29.440",
+    "end": "00:05:30.750",
+    "start_seconds": 329.44,
+    "end_seconds": 330.75,
+    "text": "like spun out of MIT we have started like developing."
+  },
+  {
+    "start": "00:05:30.750",
+    "end": "00:05:30.760",
+    "start_seconds": 330.75,
+    "end_seconds": 330.76,
+    "text": "like developing."
+  },
+  {
+    "start": "00:05:30.760",
+    "end": "00:05:33.909",
+    "start_seconds": 330.76,
+    "end_seconds": 333.909,
+    "text": "like developing. So, the core technology at my company is"
+  },
+  {
+    "start": "00:05:33.909",
+    "end": "00:05:33.919",
+    "start_seconds": 333.909,
+    "end_seconds": 333.919,
+    "text": "So, the core technology at my company is"
+  },
+  {
+    "start": "00:05:33.919",
+    "end": "00:05:36.030",
+    "start_seconds": 333.919,
+    "end_seconds": 336.03,
+    "text": "So, the core technology at my company is all about basically building"
+  },
+  {
+    "start": "00:05:36.030",
+    "end": "00:05:36.040",
+    "start_seconds": 336.03,
+    "end_seconds": 336.04,
+    "text": "all about basically building"
+  },
+  {
+    "start": "00:05:36.040",
+    "end": "00:05:38.350",
+    "start_seconds": 336.04,
+    "end_seconds": 338.35,
+    "text": "all about basically building optimization platforms across three"
+  },
+  {
+    "start": "00:05:38.350",
+    "end": "00:05:38.360",
+    "start_seconds": 338.35,
+    "end_seconds": 338.36,
+    "text": "optimization platforms across three"
+  },
+  {
+    "start": "00:05:38.360",
+    "end": "00:05:41.750",
+    "start_seconds": 338.36,
+    "end_seconds": 341.75,
+    "text": "optimization platforms across three different axes: substrate, intelligence,"
+  },
+  {
+    "start": "00:05:41.750",
+    "end": "00:05:41.760",
+    "start_seconds": 341.75,
+    "end_seconds": 341.76,
+    "text": "different axes: substrate, intelligence,"
+  },
+  {
+    "start": "00:05:41.760",
+    "end": "00:05:44.430",
+    "start_seconds": 341.76,
+    "end_seconds": 344.43,
+    "text": "different axes: substrate, intelligence, and efficiency. These are kind of the"
+  },
+  {
+    "start": "00:05:44.430",
+    "end": "00:05:44.440",
+    "start_seconds": 344.43,
+    "end_seconds": 344.44,
+    "text": "and efficiency. These are kind of the"
+  },
+  {
+    "start": "00:05:44.440",
+    "end": "00:05:46.830",
+    "start_seconds": 344.44,
+    "end_seconds": 346.83,
+    "text": "and efficiency. These are kind of the three places is we go."
+  },
+  {
+    "start": "00:05:46.830",
+    "end": "00:05:46.840",
+    "start_seconds": 346.83,
+    "end_seconds": 346.84000000000003,
+    "text": "three places is we go."
+  },
+  {
+    "start": "00:05:46.840",
+    "end": "00:05:48.630",
+    "start_seconds": 346.84000000000003,
+    "end_seconds": 348.63,
+    "text": "three places is we go. There's a I also put like a you know,"
+  },
+  {
+    "start": "00:05:48.630",
+    "end": "00:05:48.640",
+    "start_seconds": 348.63,
+    "end_seconds": 348.64,
+    "text": "There's a I also put like a you know,"
+  },
+  {
+    "start": "00:05:48.640",
+    "end": "00:05:50.110",
+    "start_seconds": 348.64,
+    "end_seconds": 350.11,
+    "text": "There's a I also put like a you know, research um"
+  },
+  {
+    "start": "00:05:50.110",
+    "end": "00:05:50.120",
+    "start_seconds": 350.11,
+    "end_seconds": 350.12,
+    "text": "research um"
+  },
+  {
+    "start": "00:05:50.120",
+    "end": "00:05:52.310",
+    "start_seconds": 350.12,
+    "end_seconds": 352.31,
+    "text": "research um paper here for you to have like a look"
+  },
+  {
+    "start": "00:05:52.310",
+    "end": "00:05:52.320",
+    "start_seconds": 352.31,
+    "end_seconds": 352.32,
+    "text": "paper here for you to have like a look"
+  },
+  {
+    "start": "00:05:52.320",
+    "end": "00:05:55.590",
+    "start_seconds": 352.32,
+    "end_seconds": 355.59000000000003,
+    "text": "paper here for you to have like a look at like from 2024 to really see how we"
+  },
+  {
+    "start": "00:05:55.590",
+    "end": "00:05:55.600",
+    "start_seconds": 355.59000000000003,
+    "end_seconds": 355.6,
+    "text": "at like from 2024 to really see how we"
+  },
+  {
+    "start": "00:05:55.600",
+    "end": "00:05:56.990",
+    "start_seconds": 355.6,
+    "end_seconds": 356.99,
+    "text": "at like from 2024 to really see how we are thinking about this automated"
+  },
+  {
+    "start": "00:05:56.990",
+    "end": "00:05:57.000",
+    "start_seconds": 356.99,
+    "end_seconds": 357.0,
+    "text": "are thinking about this automated"
+  },
+  {
+    "start": "00:05:57.000",
+    "end": "00:05:59.390",
+    "start_seconds": 357.0,
+    "end_seconds": 359.39,
+    "text": "are thinking about this automated foundation model design as a whole."
+  },
+  {
+    "start": "00:05:59.390",
+    "end": "00:05:59.400",
+    "start_seconds": 359.39,
+    "end_seconds": 359.4,
+    "text": "foundation model design as a whole."
+  },
+  {
+    "start": "00:05:59.400",
+    "end": "00:06:02.470",
+    "start_seconds": 359.4,
+    "end_seconds": 362.47,
+    "text": "foundation model design as a whole. Now, let's talk about the impact of this"
+  },
+  {
+    "start": "00:06:02.470",
+    "end": "00:06:02.480",
+    "start_seconds": 362.47,
+    "end_seconds": 362.48,
+    "text": "Now, let's talk about the impact of this"
+  },
+  {
+    "start": "00:06:02.480",
+    "end": "00:06:03.430",
+    "start_seconds": 362.48,
+    "end_seconds": 363.43,
+    "text": "Now, let's talk about the impact of this um"
+  },
+  {
+    "start": "00:06:03.430",
+    "end": "00:06:03.440",
+    "start_seconds": 363.43,
+    "end_seconds": 363.44,
+    "text": "um"
+  },
+  {
+    "start": "00:06:03.440",
+    "end": "00:06:06.070",
+    "start_seconds": 363.44,
+    "end_seconds": 366.07,
+    "text": "um systems."
+  },
+  {
+    "start": "00:06:06.080",
+    "end": "00:06:09.030",
+    "start_seconds": 366.08,
+    "end_seconds": 369.03,
+    "text": "As a result of our automation foundation"
+  },
+  {
+    "start": "00:06:09.030",
+    "end": "00:06:09.040",
+    "start_seconds": 369.03,
+    "end_seconds": 369.04,
+    "text": "As a result of our automation foundation"
+  },
+  {
+    "start": "00:06:09.040",
+    "end": "00:06:11.310",
+    "start_seconds": 369.04,
+    "end_seconds": 371.31,
+    "text": "As a result of our automation foundation foundation modeling platform, we are"
+  },
+  {
+    "start": "00:06:11.310",
+    "end": "00:06:11.320",
+    "start_seconds": 371.31,
+    "end_seconds": 371.32,
+    "text": "foundation modeling platform, we are"
+  },
+  {
+    "start": "00:06:11.320",
+    "end": "00:06:12.670",
+    "start_seconds": 371.32,
+    "end_seconds": 372.67,
+    "text": "foundation modeling platform, we are getting into something that we call"
+  },
+  {
+    "start": "00:06:12.670",
+    "end": "00:06:12.680",
+    "start_seconds": 372.67,
+    "end_seconds": 372.68,
+    "text": "getting into something that we call"
+  },
+  {
+    "start": "00:06:12.680",
+    "end": "00:06:14.470",
+    "start_seconds": 372.68,
+    "end_seconds": 374.47,
+    "text": "getting into something that we call liquid foundation models. These are a"
+  },
+  {
+    "start": "00:06:14.470",
+    "end": "00:06:14.480",
+    "start_seconds": 374.47,
+    "end_seconds": 374.48,
+    "text": "liquid foundation models. These are a"
+  },
+  {
+    "start": "00:06:14.480",
+    "end": "00:06:16.030",
+    "start_seconds": 374.48,
+    "end_seconds": 376.03,
+    "text": "liquid foundation models. These are a new class of artificial intelligence"
+  },
+  {
+    "start": "00:06:16.030",
+    "end": "00:06:16.040",
+    "start_seconds": 376.03,
+    "end_seconds": 376.04,
+    "text": "new class of artificial intelligence"
+  },
+  {
+    "start": "00:06:16.040",
+    "end": "00:06:18.270",
+    "start_seconds": 376.04,
+    "end_seconds": 378.27,
+    "text": "new class of artificial intelligence systems that are very lightweight and"
+  },
+  {
+    "start": "00:06:18.270",
+    "end": "00:06:18.280",
+    "start_seconds": 378.27,
+    "end_seconds": 378.28,
+    "text": "systems that are very lightweight and"
+  },
+  {
+    "start": "00:06:18.280",
+    "end": "00:06:20.990",
+    "start_seconds": 378.28,
+    "end_seconds": 380.99,
+    "text": "systems that are very lightweight and they can fit even on a Raspberry Pi."
+  },
+  {
+    "start": "00:06:20.990",
+    "end": "00:06:21.000",
+    "start_seconds": 380.99,
+    "end_seconds": 381.0,
+    "text": "they can fit even on a Raspberry Pi."
+  },
+  {
+    "start": "00:06:21.000",
+    "end": "00:06:22.710",
+    "start_seconds": 381.0,
+    "end_seconds": 382.71,
+    "text": "they can fit even on a Raspberry Pi. So, you can host these models on the"
+  },
+  {
+    "start": "00:06:22.710",
+    "end": "00:06:22.720",
+    "start_seconds": 382.71,
+    "end_seconds": 382.72,
+    "text": "So, you can host these models on the"
+  },
+  {
+    "start": "00:06:22.720",
+    "end": "00:06:27.350",
+    "start_seconds": 382.72,
+    "end_seconds": 387.35,
+    "text": "So, you can host these models on the smallest unit of compute and larger."
+  },
+  {
+    "start": "00:06:27.350",
+    "end": "00:06:27.360",
+    "start_seconds": 387.35,
+    "end_seconds": 387.36,
+    "text": "smallest unit of compute and larger."
+  },
+  {
+    "start": "00:06:27.360",
+    "end": "00:06:28.790",
+    "start_seconds": 387.36,
+    "end_seconds": 388.79,
+    "text": "smallest unit of compute and larger. The systems are actually extremely"
+  },
+  {
+    "start": "00:06:28.790",
+    "end": "00:06:28.800",
+    "start_seconds": 388.79,
+    "end_seconds": 388.8,
+    "text": "The systems are actually extremely"
+  },
+  {
+    "start": "00:06:28.800",
+    "end": "00:06:30.350",
+    "start_seconds": 388.8,
+    "end_seconds": 390.35,
+    "text": "The systems are actually extremely popular. These models has been"
+  },
+  {
+    "start": "00:06:30.350",
+    "end": "00:06:30.360",
+    "start_seconds": 390.35,
+    "end_seconds": 390.36,
+    "text": "popular. These models has been"
+  },
+  {
+    "start": "00:06:30.360",
+    "end": "00:06:33.470",
+    "start_seconds": 390.36,
+    "end_seconds": 393.47,
+    "text": "popular. These models has been downloaded over with a rate of over 1"
+  },
+  {
+    "start": "00:06:33.470",
+    "end": "00:06:33.480",
+    "start_seconds": 393.47,
+    "end_seconds": 393.48,
+    "text": "downloaded over with a rate of over 1"
+  },
+  {
+    "start": "00:06:33.480",
+    "end": "00:06:35.950",
+    "start_seconds": 393.48,
+    "end_seconds": 395.95,
+    "text": "downloaded over with a rate of over 1 million downloads per week."
+  },
+  {
+    "start": "00:06:35.950",
+    "end": "00:06:35.960",
+    "start_seconds": 395.95,
+    "end_seconds": 395.96,
+    "text": "million downloads per week."
+  },
+  {
+    "start": "00:06:35.960",
+    "end": "00:06:37.590",
+    "start_seconds": 395.96,
+    "end_seconds": 397.59000000000003,
+    "text": "million downloads per week. So, we are like from the US side, we are"
+  },
+  {
+    "start": "00:06:37.590",
+    "end": "00:06:37.600",
+    "start_seconds": 397.59000000000003,
+    "end_seconds": 397.6,
+    "text": "So, we are like from the US side, we are"
+  },
+  {
+    "start": "00:06:37.600",
+    "end": "00:06:39.390",
+    "start_seconds": 397.6,
+    "end_seconds": 399.39,
+    "text": "So, we are like from the US side, we are actually like probably from the Open"
+  },
+  {
+    "start": "00:06:39.390",
+    "end": "00:06:39.400",
+    "start_seconds": 399.39,
+    "end_seconds": 399.4,
+    "text": "actually like probably from the Open"
+  },
+  {
+    "start": "00:06:39.400",
+    "end": "00:06:41.070",
+    "start_seconds": 399.4,
+    "end_seconds": 401.07,
+    "text": "actually like probably from the Open Weight Lab in the top 10 kind of"
+  },
+  {
+    "start": "00:06:41.070",
+    "end": "00:06:41.080",
+    "start_seconds": 401.07,
+    "end_seconds": 401.08,
+    "text": "Weight Lab in the top 10 kind of"
+  },
+  {
+    "start": "00:06:41.080",
+    "end": "00:06:42.390",
+    "start_seconds": 401.08,
+    "end_seconds": 402.39,
+    "text": "Weight Lab in the top 10 kind of companies that are actually releasing"
+  },
+  {
+    "start": "00:06:42.390",
+    "end": "00:06:42.400",
+    "start_seconds": 402.39,
+    "end_seconds": 402.4,
+    "text": "companies that are actually releasing"
+  },
+  {
+    "start": "00:06:42.400",
+    "end": "00:06:44.230",
+    "start_seconds": 402.4,
+    "end_seconds": 404.23,
+    "text": "companies that are actually releasing open source models."
+  },
+  {
+    "start": "00:06:44.230",
+    "end": "00:06:44.240",
+    "start_seconds": 404.23,
+    "end_seconds": 404.24,
+    "text": "open source models."
+  },
+  {
+    "start": "00:06:44.240",
+    "end": "00:06:45.870",
+    "start_seconds": 404.24,
+    "end_seconds": 405.87,
+    "text": "open source models. And we have done that with an amazing"
+  },
+  {
+    "start": "00:06:45.870",
+    "end": "00:06:45.880",
+    "start_seconds": 405.87,
+    "end_seconds": 405.88,
+    "text": "And we have done that with an amazing"
+  },
+  {
+    "start": "00:06:45.880",
+    "end": "00:06:50.030",
+    "start_seconds": 405.88,
+    "end_seconds": 410.03,
+    "text": "And we have done that with an amazing amount of efficiencies."
+  },
+  {
+    "start": "00:06:50.040",
+    "end": "00:06:52.870",
+    "start_seconds": 410.04,
+    "end_seconds": 412.87,
+    "text": "Now, let's look at some stats. When you"
+  },
+  {
+    "start": "00:06:52.870",
+    "end": "00:06:52.880",
+    "start_seconds": 412.87,
+    "end_seconds": 412.88,
+    "text": "Now, let's look at some stats. When you"
+  },
+  {
+    "start": "00:06:52.880",
+    "end": "00:06:56.190",
+    "start_seconds": 412.88,
+    "end_seconds": 416.19,
+    "text": "Now, let's look at some stats. When you optimize foundation models from scratch"
+  },
+  {
+    "start": "00:06:56.190",
+    "end": "00:06:56.200",
+    "start_seconds": 416.19,
+    "end_seconds": 416.2,
+    "text": "optimize foundation models from scratch"
+  },
+  {
+    "start": "00:06:56.200",
+    "end": "00:06:58.230",
+    "start_seconds": 416.2,
+    "end_seconds": 418.23,
+    "text": "optimize foundation models from scratch with the goal of"
+  },
+  {
+    "start": "00:06:58.230",
+    "end": "00:06:58.240",
+    "start_seconds": 418.23,
+    "end_seconds": 418.24,
+    "text": "with the goal of"
+  },
+  {
+    "start": "00:06:58.240",
+    "end": "00:07:00.909",
+    "start_seconds": 418.24,
+    "end_seconds": 420.909,
+    "text": "with the goal of three things as I mentioned, memory,"
+  },
+  {
+    "start": "00:07:00.909",
+    "end": "00:07:00.919",
+    "start_seconds": 420.909,
+    "end_seconds": 420.919,
+    "text": "three things as I mentioned, memory,"
+  },
+  {
+    "start": "00:07:00.919",
+    "end": "00:07:04.270",
+    "start_seconds": 420.919,
+    "end_seconds": 424.27,
+    "text": "three things as I mentioned, memory, latency, and quality at the same time,"
+  },
+  {
+    "start": "00:07:04.270",
+    "end": "00:07:04.280",
+    "start_seconds": 424.27,
+    "end_seconds": 424.28,
+    "text": "latency, and quality at the same time,"
+  },
+  {
+    "start": "00:07:04.280",
+    "end": "00:07:07.750",
+    "start_seconds": 424.28,
+    "end_seconds": 427.75,
+    "text": "latency, and quality at the same time, you can unlock new Pareto frontiers."
+  },
+  {
+    "start": "00:07:07.750",
+    "end": "00:07:07.760",
+    "start_seconds": 427.75,
+    "end_seconds": 427.76,
+    "text": "you can unlock new Pareto frontiers."
+  },
+  {
+    "start": "00:07:07.760",
+    "end": "00:07:10.110",
+    "start_seconds": 427.76,
+    "end_seconds": 430.11,
+    "text": "you can unlock new Pareto frontiers. Here what you see is a comparison"
+  },
+  {
+    "start": "00:07:10.110",
+    "end": "00:07:10.120",
+    "start_seconds": 430.11,
+    "end_seconds": 430.12,
+    "text": "Here what you see is a comparison"
+  },
+  {
+    "start": "00:07:10.120",
+    "end": "00:07:12.670",
+    "start_seconds": 430.12,
+    "end_seconds": 432.67,
+    "text": "Here what you see is a comparison of a bunch of models across quality on"
+  },
+  {
+    "start": "00:07:12.670",
+    "end": "00:07:12.680",
+    "start_seconds": 432.67,
+    "end_seconds": 432.68,
+    "text": "of a bunch of models across quality on"
+  },
+  {
+    "start": "00:07:12.680",
+    "end": "00:07:15.550",
+    "start_seconds": 432.68,
+    "end_seconds": 435.55,
+    "text": "of a bunch of models across quality on the Y axis and on the X axis you see the"
+  },
+  {
+    "start": "00:07:15.550",
+    "end": "00:07:15.560",
+    "start_seconds": 435.55,
+    "end_seconds": 435.56,
+    "text": "the Y axis and on the X axis you see the"
+  },
+  {
+    "start": "00:07:15.560",
+    "end": "00:07:17.470",
+    "start_seconds": 435.56,
+    "end_seconds": 437.47,
+    "text": "the Y axis and on the X axis you see the decode speed or the speed of"
+  },
+  {
+    "start": "00:07:17.470",
+    "end": "00:07:17.480",
+    "start_seconds": 437.47,
+    "end_seconds": 437.48,
+    "text": "decode speed or the speed of"
+  },
+  {
+    "start": "00:07:17.480",
+    "end": "00:07:19.909",
+    "start_seconds": 437.48,
+    "end_seconds": 439.909,
+    "text": "decode speed or the speed of computation. The speed should be higher"
+  },
+  {
+    "start": "00:07:19.909",
+    "end": "00:07:19.919",
+    "start_seconds": 439.909,
+    "end_seconds": 439.919,
+    "text": "computation. The speed should be higher"
+  },
+  {
+    "start": "00:07:19.919",
+    "end": "00:07:22.030",
+    "start_seconds": 439.919,
+    "end_seconds": 442.03,
+    "text": "computation. The speed should be higher and quality should also be higher. You"
+  },
+  {
+    "start": "00:07:22.030",
+    "end": "00:07:22.040",
+    "start_seconds": 442.03,
+    "end_seconds": 442.04,
+    "text": "and quality should also be higher. You"
+  },
+  {
+    "start": "00:07:22.040",
+    "end": "00:07:24.110",
+    "start_seconds": 442.04,
+    "end_seconds": 444.11,
+    "text": "and quality should also be higher. You can see a comparison between like how"
+  },
+  {
+    "start": "00:07:24.110",
+    "end": "00:07:24.120",
+    "start_seconds": 444.11,
+    "end_seconds": 444.12,
+    "text": "can see a comparison between like how"
+  },
+  {
+    "start": "00:07:24.120",
+    "end": "00:07:26.630",
+    "start_seconds": 444.12,
+    "end_seconds": 446.63,
+    "text": "can see a comparison between like how these models are actually performing."
+  },
+  {
+    "start": "00:07:26.630",
+    "end": "00:07:26.640",
+    "start_seconds": 446.63,
+    "end_seconds": 446.64,
+    "text": "these models are actually performing."
+  },
+  {
+    "start": "00:07:26.640",
+    "end": "00:07:28.710",
+    "start_seconds": 446.64,
+    "end_seconds": 448.71,
+    "text": "these models are actually performing. At the same time,"
+  },
+  {
+    "start": "00:07:28.710",
+    "end": "00:07:28.720",
+    "start_seconds": 448.71,
+    "end_seconds": 448.72,
+    "text": "At the same time,"
+  },
+  {
+    "start": "00:07:28.720",
+    "end": "00:07:30.470",
+    "start_seconds": 448.72,
+    "end_seconds": 450.47,
+    "text": "At the same time, this is another graph, very similar"
+  },
+  {
+    "start": "00:07:30.470",
+    "end": "00:07:30.480",
+    "start_seconds": 450.47,
+    "end_seconds": 450.48,
+    "text": "this is another graph, very similar"
+  },
+  {
+    "start": "00:07:30.480",
+    "end": "00:07:32.510",
+    "start_seconds": 450.48,
+    "end_seconds": 452.51,
+    "text": "this is another graph, very similar thing that on the X axis you see"
+  },
+  {
+    "start": "00:07:32.510",
+    "end": "00:07:32.520",
+    "start_seconds": 452.51,
+    "end_seconds": 452.52,
+    "text": "thing that on the X axis you see"
+  },
+  {
+    "start": "00:07:32.520",
+    "end": "00:07:34.470",
+    "start_seconds": 452.52,
+    "end_seconds": 454.47,
+    "text": "thing that on the X axis you see quality, on the"
+  },
+  {
+    "start": "00:07:34.470",
+    "end": "00:07:34.480",
+    "start_seconds": 454.47,
+    "end_seconds": 454.48,
+    "text": "quality, on the"
+  },
+  {
+    "start": "00:07:34.480",
+    "end": "00:07:36.390",
+    "start_seconds": 454.48,
+    "end_seconds": 456.39,
+    "text": "quality, on the Y axis you see"
+  },
+  {
+    "start": "00:07:36.390",
+    "end": "00:07:36.400",
+    "start_seconds": 456.39,
+    "end_seconds": 456.4,
+    "text": "Y axis you see"
+  },
+  {
+    "start": "00:07:36.400",
+    "end": "00:07:37.830",
+    "start_seconds": 456.4,
+    "end_seconds": 457.83,
+    "text": "Y axis you see um memory."
+  },
+  {
+    "start": "00:07:37.830",
+    "end": "00:07:37.840",
+    "start_seconds": 457.83,
+    "end_seconds": 457.84000000000003,
+    "text": "um memory."
+  },
+  {
+    "start": "00:07:37.840",
+    "end": "00:07:40.710",
+    "start_seconds": 457.84000000000003,
+    "end_seconds": 460.71,
+    "text": "um memory. The lower memory footprint is better."
+  },
+  {
+    "start": "00:07:40.710",
+    "end": "00:07:40.720",
+    "start_seconds": 460.71,
+    "end_seconds": 460.72,
+    "text": "The lower memory footprint is better."
+  },
+  {
+    "start": "00:07:40.720",
+    "end": "00:07:41.990",
+    "start_seconds": 460.72,
+    "end_seconds": 461.99,
+    "text": "The lower memory footprint is better. So,"
+  },
+  {
+    "start": "00:07:41.990",
+    "end": "00:07:42.000",
+    "start_seconds": 461.99,
+    "end_seconds": 462.0,
+    "text": "So,"
+  },
+  {
+    "start": "00:07:42.000",
+    "end": "00:07:44.030",
+    "start_seconds": 462.0,
+    "end_seconds": 464.03,
+    "text": "So, we have a range of models ranging from"
+  },
+  {
+    "start": "00:07:44.030",
+    "end": "00:07:44.040",
+    "start_seconds": 464.03,
+    "end_seconds": 464.04,
+    "text": "we have a range of models ranging from"
+  },
+  {
+    "start": "00:07:44.040",
+    "end": "00:07:46.950",
+    "start_seconds": 464.04,
+    "end_seconds": 466.95,
+    "text": "we have a range of models ranging from like 100 million parameter models to,"
+  },
+  {
+    "start": "00:07:46.950",
+    "end": "00:07:46.960",
+    "start_seconds": 466.95,
+    "end_seconds": 466.96,
+    "text": "like 100 million parameter models to,"
+  },
+  {
+    "start": "00:07:46.960",
+    "end": "00:07:49.030",
+    "start_seconds": 466.96,
+    "end_seconds": 469.03,
+    "text": "like 100 million parameter models to, let's say, 100 billion parameter models."
+  },
+  {
+    "start": "00:07:49.030",
+    "end": "00:07:49.040",
+    "start_seconds": 469.03,
+    "end_seconds": 469.04,
+    "text": "let's say, 100 billion parameter models."
+  },
+  {
+    "start": "00:07:49.040",
+    "end": "00:07:50.790",
+    "start_seconds": 469.04,
+    "end_seconds": 470.79,
+    "text": "let's say, 100 billion parameter models. So far, we have actually released some"
+  },
+  {
+    "start": "00:07:50.790",
+    "end": "00:07:50.800",
+    "start_seconds": 470.79,
+    "end_seconds": 470.8,
+    "text": "So far, we have actually released some"
+  },
+  {
+    "start": "00:07:50.800",
+    "end": "00:07:52.670",
+    "start_seconds": 470.8,
+    "end_seconds": 472.67,
+    "text": "So far, we have actually released some of these models in open in an open"
+  },
+  {
+    "start": "00:07:52.670",
+    "end": "00:07:52.680",
+    "start_seconds": 472.67,
+    "end_seconds": 472.68,
+    "text": "of these models in open in an open"
+  },
+  {
+    "start": "00:07:52.680",
+    "end": "00:07:54.030",
+    "start_seconds": 472.68,
+    "end_seconds": 474.03,
+    "text": "of these models in open in an open weight fashion."
+  },
+  {
+    "start": "00:07:54.030",
+    "end": "00:07:54.040",
+    "start_seconds": 474.03,
+    "end_seconds": 474.04,
+    "text": "weight fashion."
+  },
+  {
+    "start": "00:07:54.040",
+    "end": "00:07:57.270",
+    "start_seconds": 474.04,
+    "end_seconds": 477.27,
+    "text": "weight fashion. And this is a report from artificial"
+  },
+  {
+    "start": "00:07:57.270",
+    "end": "00:07:57.280",
+    "start_seconds": 477.27,
+    "end_seconds": 477.28,
+    "text": "And this is a report from artificial"
+  },
+  {
+    "start": "00:07:57.280",
+    "end": "00:07:59.830",
+    "start_seconds": 477.28,
+    "end_seconds": 479.83,
+    "text": "And this is a report from artificial analysis that you can actually see the"
+  },
+  {
+    "start": "00:07:59.830",
+    "end": "00:07:59.840",
+    "start_seconds": 479.83,
+    "end_seconds": 479.84000000000003,
+    "text": "analysis that you can actually see the"
+  },
+  {
+    "start": "00:07:59.840",
+    "end": "00:08:01.990",
+    "start_seconds": 479.84000000000003,
+    "end_seconds": 481.99,
+    "text": "analysis that you can actually see the fastest models on the planet right now."
+  },
+  {
+    "start": "00:08:01.990",
+    "end": "00:08:02.000",
+    "start_seconds": 481.99,
+    "end_seconds": 482.0,
+    "text": "fastest models on the planet right now."
+  },
+  {
+    "start": "00:08:02.000",
+    "end": "00:08:03.790",
+    "start_seconds": 482.0,
+    "end_seconds": 483.79,
+    "text": "fastest models on the planet right now. There's a Mercury 2 and there's a liquid"
+  },
+  {
+    "start": "00:08:03.790",
+    "end": "00:08:03.800",
+    "start_seconds": 483.79,
+    "end_seconds": 483.8,
+    "text": "There's a Mercury 2 and there's a liquid"
+  },
+  {
+    "start": "00:08:03.800",
+    "end": "00:08:05.990",
+    "start_seconds": 483.8,
+    "end_seconds": 485.99,
+    "text": "There's a Mercury 2 and there's a liquid foundation model LFM2 on the second"
+  },
+  {
+    "start": "00:08:05.990",
+    "end": "00:08:06.000",
+    "start_seconds": 485.99,
+    "end_seconds": 486.0,
+    "text": "foundation model LFM2 on the second"
+  },
+  {
+    "start": "00:08:06.000",
+    "end": "00:08:07.790",
+    "start_seconds": 486.0,
+    "end_seconds": 487.79,
+    "text": "foundation model LFM2 on the second instance. And from the price point of"
+  },
+  {
+    "start": "00:08:07.790",
+    "end": "00:08:07.800",
+    "start_seconds": 487.79,
+    "end_seconds": 487.8,
+    "text": "instance. And from the price point of"
+  },
+  {
+    "start": "00:08:07.800",
+    "end": "00:08:09.470",
+    "start_seconds": 487.8,
+    "end_seconds": 489.47,
+    "text": "instance. And from the price point of view, this is kind of the cheapest"
+  },
+  {
+    "start": "00:08:09.470",
+    "end": "00:08:09.480",
+    "start_seconds": 489.47,
+    "end_seconds": 489.48,
+    "text": "view, this is kind of the cheapest"
+  },
+  {
+    "start": "00:08:09.480",
+    "end": "00:08:11.310",
+    "start_seconds": 489.48,
+    "end_seconds": 491.31,
+    "text": "view, this is kind of the cheapest foundation model that you can actually"
+  },
+  {
+    "start": "00:08:11.310",
+    "end": "00:08:11.320",
+    "start_seconds": 491.31,
+    "end_seconds": 491.32,
+    "text": "foundation model that you can actually"
+  },
+  {
+    "start": "00:08:11.320",
+    "end": "00:08:12.830",
+    "start_seconds": 491.32,
+    "end_seconds": 492.83,
+    "text": "foundation model that you can actually get."
+  },
+  {
+    "start": "00:08:12.830",
+    "end": "00:08:12.840",
+    "start_seconds": 492.83,
+    "end_seconds": 492.84,
+    "text": "get."
+  },
+  {
+    "start": "00:08:12.840",
+    "end": "00:08:15.070",
+    "start_seconds": 492.84,
+    "end_seconds": 495.07,
+    "text": "get. The reason why we can actually unlock"
+  },
+  {
+    "start": "00:08:15.070",
+    "end": "00:08:15.080",
+    "start_seconds": 495.07,
+    "end_seconds": 495.08,
+    "text": "The reason why we can actually unlock"
+  },
+  {
+    "start": "00:08:15.080",
+    "end": "00:08:18.950",
+    "start_seconds": 495.08,
+    "end_seconds": 498.95,
+    "text": "The reason why we can actually unlock such efficiencies is because of"
+  },
+  {
+    "start": "00:08:18.950",
+    "end": "00:08:18.960",
+    "start_seconds": 498.95,
+    "end_seconds": 498.96,
+    "text": "such efficiencies is because of"
+  },
+  {
+    "start": "00:08:18.960",
+    "end": "00:08:21.070",
+    "start_seconds": 498.96,
+    "end_seconds": 501.07,
+    "text": "such efficiencies is because of the three axis kind of perspective that"
+  },
+  {
+    "start": "00:08:21.070",
+    "end": "00:08:21.080",
+    "start_seconds": 501.07,
+    "end_seconds": 501.08,
+    "text": "the three axis kind of perspective that"
+  },
+  {
+    "start": "00:08:21.080",
+    "end": "00:08:23.830",
+    "start_seconds": 501.08,
+    "end_seconds": 503.83,
+    "text": "the three axis kind of perspective that we have. Maximize intelligence"
+  },
+  {
+    "start": "00:08:23.830",
+    "end": "00:08:23.840",
+    "start_seconds": 503.83,
+    "end_seconds": 503.84,
+    "text": "we have. Maximize intelligence"
+  },
+  {
+    "start": "00:08:23.840",
+    "end": "00:08:26.190",
+    "start_seconds": 503.84,
+    "end_seconds": 506.19,
+    "text": "we have. Maximize intelligence while having a look into efficiency of"
+  },
+  {
+    "start": "00:08:26.190",
+    "end": "00:08:26.200",
+    "start_seconds": 506.19,
+    "end_seconds": 506.2,
+    "text": "while having a look into efficiency of"
+  },
+  {
+    "start": "00:08:26.200",
+    "end": "00:08:28.830",
+    "start_seconds": 506.2,
+    "end_seconds": 508.83,
+    "text": "while having a look into efficiency of models and at the same time caring about"
+  },
+  {
+    "start": "00:08:28.830",
+    "end": "00:08:28.840",
+    "start_seconds": 508.83,
+    "end_seconds": 508.84,
+    "text": "models and at the same time caring about"
+  },
+  {
+    "start": "00:08:28.840",
+    "end": "00:08:31.790",
+    "start_seconds": 508.84,
+    "end_seconds": 511.79,
+    "text": "models and at the same time caring about where intelligence is going to go."
+  },
+  {
+    "start": "00:08:31.790",
+    "end": "00:08:31.800",
+    "start_seconds": 511.79,
+    "end_seconds": 511.8,
+    "text": "where intelligence is going to go."
+  },
+  {
+    "start": "00:08:31.800",
+    "end": "00:08:33.990",
+    "start_seconds": 511.8,
+    "end_seconds": 513.99,
+    "text": "where intelligence is going to go. Now, let's get out of this benchmarking"
+  },
+  {
+    "start": "00:08:33.990",
+    "end": "00:08:34.000",
+    "start_seconds": 513.99,
+    "end_seconds": 514.0,
+    "text": "Now, let's get out of this benchmarking"
+  },
+  {
+    "start": "00:08:34.000",
+    "end": "00:08:35.029",
+    "start_seconds": 514.0,
+    "end_seconds": 515.029,
+    "text": "Now, let's get out of this benchmarking kind of"
+  },
+  {
+    "start": "00:08:35.029",
+    "end": "00:08:35.039",
+    "start_seconds": 515.029,
+    "end_seconds": 515.039,
+    "text": "kind of"
+  },
+  {
+    "start": "00:08:35.039",
+    "end": "00:08:38.430",
+    "start_seconds": 515.039,
+    "end_seconds": 518.43,
+    "text": "kind of situation and talk about markets."
+  },
+  {
+    "start": "00:08:38.430",
+    "end": "00:08:38.440",
+    "start_seconds": 518.43,
+    "end_seconds": 518.44,
+    "text": "situation and talk about markets."
+  },
+  {
+    "start": "00:08:38.440",
+    "end": "00:08:40.709",
+    "start_seconds": 518.44,
+    "end_seconds": 520.7090000000001,
+    "text": "situation and talk about markets. When you have models that can be running"
+  },
+  {
+    "start": "00:08:40.709",
+    "end": "00:08:40.719",
+    "start_seconds": 520.7090000000001,
+    "end_seconds": 520.719,
+    "text": "When you have models that can be running"
+  },
+  {
+    "start": "00:08:40.719",
+    "end": "00:08:43.709",
+    "start_seconds": 520.719,
+    "end_seconds": 523.7090000000001,
+    "text": "When you have models that can be running on any kind of silicon, like on CPUs,"
+  },
+  {
+    "start": "00:08:43.709",
+    "end": "00:08:43.719",
+    "start_seconds": 523.7090000000001,
+    "end_seconds": 523.719,
+    "text": "on any kind of silicon, like on CPUs,"
+  },
+  {
+    "start": "00:08:43.719",
+    "end": "00:08:46.510",
+    "start_seconds": 523.719,
+    "end_seconds": 526.51,
+    "text": "on any kind of silicon, like on CPUs, GPUs, or neural processing units, you"
+  },
+  {
+    "start": "00:08:46.510",
+    "end": "00:08:46.520",
+    "start_seconds": 526.51,
+    "end_seconds": 526.52,
+    "text": "GPUs, or neural processing units, you"
+  },
+  {
+    "start": "00:08:46.520",
+    "end": "00:08:49.030",
+    "start_seconds": 526.52,
+    "end_seconds": 529.03,
+    "text": "GPUs, or neural processing units, you would be able to host them on devices."
+  },
+  {
+    "start": "00:08:49.030",
+    "end": "00:08:49.040",
+    "start_seconds": 529.03,
+    "end_seconds": 529.04,
+    "text": "would be able to host them on devices."
+  },
+  {
+    "start": "00:08:49.040",
+    "end": "00:08:51.110",
+    "start_seconds": 529.04,
+    "end_seconds": 531.11,
+    "text": "would be able to host them on devices. So, you can go into automotive business,"
+  },
+  {
+    "start": "00:08:51.110",
+    "end": "00:08:51.120",
+    "start_seconds": 531.11,
+    "end_seconds": 531.12,
+    "text": "So, you can go into automotive business,"
+  },
+  {
+    "start": "00:08:51.120",
+    "end": "00:08:52.670",
+    "start_seconds": 531.12,
+    "end_seconds": 532.67,
+    "text": "So, you can go into automotive business, you can go into mobile, you can go into"
+  },
+  {
+    "start": "00:08:52.670",
+    "end": "00:08:52.680",
+    "start_seconds": 532.67,
+    "end_seconds": 532.68,
+    "text": "you can go into mobile, you can go into"
+  },
+  {
+    "start": "00:08:52.680",
+    "end": "00:08:55.110",
+    "start_seconds": 532.68,
+    "end_seconds": 535.11,
+    "text": "you can go into mobile, you can go into laptops, you can go into wearables, you"
+  },
+  {
+    "start": "00:08:55.110",
+    "end": "00:08:55.120",
+    "start_seconds": 535.11,
+    "end_seconds": 535.12,
+    "text": "laptops, you can go into wearables, you"
+  },
+  {
+    "start": "00:08:55.120",
+    "end": "00:08:57.150",
+    "start_seconds": 535.12,
+    "end_seconds": 537.15,
+    "text": "laptops, you can go into wearables, you can deploy models and intelligence"
+  },
+  {
+    "start": "00:08:57.150",
+    "end": "00:08:57.160",
+    "start_seconds": 537.15,
+    "end_seconds": 537.16,
+    "text": "can deploy models and intelligence"
+  },
+  {
+    "start": "00:08:57.160",
+    "end": "00:08:59.710",
+    "start_seconds": 537.16,
+    "end_seconds": 539.71,
+    "text": "can deploy models and intelligence across many, many different pipelines."
+  },
+  {
+    "start": "00:08:59.710",
+    "end": "00:08:59.720",
+    "start_seconds": 539.71,
+    "end_seconds": 539.72,
+    "text": "across many, many different pipelines."
+  },
+  {
+    "start": "00:08:59.720",
+    "end": "00:09:01.430",
+    "start_seconds": 539.72,
+    "end_seconds": 541.43,
+    "text": "across many, many different pipelines. And there is a lot of processors in the"
+  },
+  {
+    "start": "00:09:01.430",
+    "end": "00:09:01.440",
+    "start_seconds": 541.43,
+    "end_seconds": 541.44,
+    "text": "And there is a lot of processors in the"
+  },
+  {
+    "start": "00:09:01.440",
+    "end": "00:09:03.270",
+    "start_seconds": 541.44,
+    "end_seconds": 543.27,
+    "text": "And there is a lot of processors in the world. In fact, there are like 2 billion"
+  },
+  {
+    "start": "00:09:03.270",
+    "end": "00:09:03.280",
+    "start_seconds": 543.27,
+    "end_seconds": 543.28,
+    "text": "world. In fact, there are like 2 billion"
+  },
+  {
+    "start": "00:09:03.280",
+    "end": "00:09:05.790",
+    "start_seconds": 543.28,
+    "end_seconds": 545.79,
+    "text": "world. In fact, there are like 2 billion processors every year every year getting"
+  },
+  {
+    "start": "00:09:05.790",
+    "end": "00:09:05.800",
+    "start_seconds": 545.79,
+    "end_seconds": 545.8,
+    "text": "processors every year every year getting"
+  },
+  {
+    "start": "00:09:05.800",
+    "end": "00:09:08.230",
+    "start_seconds": 545.8,
+    "end_seconds": 548.23,
+    "text": "processors every year every year getting constructed outside of data centers that"
+  },
+  {
+    "start": "00:09:08.230",
+    "end": "00:09:08.240",
+    "start_seconds": 548.23,
+    "end_seconds": 548.24,
+    "text": "constructed outside of data centers that"
+  },
+  {
+    "start": "00:09:08.240",
+    "end": "00:09:10.510",
+    "start_seconds": 548.24,
+    "end_seconds": 550.51,
+    "text": "constructed outside of data centers that you can put intelligence on top of."
+  },
+  {
+    "start": "00:09:10.510",
+    "end": "00:09:10.520",
+    "start_seconds": 550.51,
+    "end_seconds": 550.52,
+    "text": "you can put intelligence on top of."
+  },
+  {
+    "start": "00:09:10.520",
+    "end": "00:09:11.990",
+    "start_seconds": 550.52,
+    "end_seconds": 551.99,
+    "text": "you can put intelligence on top of. And we are actually like enabling"
+  },
+  {
+    "start": "00:09:11.990",
+    "end": "00:09:12.000",
+    "start_seconds": 551.99,
+    "end_seconds": 552.0,
+    "text": "And we are actually like enabling"
+  },
+  {
+    "start": "00:09:12.000",
+    "end": "00:09:15.310",
+    "start_seconds": 552.0,
+    "end_seconds": 555.31,
+    "text": "And we are actually like enabling intelligence on top of those surfaces."
+  },
+  {
+    "start": "00:09:15.310",
+    "end": "00:09:15.320",
+    "start_seconds": 555.31,
+    "end_seconds": 555.32,
+    "text": "intelligence on top of those surfaces."
+  },
+  {
+    "start": "00:09:15.320",
+    "end": "00:09:17.790",
+    "start_seconds": 555.32,
+    "end_seconds": 557.79,
+    "text": "intelligence on top of those surfaces. The value of having fast models, models"
+  },
+  {
+    "start": "00:09:17.790",
+    "end": "00:09:17.800",
+    "start_seconds": 557.79,
+    "end_seconds": 557.8,
+    "text": "The value of having fast models, models"
+  },
+  {
+    "start": "00:09:17.800",
+    "end": "00:09:18.990",
+    "start_seconds": 557.8,
+    "end_seconds": 558.99,
+    "text": "The value of having fast models, models that are designed for a smaller"
+  },
+  {
+    "start": "00:09:18.990",
+    "end": "00:09:19.000",
+    "start_seconds": 558.99,
+    "end_seconds": 559.0,
+    "text": "that are designed for a smaller"
+  },
+  {
+    "start": "00:09:19.000",
+    "end": "00:09:20.950",
+    "start_seconds": 559.0,
+    "end_seconds": 560.95,
+    "text": "that are designed for a smaller processors, is the fact that you can"
+  },
+  {
+    "start": "00:09:20.950",
+    "end": "00:09:20.960",
+    "start_seconds": 560.95,
+    "end_seconds": 560.96,
+    "text": "processors, is the fact that you can"
+  },
+  {
+    "start": "00:09:20.960",
+    "end": "00:09:22.829",
+    "start_seconds": 560.96,
+    "end_seconds": 562.829,
+    "text": "processors, is the fact that you can also run them in the cloud. The more"
+  },
+  {
+    "start": "00:09:22.829",
+    "end": "00:09:22.839",
+    "start_seconds": 562.829,
+    "end_seconds": 562.8389999999999,
+    "text": "also run them in the cloud. The more"
+  },
+  {
+    "start": "00:09:22.839",
+    "end": "00:09:25.070",
+    "start_seconds": 562.8389999999999,
+    "end_seconds": 565.07,
+    "text": "also run them in the cloud. The more compute you give them, the faster"
+  },
+  {
+    "start": "00:09:25.070",
+    "end": "00:09:25.080",
+    "start_seconds": 565.07,
+    "end_seconds": 565.08,
+    "text": "compute you give them, the faster"
+  },
+  {
+    "start": "00:09:25.080",
+    "end": "00:09:26.910",
+    "start_seconds": 565.08,
+    "end_seconds": 566.91,
+    "text": "compute you give them, the faster operation that a lower latency kind of"
+  },
+  {
+    "start": "00:09:26.910",
+    "end": "00:09:26.920",
+    "start_seconds": 566.91,
+    "end_seconds": 566.92,
+    "text": "operation that a lower latency kind of"
+  },
+  {
+    "start": "00:09:26.920",
+    "end": "00:09:28.630",
+    "start_seconds": 566.92,
+    "end_seconds": 568.63,
+    "text": "operation that a lower latency kind of profile you get. So, you can also like"
+  },
+  {
+    "start": "00:09:28.630",
+    "end": "00:09:28.640",
+    "start_seconds": 568.63,
+    "end_seconds": 568.64,
+    "text": "profile you get. So, you can also like"
+  },
+  {
+    "start": "00:09:28.640",
+    "end": "00:09:30.790",
+    "start_seconds": 568.64,
+    "end_seconds": 570.79,
+    "text": "profile you get. So, you can also like host them in constrained environments"
+  },
+  {
+    "start": "00:09:30.790",
+    "end": "00:09:30.800",
+    "start_seconds": 570.79,
+    "end_seconds": 570.8,
+    "text": "host them in constrained environments"
+  },
+  {
+    "start": "00:09:30.800",
+    "end": "00:09:32.829",
+    "start_seconds": 570.8,
+    "end_seconds": 572.829,
+    "text": "host them in constrained environments when you do not have access to massive"
+  },
+  {
+    "start": "00:09:32.829",
+    "end": "00:09:32.839",
+    "start_seconds": 572.829,
+    "end_seconds": 572.8389999999999,
+    "text": "when you do not have access to massive"
+  },
+  {
+    "start": "00:09:32.839",
+    "end": "00:09:35.630",
+    "start_seconds": 572.8389999999999,
+    "end_seconds": 575.63,
+    "text": "when you do not have access to massive or abundance of compute."
+  },
+  {
+    "start": "00:09:35.630",
+    "end": "00:09:35.640",
+    "start_seconds": 575.63,
+    "end_seconds": 575.64,
+    "text": "or abundance of compute."
+  },
+  {
+    "start": "00:09:35.640",
+    "end": "00:09:37.470",
+    "start_seconds": 575.64,
+    "end_seconds": 577.47,
+    "text": "or abundance of compute. For example, in the automotive business,"
+  },
+  {
+    "start": "00:09:37.470",
+    "end": "00:09:37.480",
+    "start_seconds": 577.47,
+    "end_seconds": 577.48,
+    "text": "For example, in the automotive business,"
+  },
+  {
+    "start": "00:09:37.480",
+    "end": "00:09:38.750",
+    "start_seconds": 577.48,
+    "end_seconds": 578.75,
+    "text": "For example, in the automotive business, which is one of the verticals that we"
+  },
+  {
+    "start": "00:09:38.750",
+    "end": "00:09:38.760",
+    "start_seconds": 578.75,
+    "end_seconds": 578.76,
+    "text": "which is one of the verticals that we"
+  },
+  {
+    "start": "00:09:38.760",
+    "end": "00:09:39.950",
+    "start_seconds": 578.76,
+    "end_seconds": 579.95,
+    "text": "which is one of the verticals that we work with,"
+  },
+  {
+    "start": "00:09:39.950",
+    "end": "00:09:39.960",
+    "start_seconds": 579.95,
+    "end_seconds": 579.96,
+    "text": "work with,"
+  },
+  {
+    "start": "00:09:39.960",
+    "end": "00:09:43.790",
+    "start_seconds": 579.96,
+    "end_seconds": 583.79,
+    "text": "work with, we are on the path that by 2028 be on 50"
+  },
+  {
+    "start": "00:09:43.790",
+    "end": "00:09:43.800",
+    "start_seconds": 583.79,
+    "end_seconds": 583.8,
+    "text": "we are on the path that by 2028 be on 50"
+  },
+  {
+    "start": "00:09:43.800",
+    "end": "00:09:45.550",
+    "start_seconds": 583.8,
+    "end_seconds": 585.55,
+    "text": "we are on the path that by 2028 be on 50 million cars"
+  },
+  {
+    "start": "00:09:45.550",
+    "end": "00:09:45.560",
+    "start_seconds": 585.55,
+    "end_seconds": 585.56,
+    "text": "million cars"
+  },
+  {
+    "start": "00:09:45.560",
+    "end": "00:09:47.630",
+    "start_seconds": 585.56,
+    "end_seconds": 587.63,
+    "text": "million cars enabling"
+  },
+  {
+    "start": "00:09:47.630",
+    "end": "00:09:47.640",
+    "start_seconds": 587.63,
+    "end_seconds": 587.64,
+    "text": "enabling"
+  },
+  {
+    "start": "00:09:47.640",
+    "end": "00:09:49.550",
+    "start_seconds": 587.64,
+    "end_seconds": 589.55,
+    "text": "enabling basically um"
+  },
+  {
+    "start": "00:09:49.550",
+    "end": "00:09:49.560",
+    "start_seconds": 589.55,
+    "end_seconds": 589.56,
+    "text": "basically um"
+  },
+  {
+    "start": "00:09:49.560",
+    "end": "00:09:51.390",
+    "start_seconds": 589.56,
+    "end_seconds": 591.39,
+    "text": "basically um in-car intelligence."
+  },
+  {
+    "start": "00:09:51.390",
+    "end": "00:09:51.400",
+    "start_seconds": 591.39,
+    "end_seconds": 591.4,
+    "text": "in-car intelligence."
+  },
+  {
+    "start": "00:09:51.400",
+    "end": "00:09:53.390",
+    "start_seconds": 591.4,
+    "end_seconds": 593.39,
+    "text": "in-car intelligence. The thing that that you know like"
+  },
+  {
+    "start": "00:09:53.390",
+    "end": "00:09:53.400",
+    "start_seconds": 593.39,
+    "end_seconds": 593.4,
+    "text": "The thing that that you know like"
+  },
+  {
+    "start": "00:09:53.400",
+    "end": "00:09:55.190",
+    "start_seconds": 593.4,
+    "end_seconds": 595.19,
+    "text": "The thing that that you know like imagine an interface where you have like"
+  },
+  {
+    "start": "00:09:55.190",
+    "end": "00:09:55.200",
+    "start_seconds": 595.19,
+    "end_seconds": 595.2,
+    "text": "imagine an interface where you have like"
+  },
+  {
+    "start": "00:09:55.200",
+    "end": "00:09:56.830",
+    "start_seconds": 595.2,
+    "end_seconds": 596.83,
+    "text": "imagine an interface where you have like your car is actually one of those"
+  },
+  {
+    "start": "00:09:56.830",
+    "end": "00:09:56.840",
+    "start_seconds": 596.83,
+    "end_seconds": 596.84,
+    "text": "your car is actually one of those"
+  },
+  {
+    "start": "00:09:56.840",
+    "end": "00:09:58.990",
+    "start_seconds": 596.84,
+    "end_seconds": 598.99,
+    "text": "your car is actually one of those private spaces where you can communicate"
+  },
+  {
+    "start": "00:09:58.990",
+    "end": "00:09:59.000",
+    "start_seconds": 598.99,
+    "end_seconds": 599.0,
+    "text": "private spaces where you can communicate"
+  },
+  {
+    "start": "00:09:59.000",
+    "end": "00:10:00.790",
+    "start_seconds": 599.0,
+    "end_seconds": 600.79,
+    "text": "private spaces where you can communicate with your car and control your car"
+  },
+  {
+    "start": "00:10:00.790",
+    "end": "00:10:00.800",
+    "start_seconds": 600.79,
+    "end_seconds": 600.8,
+    "text": "with your car and control your car"
+  },
+  {
+    "start": "00:10:00.800",
+    "end": "00:10:02.670",
+    "start_seconds": 600.8,
+    "end_seconds": 602.67,
+    "text": "with your car and control your car completely with your voice and also like"
+  },
+  {
+    "start": "00:10:02.670",
+    "end": "00:10:02.680",
+    "start_seconds": 602.67,
+    "end_seconds": 602.68,
+    "text": "completely with your voice and also like"
+  },
+  {
+    "start": "00:10:02.680",
+    "end": "00:10:04.430",
+    "start_seconds": 602.68,
+    "end_seconds": 604.43,
+    "text": "completely with your voice and also like with with let's say sensor kind of"
+  },
+  {
+    "start": "00:10:04.430",
+    "end": "00:10:04.440",
+    "start_seconds": 604.43,
+    "end_seconds": 604.44,
+    "text": "with with let's say sensor kind of"
+  },
+  {
+    "start": "00:10:04.440",
+    "end": "00:10:06.510",
+    "start_seconds": 604.44,
+    "end_seconds": 606.51,
+    "text": "with with let's say sensor kind of infrastructure that allows you to really"
+  },
+  {
+    "start": "00:10:06.510",
+    "end": "00:10:06.520",
+    "start_seconds": 606.51,
+    "end_seconds": 606.52,
+    "text": "infrastructure that allows you to really"
+  },
+  {
+    "start": "00:10:06.520",
+    "end": "00:10:09.670",
+    "start_seconds": 606.52,
+    "end_seconds": 609.67,
+    "text": "infrastructure that allows you to really have full-blown experience of a"
+  },
+  {
+    "start": "00:10:09.670",
+    "end": "00:10:09.680",
+    "start_seconds": 609.67,
+    "end_seconds": 609.68,
+    "text": "have full-blown experience of a"
+  },
+  {
+    "start": "00:10:09.680",
+    "end": "00:10:13.590",
+    "start_seconds": 609.68,
+    "end_seconds": 613.59,
+    "text": "have full-blown experience of a of an intelligent system."
+  },
+  {
+    "start": "00:10:13.600",
+    "end": "00:10:15.990",
+    "start_seconds": 613.6,
+    "end_seconds": 615.99,
+    "text": "We are actually hitting on a laptop"
+  },
+  {
+    "start": "00:10:15.990",
+    "end": "00:10:16.000",
+    "start_seconds": 615.99,
+    "end_seconds": 616.0,
+    "text": "We are actually hitting on a laptop"
+  },
+  {
+    "start": "00:10:16.000",
+    "end": "00:10:19.190",
+    "start_seconds": 616.0,
+    "end_seconds": 619.19,
+    "text": "We are actually hitting on a laptop 1,400 tokens per second as a web"
+  },
+  {
+    "start": "00:10:19.190",
+    "end": "00:10:19.200",
+    "start_seconds": 619.19,
+    "end_seconds": 619.2,
+    "text": "1,400 tokens per second as a web"
+  },
+  {
+    "start": "00:10:19.200",
+    "end": "00:10:20.710",
+    "start_seconds": 619.2,
+    "end_seconds": 620.71,
+    "text": "1,400 tokens per second as a web browser. So you can actually put our"
+  },
+  {
+    "start": "00:10:20.710",
+    "end": "00:10:20.720",
+    "start_seconds": 620.71,
+    "end_seconds": 620.72,
+    "text": "browser. So you can actually put our"
+  },
+  {
+    "start": "00:10:20.720",
+    "end": "00:10:22.190",
+    "start_seconds": 620.72,
+    "end_seconds": 622.19,
+    "text": "browser. So you can actually put our technology, this is actually a hugging"
+  },
+  {
+    "start": "00:10:22.190",
+    "end": "00:10:22.200",
+    "start_seconds": 622.19,
+    "end_seconds": 622.2,
+    "text": "technology, this is actually a hugging"
+  },
+  {
+    "start": "00:10:22.200",
+    "end": "00:10:25.070",
+    "start_seconds": 622.2,
+    "end_seconds": 625.07,
+    "text": "technology, this is actually a hugging face demo, that um you can actually try"
+  },
+  {
+    "start": "00:10:25.070",
+    "end": "00:10:25.080",
+    "start_seconds": 625.07,
+    "end_seconds": 625.08,
+    "text": "face demo, that um you can actually try"
+  },
+  {
+    "start": "00:10:25.080",
+    "end": "00:10:27.510",
+    "start_seconds": 625.08,
+    "end_seconds": 627.51,
+    "text": "face demo, that um you can actually try it out. It's called web GPU. You can try"
+  },
+  {
+    "start": "00:10:27.510",
+    "end": "00:10:27.520",
+    "start_seconds": 627.51,
+    "end_seconds": 627.52,
+    "text": "it out. It's called web GPU. You can try"
+  },
+  {
+    "start": "00:10:27.520",
+    "end": "00:10:28.990",
+    "start_seconds": 627.52,
+    "end_seconds": 628.99,
+    "text": "it out. It's called web GPU. You can try it out and you can actually get it on"
+  },
+  {
+    "start": "00:10:28.990",
+    "end": "00:10:29.000",
+    "start_seconds": 628.99,
+    "end_seconds": 629.0,
+    "text": "it out and you can actually get it on"
+  },
+  {
+    "start": "00:10:29.000",
+    "end": "00:10:32.230",
+    "start_seconds": 629.0,
+    "end_seconds": 632.23,
+    "text": "it out and you can actually get it on your laptop up to like 1,400 tokens per"
+  },
+  {
+    "start": "00:10:32.230",
+    "end": "00:10:32.240",
+    "start_seconds": 632.23,
+    "end_seconds": 632.24,
+    "text": "your laptop up to like 1,400 tokens per"
+  },
+  {
+    "start": "00:10:32.240",
+    "end": "00:10:34.510",
+    "start_seconds": 632.24,
+    "end_seconds": 634.51,
+    "text": "your laptop up to like 1,400 tokens per second systems that can actually solve"
+  },
+  {
+    "start": "00:10:34.510",
+    "end": "00:10:34.520",
+    "start_seconds": 634.51,
+    "end_seconds": 634.52,
+    "text": "second systems that can actually solve"
+  },
+  {
+    "start": "00:10:34.520",
+    "end": "00:10:36.510",
+    "start_seconds": 634.52,
+    "end_seconds": 636.51,
+    "text": "second systems that can actually solve problems and call tools for you. You can"
+  },
+  {
+    "start": "00:10:36.510",
+    "end": "00:10:36.520",
+    "start_seconds": 636.51,
+    "end_seconds": 636.52,
+    "text": "problems and call tools for you. You can"
+  },
+  {
+    "start": "00:10:36.520",
+    "end": "00:10:38.830",
+    "start_seconds": 636.52,
+    "end_seconds": 638.83,
+    "text": "problems and call tools for you. You can build agentic AI on a laptop with this"
+  },
+  {
+    "start": "00:10:38.830",
+    "end": "00:10:38.840",
+    "start_seconds": 638.83,
+    "end_seconds": 638.84,
+    "text": "build agentic AI on a laptop with this"
+  },
+  {
+    "start": "00:10:38.840",
+    "end": "00:10:42.070",
+    "start_seconds": 638.84,
+    "end_seconds": 642.07,
+    "text": "build agentic AI on a laptop with this kind of speed."
+  },
+  {
+    "start": "00:10:42.070",
+    "end": "00:10:42.080",
+    "start_seconds": 642.07,
+    "end_seconds": 642.08,
+    "text": "kind of speed."
+  },
+  {
+    "start": "00:10:42.080",
+    "end": "00:10:44.870",
+    "start_seconds": 642.08,
+    "end_seconds": 644.87,
+    "text": "kind of speed. We just recently um Shopify is one of"
+  },
+  {
+    "start": "00:10:44.870",
+    "end": "00:10:44.880",
+    "start_seconds": 644.87,
+    "end_seconds": 644.88,
+    "text": "We just recently um Shopify is one of"
+  },
+  {
+    "start": "00:10:44.880",
+    "end": "00:10:47.430",
+    "start_seconds": 644.88,
+    "end_seconds": 647.43,
+    "text": "We just recently um Shopify is one of our clients and we just recently hit a"
+  },
+  {
+    "start": "00:10:47.430",
+    "end": "00:10:47.440",
+    "start_seconds": 647.43,
+    "end_seconds": 647.44,
+    "text": "our clients and we just recently hit a"
+  },
+  {
+    "start": "00:10:47.440",
+    "end": "00:10:49.750",
+    "start_seconds": 647.44,
+    "end_seconds": 649.75,
+    "text": "our clients and we just recently hit a billion requests going through liquid"
+  },
+  {
+    "start": "00:10:49.750",
+    "end": "00:10:49.760",
+    "start_seconds": 649.75,
+    "end_seconds": 649.76,
+    "text": "billion requests going through liquid"
+  },
+  {
+    "start": "00:10:49.760",
+    "end": "00:10:52.190",
+    "start_seconds": 649.76,
+    "end_seconds": 652.19,
+    "text": "billion requests going through liquid foundation models across the Shop app."
+  },
+  {
+    "start": "00:10:52.190",
+    "end": "00:10:52.200",
+    "start_seconds": 652.19,
+    "end_seconds": 652.2,
+    "text": "foundation models across the Shop app."
+  },
+  {
+    "start": "00:10:52.200",
+    "end": "00:10:53.750",
+    "start_seconds": 652.2,
+    "end_seconds": 653.75,
+    "text": "foundation models across the Shop app. If you go to the Shop app in Shopify,"
+  },
+  {
+    "start": "00:10:53.750",
+    "end": "00:10:53.760",
+    "start_seconds": 653.75,
+    "end_seconds": 653.76,
+    "text": "If you go to the Shop app in Shopify,"
+  },
+  {
+    "start": "00:10:53.760",
+    "end": "00:10:55.630",
+    "start_seconds": 653.76,
+    "end_seconds": 655.63,
+    "text": "If you go to the Shop app in Shopify, you can actually like whatever you you"
+  },
+  {
+    "start": "00:10:55.630",
+    "end": "00:10:55.640",
+    "start_seconds": 655.63,
+    "end_seconds": 655.64,
+    "text": "you can actually like whatever you you"
+  },
+  {
+    "start": "00:10:55.640",
+    "end": "00:10:57.510",
+    "start_seconds": 655.64,
+    "end_seconds": 657.51,
+    "text": "you can actually like whatever you you type in there, it goes through a liquid"
+  },
+  {
+    "start": "00:10:57.510",
+    "end": "00:10:57.520",
+    "start_seconds": 657.51,
+    "end_seconds": 657.52,
+    "text": "type in there, it goes through a liquid"
+  },
+  {
+    "start": "00:10:57.520",
+    "end": "00:11:00.550",
+    "start_seconds": 657.52,
+    "end_seconds": 660.55,
+    "text": "type in there, it goes through a liquid foundation model."
+  },
+  {
+    "start": "00:11:00.560",
+    "end": "00:11:02.470",
+    "start_seconds": 660.56,
+    "end_seconds": 662.47,
+    "text": "With AMD, we have been like"
+  },
+  {
+    "start": "00:11:02.470",
+    "end": "00:11:02.480",
+    "start_seconds": 662.47,
+    "end_seconds": 662.48,
+    "text": "With AMD, we have been like"
+  },
+  {
+    "start": "00:11:02.480",
+    "end": "00:11:04.070",
+    "start_seconds": 662.48,
+    "end_seconds": 664.07,
+    "text": "With AMD, we have been like democratizing access to local"
+  },
+  {
+    "start": "00:11:04.070",
+    "end": "00:11:04.080",
+    "start_seconds": 664.07,
+    "end_seconds": 664.08,
+    "text": "democratizing access to local"
+  },
+  {
+    "start": "00:11:04.080",
+    "end": "00:11:05.510",
+    "start_seconds": 664.08,
+    "end_seconds": 665.51,
+    "text": "democratizing access to local intelligence. For example, we're"
+  },
+  {
+    "start": "00:11:05.510",
+    "end": "00:11:05.520",
+    "start_seconds": 665.51,
+    "end_seconds": 665.52,
+    "text": "intelligence. For example, we're"
+  },
+  {
+    "start": "00:11:05.520",
+    "end": "00:11:08.670",
+    "start_seconds": 665.52,
+    "end_seconds": 668.67,
+    "text": "intelligence. For example, we're building a specialized AI systems like"
+  },
+  {
+    "start": "00:11:08.670",
+    "end": "00:11:08.680",
+    "start_seconds": 668.67,
+    "end_seconds": 668.68,
+    "text": "building a specialized AI systems like"
+  },
+  {
+    "start": "00:11:08.680",
+    "end": "00:11:11.150",
+    "start_seconds": 668.68,
+    "end_seconds": 671.15,
+    "text": "building a specialized AI systems like let's say a summarizer"
+  },
+  {
+    "start": "00:11:11.150",
+    "end": "00:11:11.160",
+    "start_seconds": 671.15,
+    "end_seconds": 671.16,
+    "text": "let's say a summarizer"
+  },
+  {
+    "start": "00:11:11.160",
+    "end": "00:11:12.870",
+    "start_seconds": 671.16,
+    "end_seconds": 672.87,
+    "text": "let's say a summarizer that is really really a document"
+  },
+  {
+    "start": "00:11:12.870",
+    "end": "00:11:12.880",
+    "start_seconds": 672.87,
+    "end_seconds": 672.88,
+    "text": "that is really really a document"
+  },
+  {
+    "start": "00:11:12.880",
+    "end": "00:11:15.430",
+    "start_seconds": 672.88,
+    "end_seconds": 675.43,
+    "text": "that is really really a document summarizer that is extremely good and it"
+  },
+  {
+    "start": "00:11:15.430",
+    "end": "00:11:15.440",
+    "start_seconds": 675.43,
+    "end_seconds": 675.44,
+    "text": "summarizer that is extremely good and it"
+  },
+  {
+    "start": "00:11:15.440",
+    "end": "00:11:19.750",
+    "start_seconds": 675.44,
+    "end_seconds": 679.75,
+    "text": "summarizer that is extremely good and it only consumes about 800 megabytes of RAM"
+  },
+  {
+    "start": "00:11:19.750",
+    "end": "00:11:19.760",
+    "start_seconds": 679.75,
+    "end_seconds": 679.76,
+    "text": "only consumes about 800 megabytes of RAM"
+  },
+  {
+    "start": "00:11:19.760",
+    "end": "00:11:22.550",
+    "start_seconds": 679.76,
+    "end_seconds": 682.55,
+    "text": "only consumes about 800 megabytes of RAM on a laptop and it can perform as good"
+  },
+  {
+    "start": "00:11:22.550",
+    "end": "00:11:22.560",
+    "start_seconds": 682.55,
+    "end_seconds": 682.56,
+    "text": "on a laptop and it can perform as good"
+  },
+  {
+    "start": "00:11:22.560",
+    "end": "00:11:25.110",
+    "start_seconds": 682.56,
+    "end_seconds": 685.11,
+    "text": "on a laptop and it can perform as good as Claude Sonnet, like the best version"
+  },
+  {
+    "start": "00:11:25.110",
+    "end": "00:11:25.120",
+    "start_seconds": 685.11,
+    "end_seconds": 685.12,
+    "text": "as Claude Sonnet, like the best version"
+  },
+  {
+    "start": "00:11:25.120",
+    "end": "00:11:26.430",
+    "start_seconds": 685.12,
+    "end_seconds": 686.43,
+    "text": "as Claude Sonnet, like the best version of the Claude Sonnet. So we are talking"
+  },
+  {
+    "start": "00:11:26.430",
+    "end": "00:11:26.440",
+    "start_seconds": 686.43,
+    "end_seconds": 686.44,
+    "text": "of the Claude Sonnet. So we are talking"
+  },
+  {
+    "start": "00:11:26.440",
+    "end": "00:11:28.950",
+    "start_seconds": 686.44,
+    "end_seconds": 688.95,
+    "text": "of the Claude Sonnet. So we are talking about maximizing capabilities of a"
+  },
+  {
+    "start": "00:11:28.950",
+    "end": "00:11:28.960",
+    "start_seconds": 688.95,
+    "end_seconds": 688.96,
+    "text": "about maximizing capabilities of a"
+  },
+  {
+    "start": "00:11:28.960",
+    "end": "00:11:31.790",
+    "start_seconds": 688.96,
+    "end_seconds": 691.79,
+    "text": "about maximizing capabilities of a specialized models without burning out"
+  },
+  {
+    "start": "00:11:31.790",
+    "end": "00:11:31.800",
+    "start_seconds": 691.79,
+    "end_seconds": 691.8,
+    "text": "specialized models without burning out"
+  },
+  {
+    "start": "00:11:31.800",
+    "end": "00:11:35.830",
+    "start_seconds": 691.8,
+    "end_seconds": 695.83,
+    "text": "specialized models without burning out like basically on compute and cost."
+  },
+  {
+    "start": "00:11:35.830",
+    "end": "00:11:35.840",
+    "start_seconds": 695.83,
+    "end_seconds": 695.84,
+    "text": "like basically on compute and cost."
+  },
+  {
+    "start": "00:11:35.840",
+    "end": "00:11:37.910",
+    "start_seconds": 695.84,
+    "end_seconds": 697.91,
+    "text": "like basically on compute and cost. And then there was a video here to show"
+  },
+  {
+    "start": "00:11:37.910",
+    "end": "00:11:37.920",
+    "start_seconds": 697.91,
+    "end_seconds": 697.92,
+    "text": "And then there was a video here to show"
+  },
+  {
+    "start": "00:11:37.920",
+    "end": "00:11:39.990",
+    "start_seconds": 697.92,
+    "end_seconds": 699.99,
+    "text": "And then there was a video here to show that you can also get that these systems"
+  },
+  {
+    "start": "00:11:39.990",
+    "end": "00:11:40.000",
+    "start_seconds": 699.99,
+    "end_seconds": 700.0,
+    "text": "that you can also get that these systems"
+  },
+  {
+    "start": "00:11:40.000",
+    "end": "00:11:42.790",
+    "start_seconds": 700.0,
+    "end_seconds": 702.79,
+    "text": "that you can also get that these systems power robots. For example, we had skill"
+  },
+  {
+    "start": "00:11:42.790",
+    "end": "00:11:42.800",
+    "start_seconds": 702.79,
+    "end_seconds": 702.8,
+    "text": "power robots. For example, we had skill"
+  },
+  {
+    "start": "00:11:42.800",
+    "end": "00:11:44.710",
+    "start_seconds": 702.8,
+    "end_seconds": 704.71,
+    "text": "power robots. For example, we had skill selection layer for robotics. Like"
+  },
+  {
+    "start": "00:11:44.710",
+    "end": "00:11:44.720",
+    "start_seconds": 704.71,
+    "end_seconds": 704.72,
+    "text": "selection layer for robotics. Like"
+  },
+  {
+    "start": "00:11:44.720",
+    "end": "00:11:46.830",
+    "start_seconds": 704.72,
+    "end_seconds": 706.83,
+    "text": "selection layer for robotics. Like that's something that we can enable like"
+  },
+  {
+    "start": "00:11:46.830",
+    "end": "00:11:46.840",
+    "start_seconds": 706.83,
+    "end_seconds": 706.84,
+    "text": "that's something that we can enable like"
+  },
+  {
+    "start": "00:11:46.840",
+    "end": "00:11:48.790",
+    "start_seconds": 706.84,
+    "end_seconds": 708.79,
+    "text": "that's something that we can enable like on top of models because the models that"
+  },
+  {
+    "start": "00:11:48.790",
+    "end": "00:11:48.800",
+    "start_seconds": 708.79,
+    "end_seconds": 708.8,
+    "text": "on top of models because the models that"
+  },
+  {
+    "start": "00:11:48.800",
+    "end": "00:11:50.030",
+    "start_seconds": 708.8,
+    "end_seconds": 710.03,
+    "text": "on top of models because the models that we are putting out there they are"
+  },
+  {
+    "start": "00:11:50.030",
+    "end": "00:11:50.040",
+    "start_seconds": 710.03,
+    "end_seconds": 710.04,
+    "text": "we are putting out there they are"
+  },
+  {
+    "start": "00:11:50.040",
+    "end": "00:11:52.110",
+    "start_seconds": 710.04,
+    "end_seconds": 712.11,
+    "text": "we are putting out there they are multi-modal. They can process audio,"
+  },
+  {
+    "start": "00:11:52.110",
+    "end": "00:11:52.120",
+    "start_seconds": 712.11,
+    "end_seconds": 712.12,
+    "text": "multi-modal. They can process audio,"
+  },
+  {
+    "start": "00:11:52.120",
+    "end": "00:11:54.750",
+    "start_seconds": 712.12,
+    "end_seconds": 714.75,
+    "text": "multi-modal. They can process audio, vision, text, and other formats of"
+  },
+  {
+    "start": "00:11:54.750",
+    "end": "00:11:54.760",
+    "start_seconds": 714.75,
+    "end_seconds": 714.76,
+    "text": "vision, text, and other formats of"
+  },
+  {
+    "start": "00:11:54.760",
+    "end": "00:11:57.950",
+    "start_seconds": 714.76,
+    "end_seconds": 717.95,
+    "text": "vision, text, and other formats of signal."
+  },
+  {
+    "start": "00:11:57.960",
+    "end": "00:12:00.430",
+    "start_seconds": 717.96,
+    "end_seconds": 720.43,
+    "text": "So,"
+  },
+  {
+    "start": "00:12:00.440",
+    "end": "00:12:03.190",
+    "start_seconds": 720.44,
+    "end_seconds": 723.19,
+    "text": "as I told you"
+  },
+  {
+    "start": "00:12:03.190",
+    "end": "00:12:03.200",
+    "start_seconds": 723.19,
+    "end_seconds": 723.2,
+    "text": "as I told you"
+  },
+  {
+    "start": "00:12:03.200",
+    "end": "00:12:06.910",
+    "start_seconds": 723.2,
+    "end_seconds": 726.91,
+    "text": "as I told you as Liquid AI"
+  },
+  {
+    "start": "00:12:06.920",
+    "end": "00:12:09.310",
+    "start_seconds": 726.92,
+    "end_seconds": 729.31,
+    "text": "as Liquid AI we're optimizing this"
+  },
+  {
+    "start": "00:12:09.310",
+    "end": "00:12:09.320",
+    "start_seconds": 729.31,
+    "end_seconds": 729.32,
+    "text": "as Liquid AI we're optimizing this"
+  },
+  {
+    "start": "00:12:09.320",
+    "end": "00:12:11.670",
+    "start_seconds": 729.32,
+    "end_seconds": 731.67,
+    "text": "as Liquid AI we're optimizing this perspective of"
+  },
+  {
+    "start": "00:12:11.670",
+    "end": "00:12:11.680",
+    "start_seconds": 731.67,
+    "end_seconds": 731.68,
+    "text": "perspective of"
+  },
+  {
+    "start": "00:12:11.680",
+    "end": "00:12:14.390",
+    "start_seconds": 731.68,
+    "end_seconds": 734.39,
+    "text": "perspective of before design of a foundation model"
+  },
+  {
+    "start": "00:12:14.390",
+    "end": "00:12:14.400",
+    "start_seconds": 734.39,
+    "end_seconds": 734.4,
+    "text": "before design of a foundation model"
+  },
+  {
+    "start": "00:12:14.400",
+    "end": "00:12:16.670",
+    "start_seconds": 734.4,
+    "end_seconds": 736.67,
+    "text": "before design of a foundation model you're maximizing for efficiency"
+  },
+  {
+    "start": "00:12:16.670",
+    "end": "00:12:16.680",
+    "start_seconds": 736.67,
+    "end_seconds": 736.68,
+    "text": "you're maximizing for efficiency"
+  },
+  {
+    "start": "00:12:16.680",
+    "end": "00:12:19.790",
+    "start_seconds": 736.68,
+    "end_seconds": 739.79,
+    "text": "you're maximizing for efficiency and you're maximizing for intelligence"
+  },
+  {
+    "start": "00:12:19.790",
+    "end": "00:12:19.800",
+    "start_seconds": 739.79,
+    "end_seconds": 739.8,
+    "text": "and you're maximizing for intelligence"
+  },
+  {
+    "start": "00:12:19.800",
+    "end": "00:12:22.030",
+    "start_seconds": 739.8,
+    "end_seconds": 742.03,
+    "text": "and you're maximizing for intelligence while having efficiencies in mind, you"
+  },
+  {
+    "start": "00:12:22.030",
+    "end": "00:12:22.040",
+    "start_seconds": 742.03,
+    "end_seconds": 742.04,
+    "text": "while having efficiencies in mind, you"
+  },
+  {
+    "start": "00:12:22.040",
+    "end": "00:12:23.310",
+    "start_seconds": 742.04,
+    "end_seconds": 743.31,
+    "text": "while having efficiencies in mind, you know, cost efficiency, compute"
+  },
+  {
+    "start": "00:12:23.310",
+    "end": "00:12:23.320",
+    "start_seconds": 743.31,
+    "end_seconds": 743.32,
+    "text": "know, cost efficiency, compute"
+  },
+  {
+    "start": "00:12:23.320",
+    "end": "00:12:24.990",
+    "start_seconds": 743.32,
+    "end_seconds": 744.99,
+    "text": "know, cost efficiency, compute efficiencies, and at the same time the"
+  },
+  {
+    "start": "00:12:24.990",
+    "end": "00:12:25.000",
+    "start_seconds": 744.99,
+    "end_seconds": 745.0,
+    "text": "efficiencies, and at the same time the"
+  },
+  {
+    "start": "00:12:25.000",
+    "end": "00:12:27.510",
+    "start_seconds": 745.0,
+    "end_seconds": 747.51,
+    "text": "efficiencies, and at the same time the substrate where intelligence can go"
+  },
+  {
+    "start": "00:12:27.510",
+    "end": "00:12:27.520",
+    "start_seconds": 747.51,
+    "end_seconds": 747.52,
+    "text": "substrate where intelligence can go"
+  },
+  {
+    "start": "00:12:27.520",
+    "end": "00:12:30.550",
+    "start_seconds": 747.52,
+    "end_seconds": 750.55,
+    "text": "substrate where intelligence can go and design that as an AI designing AI"
+  },
+  {
+    "start": "00:12:30.550",
+    "end": "00:12:30.560",
+    "start_seconds": 750.55,
+    "end_seconds": 750.56,
+    "text": "and design that as an AI designing AI"
+  },
+  {
+    "start": "00:12:30.560",
+    "end": "00:12:32.710",
+    "start_seconds": 750.56,
+    "end_seconds": 752.71,
+    "text": "and design that as an AI designing AI problem. Basically, a self kind of"
+  },
+  {
+    "start": "00:12:32.710",
+    "end": "00:12:32.720",
+    "start_seconds": 752.71,
+    "end_seconds": 752.72,
+    "text": "problem. Basically, a self kind of"
+  },
+  {
+    "start": "00:12:32.720",
+    "end": "00:12:34.390",
+    "start_seconds": 752.72,
+    "end_seconds": 754.39,
+    "text": "problem. Basically, a self kind of recursive kind of self-improvement kind"
+  },
+  {
+    "start": "00:12:34.390",
+    "end": "00:12:34.400",
+    "start_seconds": 754.39,
+    "end_seconds": 754.4,
+    "text": "recursive kind of self-improvement kind"
+  },
+  {
+    "start": "00:12:34.400",
+    "end": "00:12:36.070",
+    "start_seconds": 754.4,
+    "end_seconds": 756.07,
+    "text": "recursive kind of self-improvement kind of loop. And we have designed something"
+  },
+  {
+    "start": "00:12:36.070",
+    "end": "00:12:36.080",
+    "start_seconds": 756.07,
+    "end_seconds": 756.08,
+    "text": "of loop. And we have designed something"
+  },
+  {
+    "start": "00:12:36.080",
+    "end": "00:12:38.990",
+    "start_seconds": 756.08,
+    "end_seconds": 758.99,
+    "text": "of loop. And we have designed something like that to really build an adaptive"
+  },
+  {
+    "start": "00:12:38.990",
+    "end": "00:12:39.000",
+    "start_seconds": 758.99,
+    "end_seconds": 759.0,
+    "text": "like that to really build an adaptive"
+  },
+  {
+    "start": "00:12:39.000",
+    "end": "00:12:40.910",
+    "start_seconds": 759.0,
+    "end_seconds": 760.91,
+    "text": "like that to really build an adaptive layer on top of the silicon that is"
+  },
+  {
+    "start": "00:12:40.910",
+    "end": "00:12:40.920",
+    "start_seconds": 760.91,
+    "end_seconds": 760.92,
+    "text": "layer on top of the silicon that is"
+  },
+  {
+    "start": "00:12:40.920",
+    "end": "00:12:43.270",
+    "start_seconds": 760.92,
+    "end_seconds": 763.27,
+    "text": "layer on top of the silicon that is outside of data centers. This way we can"
+  },
+  {
+    "start": "00:12:43.270",
+    "end": "00:12:43.280",
+    "start_seconds": 763.27,
+    "end_seconds": 763.28,
+    "text": "outside of data centers. This way we can"
+  },
+  {
+    "start": "00:12:43.280",
+    "end": "00:12:44.829",
+    "start_seconds": 763.28,
+    "end_seconds": 764.829,
+    "text": "outside of data centers. This way we can actually bring intelligence to"
+  },
+  {
+    "start": "00:12:44.829",
+    "end": "00:12:44.839",
+    "start_seconds": 764.829,
+    "end_seconds": 764.8389999999999,
+    "text": "actually bring intelligence to"
+  },
+  {
+    "start": "00:12:44.839",
+    "end": "00:12:46.430",
+    "start_seconds": 764.8389999999999,
+    "end_seconds": 766.43,
+    "text": "actually bring intelligence to everybody."
+  },
+  {
+    "start": "00:12:46.430",
+    "end": "00:12:46.440",
+    "start_seconds": 766.43,
+    "end_seconds": 766.44,
+    "text": "everybody."
+  },
+  {
+    "start": "00:12:46.440",
+    "end": "00:12:48.710",
+    "start_seconds": 766.44,
+    "end_seconds": 768.71,
+    "text": "everybody. Now, I want to conclude my talk by"
+  },
+  {
+    "start": "00:12:48.710",
+    "end": "00:12:48.720",
+    "start_seconds": 768.71,
+    "end_seconds": 768.72,
+    "text": "Now, I want to conclude my talk by"
+  },
+  {
+    "start": "00:12:48.720",
+    "end": "00:12:50.190",
+    "start_seconds": 768.72,
+    "end_seconds": 770.19,
+    "text": "Now, I want to conclude my talk by giving you"
+  },
+  {
+    "start": "00:12:50.190",
+    "end": "00:12:50.200",
+    "start_seconds": 770.19,
+    "end_seconds": 770.2,
+    "text": "giving you"
+  },
+  {
+    "start": "00:12:50.200",
+    "end": "00:12:50.950",
+    "start_seconds": 770.2,
+    "end_seconds": 770.95,
+    "text": "giving you um"
+  },
+  {
+    "start": "00:12:50.950",
+    "end": "00:12:50.960",
+    "start_seconds": 770.95,
+    "end_seconds": 770.96,
+    "text": "um"
+  },
+  {
+    "start": "00:12:50.960",
+    "end": "00:12:53.630",
+    "start_seconds": 770.96,
+    "end_seconds": 773.63,
+    "text": "um a question to think about, you know, we"
+  },
+  {
+    "start": "00:12:53.630",
+    "end": "00:12:53.640",
+    "start_seconds": 773.63,
+    "end_seconds": 773.64,
+    "text": "a question to think about, you know, we"
+  },
+  {
+    "start": "00:12:53.640",
+    "end": "00:12:55.790",
+    "start_seconds": 773.64,
+    "end_seconds": 775.79,
+    "text": "a question to think about, you know, we have been known as Liquid AI as guys"
+  },
+  {
+    "start": "00:12:55.790",
+    "end": "00:12:55.800",
+    "start_seconds": 775.79,
+    "end_seconds": 775.8,
+    "text": "have been known as Liquid AI as guys"
+  },
+  {
+    "start": "00:12:55.800",
+    "end": "00:12:57.630",
+    "start_seconds": 775.8,
+    "end_seconds": 777.63,
+    "text": "have been known as Liquid AI as guys that we have been like innovating across"
+  },
+  {
+    "start": "00:12:57.630",
+    "end": "00:12:57.640",
+    "start_seconds": 777.63,
+    "end_seconds": 777.64,
+    "text": "that we have been like innovating across"
+  },
+  {
+    "start": "00:12:57.640",
+    "end": "00:13:00.030",
+    "start_seconds": 777.64,
+    "end_seconds": 780.03,
+    "text": "that we have been like innovating across architecture of intelligence. We have"
+  },
+  {
+    "start": "00:13:00.030",
+    "end": "00:13:00.040",
+    "start_seconds": 780.03,
+    "end_seconds": 780.04,
+    "text": "architecture of intelligence. We have"
+  },
+  {
+    "start": "00:13:00.040",
+    "end": "00:13:02.270",
+    "start_seconds": 780.04,
+    "end_seconds": 782.27,
+    "text": "architecture of intelligence. We have not been building transformer-based"
+  },
+  {
+    "start": "00:13:02.270",
+    "end": "00:13:02.280",
+    "start_seconds": 782.27,
+    "end_seconds": 782.28,
+    "text": "not been building transformer-based"
+  },
+  {
+    "start": "00:13:02.280",
+    "end": "00:13:03.990",
+    "start_seconds": 782.28,
+    "end_seconds": 783.99,
+    "text": "not been building transformer-based architectures. We have been uh"
+  },
+  {
+    "start": "00:13:03.990",
+    "end": "00:13:04.000",
+    "start_seconds": 783.99,
+    "end_seconds": 784.0,
+    "text": "architectures. We have been uh"
+  },
+  {
+    "start": "00:13:04.000",
+    "end": "00:13:06.310",
+    "start_seconds": 784.0,
+    "end_seconds": 786.31,
+    "text": "architectures. We have been uh researching decade-long how can we learn"
+  },
+  {
+    "start": "00:13:06.310",
+    "end": "00:13:06.320",
+    "start_seconds": 786.31,
+    "end_seconds": 786.32,
+    "text": "researching decade-long how can we learn"
+  },
+  {
+    "start": "00:13:06.320",
+    "end": "00:13:08.790",
+    "start_seconds": 786.32,
+    "end_seconds": 788.79,
+    "text": "researching decade-long how can we learn inspiration from brains to really bring"
+  },
+  {
+    "start": "00:13:08.790",
+    "end": "00:13:08.800",
+    "start_seconds": 788.79,
+    "end_seconds": 788.8,
+    "text": "inspiration from brains to really bring"
+  },
+  {
+    "start": "00:13:08.800",
+    "end": "00:13:10.910",
+    "start_seconds": 788.8,
+    "end_seconds": 790.91,
+    "text": "inspiration from brains to really bring these inspirations back to machine"
+  },
+  {
+    "start": "00:13:10.910",
+    "end": "00:13:10.920",
+    "start_seconds": 790.91,
+    "end_seconds": 790.92,
+    "text": "these inspirations back to machine"
+  },
+  {
+    "start": "00:13:10.920",
+    "end": "00:13:12.870",
+    "start_seconds": 790.92,
+    "end_seconds": 792.87,
+    "text": "these inspirations back to machine learning. Because your brain is"
+  },
+  {
+    "start": "00:13:12.870",
+    "end": "00:13:12.880",
+    "start_seconds": 792.87,
+    "end_seconds": 792.88,
+    "text": "learning. Because your brain is"
+  },
+  {
+    "start": "00:13:12.880",
+    "end": "00:13:15.829",
+    "start_seconds": 792.88,
+    "end_seconds": 795.829,
+    "text": "learning. Because your brain is consuming it's a general-purpose AI your"
+  },
+  {
+    "start": "00:13:15.829",
+    "end": "00:13:15.839",
+    "start_seconds": 795.829,
+    "end_seconds": 795.839,
+    "text": "consuming it's a general-purpose AI your"
+  },
+  {
+    "start": "00:13:15.839",
+    "end": "00:13:18.950",
+    "start_seconds": 795.839,
+    "end_seconds": 798.95,
+    "text": "consuming it's a general-purpose AI your brain and it consumes 20 watts of power."
+  },
+  {
+    "start": "00:13:18.950",
+    "end": "00:13:18.960",
+    "start_seconds": 798.95,
+    "end_seconds": 798.96,
+    "text": "brain and it consumes 20 watts of power."
+  },
+  {
+    "start": "00:13:18.960",
+    "end": "00:13:20.310",
+    "start_seconds": 798.96,
+    "end_seconds": 800.31,
+    "text": "brain and it consumes 20 watts of power. So, if you can actually learn from"
+  },
+  {
+    "start": "00:13:20.310",
+    "end": "00:13:20.320",
+    "start_seconds": 800.31,
+    "end_seconds": 800.32,
+    "text": "So, if you can actually learn from"
+  },
+  {
+    "start": "00:13:20.320",
+    "end": "00:13:22.150",
+    "start_seconds": 800.32,
+    "end_seconds": 802.15,
+    "text": "So, if you can actually learn from there, there are like a lot to actually"
+  },
+  {
+    "start": "00:13:22.150",
+    "end": "00:13:22.160",
+    "start_seconds": 802.15,
+    "end_seconds": 802.16,
+    "text": "there, there are like a lot to actually"
+  },
+  {
+    "start": "00:13:22.160",
+    "end": "00:13:23.790",
+    "start_seconds": 802.16,
+    "end_seconds": 803.79,
+    "text": "there, there are like a lot to actually unlock."
+  },
+  {
+    "start": "00:13:23.790",
+    "end": "00:13:23.800",
+    "start_seconds": 803.79,
+    "end_seconds": 803.8,
+    "text": "unlock."
+  },
+  {
+    "start": "00:13:23.800",
+    "end": "00:13:26.510",
+    "start_seconds": 803.8,
+    "end_seconds": 806.51,
+    "text": "unlock. So, think about like where we are."
+  },
+  {
+    "start": "00:13:26.510",
+    "end": "00:13:26.520",
+    "start_seconds": 806.51,
+    "end_seconds": 806.52,
+    "text": "So, think about like where we are."
+  },
+  {
+    "start": "00:13:26.520",
+    "end": "00:13:28.550",
+    "start_seconds": 806.52,
+    "end_seconds": 808.55,
+    "text": "So, think about like where we are. There is an interaction when we design"
+  },
+  {
+    "start": "00:13:28.550",
+    "end": "00:13:28.560",
+    "start_seconds": 808.55,
+    "end_seconds": 808.56,
+    "text": "There is an interaction when we design"
+  },
+  {
+    "start": "00:13:28.560",
+    "end": "00:13:29.710",
+    "start_seconds": 808.56,
+    "end_seconds": 809.71,
+    "text": "There is an interaction when we design this"
+  },
+  {
+    "start": "00:13:29.710",
+    "end": "00:13:29.720",
+    "start_seconds": 809.71,
+    "end_seconds": 809.72,
+    "text": "this"
+  },
+  {
+    "start": "00:13:29.720",
+    "end": "00:13:31.990",
+    "start_seconds": 809.72,
+    "end_seconds": 811.99,
+    "text": "this highly powerful AI systems."
+  },
+  {
+    "start": "00:13:31.990",
+    "end": "00:13:32.000",
+    "start_seconds": 811.99,
+    "end_seconds": 812.0,
+    "text": "highly powerful AI systems."
+  },
+  {
+    "start": "00:13:32.000",
+    "end": "00:13:33.750",
+    "start_seconds": 812.0,
+    "end_seconds": 813.75,
+    "text": "highly powerful AI systems. There are matters of architecture"
+  },
+  {
+    "start": "00:13:33.750",
+    "end": "00:13:33.760",
+    "start_seconds": 813.75,
+    "end_seconds": 813.76,
+    "text": "There are matters of architecture"
+  },
+  {
+    "start": "00:13:33.760",
+    "end": "00:13:35.550",
+    "start_seconds": 813.76,
+    "end_seconds": 815.55,
+    "text": "There are matters of architecture innovations,"
+  },
+  {
+    "start": "00:13:35.550",
+    "end": "00:13:35.560",
+    "start_seconds": 815.55,
+    "end_seconds": 815.56,
+    "text": "innovations,"
+  },
+  {
+    "start": "00:13:35.560",
+    "end": "00:13:38.030",
+    "start_seconds": 815.56,
+    "end_seconds": 818.03,
+    "text": "innovations, learning algorithms innovation, and data"
+  },
+  {
+    "start": "00:13:38.030",
+    "end": "00:13:38.040",
+    "start_seconds": 818.03,
+    "end_seconds": 818.04,
+    "text": "learning algorithms innovation, and data"
+  },
+  {
+    "start": "00:13:38.040",
+    "end": "00:13:41.230",
+    "start_seconds": 818.04,
+    "end_seconds": 821.23,
+    "text": "learning algorithms innovation, and data effort innovation in place."
+  },
+  {
+    "start": "00:13:41.230",
+    "end": "00:13:41.240",
+    "start_seconds": 821.23,
+    "end_seconds": 821.24,
+    "text": "effort innovation in place."
+  },
+  {
+    "start": "00:13:41.240",
+    "end": "00:13:43.190",
+    "start_seconds": 821.24,
+    "end_seconds": 823.19,
+    "text": "effort innovation in place. A combination of all of these things is"
+  },
+  {
+    "start": "00:13:43.190",
+    "end": "00:13:43.200",
+    "start_seconds": 823.19,
+    "end_seconds": 823.2,
+    "text": "A combination of all of these things is"
+  },
+  {
+    "start": "00:13:43.200",
+    "end": "00:13:45.870",
+    "start_seconds": 823.2,
+    "end_seconds": 825.87,
+    "text": "A combination of all of these things is going to give rise to, you know, like"
+  },
+  {
+    "start": "00:13:45.870",
+    "end": "00:13:45.880",
+    "start_seconds": 825.87,
+    "end_seconds": 825.88,
+    "text": "going to give rise to, you know, like"
+  },
+  {
+    "start": "00:13:45.880",
+    "end": "00:13:47.990",
+    "start_seconds": 825.88,
+    "end_seconds": 827.99,
+    "text": "going to give rise to, you know, like the most efficient way. So so far, we"
+  },
+  {
+    "start": "00:13:47.990",
+    "end": "00:13:48.000",
+    "start_seconds": 827.99,
+    "end_seconds": 828.0,
+    "text": "the most efficient way. So so far, we"
+  },
+  {
+    "start": "00:13:48.000",
+    "end": "00:13:50.230",
+    "start_seconds": 828.0,
+    "end_seconds": 830.23,
+    "text": "the most efficient way. So so far, we have seen all these scaling a certain"
+  },
+  {
+    "start": "00:13:50.230",
+    "end": "00:13:50.240",
+    "start_seconds": 830.23,
+    "end_seconds": 830.24,
+    "text": "have seen all these scaling a certain"
+  },
+  {
+    "start": "00:13:50.240",
+    "end": "00:13:52.990",
+    "start_seconds": 830.24,
+    "end_seconds": 832.99,
+    "text": "have seen all these scaling a certain type of this architecture, certain type"
+  },
+  {
+    "start": "00:13:52.990",
+    "end": "00:13:53.000",
+    "start_seconds": 832.99,
+    "end_seconds": 833.0,
+    "text": "type of this architecture, certain type"
+  },
+  {
+    "start": "00:13:53.000",
+    "end": "00:13:55.710",
+    "start_seconds": 833.0,
+    "end_seconds": 835.71,
+    "text": "type of this architecture, certain type of learning algorithm, and certain data"
+  },
+  {
+    "start": "00:13:55.710",
+    "end": "00:13:55.720",
+    "start_seconds": 835.71,
+    "end_seconds": 835.72,
+    "text": "of learning algorithm, and certain data"
+  },
+  {
+    "start": "00:13:55.720",
+    "end": "00:13:58.830",
+    "start_seconds": 835.72,
+    "end_seconds": 838.83,
+    "text": "of learning algorithm, and certain data efforts giving rise to basically where"
+  },
+  {
+    "start": "00:13:58.830",
+    "end": "00:13:58.840",
+    "start_seconds": 838.83,
+    "end_seconds": 838.84,
+    "text": "efforts giving rise to basically where"
+  },
+  {
+    "start": "00:13:58.840",
+    "end": "00:14:00.350",
+    "start_seconds": 838.84,
+    "end_seconds": 840.35,
+    "text": "efforts giving rise to basically where we are today with the highest kind of"
+  },
+  {
+    "start": "00:14:00.350",
+    "end": "00:14:00.360",
+    "start_seconds": 840.35,
+    "end_seconds": 840.36,
+    "text": "we are today with the highest kind of"
+  },
+  {
+    "start": "00:14:00.360",
+    "end": "00:14:01.510",
+    "start_seconds": 840.36,
+    "end_seconds": 841.51,
+    "text": "we are today with the highest kind of levels of"
+  },
+  {
+    "start": "00:14:01.510",
+    "end": "00:14:01.520",
+    "start_seconds": 841.51,
+    "end_seconds": 841.52,
+    "text": "levels of"
+  },
+  {
+    "start": "00:14:01.520",
+    "end": "00:14:03.750",
+    "start_seconds": 841.52,
+    "end_seconds": 843.75,
+    "text": "levels of uh foundation models. But But there is a"
+  },
+  {
+    "start": "00:14:03.750",
+    "end": "00:14:03.760",
+    "start_seconds": 843.75,
+    "end_seconds": 843.76,
+    "text": "uh foundation models. But But there is a"
+  },
+  {
+    "start": "00:14:03.760",
+    "end": "00:14:06.190",
+    "start_seconds": 843.76,
+    "end_seconds": 846.19,
+    "text": "uh foundation models. But But there is a zoo of opportunities to really explore"
+  },
+  {
+    "start": "00:14:06.190",
+    "end": "00:14:06.200",
+    "start_seconds": 846.19,
+    "end_seconds": 846.2,
+    "text": "zoo of opportunities to really explore"
+  },
+  {
+    "start": "00:14:06.200",
+    "end": "00:14:08.550",
+    "start_seconds": 846.2,
+    "end_seconds": 848.55,
+    "text": "zoo of opportunities to really explore across this tree, and it's not only the"
+  },
+  {
+    "start": "00:14:08.550",
+    "end": "00:14:08.560",
+    "start_seconds": 848.55,
+    "end_seconds": 848.56,
+    "text": "across this tree, and it's not only the"
+  },
+  {
+    "start": "00:14:08.560",
+    "end": "00:14:12.790",
+    "start_seconds": 848.56,
+    "end_seconds": 852.79,
+    "text": "across this tree, and it's not only the architecture that has to be explored."
+  },
+  {
+    "start": "00:14:12.800",
+    "end": "00:14:16.150",
+    "start_seconds": 852.8,
+    "end_seconds": 856.15,
+    "text": "I strongly believe through evolution,"
+  },
+  {
+    "start": "00:14:16.150",
+    "end": "00:14:16.160",
+    "start_seconds": 856.15,
+    "end_seconds": 856.16,
+    "text": "I strongly believe through evolution,"
+  },
+  {
+    "start": "00:14:16.160",
+    "end": "00:14:18.550",
+    "start_seconds": 856.16,
+    "end_seconds": 858.55,
+    "text": "I strongly believe through evolution, intelligence emerged as a social"
+  },
+  {
+    "start": "00:14:18.550",
+    "end": "00:14:18.560",
+    "start_seconds": 858.55,
+    "end_seconds": 858.56,
+    "text": "intelligence emerged as a social"
+  },
+  {
+    "start": "00:14:18.560",
+    "end": "00:14:19.790",
+    "start_seconds": 858.56,
+    "end_seconds": 859.79,
+    "text": "intelligence emerged as a social experience."
+  },
+  {
+    "start": "00:14:19.790",
+    "end": "00:14:19.800",
+    "start_seconds": 859.79,
+    "end_seconds": 859.8,
+    "text": "experience."
+  },
+  {
+    "start": "00:14:19.800",
+    "end": "00:14:21.950",
+    "start_seconds": 859.8,
+    "end_seconds": 861.95,
+    "text": "experience. So think about it like this."
+  },
+  {
+    "start": "00:14:21.950",
+    "end": "00:14:21.960",
+    "start_seconds": 861.95,
+    "end_seconds": 861.96,
+    "text": "So think about it like this."
+  },
+  {
+    "start": "00:14:21.960",
+    "end": "00:14:24.630",
+    "start_seconds": 861.96,
+    "end_seconds": 864.63,
+    "text": "So think about it like this. Intelligent behavior, it's an emergent"
+  },
+  {
+    "start": "00:14:24.630",
+    "end": "00:14:24.640",
+    "start_seconds": 864.63,
+    "end_seconds": 864.64,
+    "text": "Intelligent behavior, it's an emergent"
+  },
+  {
+    "start": "00:14:24.640",
+    "end": "00:14:26.910",
+    "start_seconds": 864.64,
+    "end_seconds": 866.91,
+    "text": "Intelligent behavior, it's an emergent phenomenon. Nature actually gave rise to"
+  },
+  {
+    "start": "00:14:26.910",
+    "end": "00:14:26.920",
+    "start_seconds": 866.91,
+    "end_seconds": 866.92,
+    "text": "phenomenon. Nature actually gave rise to"
+  },
+  {
+    "start": "00:14:26.920",
+    "end": "00:14:29.070",
+    "start_seconds": 866.92,
+    "end_seconds": 869.07,
+    "text": "phenomenon. Nature actually gave rise to intelligent beings because of like"
+  },
+  {
+    "start": "00:14:29.070",
+    "end": "00:14:29.080",
+    "start_seconds": 869.07,
+    "end_seconds": 869.08,
+    "text": "intelligent beings because of like"
+  },
+  {
+    "start": "00:14:29.080",
+    "end": "00:14:32.350",
+    "start_seconds": 869.08,
+    "end_seconds": 872.35,
+    "text": "intelligent beings because of like maximizing survival capacity."
+  },
+  {
+    "start": "00:14:32.350",
+    "end": "00:14:32.360",
+    "start_seconds": 872.35,
+    "end_seconds": 872.36,
+    "text": "maximizing survival capacity."
+  },
+  {
+    "start": "00:14:32.360",
+    "end": "00:14:35.270",
+    "start_seconds": 872.36,
+    "end_seconds": 875.27,
+    "text": "maximizing survival capacity. AI's foundation models of today are"
+  },
+  {
+    "start": "00:14:35.270",
+    "end": "00:14:35.280",
+    "start_seconds": 875.27,
+    "end_seconds": 875.28,
+    "text": "AI's foundation models of today are"
+  },
+  {
+    "start": "00:14:35.280",
+    "end": "00:14:38.190",
+    "start_seconds": 875.28,
+    "end_seconds": 878.19,
+    "text": "AI's foundation models of today are systems that are"
+  },
+  {
+    "start": "00:14:38.190",
+    "end": "00:14:38.200",
+    "start_seconds": 878.19,
+    "end_seconds": 878.2,
+    "text": "systems that are"
+  },
+  {
+    "start": "00:14:38.200",
+    "end": "00:14:40.750",
+    "start_seconds": 878.2,
+    "end_seconds": 880.75,
+    "text": "systems that are What we did, we tried to actually build"
+  },
+  {
+    "start": "00:14:40.750",
+    "end": "00:14:40.760",
+    "start_seconds": 880.75,
+    "end_seconds": 880.76,
+    "text": "What we did, we tried to actually build"
+  },
+  {
+    "start": "00:14:40.760",
+    "end": "00:14:42.910",
+    "start_seconds": 880.76,
+    "end_seconds": 882.91,
+    "text": "What we did, we tried to actually build a process called next token prediction"
+  },
+  {
+    "start": "00:14:42.910",
+    "end": "00:14:42.920",
+    "start_seconds": 882.91,
+    "end_seconds": 882.92,
+    "text": "a process called next token prediction"
+  },
+  {
+    "start": "00:14:42.920",
+    "end": "00:14:44.710",
+    "start_seconds": 882.92,
+    "end_seconds": 884.71,
+    "text": "a process called next token prediction as a learning algorithm."
+  },
+  {
+    "start": "00:14:44.710",
+    "end": "00:14:44.720",
+    "start_seconds": 884.71,
+    "end_seconds": 884.72,
+    "text": "as a learning algorithm."
+  },
+  {
+    "start": "00:14:44.720",
+    "end": "00:14:46.710",
+    "start_seconds": 884.72,
+    "end_seconds": 886.71,
+    "text": "as a learning algorithm. And that next token at"
+  },
+  {
+    "start": "00:14:46.710",
+    "end": "00:14:46.720",
+    "start_seconds": 886.71,
+    "end_seconds": 886.72,
+    "text": "And that next token at"
+  },
+  {
+    "start": "00:14:46.720",
+    "end": "00:14:48.950",
+    "start_seconds": 886.72,
+    "end_seconds": 888.95,
+    "text": "And that next token at next token prediction gave us a"
+  },
+  {
+    "start": "00:14:48.950",
+    "end": "00:14:48.960",
+    "start_seconds": 888.95,
+    "end_seconds": 888.96,
+    "text": "next token prediction gave us a"
+  },
+  {
+    "start": "00:14:48.960",
+    "end": "00:14:52.030",
+    "start_seconds": 888.96,
+    "end_seconds": 892.03,
+    "text": "next token prediction gave us a capability or an emergent capability in"
+  },
+  {
+    "start": "00:14:52.030",
+    "end": "00:14:52.040",
+    "start_seconds": 892.03,
+    "end_seconds": 892.04,
+    "text": "capability or an emergent capability in"
+  },
+  {
+    "start": "00:14:52.040",
+    "end": "00:14:54.310",
+    "start_seconds": 892.04,
+    "end_seconds": 894.31,
+    "text": "capability or an emergent capability in AI models or in neural networks called"
+  },
+  {
+    "start": "00:14:54.310",
+    "end": "00:14:54.320",
+    "start_seconds": 894.31,
+    "end_seconds": 894.32,
+    "text": "AI models or in neural networks called"
+  },
+  {
+    "start": "00:14:54.320",
+    "end": "00:14:56.190",
+    "start_seconds": 894.32,
+    "end_seconds": 896.19,
+    "text": "AI models or in neural networks called in-context learning."
+  },
+  {
+    "start": "00:14:56.190",
+    "end": "00:14:56.200",
+    "start_seconds": 896.19,
+    "end_seconds": 896.2,
+    "text": "in-context learning."
+  },
+  {
+    "start": "00:14:56.200",
+    "end": "00:14:58.430",
+    "start_seconds": 896.2,
+    "end_seconds": 898.43,
+    "text": "in-context learning. In-context learning was emerged from a"
+  },
+  {
+    "start": "00:14:58.430",
+    "end": "00:14:58.440",
+    "start_seconds": 898.43,
+    "end_seconds": 898.44,
+    "text": "In-context learning was emerged from a"
+  },
+  {
+    "start": "00:14:58.440",
+    "end": "00:15:01.230",
+    "start_seconds": 898.44,
+    "end_seconds": 901.23,
+    "text": "In-context learning was emerged from a scaling next token prediction as an"
+  },
+  {
+    "start": "00:15:01.230",
+    "end": "00:15:01.240",
+    "start_seconds": 901.23,
+    "end_seconds": 901.24,
+    "text": "scaling next token prediction as an"
+  },
+  {
+    "start": "00:15:01.240",
+    "end": "00:15:03.430",
+    "start_seconds": 901.24,
+    "end_seconds": 903.43,
+    "text": "scaling next token prediction as an algorithm. So we started from next token"
+  },
+  {
+    "start": "00:15:03.430",
+    "end": "00:15:03.440",
+    "start_seconds": 903.43,
+    "end_seconds": 903.44,
+    "text": "algorithm. So we started from next token"
+  },
+  {
+    "start": "00:15:03.440",
+    "end": "00:15:05.670",
+    "start_seconds": 903.44,
+    "end_seconds": 905.67,
+    "text": "algorithm. So we started from next token prediction, we ended up with where we"
+  },
+  {
+    "start": "00:15:05.670",
+    "end": "00:15:05.680",
+    "start_seconds": 905.67,
+    "end_seconds": 905.68,
+    "text": "prediction, we ended up with where we"
+  },
+  {
+    "start": "00:15:05.680",
+    "end": "00:15:07.150",
+    "start_seconds": 905.68,
+    "end_seconds": 907.15,
+    "text": "prediction, we ended up with where we are today."
+  },
+  {
+    "start": "00:15:07.150",
+    "end": "00:15:07.160",
+    "start_seconds": 907.15,
+    "end_seconds": 907.16,
+    "text": "are today."
+  },
+  {
+    "start": "00:15:07.160",
+    "end": "00:15:10.790",
+    "start_seconds": 907.16,
+    "end_seconds": 910.79,
+    "text": "are today. And this in-context learning implements"
+  },
+  {
+    "start": "00:15:10.790",
+    "end": "00:15:10.800",
+    "start_seconds": 910.79,
+    "end_seconds": 910.8,
+    "text": "And this in-context learning implements"
+  },
+  {
+    "start": "00:15:10.800",
+    "end": "00:15:12.510",
+    "start_seconds": 910.8,
+    "end_seconds": 912.51,
+    "text": "And this in-context learning implements a pseudo gradient descent pseudo"
+  },
+  {
+    "start": "00:15:12.510",
+    "end": "00:15:12.520",
+    "start_seconds": 912.51,
+    "end_seconds": 912.52,
+    "text": "a pseudo gradient descent pseudo"
+  },
+  {
+    "start": "00:15:12.520",
+    "end": "00:15:14.350",
+    "start_seconds": 912.52,
+    "end_seconds": 914.35,
+    "text": "a pseudo gradient descent pseudo optimizer, you know? So it's getting"
+  },
+  {
+    "start": "00:15:14.350",
+    "end": "00:15:14.360",
+    "start_seconds": 914.35,
+    "end_seconds": 914.36,
+    "text": "optimizer, you know? So it's getting"
+  },
+  {
+    "start": "00:15:14.360",
+    "end": "00:15:16.150",
+    "start_seconds": 914.36,
+    "end_seconds": 916.15,
+    "text": "optimizer, you know? So it's getting very technical."
+  },
+  {
+    "start": "00:15:16.150",
+    "end": "00:15:16.160",
+    "start_seconds": 916.15,
+    "end_seconds": 916.16,
+    "text": "very technical."
+  },
+  {
+    "start": "00:15:16.160",
+    "end": "00:15:17.390",
+    "start_seconds": 916.16,
+    "end_seconds": 917.39,
+    "text": "very technical. But what I want to What I want to"
+  },
+  {
+    "start": "00:15:17.390",
+    "end": "00:15:17.400",
+    "start_seconds": 917.39,
+    "end_seconds": 917.4,
+    "text": "But what I want to What I want to"
+  },
+  {
+    "start": "00:15:17.400",
+    "end": "00:15:20.070",
+    "start_seconds": 917.4,
+    "end_seconds": 920.07,
+    "text": "But what I want to What I want to mention is that there was a prior that"
+  },
+  {
+    "start": "00:15:20.070",
+    "end": "00:15:20.080",
+    "start_seconds": 920.07,
+    "end_seconds": 920.08,
+    "text": "mention is that there was a prior that"
+  },
+  {
+    "start": "00:15:20.080",
+    "end": "00:15:22.110",
+    "start_seconds": 920.08,
+    "end_seconds": 922.11,
+    "text": "mention is that there was a prior that gave us to the emergent properties of"
+  },
+  {
+    "start": "00:15:22.110",
+    "end": "00:15:22.120",
+    "start_seconds": 922.11,
+    "end_seconds": 922.12,
+    "text": "gave us to the emergent properties of"
+  },
+  {
+    "start": "00:15:22.120",
+    "end": "00:15:26.390",
+    "start_seconds": 922.12,
+    "end_seconds": 926.39,
+    "text": "gave us to the emergent properties of learning systems."
+  },
+  {
+    "start": "00:15:26.400",
+    "end": "00:15:28.590",
+    "start_seconds": 926.4,
+    "end_seconds": 928.59,
+    "text": "As I mentioned, human brain has a"
+  },
+  {
+    "start": "00:15:28.590",
+    "end": "00:15:28.600",
+    "start_seconds": 928.59,
+    "end_seconds": 928.6,
+    "text": "As I mentioned, human brain has a"
+  },
+  {
+    "start": "00:15:28.600",
+    "end": "00:15:30.750",
+    "start_seconds": 928.6,
+    "end_seconds": 930.75,
+    "text": "As I mentioned, human brain has a massive um"
+  },
+  {
+    "start": "00:15:30.750",
+    "end": "00:15:30.760",
+    "start_seconds": 930.75,
+    "end_seconds": 930.76,
+    "text": "massive um"
+  },
+  {
+    "start": "00:15:30.760",
+    "end": "00:15:32.670",
+    "start_seconds": 930.76,
+    "end_seconds": 932.67,
+    "text": "massive um your capabilities of different types of"
+  },
+  {
+    "start": "00:15:32.670",
+    "end": "00:15:32.680",
+    "start_seconds": 932.67,
+    "end_seconds": 932.68,
+    "text": "your capabilities of different types of"
+  },
+  {
+    "start": "00:15:32.680",
+    "end": "00:15:34.110",
+    "start_seconds": 932.68,
+    "end_seconds": 934.11,
+    "text": "your capabilities of different types of learning. For example, you can learn"
+  },
+  {
+    "start": "00:15:34.110",
+    "end": "00:15:34.120",
+    "start_seconds": 934.11,
+    "end_seconds": 934.12,
+    "text": "learning. For example, you can learn"
+  },
+  {
+    "start": "00:15:34.120",
+    "end": "00:15:36.390",
+    "start_seconds": 934.12,
+    "end_seconds": 936.39,
+    "text": "learning. For example, you can learn from examples. You can learn in short"
+  },
+  {
+    "start": "00:15:36.390",
+    "end": "00:15:36.400",
+    "start_seconds": 936.39,
+    "end_seconds": 936.4,
+    "text": "from examples. You can learn in short"
+  },
+  {
+    "start": "00:15:36.400",
+    "end": "00:15:38.910",
+    "start_seconds": 936.4,
+    "end_seconds": 938.91,
+    "text": "from examples. You can learn in short period of time and in long form of time."
+  },
+  {
+    "start": "00:15:38.910",
+    "end": "00:15:38.920",
+    "start_seconds": 938.91,
+    "end_seconds": 938.92,
+    "text": "period of time and in long form of time."
+  },
+  {
+    "start": "00:15:38.920",
+    "end": "00:15:40.870",
+    "start_seconds": 938.92,
+    "end_seconds": 940.87,
+    "text": "period of time and in long form of time. You can actually listen to something and"
+  },
+  {
+    "start": "00:15:40.870",
+    "end": "00:15:40.880",
+    "start_seconds": 940.87,
+    "end_seconds": 940.88,
+    "text": "You can actually listen to something and"
+  },
+  {
+    "start": "00:15:40.880",
+    "end": "00:15:42.790",
+    "start_seconds": 940.88,
+    "end_seconds": 942.79,
+    "text": "You can actually listen to something and at the same time speak and at the same"
+  },
+  {
+    "start": "00:15:42.790",
+    "end": "00:15:42.800",
+    "start_seconds": 942.79,
+    "end_seconds": 942.8,
+    "text": "at the same time speak and at the same"
+  },
+  {
+    "start": "00:15:42.800",
+    "end": "00:15:45.270",
+    "start_seconds": 942.8,
+    "end_seconds": 945.27,
+    "text": "at the same time speak and at the same time adapt. You're There are massive"
+  },
+  {
+    "start": "00:15:45.270",
+    "end": "00:15:45.280",
+    "start_seconds": 945.27,
+    "end_seconds": 945.28,
+    "text": "time adapt. You're There are massive"
+  },
+  {
+    "start": "00:15:45.280",
+    "end": "00:15:47.470",
+    "start_seconds": 945.28,
+    "end_seconds": 947.47,
+    "text": "time adapt. You're There are massive types of uh neural architectures that"
+  },
+  {
+    "start": "00:15:47.470",
+    "end": "00:15:47.480",
+    "start_seconds": 947.47,
+    "end_seconds": 947.48,
+    "text": "types of uh neural architectures that"
+  },
+  {
+    "start": "00:15:47.480",
+    "end": "00:15:49.110",
+    "start_seconds": 947.48,
+    "end_seconds": 949.11,
+    "text": "types of uh neural architectures that are happening in your brain that are"
+  },
+  {
+    "start": "00:15:49.110",
+    "end": "00:15:49.120",
+    "start_seconds": 949.11,
+    "end_seconds": 949.12,
+    "text": "are happening in your brain that are"
+  },
+  {
+    "start": "00:15:49.120",
+    "end": "00:15:51.310",
+    "start_seconds": 949.12,
+    "end_seconds": 951.31,
+    "text": "are happening in your brain that are giving rise to intelligent behavior. So,"
+  },
+  {
+    "start": "00:15:51.310",
+    "end": "00:15:51.320",
+    "start_seconds": 951.31,
+    "end_seconds": 951.32,
+    "text": "giving rise to intelligent behavior. So,"
+  },
+  {
+    "start": "00:15:51.320",
+    "end": "00:15:53.790",
+    "start_seconds": 951.32,
+    "end_seconds": 953.79,
+    "text": "giving rise to intelligent behavior. So, that many mechanisms of learning are"
+  },
+  {
+    "start": "00:15:53.790",
+    "end": "00:15:53.800",
+    "start_seconds": 953.79,
+    "end_seconds": 953.8,
+    "text": "that many mechanisms of learning are"
+  },
+  {
+    "start": "00:15:53.800",
+    "end": "00:15:56.830",
+    "start_seconds": 953.8,
+    "end_seconds": 956.83,
+    "text": "that many mechanisms of learning are emergent properties of natural"
+  },
+  {
+    "start": "00:15:56.830",
+    "end": "00:15:56.840",
+    "start_seconds": 956.83,
+    "end_seconds": 956.84,
+    "text": "emergent properties of natural"
+  },
+  {
+    "start": "00:15:56.840",
+    "end": "00:15:58.390",
+    "start_seconds": 956.84,
+    "end_seconds": 958.39,
+    "text": "emergent properties of natural evolution. This is actually what"
+  },
+  {
+    "start": "00:15:58.390",
+    "end": "00:15:58.400",
+    "start_seconds": 958.39,
+    "end_seconds": 958.4,
+    "text": "evolution. This is actually what"
+  },
+  {
+    "start": "00:15:58.400",
+    "end": "00:15:59.550",
+    "start_seconds": 958.4,
+    "end_seconds": 959.55,
+    "text": "evolution. This is actually what happened."
+  },
+  {
+    "start": "00:15:59.550",
+    "end": "00:15:59.560",
+    "start_seconds": 959.55,
+    "end_seconds": 959.56,
+    "text": "happened."
+  },
+  {
+    "start": "00:15:59.560",
+    "end": "00:16:01.310",
+    "start_seconds": 959.56,
+    "end_seconds": 961.31,
+    "text": "happened. Now, the question the fundamental"
+  },
+  {
+    "start": "00:16:01.310",
+    "end": "00:16:01.320",
+    "start_seconds": 961.31,
+    "end_seconds": 961.32,
+    "text": "Now, the question the fundamental"
+  },
+  {
+    "start": "00:16:01.320",
+    "end": "00:16:04.790",
+    "start_seconds": 961.32,
+    "end_seconds": 964.79,
+    "text": "Now, the question the fundamental question that we have to ask is this."
+  },
+  {
+    "start": "00:16:04.790",
+    "end": "00:16:04.800",
+    "start_seconds": 964.79,
+    "end_seconds": 964.8,
+    "text": "question that we have to ask is this."
+  },
+  {
+    "start": "00:16:04.800",
+    "end": "00:16:08.390",
+    "start_seconds": 964.8,
+    "end_seconds": 968.39,
+    "text": "question that we have to ask is this. What should we start with"
+  },
+  {
+    "start": "00:16:08.390",
+    "end": "00:16:08.400",
+    "start_seconds": 968.39,
+    "end_seconds": 968.4,
+    "text": "What should we start with"
+  },
+  {
+    "start": "00:16:08.400",
+    "end": "00:16:09.870",
+    "start_seconds": 968.4,
+    "end_seconds": 969.87,
+    "text": "What should we start with from which"
+  },
+  {
+    "start": "00:16:09.870",
+    "end": "00:16:09.880",
+    "start_seconds": 969.87,
+    "end_seconds": 969.88,
+    "text": "from which"
+  },
+  {
+    "start": "00:16:09.880",
+    "end": "00:16:12.950",
+    "start_seconds": 969.88,
+    "end_seconds": 972.95,
+    "text": "from which we can emerge multiple kind of learning"
+  },
+  {
+    "start": "00:16:12.950",
+    "end": "00:16:12.960",
+    "start_seconds": 972.95,
+    "end_seconds": 972.96,
+    "text": "we can emerge multiple kind of learning"
+  },
+  {
+    "start": "00:16:12.960",
+    "end": "00:16:15.390",
+    "start_seconds": 972.96,
+    "end_seconds": 975.39,
+    "text": "we can emerge multiple kind of learning schemes. What is that algorithm that we"
+  },
+  {
+    "start": "00:16:15.390",
+    "end": "00:16:15.400",
+    "start_seconds": 975.39,
+    "end_seconds": 975.4,
+    "text": "schemes. What is that algorithm that we"
+  },
+  {
+    "start": "00:16:15.400",
+    "end": "00:16:18.470",
+    "start_seconds": 975.4,
+    "end_seconds": 978.47,
+    "text": "schemes. What is that algorithm that we have to start with to really get to the"
+  },
+  {
+    "start": "00:16:18.470",
+    "end": "00:16:18.480",
+    "start_seconds": 978.47,
+    "end_seconds": 978.48,
+    "text": "have to start with to really get to the"
+  },
+  {
+    "start": "00:16:18.480",
+    "end": "00:16:20.790",
+    "start_seconds": 978.48,
+    "end_seconds": 980.79,
+    "text": "have to start with to really get to the place where you have multiple learning"
+  },
+  {
+    "start": "00:16:20.790",
+    "end": "00:16:20.800",
+    "start_seconds": 980.79,
+    "end_seconds": 980.8,
+    "text": "place where you have multiple learning"
+  },
+  {
+    "start": "00:16:20.800",
+    "end": "00:16:22.590",
+    "start_seconds": 980.8,
+    "end_seconds": 982.59,
+    "text": "place where you have multiple learning algorithms emerge?"
+  },
+  {
+    "start": "00:16:22.590",
+    "end": "00:16:22.600",
+    "start_seconds": 982.59,
+    "end_seconds": 982.6,
+    "text": "algorithms emerge?"
+  },
+  {
+    "start": "00:16:22.600",
+    "end": "00:16:24.390",
+    "start_seconds": 982.6,
+    "end_seconds": 984.39,
+    "text": "algorithms emerge? Because if you start mimicking"
+  },
+  {
+    "start": "00:16:24.390",
+    "end": "00:16:24.400",
+    "start_seconds": 984.39,
+    "end_seconds": 984.4,
+    "text": "Because if you start mimicking"
+  },
+  {
+    "start": "00:16:24.400",
+    "end": "00:16:25.829",
+    "start_seconds": 984.4,
+    "end_seconds": 985.829,
+    "text": "Because if you start mimicking reinforcement learning like with a"
+  },
+  {
+    "start": "00:16:25.829",
+    "end": "00:16:25.839",
+    "start_seconds": 985.829,
+    "end_seconds": 985.8389999999999,
+    "text": "reinforcement learning like with a"
+  },
+  {
+    "start": "00:16:25.839",
+    "end": "00:16:27.270",
+    "start_seconds": 985.8389999999999,
+    "end_seconds": 987.27,
+    "text": "reinforcement learning like with a reinforcement learning pipeline or"
+  },
+  {
+    "start": "00:16:27.270",
+    "end": "00:16:27.280",
+    "start_seconds": 987.27,
+    "end_seconds": 987.28,
+    "text": "reinforcement learning pipeline or"
+  },
+  {
+    "start": "00:16:27.280",
+    "end": "00:16:29.590",
+    "start_seconds": 987.28,
+    "end_seconds": 989.59,
+    "text": "reinforcement learning pipeline or building mimicking behavior is just"
+  },
+  {
+    "start": "00:16:29.590",
+    "end": "00:16:29.600",
+    "start_seconds": 989.59,
+    "end_seconds": 989.6,
+    "text": "building mimicking behavior is just"
+  },
+  {
+    "start": "00:16:29.600",
+    "end": "00:16:31.710",
+    "start_seconds": 989.6,
+    "end_seconds": 991.71,
+    "text": "building mimicking behavior is just going to give you a mimicry machine."
+  },
+  {
+    "start": "00:16:31.710",
+    "end": "00:16:31.720",
+    "start_seconds": 991.71,
+    "end_seconds": 991.72,
+    "text": "going to give you a mimicry machine."
+  },
+  {
+    "start": "00:16:31.720",
+    "end": "00:16:33.510",
+    "start_seconds": 991.72,
+    "end_seconds": 993.51,
+    "text": "going to give you a mimicry machine. They're going to be capable,"
+  },
+  {
+    "start": "00:16:33.510",
+    "end": "00:16:33.520",
+    "start_seconds": 993.51,
+    "end_seconds": 993.52,
+    "text": "They're going to be capable,"
+  },
+  {
+    "start": "00:16:33.520",
+    "end": "00:16:35.510",
+    "start_seconds": 993.52,
+    "end_seconds": 995.51,
+    "text": "They're going to be capable, but they're not going to give you the"
+  },
+  {
+    "start": "00:16:35.510",
+    "end": "00:16:35.520",
+    "start_seconds": 995.51,
+    "end_seconds": 995.52,
+    "text": "but they're not going to give you the"
+  },
+  {
+    "start": "00:16:35.520",
+    "end": "00:16:38.510",
+    "start_seconds": 995.52,
+    "end_seconds": 998.51,
+    "text": "but they're not going to give you the maximized basically intelligence"
+  },
+  {
+    "start": "00:16:38.510",
+    "end": "00:16:38.520",
+    "start_seconds": 998.51,
+    "end_seconds": 998.52,
+    "text": "maximized basically intelligence"
+  },
+  {
+    "start": "00:16:38.520",
+    "end": "00:16:39.630",
+    "start_seconds": 998.52,
+    "end_seconds": 999.63,
+    "text": "maximized basically intelligence at all They're going to give you"
+  },
+  {
+    "start": "00:16:39.630",
+    "end": "00:16:39.640",
+    "start_seconds": 999.63,
+    "end_seconds": 999.64,
+    "text": "at all They're going to give you"
+  },
+  {
+    "start": "00:16:39.640",
+    "end": "00:16:41.270",
+    "start_seconds": 999.64,
+    "end_seconds": 1001.27,
+    "text": "at all They're going to give you maximized intelligence at all costs."
+  },
+  {
+    "start": "00:16:41.270",
+    "end": "00:16:41.280",
+    "start_seconds": 1001.27,
+    "end_seconds": 1001.28,
+    "text": "maximized intelligence at all costs."
+  },
+  {
+    "start": "00:16:41.280",
+    "end": "00:16:42.470",
+    "start_seconds": 1001.28,
+    "end_seconds": 1002.47,
+    "text": "maximized intelligence at all costs. They're not going to give you an"
+  },
+  {
+    "start": "00:16:42.470",
+    "end": "00:16:42.480",
+    "start_seconds": 1002.47,
+    "end_seconds": 1002.48,
+    "text": "They're not going to give you an"
+  },
+  {
+    "start": "00:16:42.480",
+    "end": "00:16:45.550",
+    "start_seconds": 1002.48,
+    "end_seconds": 1005.55,
+    "text": "They're not going to give you an efficient form of intelligence that is"
+  },
+  {
+    "start": "00:16:45.550",
+    "end": "00:16:45.560",
+    "start_seconds": 1005.55,
+    "end_seconds": 1005.56,
+    "text": "efficient form of intelligence that is"
+  },
+  {
+    "start": "00:16:45.560",
+    "end": "00:16:47.230",
+    "start_seconds": 1005.56,
+    "end_seconds": 1007.23,
+    "text": "efficient form of intelligence that is basically we're talking like powerful"
+  },
+  {
+    "start": "00:16:47.230",
+    "end": "00:16:47.240",
+    "start_seconds": 1007.23,
+    "end_seconds": 1007.24,
+    "text": "basically we're talking like powerful"
+  },
+  {
+    "start": "00:16:47.240",
+    "end": "00:16:48.590",
+    "start_seconds": 1007.24,
+    "end_seconds": 1008.59,
+    "text": "basically we're talking like powerful AI."
+  },
+  {
+    "start": "00:16:48.590",
+    "end": "00:16:48.600",
+    "start_seconds": 1008.59,
+    "end_seconds": 1008.6,
+    "text": "AI."
+  },
+  {
+    "start": "00:16:48.600",
+    "end": "00:16:51.430",
+    "start_seconds": 1008.6,
+    "end_seconds": 1011.43,
+    "text": "AI. What we want to get at is to really"
+  },
+  {
+    "start": "00:16:51.430",
+    "end": "00:16:51.440",
+    "start_seconds": 1011.43,
+    "end_seconds": 1011.44,
+    "text": "What we want to get at is to really"
+  },
+  {
+    "start": "00:16:51.440",
+    "end": "00:16:54.150",
+    "start_seconds": 1011.44,
+    "end_seconds": 1014.15,
+    "text": "What we want to get at is to really deeply think about what kind of priors"
+  },
+  {
+    "start": "00:16:54.150",
+    "end": "00:16:54.160",
+    "start_seconds": 1014.15,
+    "end_seconds": 1014.16,
+    "text": "deeply think about what kind of priors"
+  },
+  {
+    "start": "00:16:54.160",
+    "end": "00:16:57.310",
+    "start_seconds": 1014.16,
+    "end_seconds": 1017.31,
+    "text": "deeply think about what kind of priors we can start a learning process"
+  },
+  {
+    "start": "00:16:57.310",
+    "end": "00:16:57.320",
+    "start_seconds": 1017.31,
+    "end_seconds": 1017.32,
+    "text": "we can start a learning process"
+  },
+  {
+    "start": "00:16:57.320",
+    "end": "00:16:59.350",
+    "start_seconds": 1017.32,
+    "end_seconds": 1019.35,
+    "text": "we can start a learning process and what combination of these tools that"
+  },
+  {
+    "start": "00:16:59.350",
+    "end": "00:16:59.360",
+    "start_seconds": 1019.35,
+    "end_seconds": 1019.36,
+    "text": "and what combination of these tools that"
+  },
+  {
+    "start": "00:16:59.360",
+    "end": "00:17:01.390",
+    "start_seconds": 1019.36,
+    "end_seconds": 1021.39,
+    "text": "and what combination of these tools that we are seeing across architecture,"
+  },
+  {
+    "start": "00:17:01.390",
+    "end": "00:17:01.400",
+    "start_seconds": 1021.39,
+    "end_seconds": 1021.4,
+    "text": "we are seeing across architecture,"
+  },
+  {
+    "start": "00:17:01.400",
+    "end": "00:17:03.270",
+    "start_seconds": 1021.4,
+    "end_seconds": 1023.27,
+    "text": "we are seeing across architecture, across learning algorithms, and data"
+  },
+  {
+    "start": "00:17:03.270",
+    "end": "00:17:03.280",
+    "start_seconds": 1023.27,
+    "end_seconds": 1023.28,
+    "text": "across learning algorithms, and data"
+  },
+  {
+    "start": "00:17:03.280",
+    "end": "00:17:06.110",
+    "start_seconds": 1023.28,
+    "end_seconds": 1026.11,
+    "text": "across learning algorithms, and data effort would give rise to that"
+  },
+  {
+    "start": "00:17:06.110",
+    "end": "00:17:06.120",
+    "start_seconds": 1026.11,
+    "end_seconds": 1026.12,
+    "text": "effort would give rise to that"
+  },
+  {
+    "start": "00:17:06.120",
+    "end": "00:17:10.710",
+    "start_seconds": 1026.12,
+    "end_seconds": 1030.71,
+    "text": "effort would give rise to that format of intelligence."
+  },
+  {
+    "start": "00:17:10.720",
+    "end": "00:17:12.189",
+    "start_seconds": 1030.72,
+    "end_seconds": 1032.189,
+    "text": "Okay? And"
+  },
+  {
+    "start": "00:17:12.189",
+    "end": "00:17:12.199",
+    "start_seconds": 1032.189,
+    "end_seconds": 1032.199,
+    "text": "Okay? And"
+  },
+  {
+    "start": "00:17:12.199",
+    "end": "00:17:15.230",
+    "start_seconds": 1032.199,
+    "end_seconds": 1035.23,
+    "text": "Okay? And my goal is to give you that question and"
+  },
+  {
+    "start": "00:17:15.230",
+    "end": "00:17:15.240",
+    "start_seconds": 1035.23,
+    "end_seconds": 1035.24,
+    "text": "my goal is to give you that question and"
+  },
+  {
+    "start": "00:17:15.240",
+    "end": "00:17:17.230",
+    "start_seconds": 1035.24,
+    "end_seconds": 1037.23,
+    "text": "my goal is to give you that question and and and really justify through that"
+  },
+  {
+    "start": "00:17:17.230",
+    "end": "00:17:17.240",
+    "start_seconds": 1037.23,
+    "end_seconds": 1037.24,
+    "text": "and and really justify through that"
+  },
+  {
+    "start": "00:17:17.240",
+    "end": "00:17:20.069",
+    "start_seconds": 1037.24,
+    "end_seconds": 1040.069,
+    "text": "and and really justify through that perspective of really there is a big"
+  },
+  {
+    "start": "00:17:20.069",
+    "end": "00:17:20.079",
+    "start_seconds": 1040.069,
+    "end_seconds": 1040.079,
+    "text": "perspective of really there is a big"
+  },
+  {
+    "start": "00:17:20.079",
+    "end": "00:17:22.910",
+    "start_seconds": 1040.079,
+    "end_seconds": 1042.91,
+    "text": "perspective of really there is a big open question still how can we build"
+  },
+  {
+    "start": "00:17:22.910",
+    "end": "00:17:22.920",
+    "start_seconds": 1042.91,
+    "end_seconds": 1042.92,
+    "text": "open question still how can we build"
+  },
+  {
+    "start": "00:17:22.920",
+    "end": "00:17:24.829",
+    "start_seconds": 1042.92,
+    "end_seconds": 1044.829,
+    "text": "open question still how can we build something that is actually as efficient"
+  },
+  {
+    "start": "00:17:24.829",
+    "end": "00:17:24.839",
+    "start_seconds": 1044.829,
+    "end_seconds": 1044.839,
+    "text": "something that is actually as efficient"
+  },
+  {
+    "start": "00:17:24.839",
+    "end": "00:17:27.309",
+    "start_seconds": 1044.839,
+    "end_seconds": 1047.309,
+    "text": "something that is actually as efficient as your human brain and being able to"
+  },
+  {
+    "start": "00:17:27.309",
+    "end": "00:17:27.319",
+    "start_seconds": 1047.309,
+    "end_seconds": 1047.319,
+    "text": "as your human brain and being able to"
+  },
+  {
+    "start": "00:17:27.319",
+    "end": "00:17:29.950",
+    "start_seconds": 1047.319,
+    "end_seconds": 1049.95,
+    "text": "as your human brain and being able to perform multiple mechanisms of learning"
+  },
+  {
+    "start": "00:17:29.950",
+    "end": "00:17:29.960",
+    "start_seconds": 1049.95,
+    "end_seconds": 1049.96,
+    "text": "perform multiple mechanisms of learning"
+  },
+  {
+    "start": "00:17:29.960",
+    "end": "00:17:31.590",
+    "start_seconds": 1049.96,
+    "end_seconds": 1051.59,
+    "text": "perform multiple mechanisms of learning and actually exhibit behavior like"
+  },
+  {
+    "start": "00:17:31.590",
+    "end": "00:17:31.600",
+    "start_seconds": 1051.59,
+    "end_seconds": 1051.6,
+    "text": "and actually exhibit behavior like"
+  },
+  {
+    "start": "00:17:31.600",
+    "end": "00:17:33.110",
+    "start_seconds": 1051.6,
+    "end_seconds": 1053.11,
+    "text": "and actually exhibit behavior like humans."
+  },
+  {
+    "start": "00:17:33.110",
+    "end": "00:17:33.120",
+    "start_seconds": 1053.11,
+    "end_seconds": 1053.12,
+    "text": "humans."
+  },
+  {
+    "start": "00:17:33.120",
+    "end": "00:17:35.560",
+    "start_seconds": 1053.12,
+    "end_seconds": 1055.56,
+    "text": "humans. Thank you."
+  }
+]

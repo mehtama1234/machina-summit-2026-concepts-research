@@ -1,0 +1,6414 @@
+[
+  {
+    "start": "00:00:00.654",
+    "end": "00:00:07.510",
+    "start_seconds": 0.654,
+    "end_seconds": 7.51,
+    "text": "[music]"
+  },
+  {
+    "start": "00:00:07.520",
+    "end": "00:00:11.669",
+    "start_seconds": 7.52,
+    "end_seconds": 11.669,
+    "text": "Thank you Mark for for um the uh setting"
+  },
+  {
+    "start": "00:00:11.669",
+    "end": "00:00:11.679",
+    "start_seconds": 11.669,
+    "end_seconds": 11.679,
+    "text": "Thank you Mark for for um the uh setting"
+  },
+  {
+    "start": "00:00:11.679",
+    "end": "00:00:14.310",
+    "start_seconds": 11.679,
+    "end_seconds": 14.31,
+    "text": "Thank you Mark for for um the uh setting this stage. As Mark said, we focus"
+  },
+  {
+    "start": "00:00:14.310",
+    "end": "00:00:14.320",
+    "start_seconds": 14.31,
+    "end_seconds": 14.32,
+    "text": "this stage. As Mark said, we focus"
+  },
+  {
+    "start": "00:00:14.320",
+    "end": "00:00:17.830",
+    "start_seconds": 14.32,
+    "end_seconds": 17.83,
+    "text": "this stage. As Mark said, we focus heavily on multi-root solutions that are"
+  },
+  {
+    "start": "00:00:17.830",
+    "end": "00:00:17.840",
+    "start_seconds": 17.83,
+    "end_seconds": 17.84,
+    "text": "heavily on multi-root solutions that are"
+  },
+  {
+    "start": "00:00:17.840",
+    "end": "00:00:20.790",
+    "start_seconds": 17.84,
+    "end_seconds": 20.79,
+    "text": "heavily on multi-root solutions that are actually designed to deploy uh uh be"
+  },
+  {
+    "start": "00:00:20.790",
+    "end": "00:00:20.800",
+    "start_seconds": 20.79,
+    "end_seconds": 20.8,
+    "text": "actually designed to deploy uh uh be"
+  },
+  {
+    "start": "00:00:20.800",
+    "end": "00:00:24.870",
+    "start_seconds": 20.8,
+    "end_seconds": 24.87,
+    "text": "actually designed to deploy uh uh be deployed in the field. Um, Field AI is a"
+  },
+  {
+    "start": "00:00:24.870",
+    "end": "00:00:24.880",
+    "start_seconds": 24.87,
+    "end_seconds": 24.88,
+    "text": "deployed in the field. Um, Field AI is a"
+  },
+  {
+    "start": "00:00:24.880",
+    "end": "00:00:27.189",
+    "start_seconds": 24.88,
+    "end_seconds": 27.189,
+    "text": "deployed in the field. Um, Field AI is a company that builds software, the brain"
+  },
+  {
+    "start": "00:00:27.189",
+    "end": "00:00:27.199",
+    "start_seconds": 27.189,
+    "end_seconds": 27.199,
+    "text": "company that builds software, the brain"
+  },
+  {
+    "start": "00:00:27.199",
+    "end": "00:00:31.349",
+    "start_seconds": 27.199,
+    "end_seconds": 31.349,
+    "text": "company that builds software, the brain layer for robots that is generalizable"
+  },
+  {
+    "start": "00:00:31.349",
+    "end": "00:00:31.359",
+    "start_seconds": 31.349,
+    "end_seconds": 31.359,
+    "text": "layer for robots that is generalizable"
+  },
+  {
+    "start": "00:00:31.359",
+    "end": "00:00:34.790",
+    "start_seconds": 31.359,
+    "end_seconds": 34.79,
+    "text": "layer for robots that is generalizable across different embodiment. So, a lot"
+  },
+  {
+    "start": "00:00:34.790",
+    "end": "00:00:34.800",
+    "start_seconds": 34.79,
+    "end_seconds": 34.8,
+    "text": "across different embodiment. So, a lot"
+  },
+  {
+    "start": "00:00:34.800",
+    "end": "00:00:37.830",
+    "start_seconds": 34.8,
+    "end_seconds": 37.83,
+    "text": "across different embodiment. So, a lot of embodiment you see on this photo are"
+  },
+  {
+    "start": "00:00:37.830",
+    "end": "00:00:37.840",
+    "start_seconds": 37.83,
+    "end_seconds": 37.84,
+    "text": "of embodiment you see on this photo are"
+  },
+  {
+    "start": "00:00:37.840",
+    "end": "00:00:41.910",
+    "start_seconds": 37.84,
+    "end_seconds": 41.91,
+    "text": "of embodiment you see on this photo are today across uh uh uh the globe deployed"
+  },
+  {
+    "start": "00:00:41.910",
+    "end": "00:00:41.920",
+    "start_seconds": 41.91,
+    "end_seconds": 41.92,
+    "text": "today across uh uh uh the globe deployed"
+  },
+  {
+    "start": "00:00:41.920",
+    "end": "00:00:43.670",
+    "start_seconds": 41.92,
+    "end_seconds": 43.67,
+    "text": "today across uh uh uh the globe deployed working doing different things with the"
+  },
+  {
+    "start": "00:00:43.670",
+    "end": "00:00:43.680",
+    "start_seconds": 43.67,
+    "end_seconds": 43.68,
+    "text": "working doing different things with the"
+  },
+  {
+    "start": "00:00:43.680",
+    "end": "00:00:46.069",
+    "start_seconds": 43.68,
+    "end_seconds": 46.069,
+    "text": "working doing different things with the customer. What you see in the middle uh"
+  },
+  {
+    "start": "00:00:46.069",
+    "end": "00:00:46.079",
+    "start_seconds": 46.069,
+    "end_seconds": 46.079,
+    "text": "customer. What you see in the middle uh"
+  },
+  {
+    "start": "00:00:46.079",
+    "end": "00:00:49.590",
+    "start_seconds": 46.079,
+    "end_seconds": 49.59,
+    "text": "customer. What you see in the middle uh is our is our brain, a compute unit, a"
+  },
+  {
+    "start": "00:00:49.590",
+    "end": "00:00:49.600",
+    "start_seconds": 49.59,
+    "end_seconds": 49.6,
+    "text": "is our is our brain, a compute unit, a"
+  },
+  {
+    "start": "00:00:49.600",
+    "end": "00:00:51.910",
+    "start_seconds": 49.6,
+    "end_seconds": 51.91,
+    "text": "is our is our brain, a compute unit, a sensory system attached to it that sits"
+  },
+  {
+    "start": "00:00:51.910",
+    "end": "00:00:51.920",
+    "start_seconds": 51.91,
+    "end_seconds": 51.92,
+    "text": "sensory system attached to it that sits"
+  },
+  {
+    "start": "00:00:51.920",
+    "end": "00:00:55.350",
+    "start_seconds": 51.92,
+    "end_seconds": 55.35,
+    "text": "sensory system attached to it that sits on multi-tonon vehicles all the way to"
+  },
+  {
+    "start": "00:00:55.350",
+    "end": "00:00:55.360",
+    "start_seconds": 55.35,
+    "end_seconds": 55.36,
+    "text": "on multi-tonon vehicles all the way to"
+  },
+  {
+    "start": "00:00:55.360",
+    "end": "00:00:57.670",
+    "start_seconds": 55.36,
+    "end_seconds": 57.67,
+    "text": "on multi-tonon vehicles all the way to humanoids, four-legged robots, different"
+  },
+  {
+    "start": "00:00:57.670",
+    "end": "00:00:57.680",
+    "start_seconds": 57.67,
+    "end_seconds": 57.68,
+    "text": "humanoids, four-legged robots, different"
+  },
+  {
+    "start": "00:00:57.680",
+    "end": "00:01:00.229",
+    "start_seconds": 57.68,
+    "end_seconds": 60.229,
+    "text": "humanoids, four-legged robots, different hands with different types of fingers."
+  },
+  {
+    "start": "00:01:00.229",
+    "end": "00:01:00.239",
+    "start_seconds": 60.229,
+    "end_seconds": 60.239,
+    "text": "hands with different types of fingers."
+  },
+  {
+    "start": "00:01:00.239",
+    "end": "00:01:04.630",
+    "start_seconds": 60.239,
+    "end_seconds": 64.63,
+    "text": "hands with different types of fingers. And the architecture is by design"
+  },
+  {
+    "start": "00:01:04.630",
+    "end": "00:01:04.640",
+    "start_seconds": 64.63,
+    "end_seconds": 64.64,
+    "text": "And the architecture is by design"
+  },
+  {
+    "start": "00:01:04.640",
+    "end": "00:01:06.630",
+    "start_seconds": 64.64,
+    "end_seconds": 66.63,
+    "text": "And the architecture is by design architected and built to handle"
+  },
+  {
+    "start": "00:01:06.630",
+    "end": "00:01:06.640",
+    "start_seconds": 66.63,
+    "end_seconds": 66.64,
+    "text": "architected and built to handle"
+  },
+  {
+    "start": "00:01:06.640",
+    "end": "00:01:09.030",
+    "start_seconds": 66.64,
+    "end_seconds": 69.03,
+    "text": "architected and built to handle different dynamics, different types of"
+  },
+  {
+    "start": "00:01:09.030",
+    "end": "00:01:09.040",
+    "start_seconds": 69.03,
+    "end_seconds": 69.03999999999999,
+    "text": "different dynamics, different types of"
+  },
+  {
+    "start": "00:01:09.040",
+    "end": "00:01:11.030",
+    "start_seconds": 69.03999999999999,
+    "end_seconds": 71.03,
+    "text": "different dynamics, different types of modalities. And this doesn't stop just"
+  },
+  {
+    "start": "00:01:11.030",
+    "end": "00:01:11.040",
+    "start_seconds": 71.03,
+    "end_seconds": 71.03999999999999,
+    "text": "modalities. And this doesn't stop just"
+  },
+  {
+    "start": "00:01:11.040",
+    "end": "00:01:14.469",
+    "start_seconds": 71.03999999999999,
+    "end_seconds": 74.469,
+    "text": "modalities. And this doesn't stop just as in in robots. The brain is applicable"
+  },
+  {
+    "start": "00:01:14.469",
+    "end": "00:01:14.479",
+    "start_seconds": 74.469,
+    "end_seconds": 74.479,
+    "text": "as in in robots. The brain is applicable"
+  },
+  {
+    "start": "00:01:14.479",
+    "end": "00:01:16.310",
+    "start_seconds": 74.479,
+    "end_seconds": 76.31,
+    "text": "as in in robots. The brain is applicable across different missions as well as"
+  },
+  {
+    "start": "00:01:16.310",
+    "end": "00:01:16.320",
+    "start_seconds": 76.31,
+    "end_seconds": 76.32,
+    "text": "across different missions as well as"
+  },
+  {
+    "start": "00:01:16.320",
+    "end": "00:01:18.469",
+    "start_seconds": 76.32,
+    "end_seconds": 78.469,
+    "text": "across different missions as well as different environments."
+  },
+  {
+    "start": "00:01:18.469",
+    "end": "00:01:18.479",
+    "start_seconds": 78.469,
+    "end_seconds": 78.479,
+    "text": "different environments."
+  },
+  {
+    "start": "00:01:18.479",
+    "end": "00:01:20.950",
+    "start_seconds": 78.479,
+    "end_seconds": 80.95,
+    "text": "different environments. Here are some of the locations in the"
+  },
+  {
+    "start": "00:01:20.950",
+    "end": "00:01:20.960",
+    "start_seconds": 80.95,
+    "end_seconds": 80.96000000000001,
+    "text": "Here are some of the locations in the"
+  },
+  {
+    "start": "00:01:20.960",
+    "end": "00:01:23.109",
+    "start_seconds": 80.96000000000001,
+    "end_seconds": 83.10900000000001,
+    "text": "Here are some of the locations in the world our robots are operating and have"
+  },
+  {
+    "start": "00:01:23.109",
+    "end": "00:01:23.119",
+    "start_seconds": 83.10900000000001,
+    "end_seconds": 83.119,
+    "text": "world our robots are operating and have"
+  },
+  {
+    "start": "00:01:23.119",
+    "end": "00:01:24.789",
+    "start_seconds": 83.119,
+    "end_seconds": 84.789,
+    "text": "world our robots are operating and have been deployed across three continents"
+  },
+  {
+    "start": "00:01:24.789",
+    "end": "00:01:24.799",
+    "start_seconds": 84.789,
+    "end_seconds": 84.799,
+    "text": "been deployed across three continents"
+  },
+  {
+    "start": "00:01:24.799",
+    "end": "00:01:28.950",
+    "start_seconds": 84.799,
+    "end_seconds": 88.95,
+    "text": "been deployed across three continents today from North America to Europe to to"
+  },
+  {
+    "start": "00:01:28.950",
+    "end": "00:01:28.960",
+    "start_seconds": 88.95,
+    "end_seconds": 88.96000000000001,
+    "text": "today from North America to Europe to to"
+  },
+  {
+    "start": "00:01:28.960",
+    "end": "00:01:33.030",
+    "start_seconds": 88.96000000000001,
+    "end_seconds": 93.03,
+    "text": "today from North America to Europe to to APAC region and carrying out variety of"
+  },
+  {
+    "start": "00:01:33.030",
+    "end": "00:01:33.040",
+    "start_seconds": 93.03,
+    "end_seconds": 93.03999999999999,
+    "text": "APAC region and carrying out variety of"
+  },
+  {
+    "start": "00:01:33.040",
+    "end": "00:01:35.429",
+    "start_seconds": 93.03999999999999,
+    "end_seconds": 95.429,
+    "text": "APAC region and carrying out variety of different missions in radically"
+  },
+  {
+    "start": "00:01:35.429",
+    "end": "00:01:35.439",
+    "start_seconds": 95.429,
+    "end_seconds": 95.439,
+    "text": "different missions in radically"
+  },
+  {
+    "start": "00:01:35.439",
+    "end": "00:01:38.469",
+    "start_seconds": 95.439,
+    "end_seconds": 98.469,
+    "text": "different missions in radically different types of environments."
+  },
+  {
+    "start": "00:01:38.469",
+    "end": "00:01:38.479",
+    "start_seconds": 98.469,
+    "end_seconds": 98.479,
+    "text": "different types of environments."
+  },
+  {
+    "start": "00:01:38.479",
+    "end": "00:01:40.870",
+    "start_seconds": 98.479,
+    "end_seconds": 100.87,
+    "text": "different types of environments. When we talk about real world, this is"
+  },
+  {
+    "start": "00:01:40.870",
+    "end": "00:01:40.880",
+    "start_seconds": 100.87,
+    "end_seconds": 100.88,
+    "text": "When we talk about real world, this is"
+  },
+  {
+    "start": "00:01:40.880",
+    "end": "00:01:43.749",
+    "start_seconds": 100.88,
+    "end_seconds": 103.749,
+    "text": "When we talk about real world, this is what we mean by it. We usually are in"
+  },
+  {
+    "start": "00:01:43.749",
+    "end": "00:01:43.759",
+    "start_seconds": 103.749,
+    "end_seconds": 103.759,
+    "text": "what we mean by it. We usually are in"
+  },
+  {
+    "start": "00:01:43.759",
+    "end": "00:01:47.429",
+    "start_seconds": 103.759,
+    "end_seconds": 107.429,
+    "text": "what we mean by it. We usually are in settings that we refer to it as DDD,"
+  },
+  {
+    "start": "00:01:47.429",
+    "end": "00:01:47.439",
+    "start_seconds": 107.429,
+    "end_seconds": 107.439,
+    "text": "settings that we refer to it as DDD,"
+  },
+  {
+    "start": "00:01:47.439",
+    "end": "00:01:50.550",
+    "start_seconds": 107.439,
+    "end_seconds": 110.55,
+    "text": "settings that we refer to it as DDD, dirty, dull, dangerous environments um"
+  },
+  {
+    "start": "00:01:50.550",
+    "end": "00:01:50.560",
+    "start_seconds": 110.55,
+    "end_seconds": 110.56,
+    "text": "dirty, dull, dangerous environments um"
+  },
+  {
+    "start": "00:01:50.560",
+    "end": "00:01:53.830",
+    "start_seconds": 110.56,
+    "end_seconds": 113.83,
+    "text": "dirty, dull, dangerous environments um like construction sites, energy sectors,"
+  },
+  {
+    "start": "00:01:53.830",
+    "end": "00:01:53.840",
+    "start_seconds": 113.83,
+    "end_seconds": 113.84,
+    "text": "like construction sites, energy sectors,"
+  },
+  {
+    "start": "00:01:53.840",
+    "end": "00:01:56.230",
+    "start_seconds": 113.84,
+    "end_seconds": 116.22999999999999,
+    "text": "like construction sites, energy sectors, uh manufacturing sites where the world"
+  },
+  {
+    "start": "00:01:56.230",
+    "end": "00:01:56.240",
+    "start_seconds": 116.22999999999999,
+    "end_seconds": 116.24000000000001,
+    "text": "uh manufacturing sites where the world"
+  },
+  {
+    "start": "00:01:56.240",
+    "end": "00:02:00.149",
+    "start_seconds": 116.24000000000001,
+    "end_seconds": 120.149,
+    "text": "uh manufacturing sites where the world is quite unpredictable and quite messy."
+  },
+  {
+    "start": "00:02:00.149",
+    "end": "00:02:00.159",
+    "start_seconds": 120.149,
+    "end_seconds": 120.159,
+    "text": "is quite unpredictable and quite messy."
+  },
+  {
+    "start": "00:02:00.159",
+    "end": "00:02:03.030",
+    "start_seconds": 120.159,
+    "end_seconds": 123.03,
+    "text": "is quite unpredictable and quite messy. Um this is a regime that is quite"
+  },
+  {
+    "start": "00:02:03.030",
+    "end": "00:02:03.040",
+    "start_seconds": 123.03,
+    "end_seconds": 123.04,
+    "text": "Um this is a regime that is quite"
+  },
+  {
+    "start": "00:02:03.040",
+    "end": "00:02:06.789",
+    "start_seconds": 123.04,
+    "end_seconds": 126.789,
+    "text": "Um this is a regime that is quite different from uh uh lab demos, quite"
+  },
+  {
+    "start": "00:02:06.789",
+    "end": "00:02:06.799",
+    "start_seconds": 126.789,
+    "end_seconds": 126.799,
+    "text": "different from uh uh lab demos, quite"
+  },
+  {
+    "start": "00:02:06.799",
+    "end": "00:02:08.869",
+    "start_seconds": 126.799,
+    "end_seconds": 128.869,
+    "text": "different from uh uh lab demos, quite different from controlled environments."
+  },
+  {
+    "start": "00:02:08.869",
+    "end": "00:02:08.879",
+    "start_seconds": 128.869,
+    "end_seconds": 128.879,
+    "text": "different from controlled environments."
+  },
+  {
+    "start": "00:02:08.879",
+    "end": "00:02:12.070",
+    "start_seconds": 128.879,
+    "end_seconds": 132.07,
+    "text": "different from controlled environments. If you look at these general purpose"
+  },
+  {
+    "start": "00:02:12.070",
+    "end": "00:02:12.080",
+    "start_seconds": 132.07,
+    "end_seconds": 132.08,
+    "text": "If you look at these general purpose"
+  },
+  {
+    "start": "00:02:12.080",
+    "end": "00:02:13.830",
+    "start_seconds": 132.08,
+    "end_seconds": 133.83,
+    "text": "If you look at these general purpose brain from the two lens of"
+  },
+  {
+    "start": "00:02:13.830",
+    "end": "00:02:13.840",
+    "start_seconds": 133.83,
+    "end_seconds": 133.84,
+    "text": "brain from the two lens of"
+  },
+  {
+    "start": "00:02:13.840",
+    "end": "00:02:15.589",
+    "start_seconds": 133.84,
+    "end_seconds": 135.589,
+    "text": "brain from the two lens of generalizability"
+  },
+  {
+    "start": "00:02:15.589",
+    "end": "00:02:15.599",
+    "start_seconds": 135.589,
+    "end_seconds": 135.599,
+    "text": "generalizability"
+  },
+  {
+    "start": "00:02:15.599",
+    "end": "00:02:19.270",
+    "start_seconds": 135.599,
+    "end_seconds": 139.27,
+    "text": "generalizability and reliability and deployability as you"
+  },
+  {
+    "start": "00:02:19.270",
+    "end": "00:02:19.280",
+    "start_seconds": 139.27,
+    "end_seconds": 139.28,
+    "text": "and reliability and deployability as you"
+  },
+  {
+    "start": "00:02:19.280",
+    "end": "00:02:22.309",
+    "start_seconds": 139.28,
+    "end_seconds": 142.309,
+    "text": "and reliability and deployability as you go on the x-axis to the right the"
+  },
+  {
+    "start": "00:02:22.309",
+    "end": "00:02:22.319",
+    "start_seconds": 142.309,
+    "end_seconds": 142.319,
+    "text": "go on the x-axis to the right the"
+  },
+  {
+    "start": "00:02:22.319",
+    "end": "00:02:25.030",
+    "start_seconds": 142.319,
+    "end_seconds": 145.03,
+    "text": "go on the x-axis to the right the requirement for reliability goes up uh"
+  },
+  {
+    "start": "00:02:25.030",
+    "end": "00:02:25.040",
+    "start_seconds": 145.03,
+    "end_seconds": 145.04,
+    "text": "requirement for reliability goes up uh"
+  },
+  {
+    "start": "00:02:25.040",
+    "end": "00:02:27.990",
+    "start_seconds": 145.04,
+    "end_seconds": 147.99,
+    "text": "requirement for reliability goes up uh uh uh rapidly you have on the left"
+  },
+  {
+    "start": "00:02:27.990",
+    "end": "00:02:28.000",
+    "start_seconds": 147.99,
+    "end_seconds": 148.0,
+    "text": "uh uh rapidly you have on the left"
+  },
+  {
+    "start": "00:02:28.000",
+    "end": "00:02:30.229",
+    "start_seconds": 148.0,
+    "end_seconds": 150.22899999999998,
+    "text": "uh uh rapidly you have on the left digital AI conversational AI things like"
+  },
+  {
+    "start": "00:02:30.229",
+    "end": "00:02:30.239",
+    "start_seconds": 150.22899999999998,
+    "end_seconds": 150.239,
+    "text": "digital AI conversational AI things like"
+  },
+  {
+    "start": "00:02:30.239",
+    "end": "00:02:32.630",
+    "start_seconds": 150.239,
+    "end_seconds": 152.63,
+    "text": "digital AI conversational AI things like chat GBT you're dealing with the the"
+  },
+  {
+    "start": "00:02:32.630",
+    "end": "00:02:32.640",
+    "start_seconds": 152.63,
+    "end_seconds": 152.64,
+    "text": "chat GBT you're dealing with the the"
+  },
+  {
+    "start": "00:02:32.640",
+    "end": "00:02:34.550",
+    "start_seconds": 152.64,
+    "end_seconds": 154.55,
+    "text": "chat GBT you're dealing with the the words and languages you have high"
+  },
+  {
+    "start": "00:02:34.550",
+    "end": "00:02:34.560",
+    "start_seconds": 154.55,
+    "end_seconds": 154.56,
+    "text": "words and languages you have high"
+  },
+  {
+    "start": "00:02:34.560",
+    "end": "00:02:38.150",
+    "start_seconds": 154.56,
+    "end_seconds": 158.15,
+    "text": "words and languages you have high tolerance for errors hallucination you"
+  },
+  {
+    "start": "00:02:38.150",
+    "end": "00:02:38.160",
+    "start_seconds": 158.15,
+    "end_seconds": 158.16,
+    "text": "tolerance for errors hallucination you"
+  },
+  {
+    "start": "00:02:38.160",
+    "end": "00:02:40.710",
+    "start_seconds": 158.16,
+    "end_seconds": 160.71,
+    "text": "tolerance for errors hallucination you can go and fix a few words in your email"
+  },
+  {
+    "start": "00:02:40.710",
+    "end": "00:02:40.720",
+    "start_seconds": 160.71,
+    "end_seconds": 160.72,
+    "text": "can go and fix a few words in your email"
+  },
+  {
+    "start": "00:02:40.720",
+    "end": "00:02:43.110",
+    "start_seconds": 160.72,
+    "end_seconds": 163.11,
+    "text": "can go and fix a few words in your email or in your article after it's done. That"
+  },
+  {
+    "start": "00:02:43.110",
+    "end": "00:02:43.120",
+    "start_seconds": 163.11,
+    "end_seconds": 163.12,
+    "text": "or in your article after it's done. That"
+  },
+  {
+    "start": "00:02:43.120",
+    "end": "00:02:45.430",
+    "start_seconds": 163.12,
+    "end_seconds": 165.43,
+    "text": "or in your article after it's done. That already is a big success. If 80% of job"
+  },
+  {
+    "start": "00:02:45.430",
+    "end": "00:02:45.440",
+    "start_seconds": 165.43,
+    "end_seconds": 165.44,
+    "text": "already is a big success. If 80% of job"
+  },
+  {
+    "start": "00:02:45.440",
+    "end": "00:02:48.229",
+    "start_seconds": 165.44,
+    "end_seconds": 168.22899999999998,
+    "text": "already is a big success. If 80% of job is done, you go to lab demos, your"
+  },
+  {
+    "start": "00:02:48.229",
+    "end": "00:02:48.239",
+    "start_seconds": 168.22899999999998,
+    "end_seconds": 168.239,
+    "text": "is done, you go to lab demos, your"
+  },
+  {
+    "start": "00:02:48.239",
+    "end": "00:02:51.350",
+    "start_seconds": 168.239,
+    "end_seconds": 171.35,
+    "text": "is done, you go to lab demos, your tolerance goes a little bit lower. In"
+  },
+  {
+    "start": "00:02:51.350",
+    "end": "00:02:51.360",
+    "start_seconds": 171.35,
+    "end_seconds": 171.36,
+    "text": "tolerance goes a little bit lower. In"
+  },
+  {
+    "start": "00:02:51.360",
+    "end": "00:02:53.350",
+    "start_seconds": 171.36,
+    "end_seconds": 173.35,
+    "text": "tolerance goes a little bit lower. In control environment, you need to have"
+  },
+  {
+    "start": "00:02:53.350",
+    "end": "00:02:53.360",
+    "start_seconds": 173.35,
+    "end_seconds": 173.36,
+    "text": "control environment, you need to have"
+  },
+  {
+    "start": "00:02:53.360",
+    "end": "00:02:55.910",
+    "start_seconds": 173.36,
+    "end_seconds": 175.91,
+    "text": "control environment, you need to have even less hallucination. But at the"
+  },
+  {
+    "start": "00:02:55.910",
+    "end": "00:02:55.920",
+    "start_seconds": 175.91,
+    "end_seconds": 175.92000000000002,
+    "text": "even less hallucination. But at the"
+  },
+  {
+    "start": "00:02:55.920",
+    "end": "00:02:58.070",
+    "start_seconds": 175.92000000000002,
+    "end_seconds": 178.07,
+    "text": "even less hallucination. But at the largest sector of the market that been"
+  },
+  {
+    "start": "00:02:58.070",
+    "end": "00:02:58.080",
+    "start_seconds": 178.07,
+    "end_seconds": 178.07999999999998,
+    "text": "largest sector of the market that been"
+  },
+  {
+    "start": "00:02:58.080",
+    "end": "00:03:01.589",
+    "start_seconds": 178.07999999999998,
+    "end_seconds": 181.589,
+    "text": "largest sector of the market that been predicted to be the 70% of the TAM for"
+  },
+  {
+    "start": "00:03:01.589",
+    "end": "00:03:01.599",
+    "start_seconds": 181.589,
+    "end_seconds": 181.599,
+    "text": "predicted to be the 70% of the TAM for"
+  },
+  {
+    "start": "00:03:01.599",
+    "end": "00:03:04.630",
+    "start_seconds": 181.599,
+    "end_seconds": 184.63,
+    "text": "predicted to be the 70% of the TAM for robotics and autonomy, you have almost"
+  },
+  {
+    "start": "00:03:04.630",
+    "end": "00:03:04.640",
+    "start_seconds": 184.63,
+    "end_seconds": 184.64,
+    "text": "robotics and autonomy, you have almost"
+  },
+  {
+    "start": "00:03:04.640",
+    "end": "00:03:07.509",
+    "start_seconds": 184.64,
+    "end_seconds": 187.50900000000001,
+    "text": "robotics and autonomy, you have almost no tolerance for errors. And this is"
+  },
+  {
+    "start": "00:03:07.509",
+    "end": "00:03:07.519",
+    "start_seconds": 187.50900000000001,
+    "end_seconds": 187.519,
+    "text": "no tolerance for errors. And this is"
+  },
+  {
+    "start": "00:03:07.519",
+    "end": "00:03:10.710",
+    "start_seconds": 187.519,
+    "end_seconds": 190.71,
+    "text": "no tolerance for errors. And this is where a lot of traditional architectures"
+  },
+  {
+    "start": "00:03:10.710",
+    "end": "00:03:10.720",
+    "start_seconds": 190.71,
+    "end_seconds": 190.72,
+    "text": "where a lot of traditional architectures"
+  },
+  {
+    "start": "00:03:10.720",
+    "end": "00:03:13.750",
+    "start_seconds": 190.72,
+    "end_seconds": 193.75,
+    "text": "where a lot of traditional architectures like transformer-based a blackbox large"
+  },
+  {
+    "start": "00:03:13.750",
+    "end": "00:03:13.760",
+    "start_seconds": 193.75,
+    "end_seconds": 193.76,
+    "text": "like transformer-based a blackbox large"
+  },
+  {
+    "start": "00:03:13.760",
+    "end": "00:03:16.390",
+    "start_seconds": 193.76,
+    "end_seconds": 196.39,
+    "text": "like transformer-based a blackbox large neural network start struggling because"
+  },
+  {
+    "start": "00:03:16.390",
+    "end": "00:03:16.400",
+    "start_seconds": 196.39,
+    "end_seconds": 196.4,
+    "text": "neural network start struggling because"
+  },
+  {
+    "start": "00:03:16.400",
+    "end": "00:03:17.350",
+    "start_seconds": 196.4,
+    "end_seconds": 197.35,
+    "text": "neural network start struggling because you don't have the right"
+  },
+  {
+    "start": "00:03:17.350",
+    "end": "00:03:17.360",
+    "start_seconds": 197.35,
+    "end_seconds": 197.36,
+    "text": "you don't have the right"
+  },
+  {
+    "start": "00:03:17.360",
+    "end": "00:03:20.149",
+    "start_seconds": 197.36,
+    "end_seconds": 200.149,
+    "text": "you don't have the right interpretability. You don't have enough"
+  },
+  {
+    "start": "00:03:20.149",
+    "end": "00:03:20.159",
+    "start_seconds": 200.149,
+    "end_seconds": 200.159,
+    "text": "interpretability. You don't have enough"
+  },
+  {
+    "start": "00:03:20.159",
+    "end": "00:03:22.229",
+    "start_seconds": 200.159,
+    "end_seconds": 202.22899999999998,
+    "text": "interpretability. You don't have enough of a risk awareness and uncertainty"
+  },
+  {
+    "start": "00:03:22.229",
+    "end": "00:03:22.239",
+    "start_seconds": 202.22899999999998,
+    "end_seconds": 202.239,
+    "text": "of a risk awareness and uncertainty"
+  },
+  {
+    "start": "00:03:22.239",
+    "end": "00:03:24.229",
+    "start_seconds": 202.239,
+    "end_seconds": 204.22899999999998,
+    "text": "of a risk awareness and uncertainty quantification baked into into these"
+  },
+  {
+    "start": "00:03:24.229",
+    "end": "00:03:24.239",
+    "start_seconds": 204.22899999999998,
+    "end_seconds": 204.239,
+    "text": "quantification baked into into these"
+  },
+  {
+    "start": "00:03:24.239",
+    "end": "00:03:25.750",
+    "start_seconds": 204.239,
+    "end_seconds": 205.75,
+    "text": "quantification baked into into these models."
+  },
+  {
+    "start": "00:03:25.750",
+    "end": "00:03:25.760",
+    "start_seconds": 205.75,
+    "end_seconds": 205.76,
+    "text": "models."
+  },
+  {
+    "start": "00:03:25.760",
+    "end": "00:03:28.149",
+    "start_seconds": 205.76,
+    "end_seconds": 208.149,
+    "text": "models. That's a regime at Phili we we heavily"
+  },
+  {
+    "start": "00:03:28.149",
+    "end": "00:03:28.159",
+    "start_seconds": 208.149,
+    "end_seconds": 208.159,
+    "text": "That's a regime at Phili we we heavily"
+  },
+  {
+    "start": "00:03:28.159",
+    "end": "00:03:31.830",
+    "start_seconds": 208.159,
+    "end_seconds": 211.82999999999998,
+    "text": "That's a regime at Phili we we heavily focus on uh which again we call it DDD"
+  },
+  {
+    "start": "00:03:31.830",
+    "end": "00:03:31.840",
+    "start_seconds": 211.82999999999998,
+    "end_seconds": 211.84,
+    "text": "focus on uh which again we call it DDD"
+  },
+  {
+    "start": "00:03:31.840",
+    "end": "00:03:33.430",
+    "start_seconds": 211.84,
+    "end_seconds": 213.43,
+    "text": "focus on uh which again we call it DDD environments dirty dull and and"
+  },
+  {
+    "start": "00:03:33.430",
+    "end": "00:03:33.440",
+    "start_seconds": 213.43,
+    "end_seconds": 213.44,
+    "text": "environments dirty dull and and"
+  },
+  {
+    "start": "00:03:33.440",
+    "end": "00:03:35.589",
+    "start_seconds": 213.44,
+    "end_seconds": 215.589,
+    "text": "environments dirty dull and and dangerous. And this comes from the lens"
+  },
+  {
+    "start": "00:03:35.589",
+    "end": "00:03:35.599",
+    "start_seconds": 215.589,
+    "end_seconds": 215.599,
+    "text": "dangerous. And this comes from the lens"
+  },
+  {
+    "start": "00:03:35.599",
+    "end": "00:03:38.149",
+    "start_seconds": 215.599,
+    "end_seconds": 218.149,
+    "text": "dangerous. And this comes from the lens and sort of the DNA of the team as well."
+  },
+  {
+    "start": "00:03:38.149",
+    "end": "00:03:38.159",
+    "start_seconds": 218.149,
+    "end_seconds": 218.159,
+    "text": "and sort of the DNA of the team as well."
+  },
+  {
+    "start": "00:03:38.159",
+    "end": "00:03:40.229",
+    "start_seconds": 218.159,
+    "end_seconds": 220.22899999999998,
+    "text": "and sort of the DNA of the team as well. We come from a heavy field deployment"
+  },
+  {
+    "start": "00:03:40.229",
+    "end": "00:03:40.239",
+    "start_seconds": 220.22899999999998,
+    "end_seconds": 220.239,
+    "text": "We come from a heavy field deployment"
+  },
+  {
+    "start": "00:03:40.239",
+    "end": "00:03:42.789",
+    "start_seconds": 220.239,
+    "end_seconds": 222.789,
+    "text": "We come from a heavy field deployment background. Uh part of the team comes"
+  },
+  {
+    "start": "00:03:42.789",
+    "end": "00:03:42.799",
+    "start_seconds": 222.789,
+    "end_seconds": 222.799,
+    "text": "background. Uh part of the team comes"
+  },
+  {
+    "start": "00:03:42.799",
+    "end": "00:03:44.869",
+    "start_seconds": 222.799,
+    "end_seconds": 224.869,
+    "text": "background. Uh part of the team comes from deep minds and metas of the world"
+  },
+  {
+    "start": "00:03:44.869",
+    "end": "00:03:44.879",
+    "start_seconds": 224.869,
+    "end_seconds": 224.879,
+    "text": "from deep minds and metas of the world"
+  },
+  {
+    "start": "00:03:44.879",
+    "end": "00:03:46.470",
+    "start_seconds": 224.879,
+    "end_seconds": 226.47,
+    "text": "from deep minds and metas of the world focused on foundation models. The other"
+  },
+  {
+    "start": "00:03:46.470",
+    "end": "00:03:46.480",
+    "start_seconds": 226.47,
+    "end_seconds": 226.48,
+    "text": "focused on foundation models. The other"
+  },
+  {
+    "start": "00:03:46.480",
+    "end": "00:03:48.630",
+    "start_seconds": 226.48,
+    "end_seconds": 228.63,
+    "text": "focused on foundation models. The other part come from NASA of the world and"
+  },
+  {
+    "start": "00:03:48.630",
+    "end": "00:03:48.640",
+    "start_seconds": 228.63,
+    "end_seconds": 228.64,
+    "text": "part come from NASA of the world and"
+  },
+  {
+    "start": "00:03:48.640",
+    "end": "00:03:51.110",
+    "start_seconds": 228.64,
+    "end_seconds": 231.11,
+    "text": "part come from NASA of the world and self-driving car community where we have"
+  },
+  {
+    "start": "00:03:51.110",
+    "end": "00:03:51.120",
+    "start_seconds": 231.11,
+    "end_seconds": 231.12,
+    "text": "self-driving car community where we have"
+  },
+  {
+    "start": "00:03:51.120",
+    "end": "00:03:54.390",
+    "start_seconds": 231.12,
+    "end_seconds": 234.39,
+    "text": "self-driving car community where we have been deploying robots from Mars to to"
+  },
+  {
+    "start": "00:03:54.390",
+    "end": "00:03:54.400",
+    "start_seconds": 234.39,
+    "end_seconds": 234.4,
+    "text": "been deploying robots from Mars to to"
+  },
+  {
+    "start": "00:03:54.400",
+    "end": "00:03:57.830",
+    "start_seconds": 234.4,
+    "end_seconds": 237.82999999999998,
+    "text": "been deploying robots from Mars to to underground. Um uh uh Mark mentioned"
+  },
+  {
+    "start": "00:03:57.830",
+    "end": "00:03:57.840",
+    "start_seconds": 237.82999999999998,
+    "end_seconds": 237.84,
+    "text": "underground. Um uh uh Mark mentioned"
+  },
+  {
+    "start": "00:03:57.840",
+    "end": "00:04:00.470",
+    "start_seconds": 237.84,
+    "end_seconds": 240.47,
+    "text": "underground. Um uh uh Mark mentioned this and we are um we have been"
+  },
+  {
+    "start": "00:04:00.470",
+    "end": "00:04:00.480",
+    "start_seconds": 240.47,
+    "end_seconds": 240.48,
+    "text": "this and we are um we have been"
+  },
+  {
+    "start": "00:04:00.480",
+    "end": "00:04:02.550",
+    "start_seconds": 240.48,
+    "end_seconds": 242.55,
+    "text": "this and we are um we have been collaborating for for a long time back"
+  },
+  {
+    "start": "00:04:02.550",
+    "end": "00:04:02.560",
+    "start_seconds": 242.55,
+    "end_seconds": 242.56,
+    "text": "collaborating for for a long time back"
+  },
+  {
+    "start": "00:04:02.560",
+    "end": "00:04:06.229",
+    "start_seconds": 242.56,
+    "end_seconds": 246.229,
+    "text": "collaborating for for a long time back in uh 7 8 years ago. We received very"
+  },
+  {
+    "start": "00:04:06.229",
+    "end": "00:04:06.239",
+    "start_seconds": 246.229,
+    "end_seconds": 246.239,
+    "text": "in uh 7 8 years ago. We received very"
+  },
+  {
+    "start": "00:04:06.239",
+    "end": "00:04:08.470",
+    "start_seconds": 246.239,
+    "end_seconds": 248.47,
+    "text": "in uh 7 8 years ago. We received very first legged robots from Boston Dynamics"
+  },
+  {
+    "start": "00:04:08.470",
+    "end": "00:04:08.480",
+    "start_seconds": 248.47,
+    "end_seconds": 248.48,
+    "text": "first legged robots from Boston Dynamics"
+  },
+  {
+    "start": "00:04:08.480",
+    "end": "00:04:10.309",
+    "start_seconds": 248.48,
+    "end_seconds": 250.309,
+    "text": "first legged robots from Boston Dynamics before even Boston Dynamics Cell it. I"
+  },
+  {
+    "start": "00:04:10.309",
+    "end": "00:04:10.319",
+    "start_seconds": 250.309,
+    "end_seconds": 250.319,
+    "text": "before even Boston Dynamics Cell it. I"
+  },
+  {
+    "start": "00:04:10.319",
+    "end": "00:04:12.470",
+    "start_seconds": 250.319,
+    "end_seconds": 252.47,
+    "text": "before even Boston Dynamics Cell it. I used to be at NASA at that point and we"
+  },
+  {
+    "start": "00:04:12.470",
+    "end": "00:04:12.480",
+    "start_seconds": 252.47,
+    "end_seconds": 252.48,
+    "text": "used to be at NASA at that point and we"
+  },
+  {
+    "start": "00:04:12.480",
+    "end": "00:04:14.710",
+    "start_seconds": 252.48,
+    "end_seconds": 254.71,
+    "text": "used to be at NASA at that point and we were pushing these systems to go into"
+  },
+  {
+    "start": "00:04:14.710",
+    "end": "00:04:14.720",
+    "start_seconds": 254.71,
+    "end_seconds": 254.72,
+    "text": "were pushing these systems to go into"
+  },
+  {
+    "start": "00:04:14.720",
+    "end": "00:04:16.949",
+    "start_seconds": 254.72,
+    "end_seconds": 256.949,
+    "text": "were pushing these systems to go into Mars analog caves because those are some"
+  },
+  {
+    "start": "00:04:16.949",
+    "end": "00:04:16.959",
+    "start_seconds": 256.949,
+    "end_seconds": 256.959,
+    "text": "Mars analog caves because those are some"
+  },
+  {
+    "start": "00:04:16.959",
+    "end": "00:04:19.349",
+    "start_seconds": 256.959,
+    "end_seconds": 259.349,
+    "text": "Mars analog caves because those are some of the most likely places to find signs"
+  },
+  {
+    "start": "00:04:19.349",
+    "end": "00:04:19.359",
+    "start_seconds": 259.349,
+    "end_seconds": 259.359,
+    "text": "of the most likely places to find signs"
+  },
+  {
+    "start": "00:04:19.359",
+    "end": "00:04:21.990",
+    "start_seconds": 259.359,
+    "end_seconds": 261.99,
+    "text": "of the most likely places to find signs of life on Mars other planets because"
+  },
+  {
+    "start": "00:04:21.990",
+    "end": "00:04:22.000",
+    "start_seconds": 261.99,
+    "end_seconds": 262.0,
+    "text": "of life on Mars other planets because"
+  },
+  {
+    "start": "00:04:22.000",
+    "end": "00:04:24.710",
+    "start_seconds": 262.0,
+    "end_seconds": 264.71,
+    "text": "of life on Mars other planets because they're uh shielded from from cosmic"
+  },
+  {
+    "start": "00:04:24.710",
+    "end": "00:04:24.720",
+    "start_seconds": 264.71,
+    "end_seconds": 264.72,
+    "text": "they're uh shielded from from cosmic"
+  },
+  {
+    "start": "00:04:24.720",
+    "end": "00:04:26.469",
+    "start_seconds": 264.72,
+    "end_seconds": 266.469,
+    "text": "they're uh shielded from from cosmic rays. going into those types of"
+  },
+  {
+    "start": "00:04:26.469",
+    "end": "00:04:26.479",
+    "start_seconds": 266.469,
+    "end_seconds": 266.479,
+    "text": "rays. going into those types of"
+  },
+  {
+    "start": "00:04:26.479",
+    "end": "00:04:28.550",
+    "start_seconds": 266.479,
+    "end_seconds": 268.55,
+    "text": "rays. going into those types of environments require you to handle an"
+  },
+  {
+    "start": "00:04:28.550",
+    "end": "00:04:28.560",
+    "start_seconds": 268.55,
+    "end_seconds": 268.56,
+    "text": "environments require you to handle an"
+  },
+  {
+    "start": "00:04:28.560",
+    "end": "00:04:29.990",
+    "start_seconds": 268.56,
+    "end_seconds": 269.99,
+    "text": "environments require you to handle an environment you have never seen before."
+  },
+  {
+    "start": "00:04:29.990",
+    "end": "00:04:30.000",
+    "start_seconds": 269.99,
+    "end_seconds": 270.0,
+    "text": "environment you have never seen before."
+  },
+  {
+    "start": "00:04:30.000",
+    "end": "00:04:31.749",
+    "start_seconds": 270.0,
+    "end_seconds": 271.749,
+    "text": "environment you have never seen before. There's no GPS, there's no prior map,"
+  },
+  {
+    "start": "00:04:31.749",
+    "end": "00:04:31.759",
+    "start_seconds": 271.749,
+    "end_seconds": 271.759,
+    "text": "There's no GPS, there's no prior map,"
+  },
+  {
+    "start": "00:04:31.759",
+    "end": "00:04:33.670",
+    "start_seconds": 271.759,
+    "end_seconds": 273.67,
+    "text": "There's no GPS, there's no prior map, there are no roads, there are no"
+  },
+  {
+    "start": "00:04:33.670",
+    "end": "00:04:33.680",
+    "start_seconds": 273.67,
+    "end_seconds": 273.68,
+    "text": "there are no roads, there are no"
+  },
+  {
+    "start": "00:04:33.680",
+    "end": "00:04:35.590",
+    "start_seconds": 273.68,
+    "end_seconds": 275.59000000000003,
+    "text": "there are no roads, there are no predefined information. So that was"
+  },
+  {
+    "start": "00:04:35.590",
+    "end": "00:04:35.600",
+    "start_seconds": 275.59000000000003,
+    "end_seconds": 275.6,
+    "text": "predefined information. So that was"
+  },
+  {
+    "start": "00:04:35.600",
+    "end": "00:04:38.150",
+    "start_seconds": 275.6,
+    "end_seconds": 278.15,
+    "text": "predefined information. So that was really fun. We started there published"
+  },
+  {
+    "start": "00:04:38.150",
+    "end": "00:04:38.160",
+    "start_seconds": 278.15,
+    "end_seconds": 278.15999999999997,
+    "text": "really fun. We started there published"
+  },
+  {
+    "start": "00:04:38.160",
+    "end": "00:04:40.950",
+    "start_seconds": 278.15999999999997,
+    "end_seconds": 280.95,
+    "text": "really fun. We started there published some papers that were first uh uh in"
+  },
+  {
+    "start": "00:04:40.950",
+    "end": "00:04:40.960",
+    "start_seconds": 280.95,
+    "end_seconds": 280.96,
+    "text": "some papers that were first uh uh in"
+  },
+  {
+    "start": "00:04:40.960",
+    "end": "00:04:43.270",
+    "start_seconds": 280.96,
+    "end_seconds": 283.27,
+    "text": "some papers that were first uh uh in deploying these solutions for to"
+  },
+  {
+    "start": "00:04:43.270",
+    "end": "00:04:43.280",
+    "start_seconds": 283.27,
+    "end_seconds": 283.28,
+    "text": "deploying these solutions for to"
+  },
+  {
+    "start": "00:04:43.280",
+    "end": "00:04:46.070",
+    "start_seconds": 283.28,
+    "end_seconds": 286.07,
+    "text": "deploying these solutions for to accomplish many kilometers long missions"
+  },
+  {
+    "start": "00:04:46.070",
+    "end": "00:04:46.080",
+    "start_seconds": 286.07,
+    "end_seconds": 286.08,
+    "text": "accomplish many kilometers long missions"
+  },
+  {
+    "start": "00:04:46.080",
+    "end": "00:04:49.270",
+    "start_seconds": 286.08,
+    "end_seconds": 289.27,
+    "text": "accomplish many kilometers long missions without human intervention. Then uh um"
+  },
+  {
+    "start": "00:04:49.270",
+    "end": "00:04:49.280",
+    "start_seconds": 289.27,
+    "end_seconds": 289.28,
+    "text": "without human intervention. Then uh um"
+  },
+  {
+    "start": "00:04:49.280",
+    "end": "00:04:51.510",
+    "start_seconds": 289.28,
+    "end_seconds": 291.51,
+    "text": "without human intervention. Then uh um the team has been involved and be key"
+  },
+  {
+    "start": "00:04:51.510",
+    "end": "00:04:51.520",
+    "start_seconds": 291.51,
+    "end_seconds": 291.52,
+    "text": "the team has been involved and be key"
+  },
+  {
+    "start": "00:04:51.520",
+    "end": "00:04:54.230",
+    "start_seconds": 291.52,
+    "end_seconds": 294.23,
+    "text": "the team has been involved and be key members of developing coordinated Mars"
+  },
+  {
+    "start": "00:04:54.230",
+    "end": "00:04:54.240",
+    "start_seconds": 294.23,
+    "end_seconds": 294.24,
+    "text": "members of developing coordinated Mars"
+  },
+  {
+    "start": "00:04:54.240",
+    "end": "00:04:56.390",
+    "start_seconds": 294.24,
+    "end_seconds": 296.39,
+    "text": "members of developing coordinated Mars helicopter rover navigation all the way"
+  },
+  {
+    "start": "00:04:56.390",
+    "end": "00:04:56.400",
+    "start_seconds": 296.39,
+    "end_seconds": 296.4,
+    "text": "helicopter rover navigation all the way"
+  },
+  {
+    "start": "00:04:56.400",
+    "end": "00:04:59.030",
+    "start_seconds": 296.4,
+    "end_seconds": 299.03,
+    "text": "helicopter rover navigation all the way to uh winning the urban phase of DARPA"
+  },
+  {
+    "start": "00:04:59.030",
+    "end": "00:04:59.040",
+    "start_seconds": 299.03,
+    "end_seconds": 299.04,
+    "text": "to uh winning the urban phase of DARPA"
+  },
+  {
+    "start": "00:04:59.040",
+    "end": "00:05:02.550",
+    "start_seconds": 299.04,
+    "end_seconds": 302.55,
+    "text": "to uh winning the urban phase of DARPA challenge and and and DARPA racer and we"
+  },
+  {
+    "start": "00:05:02.550",
+    "end": "00:05:02.560",
+    "start_seconds": 302.55,
+    "end_seconds": 302.56,
+    "text": "challenge and and and DARPA racer and we"
+  },
+  {
+    "start": "00:05:02.560",
+    "end": "00:05:05.670",
+    "start_seconds": 302.56,
+    "end_seconds": 305.67,
+    "text": "challenge and and and DARPA racer and we started FAI in 2023. But this is to show"
+  },
+  {
+    "start": "00:05:05.670",
+    "end": "00:05:05.680",
+    "start_seconds": 305.67,
+    "end_seconds": 305.68,
+    "text": "started FAI in 2023. But this is to show"
+  },
+  {
+    "start": "00:05:05.680",
+    "end": "00:05:07.670",
+    "start_seconds": 305.68,
+    "end_seconds": 307.67,
+    "text": "started FAI in 2023. But this is to show that this is the lens we look at the"
+  },
+  {
+    "start": "00:05:07.670",
+    "end": "00:05:07.680",
+    "start_seconds": 307.67,
+    "end_seconds": 307.68,
+    "text": "that this is the lens we look at the"
+  },
+  {
+    "start": "00:05:07.680",
+    "end": "00:05:09.830",
+    "start_seconds": 307.68,
+    "end_seconds": 309.83,
+    "text": "that this is the lens we look at the world. We look at it from day one from"
+  },
+  {
+    "start": "00:05:09.830",
+    "end": "00:05:09.840",
+    "start_seconds": 309.83,
+    "end_seconds": 309.84,
+    "text": "world. We look at it from day one from"
+  },
+  {
+    "start": "00:05:09.840",
+    "end": "00:05:11.749",
+    "start_seconds": 309.84,
+    "end_seconds": 311.749,
+    "text": "world. We look at it from day one from the deployment perspective. And first"
+  },
+  {
+    "start": "00:05:11.749",
+    "end": "00:05:11.759",
+    "start_seconds": 311.749,
+    "end_seconds": 311.759,
+    "text": "the deployment perspective. And first"
+  },
+  {
+    "start": "00:05:11.759",
+    "end": "00:05:15.110",
+    "start_seconds": 311.759,
+    "end_seconds": 315.11,
+    "text": "the deployment perspective. And first question we ask is not how does"
+  },
+  {
+    "start": "00:05:15.110",
+    "end": "00:05:15.120",
+    "start_seconds": 315.11,
+    "end_seconds": 315.12,
+    "text": "question we ask is not how does"
+  },
+  {
+    "start": "00:05:15.120",
+    "end": "00:05:17.909",
+    "start_seconds": 315.12,
+    "end_seconds": 317.909,
+    "text": "question we ask is not how does necessarily do XYZ at the highest level"
+  },
+  {
+    "start": "00:05:17.909",
+    "end": "00:05:17.919",
+    "start_seconds": 317.909,
+    "end_seconds": 317.919,
+    "text": "necessarily do XYZ at the highest level"
+  },
+  {
+    "start": "00:05:17.919",
+    "end": "00:05:19.749",
+    "start_seconds": 317.919,
+    "end_seconds": 319.749,
+    "text": "necessarily do XYZ at the highest level but is it going to be resilient? Is it"
+  },
+  {
+    "start": "00:05:19.749",
+    "end": "00:05:19.759",
+    "start_seconds": 319.749,
+    "end_seconds": 319.759,
+    "text": "but is it going to be resilient? Is it"
+  },
+  {
+    "start": "00:05:19.759",
+    "end": "00:05:22.550",
+    "start_seconds": 319.759,
+    "end_seconds": 322.55,
+    "text": "but is it going to be resilient? Is it going to be reliably operational for 3"
+  },
+  {
+    "start": "00:05:22.550",
+    "end": "00:05:22.560",
+    "start_seconds": 322.55,
+    "end_seconds": 322.56,
+    "text": "going to be reliably operational for 3"
+  },
+  {
+    "start": "00:05:22.560",
+    "end": "00:05:24.950",
+    "start_seconds": 322.56,
+    "end_seconds": 324.95,
+    "text": "going to be reliably operational for 3 months in the field and that comes and"
+  },
+  {
+    "start": "00:05:24.950",
+    "end": "00:05:24.960",
+    "start_seconds": 324.95,
+    "end_seconds": 324.96,
+    "text": "months in the field and that comes and"
+  },
+  {
+    "start": "00:05:24.960",
+    "end": "00:05:27.830",
+    "start_seconds": 324.96,
+    "end_seconds": 327.83,
+    "text": "months in the field and that comes and changes the architecture uh of of the"
+  },
+  {
+    "start": "00:05:27.830",
+    "end": "00:05:27.840",
+    "start_seconds": 327.83,
+    "end_seconds": 327.84,
+    "text": "changes the architecture uh of of the"
+  },
+  {
+    "start": "00:05:27.840",
+    "end": "00:05:30.150",
+    "start_seconds": 327.84,
+    "end_seconds": 330.15,
+    "text": "changes the architecture uh of of the solution. Um and it changes the"
+  },
+  {
+    "start": "00:05:30.150",
+    "end": "00:05:30.160",
+    "start_seconds": 330.15,
+    "end_seconds": 330.16,
+    "text": "solution. Um and it changes the"
+  },
+  {
+    "start": "00:05:30.160",
+    "end": "00:05:33.029",
+    "start_seconds": 330.16,
+    "end_seconds": 333.029,
+    "text": "solution. Um and it changes the architecture by bringing two end of this"
+  },
+  {
+    "start": "00:05:33.029",
+    "end": "00:05:33.039",
+    "start_seconds": 333.029,
+    "end_seconds": 333.039,
+    "text": "architecture by bringing two end of this"
+  },
+  {
+    "start": "00:05:33.039",
+    "end": "00:05:35.590",
+    "start_seconds": 333.039,
+    "end_seconds": 335.59000000000003,
+    "text": "architecture by bringing two end of this spectrum together from the large AI"
+  },
+  {
+    "start": "00:05:35.590",
+    "end": "00:05:35.600",
+    "start_seconds": 335.59000000000003,
+    "end_seconds": 335.6,
+    "text": "spectrum together from the large AI"
+  },
+  {
+    "start": "00:05:35.600",
+    "end": "00:05:38.150",
+    "start_seconds": 335.6,
+    "end_seconds": 338.15,
+    "text": "spectrum together from the large AI model side the generalizability and from"
+  },
+  {
+    "start": "00:05:38.150",
+    "end": "00:05:38.160",
+    "start_seconds": 338.15,
+    "end_seconds": 338.15999999999997,
+    "text": "model side the generalizability and from"
+  },
+  {
+    "start": "00:05:38.160",
+    "end": "00:05:40.870",
+    "start_seconds": 338.15999999999997,
+    "end_seconds": 340.87,
+    "text": "model side the generalizability and from the risk aware robotic AI side the"
+  },
+  {
+    "start": "00:05:40.870",
+    "end": "00:05:40.880",
+    "start_seconds": 340.87,
+    "end_seconds": 340.88,
+    "text": "the risk aware robotic AI side the"
+  },
+  {
+    "start": "00:05:40.880",
+    "end": "00:05:42.870",
+    "start_seconds": 340.88,
+    "end_seconds": 342.87,
+    "text": "the risk aware robotic AI side the deployability of these solutions. So if"
+  },
+  {
+    "start": "00:05:42.870",
+    "end": "00:05:42.880",
+    "start_seconds": 342.87,
+    "end_seconds": 342.88,
+    "text": "deployability of these solutions. So if"
+  },
+  {
+    "start": "00:05:42.880",
+    "end": "00:05:45.830",
+    "start_seconds": 342.88,
+    "end_seconds": 345.83,
+    "text": "deployability of these solutions. So if you look at it at this sort of a a a 2D"
+  },
+  {
+    "start": "00:05:45.830",
+    "end": "00:05:45.840",
+    "start_seconds": 345.83,
+    "end_seconds": 345.84000000000003,
+    "text": "you look at it at this sort of a a a 2D"
+  },
+  {
+    "start": "00:05:45.840",
+    "end": "00:05:48.950",
+    "start_seconds": 345.84000000000003,
+    "end_seconds": 348.95,
+    "text": "you look at it at this sort of a a a 2D lens uh of of generalizability and"
+  },
+  {
+    "start": "00:05:48.950",
+    "end": "00:05:48.960",
+    "start_seconds": 348.95,
+    "end_seconds": 348.96,
+    "text": "lens uh of of generalizability and"
+  },
+  {
+    "start": "00:05:48.960",
+    "end": "00:05:52.150",
+    "start_seconds": 348.96,
+    "end_seconds": 352.15,
+    "text": "lens uh of of generalizability and reliability uh chat GBT and"
+  },
+  {
+    "start": "00:05:52.150",
+    "end": "00:05:52.160",
+    "start_seconds": 352.15,
+    "end_seconds": 352.15999999999997,
+    "text": "reliability uh chat GBT and"
+  },
+  {
+    "start": "00:05:52.160",
+    "end": "00:05:54.230",
+    "start_seconds": 352.15999999999997,
+    "end_seconds": 354.23,
+    "text": "reliability uh chat GBT and conversational AI type solution fall"
+  },
+  {
+    "start": "00:05:54.230",
+    "end": "00:05:54.240",
+    "start_seconds": 354.23,
+    "end_seconds": 354.24,
+    "text": "conversational AI type solution fall"
+  },
+  {
+    "start": "00:05:54.240",
+    "end": "00:05:56.950",
+    "start_seconds": 354.24,
+    "end_seconds": 356.95,
+    "text": "conversational AI type solution fall into the top left right and this is"
+  },
+  {
+    "start": "00:05:56.950",
+    "end": "00:05:56.960",
+    "start_seconds": 356.95,
+    "end_seconds": 356.96,
+    "text": "into the top left right and this is"
+  },
+  {
+    "start": "00:05:56.960",
+    "end": "00:05:59.830",
+    "start_seconds": 356.96,
+    "end_seconds": 359.83,
+    "text": "into the top left right and this is where we uh uh see today some of the"
+  },
+  {
+    "start": "00:05:59.830",
+    "end": "00:05:59.840",
+    "start_seconds": 359.83,
+    "end_seconds": 359.84000000000003,
+    "text": "where we uh uh see today some of the"
+  },
+  {
+    "start": "00:05:59.840",
+    "end": "00:06:02.469",
+    "start_seconds": 359.84000000000003,
+    "end_seconds": 362.469,
+    "text": "where we uh uh see today some of the solutions that are basically taking a"
+  },
+  {
+    "start": "00:06:02.469",
+    "end": "00:06:02.479",
+    "start_seconds": 362.469,
+    "end_seconds": 362.479,
+    "text": "solutions that are basically taking a"
+  },
+  {
+    "start": "00:06:02.479",
+    "end": "00:06:04.950",
+    "start_seconds": 362.479,
+    "end_seconds": 364.95,
+    "text": "solutions that are basically taking a large transformer model to bring it into"
+  },
+  {
+    "start": "00:06:04.950",
+    "end": "00:06:04.960",
+    "start_seconds": 364.95,
+    "end_seconds": 364.96,
+    "text": "large transformer model to bring it into"
+  },
+  {
+    "start": "00:06:04.960",
+    "end": "00:06:07.430",
+    "start_seconds": 364.96,
+    "end_seconds": 367.43,
+    "text": "large transformer model to bring it into robotics fall into this category. uh"
+  },
+  {
+    "start": "00:06:07.430",
+    "end": "00:06:07.440",
+    "start_seconds": 367.43,
+    "end_seconds": 367.44,
+    "text": "robotics fall into this category. uh"
+  },
+  {
+    "start": "00:06:07.440",
+    "end": "00:06:09.670",
+    "start_seconds": 367.44,
+    "end_seconds": 369.67,
+    "text": "robotics fall into this category. uh incredible for set of applications but"
+  },
+  {
+    "start": "00:06:09.670",
+    "end": "00:06:09.680",
+    "start_seconds": 369.67,
+    "end_seconds": 369.68,
+    "text": "incredible for set of applications but"
+  },
+  {
+    "start": "00:06:09.680",
+    "end": "00:06:11.749",
+    "start_seconds": 369.68,
+    "end_seconds": 371.749,
+    "text": "incredible for set of applications but in DDD environment the hallucination is"
+  },
+  {
+    "start": "00:06:11.749",
+    "end": "00:06:11.759",
+    "start_seconds": 371.749,
+    "end_seconds": 371.759,
+    "text": "in DDD environment the hallucination is"
+  },
+  {
+    "start": "00:06:11.759",
+    "end": "00:06:14.309",
+    "start_seconds": 371.759,
+    "end_seconds": 374.309,
+    "text": "in DDD environment the hallucination is not tolerable prone to hallucination"
+  },
+  {
+    "start": "00:06:14.309",
+    "end": "00:06:14.319",
+    "start_seconds": 374.309,
+    "end_seconds": 374.319,
+    "text": "not tolerable prone to hallucination"
+  },
+  {
+    "start": "00:06:14.319",
+    "end": "00:06:16.710",
+    "start_seconds": 374.319,
+    "end_seconds": 376.71,
+    "text": "not tolerable prone to hallucination heavily data inefficient you need in"
+  },
+  {
+    "start": "00:06:16.710",
+    "end": "00:06:16.720",
+    "start_seconds": 376.71,
+    "end_seconds": 376.72,
+    "text": "heavily data inefficient you need in"
+  },
+  {
+    "start": "00:06:16.720",
+    "end": "00:06:19.029",
+    "start_seconds": 376.72,
+    "end_seconds": 379.029,
+    "text": "heavily data inefficient you need in this regime hundreds of trillions of"
+  },
+  {
+    "start": "00:06:19.029",
+    "end": "00:06:19.039",
+    "start_seconds": 379.029,
+    "end_seconds": 379.039,
+    "text": "this regime hundreds of trillions of"
+  },
+  {
+    "start": "00:06:19.039",
+    "end": "00:06:21.430",
+    "start_seconds": 379.039,
+    "end_seconds": 381.43,
+    "text": "this regime hundreds of trillions of tokens of data and the creativity"
+  },
+  {
+    "start": "00:06:21.430",
+    "end": "00:06:21.440",
+    "start_seconds": 381.43,
+    "end_seconds": 381.44,
+    "text": "tokens of data and the creativity"
+  },
+  {
+    "start": "00:06:21.440",
+    "end": "00:06:24.070",
+    "start_seconds": 381.44,
+    "end_seconds": 384.07,
+    "text": "tokens of data and the creativity becomes how do I use different sources"
+  },
+  {
+    "start": "00:06:24.070",
+    "end": "00:06:24.080",
+    "start_seconds": 384.07,
+    "end_seconds": 384.08,
+    "text": "becomes how do I use different sources"
+  },
+  {
+    "start": "00:06:24.080",
+    "end": "00:06:26.629",
+    "start_seconds": 384.08,
+    "end_seconds": 386.629,
+    "text": "becomes how do I use different sources to close that gap but it is just a huge"
+  },
+  {
+    "start": "00:06:26.629",
+    "end": "00:06:26.639",
+    "start_seconds": 386.629,
+    "end_seconds": 386.639,
+    "text": "to close that gap but it is just a huge"
+  },
+  {
+    "start": "00:06:26.639",
+    "end": "00:06:28.629",
+    "start_seconds": 386.639,
+    "end_seconds": 388.629,
+    "text": "to close that gap but it is just a huge gap and hundreds of trillions is the"
+  },
+  {
+    "start": "00:06:28.629",
+    "end": "00:06:28.639",
+    "start_seconds": 388.629,
+    "end_seconds": 388.639,
+    "text": "gap and hundreds of trillions is the"
+  },
+  {
+    "start": "00:06:28.639",
+    "end": "00:06:29.830",
+    "start_seconds": 388.639,
+    "end_seconds": 389.83,
+    "text": "gap and hundreds of trillions is the amount of data you need in"
+  },
+  {
+    "start": "00:06:29.830",
+    "end": "00:06:29.840",
+    "start_seconds": 389.83,
+    "end_seconds": 389.84,
+    "text": "amount of data you need in"
+  },
+  {
+    "start": "00:06:29.840",
+    "end": "00:06:31.670",
+    "start_seconds": 389.84,
+    "end_seconds": 391.67,
+    "text": "amount of data you need in conversational AI that is a"
+  },
+  {
+    "start": "00:06:31.670",
+    "end": "00:06:31.680",
+    "start_seconds": 391.67,
+    "end_seconds": 391.68,
+    "text": "conversational AI that is a"
+  },
+  {
+    "start": "00:06:31.680",
+    "end": "00:06:34.150",
+    "start_seconds": 391.68,
+    "end_seconds": 394.15,
+    "text": "conversational AI that is a one-dimensional problem text with"
+  },
+  {
+    "start": "00:06:34.150",
+    "end": "00:06:34.160",
+    "start_seconds": 394.15,
+    "end_seconds": 394.15999999999997,
+    "text": "one-dimensional problem text with"
+  },
+  {
+    "start": "00:06:34.160",
+    "end": "00:06:36.950",
+    "start_seconds": 394.15999999999997,
+    "end_seconds": 396.95,
+    "text": "one-dimensional problem text with discrete 52,000 words in the dictionary"
+  },
+  {
+    "start": "00:06:36.950",
+    "end": "00:06:36.960",
+    "start_seconds": 396.95,
+    "end_seconds": 396.96,
+    "text": "discrete 52,000 words in the dictionary"
+  },
+  {
+    "start": "00:06:36.960",
+    "end": "00:06:39.270",
+    "start_seconds": 396.96,
+    "end_seconds": 399.27,
+    "text": "discrete 52,000 words in the dictionary In robotics the world is very very"
+  },
+  {
+    "start": "00:06:39.270",
+    "end": "00:06:39.280",
+    "start_seconds": 399.27,
+    "end_seconds": 399.28,
+    "text": "In robotics the world is very very"
+  },
+  {
+    "start": "00:06:39.280",
+    "end": "00:06:42.230",
+    "start_seconds": 399.28,
+    "end_seconds": 402.23,
+    "text": "In robotics the world is very very different highly highdimensional it's"
+  },
+  {
+    "start": "00:06:42.230",
+    "end": "00:06:42.240",
+    "start_seconds": 402.23,
+    "end_seconds": 402.24,
+    "text": "different highly highdimensional it's"
+  },
+  {
+    "start": "00:06:42.240",
+    "end": "00:06:45.350",
+    "start_seconds": 402.24,
+    "end_seconds": 405.35,
+    "text": "different highly highdimensional it's continuous and it's still a hypothesis"
+  },
+  {
+    "start": "00:06:45.350",
+    "end": "00:06:45.360",
+    "start_seconds": 405.35,
+    "end_seconds": 405.36,
+    "text": "continuous and it's still a hypothesis"
+  },
+  {
+    "start": "00:06:45.360",
+    "end": "00:06:47.749",
+    "start_seconds": 405.36,
+    "end_seconds": 407.749,
+    "text": "continuous and it's still a hypothesis how far this would generalize so what we"
+  },
+  {
+    "start": "00:06:47.749",
+    "end": "00:06:47.759",
+    "start_seconds": 407.749,
+    "end_seconds": 407.759,
+    "text": "how far this would generalize so what we"
+  },
+  {
+    "start": "00:06:47.759",
+    "end": "00:06:50.070",
+    "start_seconds": 407.759,
+    "end_seconds": 410.07,
+    "text": "how far this would generalize so what we do at field AI is we take that all the"
+  },
+  {
+    "start": "00:06:50.070",
+    "end": "00:06:50.080",
+    "start_seconds": 410.07,
+    "end_seconds": 410.08,
+    "text": "do at field AI is we take that all the"
+  },
+  {
+    "start": "00:06:50.080",
+    "end": "00:06:51.990",
+    "start_seconds": 410.08,
+    "end_seconds": 411.99,
+    "text": "do at field AI is we take that all the best in there but we combine it with"
+  },
+  {
+    "start": "00:06:51.990",
+    "end": "00:06:52.000",
+    "start_seconds": 411.99,
+    "end_seconds": 412.0,
+    "text": "best in there but we combine it with"
+  },
+  {
+    "start": "00:06:52.000",
+    "end": "00:06:53.954",
+    "start_seconds": 412.0,
+    "end_seconds": 413.954,
+    "text": "best in there but we combine it with what we have been doing for the last"
+  },
+  {
+    "start": "00:06:53.954",
+    "end": "00:06:53.964",
+    "start_seconds": 413.954,
+    "end_seconds": 413.964,
+    "text": "what we have been doing for the last"
+  },
+  {
+    "start": "00:06:53.964",
+    "end": "00:06:56.309",
+    "start_seconds": 413.964,
+    "end_seconds": 416.30899999999997,
+    "text": "what we have been doing for the last [snorts] 10 15 years in terms of"
+  },
+  {
+    "start": "00:06:56.309",
+    "end": "00:06:56.319",
+    "start_seconds": 416.30899999999997,
+    "end_seconds": 416.319,
+    "text": "[snorts] 10 15 years in terms of"
+  },
+  {
+    "start": "00:06:56.319",
+    "end": "00:06:58.230",
+    "start_seconds": 416.319,
+    "end_seconds": 418.23,
+    "text": "[snorts] 10 15 years in terms of deployment in terms of the uncertainty"
+  },
+  {
+    "start": "00:06:58.230",
+    "end": "00:06:58.240",
+    "start_seconds": 418.23,
+    "end_seconds": 418.24,
+    "text": "deployment in terms of the uncertainty"
+  },
+  {
+    "start": "00:06:58.240",
+    "end": "00:07:00.469",
+    "start_seconds": 418.24,
+    "end_seconds": 420.469,
+    "text": "deployment in terms of the uncertainty quantification and we take that"
+  },
+  {
+    "start": "00:07:00.469",
+    "end": "00:07:00.479",
+    "start_seconds": 420.469,
+    "end_seconds": 420.479,
+    "text": "quantification and we take that"
+  },
+  {
+    "start": "00:07:00.479",
+    "end": "00:07:03.110",
+    "start_seconds": 420.479,
+    "end_seconds": 423.11,
+    "text": "quantification and we take that technology and bake physics bake"
+  },
+  {
+    "start": "00:07:03.110",
+    "end": "00:07:03.120",
+    "start_seconds": 423.11,
+    "end_seconds": 423.12,
+    "text": "technology and bake physics bake"
+  },
+  {
+    "start": "00:07:03.120",
+    "end": "00:07:05.589",
+    "start_seconds": 423.12,
+    "end_seconds": 425.589,
+    "text": "technology and bake physics bake uncertainty quantification into these"
+  },
+  {
+    "start": "00:07:05.589",
+    "end": "00:07:05.599",
+    "start_seconds": 425.589,
+    "end_seconds": 425.599,
+    "text": "uncertainty quantification into these"
+  },
+  {
+    "start": "00:07:05.599",
+    "end": "00:07:08.070",
+    "start_seconds": 425.599,
+    "end_seconds": 428.07,
+    "text": "uncertainty quantification into these traditionally ally blackbox large neural"
+  },
+  {
+    "start": "00:07:08.070",
+    "end": "00:07:08.080",
+    "start_seconds": 428.07,
+    "end_seconds": 428.08,
+    "text": "traditionally ally blackbox large neural"
+  },
+  {
+    "start": "00:07:08.080",
+    "end": "00:07:10.390",
+    "start_seconds": 428.08,
+    "end_seconds": 430.39,
+    "text": "traditionally ally blackbox large neural networks and that's what we call field"
+  },
+  {
+    "start": "00:07:10.390",
+    "end": "00:07:10.400",
+    "start_seconds": 430.39,
+    "end_seconds": 430.4,
+    "text": "networks and that's what we call field"
+  },
+  {
+    "start": "00:07:10.400",
+    "end": "00:07:13.350",
+    "start_seconds": 430.4,
+    "end_seconds": 433.35,
+    "text": "networks and that's what we call field foundation models uh that not only"
+  },
+  {
+    "start": "00:07:13.350",
+    "end": "00:07:13.360",
+    "start_seconds": 433.35,
+    "end_seconds": 433.36,
+    "text": "foundation models uh that not only"
+  },
+  {
+    "start": "00:07:13.360",
+    "end": "00:07:17.510",
+    "start_seconds": 433.36,
+    "end_seconds": 437.51,
+    "text": "foundation models uh that not only generalizable but also provide a level"
+  },
+  {
+    "start": "00:07:17.510",
+    "end": "00:07:17.520",
+    "start_seconds": 437.51,
+    "end_seconds": 437.52,
+    "text": "generalizable but also provide a level"
+  },
+  {
+    "start": "00:07:17.520",
+    "end": "00:07:19.350",
+    "start_seconds": 437.52,
+    "end_seconds": 439.35,
+    "text": "generalizable but also provide a level of risk awareness provide a level of"
+  },
+  {
+    "start": "00:07:19.350",
+    "end": "00:07:19.360",
+    "start_seconds": 439.35,
+    "end_seconds": 439.36,
+    "text": "of risk awareness provide a level of"
+  },
+  {
+    "start": "00:07:19.360",
+    "end": "00:07:21.350",
+    "start_seconds": 439.36,
+    "end_seconds": 441.35,
+    "text": "of risk awareness provide a level of safety which translates you being able"
+  },
+  {
+    "start": "00:07:21.350",
+    "end": "00:07:21.360",
+    "start_seconds": 441.35,
+    "end_seconds": 441.36,
+    "text": "safety which translates you being able"
+  },
+  {
+    "start": "00:07:21.360",
+    "end": "00:07:24.150",
+    "start_seconds": 441.36,
+    "end_seconds": 444.15,
+    "text": "safety which translates you being able to deploy these solutions across uh"
+  },
+  {
+    "start": "00:07:24.150",
+    "end": "00:07:24.160",
+    "start_seconds": 444.15,
+    "end_seconds": 444.16,
+    "text": "to deploy these solutions across uh"
+  },
+  {
+    "start": "00:07:24.160",
+    "end": "00:07:26.070",
+    "start_seconds": 444.16,
+    "end_seconds": 446.07,
+    "text": "to deploy these solutions across uh these different environments without"
+  },
+  {
+    "start": "00:07:26.070",
+    "end": "00:07:26.080",
+    "start_seconds": 446.07,
+    "end_seconds": 446.08,
+    "text": "these different environments without"
+  },
+  {
+    "start": "00:07:26.080",
+    "end": "00:07:29.270",
+    "start_seconds": 446.08,
+    "end_seconds": 449.27,
+    "text": "these different environments without prior information. Um"
+  },
+  {
+    "start": "00:07:29.270",
+    "end": "00:07:29.280",
+    "start_seconds": 449.27,
+    "end_seconds": 449.28,
+    "text": "prior information. Um"
+  },
+  {
+    "start": "00:07:29.280",
+    "end": "00:07:32.070",
+    "start_seconds": 449.28,
+    "end_seconds": 452.07,
+    "text": "prior information. Um what do these robots do in the field? We"
+  },
+  {
+    "start": "00:07:32.070",
+    "end": "00:07:32.080",
+    "start_seconds": 452.07,
+    "end_seconds": 452.08,
+    "text": "what do these robots do in the field? We"
+  },
+  {
+    "start": "00:07:32.080",
+    "end": "00:07:33.909",
+    "start_seconds": 452.08,
+    "end_seconds": 453.909,
+    "text": "what do these robots do in the field? We in general carry out four different"
+  },
+  {
+    "start": "00:07:33.909",
+    "end": "00:07:33.919",
+    "start_seconds": 453.909,
+    "end_seconds": 453.919,
+    "text": "in general carry out four different"
+  },
+  {
+    "start": "00:07:33.919",
+    "end": "00:07:36.070",
+    "start_seconds": 453.919,
+    "end_seconds": 456.07,
+    "text": "in general carry out four different classes of uh missions and operations."
+  },
+  {
+    "start": "00:07:36.070",
+    "end": "00:07:36.080",
+    "start_seconds": 456.07,
+    "end_seconds": 456.08,
+    "text": "classes of uh missions and operations."
+  },
+  {
+    "start": "00:07:36.080",
+    "end": "00:07:38.309",
+    "start_seconds": 456.08,
+    "end_seconds": 458.30899999999997,
+    "text": "classes of uh missions and operations. The first class is the the the part that"
+  },
+  {
+    "start": "00:07:38.309",
+    "end": "00:07:38.319",
+    "start_seconds": 458.30899999999997,
+    "end_seconds": 458.319,
+    "text": "The first class is the the the part that"
+  },
+  {
+    "start": "00:07:38.319",
+    "end": "00:07:39.909",
+    "start_seconds": 458.319,
+    "end_seconds": 459.909,
+    "text": "The first class is the the the part that we don't touch the environment. We walk"
+  },
+  {
+    "start": "00:07:39.909",
+    "end": "00:07:39.919",
+    "start_seconds": 459.909,
+    "end_seconds": 459.919,
+    "text": "we don't touch the environment. We walk"
+  },
+  {
+    "start": "00:07:39.919",
+    "end": "00:07:41.749",
+    "start_seconds": 459.919,
+    "end_seconds": 461.749,
+    "text": "we don't touch the environment. We walk around do inspection digital twin"
+  },
+  {
+    "start": "00:07:41.749",
+    "end": "00:07:41.759",
+    "start_seconds": 461.749,
+    "end_seconds": 461.759,
+    "text": "around do inspection digital twin"
+  },
+  {
+    "start": "00:07:41.759",
+    "end": "00:07:43.990",
+    "start_seconds": 461.759,
+    "end_seconds": 463.99,
+    "text": "around do inspection digital twin creation. We work with Nvidia. We work"
+  },
+  {
+    "start": "00:07:43.990",
+    "end": "00:07:44.000",
+    "start_seconds": 463.99,
+    "end_seconds": 464.0,
+    "text": "creation. We work with Nvidia. We work"
+  },
+  {
+    "start": "00:07:44.000",
+    "end": "00:07:45.830",
+    "start_seconds": 464.0,
+    "end_seconds": 465.83,
+    "text": "creation. We work with Nvidia. We work with a lot of incredible partners on"
+  },
+  {
+    "start": "00:07:45.830",
+    "end": "00:07:45.840",
+    "start_seconds": 465.83,
+    "end_seconds": 465.84000000000003,
+    "text": "with a lot of incredible partners on"
+  },
+  {
+    "start": "00:07:45.840",
+    "end": "00:07:48.309",
+    "start_seconds": 465.84000000000003,
+    "end_seconds": 468.30899999999997,
+    "text": "with a lot of incredible partners on that front to understand the world to"
+  },
+  {
+    "start": "00:07:48.309",
+    "end": "00:07:48.319",
+    "start_seconds": 468.30899999999997,
+    "end_seconds": 468.319,
+    "text": "that front to understand the world to"
+  },
+  {
+    "start": "00:07:48.319",
+    "end": "00:07:50.790",
+    "start_seconds": 468.319,
+    "end_seconds": 470.79,
+    "text": "that front to understand the world to analyze it to give trends to the to the"
+  },
+  {
+    "start": "00:07:50.790",
+    "end": "00:07:50.800",
+    "start_seconds": 470.79,
+    "end_seconds": 470.8,
+    "text": "analyze it to give trends to the to the"
+  },
+  {
+    "start": "00:07:50.800",
+    "end": "00:07:53.430",
+    "start_seconds": 470.8,
+    "end_seconds": 473.43,
+    "text": "analyze it to give trends to the to the customers. The second class is we carry"
+  },
+  {
+    "start": "00:07:53.430",
+    "end": "00:07:53.440",
+    "start_seconds": 473.43,
+    "end_seconds": 473.44,
+    "text": "customers. The second class is we carry"
+  },
+  {
+    "start": "00:07:53.440",
+    "end": "00:07:55.670",
+    "start_seconds": 473.44,
+    "end_seconds": 475.67,
+    "text": "customers. The second class is we carry objects. We move material with large"
+  },
+  {
+    "start": "00:07:55.670",
+    "end": "00:07:55.680",
+    "start_seconds": 475.67,
+    "end_seconds": 475.68,
+    "text": "objects. We move material with large"
+  },
+  {
+    "start": "00:07:55.680",
+    "end": "00:07:59.110",
+    "start_seconds": 475.68,
+    "end_seconds": 479.11,
+    "text": "objects. We move material with large vehicles all the way to small platforms,"
+  },
+  {
+    "start": "00:07:59.110",
+    "end": "00:07:59.120",
+    "start_seconds": 479.11,
+    "end_seconds": 479.12,
+    "text": "vehicles all the way to small platforms,"
+  },
+  {
+    "start": "00:07:59.120",
+    "end": "00:08:01.909",
+    "start_seconds": 479.12,
+    "end_seconds": 481.909,
+    "text": "vehicles all the way to small platforms, dog robots from construction site to oil"
+  },
+  {
+    "start": "00:08:01.909",
+    "end": "00:08:01.919",
+    "start_seconds": 481.909,
+    "end_seconds": 481.919,
+    "text": "dog robots from construction site to oil"
+  },
+  {
+    "start": "00:08:01.919",
+    "end": "00:08:04.710",
+    "start_seconds": 481.919,
+    "end_seconds": 484.71,
+    "text": "dog robots from construction site to oil and gas refinery to data centers. The"
+  },
+  {
+    "start": "00:08:04.710",
+    "end": "00:08:04.720",
+    "start_seconds": 484.71,
+    "end_seconds": 484.72,
+    "text": "and gas refinery to data centers. The"
+  },
+  {
+    "start": "00:08:04.720",
+    "end": "00:08:07.909",
+    "start_seconds": 484.72,
+    "end_seconds": 487.909,
+    "text": "and gas refinery to data centers. The third class is the brain generalizes to"
+  },
+  {
+    "start": "00:08:07.909",
+    "end": "00:08:07.919",
+    "start_seconds": 487.909,
+    "end_seconds": 487.919,
+    "text": "third class is the brain generalizes to"
+  },
+  {
+    "start": "00:08:07.919",
+    "end": "00:08:09.589",
+    "start_seconds": 487.919,
+    "end_seconds": 489.589,
+    "text": "third class is the brain generalizes to hands, arms, and fingers for"
+  },
+  {
+    "start": "00:08:09.589",
+    "end": "00:08:09.599",
+    "start_seconds": 489.589,
+    "end_seconds": 489.599,
+    "text": "hands, arms, and fingers for"
+  },
+  {
+    "start": "00:08:09.599",
+    "end": "00:08:12.309",
+    "start_seconds": 489.599,
+    "end_seconds": 492.309,
+    "text": "hands, arms, and fingers for manipulation tasks from opening, closing"
+  },
+  {
+    "start": "00:08:12.309",
+    "end": "00:08:12.319",
+    "start_seconds": 492.309,
+    "end_seconds": 492.319,
+    "text": "manipulation tasks from opening, closing"
+  },
+  {
+    "start": "00:08:12.319",
+    "end": "00:08:15.189",
+    "start_seconds": 492.319,
+    "end_seconds": 495.189,
+    "text": "manipulation tasks from opening, closing doors to pressing buttons, picking up"
+  },
+  {
+    "start": "00:08:15.189",
+    "end": "00:08:15.199",
+    "start_seconds": 495.189,
+    "end_seconds": 495.199,
+    "text": "doors to pressing buttons, picking up"
+  },
+  {
+    "start": "00:08:15.199",
+    "end": "00:08:17.670",
+    "start_seconds": 495.199,
+    "end_seconds": 497.67,
+    "text": "doors to pressing buttons, picking up objects, all the way to coordination"
+  },
+  {
+    "start": "00:08:17.670",
+    "end": "00:08:17.680",
+    "start_seconds": 497.67,
+    "end_seconds": 497.68,
+    "text": "objects, all the way to coordination"
+  },
+  {
+    "start": "00:08:17.680",
+    "end": "00:08:20.309",
+    "start_seconds": 497.68,
+    "end_seconds": 500.309,
+    "text": "objects, all the way to coordination that Mark alluded to, which is the"
+  },
+  {
+    "start": "00:08:20.309",
+    "end": "00:08:20.319",
+    "start_seconds": 500.309,
+    "end_seconds": 500.319,
+    "text": "that Mark alluded to, which is the"
+  },
+  {
+    "start": "00:08:20.319",
+    "end": "00:08:23.430",
+    "start_seconds": 500.319,
+    "end_seconds": 503.43,
+    "text": "that Mark alluded to, which is the capability that you basically take a"
+  },
+  {
+    "start": "00:08:23.430",
+    "end": "00:08:23.440",
+    "start_seconds": 503.43,
+    "end_seconds": 503.44,
+    "text": "capability that you basically take a"
+  },
+  {
+    "start": "00:08:23.440",
+    "end": "00:08:25.510",
+    "start_seconds": 503.44,
+    "end_seconds": 505.51,
+    "text": "capability that you basically take a heterogeneous team of assets, a truck"
+  },
+  {
+    "start": "00:08:25.510",
+    "end": "00:08:25.520",
+    "start_seconds": 505.51,
+    "end_seconds": 505.52,
+    "text": "heterogeneous team of assets, a truck"
+  },
+  {
+    "start": "00:08:25.520",
+    "end": "00:08:29.589",
+    "start_seconds": 505.52,
+    "end_seconds": 509.589,
+    "text": "heterogeneous team of assets, a truck out there, a a humanoid inside"
+  },
+  {
+    "start": "00:08:29.589",
+    "end": "00:08:29.599",
+    "start_seconds": 509.589,
+    "end_seconds": 509.599,
+    "text": "out there, a a humanoid inside"
+  },
+  {
+    "start": "00:08:29.599",
+    "end": "00:08:31.830",
+    "start_seconds": 509.599,
+    "end_seconds": 511.83,
+    "text": "out there, a a humanoid inside doing manipulation work, a dog robot"
+  },
+  {
+    "start": "00:08:31.830",
+    "end": "00:08:31.840",
+    "start_seconds": 511.83,
+    "end_seconds": 511.84,
+    "text": "doing manipulation work, a dog robot"
+  },
+  {
+    "start": "00:08:31.840",
+    "end": "00:08:33.909",
+    "start_seconds": 511.84,
+    "end_seconds": 513.909,
+    "text": "doing manipulation work, a dog robot doing inspection, and these"
+  },
+  {
+    "start": "00:08:33.909",
+    "end": "00:08:33.919",
+    "start_seconds": 513.909,
+    "end_seconds": 513.919,
+    "text": "doing inspection, and these"
+  },
+  {
+    "start": "00:08:33.919",
+    "end": "00:08:35.670",
+    "start_seconds": 513.919,
+    "end_seconds": 515.67,
+    "text": "doing inspection, and these receive one mission and dispatch"
+  },
+  {
+    "start": "00:08:35.670",
+    "end": "00:08:35.680",
+    "start_seconds": 515.67,
+    "end_seconds": 515.68,
+    "text": "receive one mission and dispatch"
+  },
+  {
+    "start": "00:08:35.680",
+    "end": "00:08:37.029",
+    "start_seconds": 515.68,
+    "end_seconds": 517.029,
+    "text": "receive one mission and dispatch themselves autonomously to different"
+  },
+  {
+    "start": "00:08:37.029",
+    "end": "00:08:37.039",
+    "start_seconds": 517.029,
+    "end_seconds": 517.039,
+    "text": "themselves autonomously to different"
+  },
+  {
+    "start": "00:08:37.039",
+    "end": "00:08:39.110",
+    "start_seconds": 517.039,
+    "end_seconds": 519.11,
+    "text": "themselves autonomously to different parts of the world. I'll show you some"
+  },
+  {
+    "start": "00:08:39.110",
+    "end": "00:08:39.120",
+    "start_seconds": 519.11,
+    "end_seconds": 519.12,
+    "text": "parts of the world. I'll show you some"
+  },
+  {
+    "start": "00:08:39.120",
+    "end": "00:08:42.070",
+    "start_seconds": 519.12,
+    "end_seconds": 522.07,
+    "text": "parts of the world. I'll show you some quick videos of some of what we do here"
+  },
+  {
+    "start": "00:08:42.070",
+    "end": "00:08:42.080",
+    "start_seconds": 522.07,
+    "end_seconds": 522.08,
+    "text": "quick videos of some of what we do here"
+  },
+  {
+    "start": "00:08:42.080",
+    "end": "00:08:45.269",
+    "start_seconds": 522.08,
+    "end_seconds": 525.269,
+    "text": "quick videos of some of what we do here across these three cognitive layers. The"
+  },
+  {
+    "start": "00:08:45.269",
+    "end": "00:08:45.279",
+    "start_seconds": 525.269,
+    "end_seconds": 525.279,
+    "text": "across these three cognitive layers. The"
+  },
+  {
+    "start": "00:08:45.279",
+    "end": "00:08:47.350",
+    "start_seconds": 525.279,
+    "end_seconds": 527.35,
+    "text": "across these three cognitive layers. The architecture comes and solves the"
+  },
+  {
+    "start": "00:08:47.350",
+    "end": "00:08:47.360",
+    "start_seconds": 527.35,
+    "end_seconds": 527.36,
+    "text": "architecture comes and solves the"
+  },
+  {
+    "start": "00:08:47.360",
+    "end": "00:08:49.350",
+    "start_seconds": 527.36,
+    "end_seconds": 529.35,
+    "text": "architecture comes and solves the problem in three layers. The bottom"
+  },
+  {
+    "start": "00:08:49.350",
+    "end": "00:08:49.360",
+    "start_seconds": 529.35,
+    "end_seconds": 529.36,
+    "text": "problem in three layers. The bottom"
+  },
+  {
+    "start": "00:08:49.360",
+    "end": "00:08:51.750",
+    "start_seconds": 529.36,
+    "end_seconds": 531.75,
+    "text": "problem in three layers. The bottom layer is what we call physical AI that"
+  },
+  {
+    "start": "00:08:51.750",
+    "end": "00:08:51.760",
+    "start_seconds": 531.75,
+    "end_seconds": 531.76,
+    "text": "layer is what we call physical AI that"
+  },
+  {
+    "start": "00:08:51.760",
+    "end": "00:08:54.550",
+    "start_seconds": 531.76,
+    "end_seconds": 534.55,
+    "text": "layer is what we call physical AI that is focused on local skills, balance"
+  },
+  {
+    "start": "00:08:54.550",
+    "end": "00:08:54.560",
+    "start_seconds": 534.55,
+    "end_seconds": 534.56,
+    "text": "is focused on local skills, balance"
+  },
+  {
+    "start": "00:08:54.560",
+    "end": "00:08:56.070",
+    "start_seconds": 534.56,
+    "end_seconds": 536.07,
+    "text": "is focused on local skills, balance manipulation. Then we go to operational"
+  },
+  {
+    "start": "00:08:56.070",
+    "end": "00:08:56.080",
+    "start_seconds": 536.07,
+    "end_seconds": 536.08,
+    "text": "manipulation. Then we go to operational"
+  },
+  {
+    "start": "00:08:56.080",
+    "end": "00:08:58.550",
+    "start_seconds": 536.08,
+    "end_seconds": 538.55,
+    "text": "manipulation. Then we go to operational AI where the story is how you embed this"
+  },
+  {
+    "start": "00:08:58.550",
+    "end": "00:08:58.560",
+    "start_seconds": 538.55,
+    "end_seconds": 538.56,
+    "text": "AI where the story is how you embed this"
+  },
+  {
+    "start": "00:08:58.560",
+    "end": "00:09:00.870",
+    "start_seconds": 538.56,
+    "end_seconds": 540.87,
+    "text": "AI where the story is how you embed this into the customer workflow and then the"
+  },
+  {
+    "start": "00:09:00.870",
+    "end": "00:09:00.880",
+    "start_seconds": 540.87,
+    "end_seconds": 540.88,
+    "text": "into the customer workflow and then the"
+  },
+  {
+    "start": "00:09:00.880",
+    "end": "00:09:03.590",
+    "start_seconds": 540.88,
+    "end_seconds": 543.59,
+    "text": "into the customer workflow and then the multi- aent. So I'll go over these one"
+  },
+  {
+    "start": "00:09:03.590",
+    "end": "00:09:03.600",
+    "start_seconds": 543.59,
+    "end_seconds": 543.6,
+    "text": "multi- aent. So I'll go over these one"
+  },
+  {
+    "start": "00:09:03.600",
+    "end": "00:09:07.350",
+    "start_seconds": 543.6,
+    "end_seconds": 547.35,
+    "text": "multi- aent. So I'll go over these one by one. In the bottom layer, uh we solve"
+  },
+  {
+    "start": "00:09:07.350",
+    "end": "00:09:07.360",
+    "start_seconds": 547.35,
+    "end_seconds": 547.36,
+    "text": "by one. In the bottom layer, uh we solve"
+  },
+  {
+    "start": "00:09:07.360",
+    "end": "00:09:09.590",
+    "start_seconds": 547.36,
+    "end_seconds": 549.59,
+    "text": "by one. In the bottom layer, uh we solve the problem of you have a system and"
+  },
+  {
+    "start": "00:09:09.590",
+    "end": "00:09:09.600",
+    "start_seconds": 549.59,
+    "end_seconds": 549.6,
+    "text": "the problem of you have a system and"
+  },
+  {
+    "start": "00:09:09.600",
+    "end": "00:09:11.430",
+    "start_seconds": 549.6,
+    "end_seconds": 551.43,
+    "text": "the problem of you have a system and you're trying to understand the balance."
+  },
+  {
+    "start": "00:09:11.430",
+    "end": "00:09:11.440",
+    "start_seconds": 551.43,
+    "end_seconds": 551.44,
+    "text": "you're trying to understand the balance."
+  },
+  {
+    "start": "00:09:11.440",
+    "end": "00:09:14.550",
+    "start_seconds": 551.44,
+    "end_seconds": 554.55,
+    "text": "you're trying to understand the balance. You're trying to understand and do local"
+  },
+  {
+    "start": "00:09:14.550",
+    "end": "00:09:14.560",
+    "start_seconds": 554.55,
+    "end_seconds": 554.56,
+    "text": "You're trying to understand and do local"
+  },
+  {
+    "start": "00:09:14.560",
+    "end": "00:09:17.190",
+    "start_seconds": 554.56,
+    "end_seconds": 557.19,
+    "text": "You're trying to understand and do local manipulation skills. So but the world is"
+  },
+  {
+    "start": "00:09:17.190",
+    "end": "00:09:17.200",
+    "start_seconds": 557.19,
+    "end_seconds": 557.2,
+    "text": "manipulation skills. So but the world is"
+  },
+  {
+    "start": "00:09:17.200",
+    "end": "00:09:19.350",
+    "start_seconds": 557.2,
+    "end_seconds": 559.35,
+    "text": "manipulation skills. So but the world is local around you, right? So you can"
+  },
+  {
+    "start": "00:09:19.350",
+    "end": "00:09:19.360",
+    "start_seconds": 559.35,
+    "end_seconds": 559.36,
+    "text": "local around you, right? So you can"
+  },
+  {
+    "start": "00:09:19.360",
+    "end": "00:09:23.030",
+    "start_seconds": 559.36,
+    "end_seconds": 563.03,
+    "text": "local around you, right? So you can change the underlying uh uh uh terrain."
+  },
+  {
+    "start": "00:09:23.030",
+    "end": "00:09:23.040",
+    "start_seconds": 563.03,
+    "end_seconds": 563.04,
+    "text": "change the underlying uh uh uh terrain."
+  },
+  {
+    "start": "00:09:23.040",
+    "end": "00:09:25.910",
+    "start_seconds": 563.04,
+    "end_seconds": 565.91,
+    "text": "change the underlying uh uh uh terrain. You can uh uh in a in a incel operation,"
+  },
+  {
+    "start": "00:09:25.910",
+    "end": "00:09:25.920",
+    "start_seconds": 565.91,
+    "end_seconds": 565.92,
+    "text": "You can uh uh in a in a incel operation,"
+  },
+  {
+    "start": "00:09:25.920",
+    "end": "00:09:28.550",
+    "start_seconds": 565.92,
+    "end_seconds": 568.55,
+    "text": "You can uh uh in a in a incel operation, you can operate and and teach the the"
+  },
+  {
+    "start": "00:09:28.550",
+    "end": "00:09:28.560",
+    "start_seconds": 568.55,
+    "end_seconds": 568.56,
+    "text": "you can operate and and teach the the"
+  },
+  {
+    "start": "00:09:28.560",
+    "end": "00:09:30.949",
+    "start_seconds": 568.56,
+    "end_seconds": 570.949,
+    "text": "you can operate and and teach the the platform to do manipulation tasks. very"
+  },
+  {
+    "start": "00:09:30.949",
+    "end": "00:09:30.959",
+    "start_seconds": 570.949,
+    "end_seconds": 570.959,
+    "text": "platform to do manipulation tasks. very"
+  },
+  {
+    "start": "00:09:30.959",
+    "end": "00:09:34.710",
+    "start_seconds": 570.959,
+    "end_seconds": 574.71,
+    "text": "platform to do manipulation tasks. very simulation aminable and highly uh uh uh"
+  },
+  {
+    "start": "00:09:34.710",
+    "end": "00:09:34.720",
+    "start_seconds": 574.71,
+    "end_seconds": 574.72,
+    "text": "simulation aminable and highly uh uh uh"
+  },
+  {
+    "start": "00:09:34.720",
+    "end": "00:09:36.710",
+    "start_seconds": 574.72,
+    "end_seconds": 576.71,
+    "text": "simulation aminable and highly uh uh uh after you do the simulation come back"
+  },
+  {
+    "start": "00:09:36.710",
+    "end": "00:09:36.720",
+    "start_seconds": 576.71,
+    "end_seconds": 576.72,
+    "text": "after you do the simulation come back"
+  },
+  {
+    "start": "00:09:36.720",
+    "end": "00:09:38.310",
+    "start_seconds": 576.72,
+    "end_seconds": 578.31,
+    "text": "after you do the simulation come back and in the real world do reinforcement"
+  },
+  {
+    "start": "00:09:38.310",
+    "end": "00:09:38.320",
+    "start_seconds": 578.31,
+    "end_seconds": 578.32,
+    "text": "and in the real world do reinforcement"
+  },
+  {
+    "start": "00:09:38.320",
+    "end": "00:09:40.389",
+    "start_seconds": 578.32,
+    "end_seconds": 580.389,
+    "text": "and in the real world do reinforcement learning and start learning and uh more"
+  },
+  {
+    "start": "00:09:40.389",
+    "end": "00:09:40.399",
+    "start_seconds": 580.389,
+    "end_seconds": 580.399,
+    "text": "learning and start learning and uh more"
+  },
+  {
+    "start": "00:09:40.399",
+    "end": "00:09:45.030",
+    "start_seconds": 580.399,
+    "end_seconds": 585.03,
+    "text": "learning and start learning and uh more and more um but the focus is you are"
+  },
+  {
+    "start": "00:09:45.030",
+    "end": "00:09:45.040",
+    "start_seconds": 585.03,
+    "end_seconds": 585.04,
+    "text": "and more um but the focus is you are"
+  },
+  {
+    "start": "00:09:45.040",
+    "end": "00:09:48.389",
+    "start_seconds": 585.04,
+    "end_seconds": 588.389,
+    "text": "and more um but the focus is you are local right the task is you can collect"
+  },
+  {
+    "start": "00:09:48.389",
+    "end": "00:09:48.399",
+    "start_seconds": 588.389,
+    "end_seconds": 588.399,
+    "text": "local right the task is you can collect"
+  },
+  {
+    "start": "00:09:48.399",
+    "end": "00:09:51.430",
+    "start_seconds": 588.399,
+    "end_seconds": 591.43,
+    "text": "local right the task is you can collect data in a in a in an efficient regime"
+  },
+  {
+    "start": "00:09:51.430",
+    "end": "00:09:51.440",
+    "start_seconds": 591.43,
+    "end_seconds": 591.44,
+    "text": "data in a in a in an efficient regime"
+  },
+  {
+    "start": "00:09:51.440",
+    "end": "00:09:54.070",
+    "start_seconds": 591.44,
+    "end_seconds": 594.07,
+    "text": "data in a in a in an efficient regime you can do perform local tasks you can"
+  },
+  {
+    "start": "00:09:54.070",
+    "end": "00:09:54.080",
+    "start_seconds": 594.07,
+    "end_seconds": 594.08,
+    "text": "you can do perform local tasks you can"
+  },
+  {
+    "start": "00:09:54.080",
+    "end": "00:09:57.030",
+    "start_seconds": 594.08,
+    "end_seconds": 597.03,
+    "text": "you can do perform local tasks you can locally keep the system stable and"
+  },
+  {
+    "start": "00:09:57.030",
+    "end": "00:09:57.040",
+    "start_seconds": 597.03,
+    "end_seconds": 597.04,
+    "text": "locally keep the system stable and"
+  },
+  {
+    "start": "00:09:57.040",
+    "end": "00:10:01.030",
+    "start_seconds": 597.04,
+    "end_seconds": 601.03,
+    "text": "locally keep the system stable and provide these set of skills Right. Um"
+  },
+  {
+    "start": "00:10:01.030",
+    "end": "00:10:01.040",
+    "start_seconds": 601.03,
+    "end_seconds": 601.04,
+    "text": "provide these set of skills Right. Um"
+  },
+  {
+    "start": "00:10:01.040",
+    "end": "00:10:03.990",
+    "start_seconds": 601.04,
+    "end_seconds": 603.99,
+    "text": "provide these set of skills Right. Um then uh uh uh you go to the operational"
+  },
+  {
+    "start": "00:10:03.990",
+    "end": "00:10:04.000",
+    "start_seconds": 603.99,
+    "end_seconds": 604.0,
+    "text": "then uh uh uh you go to the operational"
+  },
+  {
+    "start": "00:10:04.000",
+    "end": "00:10:07.190",
+    "start_seconds": 604.0,
+    "end_seconds": 607.19,
+    "text": "then uh uh uh you go to the operational AI layer um which embeds [snorts] these"
+  },
+  {
+    "start": "00:10:07.190",
+    "end": "00:10:07.200",
+    "start_seconds": 607.19,
+    "end_seconds": 607.2,
+    "text": "AI layer um which embeds [snorts] these"
+  },
+  {
+    "start": "00:10:07.200",
+    "end": "00:10:09.910",
+    "start_seconds": 607.2,
+    "end_seconds": 609.91,
+    "text": "AI layer um which embeds [snorts] these skills into the customer workflow. But"
+  },
+  {
+    "start": "00:10:09.910",
+    "end": "00:10:09.920",
+    "start_seconds": 609.91,
+    "end_seconds": 609.92,
+    "text": "skills into the customer workflow. But"
+  },
+  {
+    "start": "00:10:09.920",
+    "end": "00:10:12.070",
+    "start_seconds": 609.92,
+    "end_seconds": 612.07,
+    "text": "skills into the customer workflow. But before operational AI, maybe a few other"
+  },
+  {
+    "start": "00:10:12.070",
+    "end": "00:10:12.080",
+    "start_seconds": 612.07,
+    "end_seconds": 612.08,
+    "text": "before operational AI, maybe a few other"
+  },
+  {
+    "start": "00:10:12.080",
+    "end": "00:10:14.230",
+    "start_seconds": 612.08,
+    "end_seconds": 614.23,
+    "text": "before operational AI, maybe a few other skills to highlight it's not just"
+  },
+  {
+    "start": "00:10:14.230",
+    "end": "00:10:14.240",
+    "start_seconds": 614.23,
+    "end_seconds": 614.24,
+    "text": "skills to highlight it's not just"
+  },
+  {
+    "start": "00:10:14.240",
+    "end": "00:10:16.550",
+    "start_seconds": 614.24,
+    "end_seconds": 616.55,
+    "text": "skills to highlight it's not just limited to humanoids. Here you see we"
+  },
+  {
+    "start": "00:10:16.550",
+    "end": "00:10:16.560",
+    "start_seconds": 616.55,
+    "end_seconds": 616.56,
+    "text": "limited to humanoids. Here you see we"
+  },
+  {
+    "start": "00:10:16.560",
+    "end": "00:10:19.990",
+    "start_seconds": 616.56,
+    "end_seconds": 619.99,
+    "text": "limited to humanoids. Here you see we take very cost affordable platforms and"
+  },
+  {
+    "start": "00:10:19.990",
+    "end": "00:10:20.000",
+    "start_seconds": 619.99,
+    "end_seconds": 620.0,
+    "text": "take very cost affordable platforms and"
+  },
+  {
+    "start": "00:10:20.000",
+    "end": "00:10:21.910",
+    "start_seconds": 620.0,
+    "end_seconds": 621.91,
+    "text": "take very cost affordable platforms and make up for the weakness of the body"
+  },
+  {
+    "start": "00:10:21.910",
+    "end": "00:10:21.920",
+    "start_seconds": 621.91,
+    "end_seconds": 621.92,
+    "text": "make up for the weakness of the body"
+  },
+  {
+    "start": "00:10:21.920",
+    "end": "00:10:24.230",
+    "start_seconds": 621.92,
+    "end_seconds": 624.23,
+    "text": "make up for the weakness of the body with a better brain. We push them to the"
+  },
+  {
+    "start": "00:10:24.230",
+    "end": "00:10:24.240",
+    "start_seconds": 624.23,
+    "end_seconds": 624.24,
+    "text": "with a better brain. We push them to the"
+  },
+  {
+    "start": "00:10:24.240",
+    "end": "00:10:27.590",
+    "start_seconds": 624.24,
+    "end_seconds": 627.59,
+    "text": "with a better brain. We push them to the limits of the hardware capability and"
+  },
+  {
+    "start": "00:10:27.590",
+    "end": "00:10:27.600",
+    "start_seconds": 627.59,
+    "end_seconds": 627.6,
+    "text": "limits of the hardware capability and"
+  },
+  {
+    "start": "00:10:27.600",
+    "end": "00:10:29.190",
+    "start_seconds": 627.6,
+    "end_seconds": 629.19,
+    "text": "limits of the hardware capability and enable them to carry out different"
+  },
+  {
+    "start": "00:10:29.190",
+    "end": "00:10:29.200",
+    "start_seconds": 629.19,
+    "end_seconds": 629.2,
+    "text": "enable them to carry out different"
+  },
+  {
+    "start": "00:10:29.200",
+    "end": "00:10:31.910",
+    "start_seconds": 629.2,
+    "end_seconds": 631.91,
+    "text": "enable them to carry out different missions. And being able to go on"
+  },
+  {
+    "start": "00:10:31.910",
+    "end": "00:10:31.920",
+    "start_seconds": 631.91,
+    "end_seconds": 631.92,
+    "text": "missions. And being able to go on"
+  },
+  {
+    "start": "00:10:31.920",
+    "end": "00:10:34.150",
+    "start_seconds": 631.92,
+    "end_seconds": 634.15,
+    "text": "missions. And being able to go on different embodiment allows you to"
+  },
+  {
+    "start": "00:10:34.150",
+    "end": "00:10:34.160",
+    "start_seconds": 634.15,
+    "end_seconds": 634.16,
+    "text": "different embodiment allows you to"
+  },
+  {
+    "start": "00:10:34.160",
+    "end": "00:10:37.910",
+    "start_seconds": 634.16,
+    "end_seconds": 637.91,
+    "text": "different embodiment allows you to handle and and carry out the mission"
+  },
+  {
+    "start": "00:10:37.910",
+    "end": "00:10:37.920",
+    "start_seconds": 637.91,
+    "end_seconds": 637.92,
+    "text": "handle and and carry out the mission"
+  },
+  {
+    "start": "00:10:37.920",
+    "end": "00:10:39.910",
+    "start_seconds": 637.92,
+    "end_seconds": 639.91,
+    "text": "handle and and carry out the mission different missions for the customers. So"
+  },
+  {
+    "start": "00:10:39.910",
+    "end": "00:10:39.920",
+    "start_seconds": 639.91,
+    "end_seconds": 639.92,
+    "text": "different missions for the customers. So"
+  },
+  {
+    "start": "00:10:39.920",
+    "end": "00:10:42.069",
+    "start_seconds": 639.92,
+    "end_seconds": 642.069,
+    "text": "different missions for the customers. So this one, this robot here that you were"
+  },
+  {
+    "start": "00:10:42.069",
+    "end": "00:10:42.079",
+    "start_seconds": 642.069,
+    "end_seconds": 642.079,
+    "text": "this one, this robot here that you were"
+  },
+  {
+    "start": "00:10:42.079",
+    "end": "00:10:44.630",
+    "start_seconds": 642.079,
+    "end_seconds": 644.63,
+    "text": "this one, this robot here that you were just seeing carries 150 pound for four"
+  },
+  {
+    "start": "00:10:44.630",
+    "end": "00:10:44.640",
+    "start_seconds": 644.63,
+    "end_seconds": 644.64,
+    "text": "just seeing carries 150 pound for four"
+  },
+  {
+    "start": "00:10:44.640",
+    "end": "00:10:47.430",
+    "start_seconds": 644.64,
+    "end_seconds": 647.43,
+    "text": "just seeing carries 150 pound for four hours. Um the small one is perfect for"
+  },
+  {
+    "start": "00:10:47.430",
+    "end": "00:10:47.440",
+    "start_seconds": 647.43,
+    "end_seconds": 647.44,
+    "text": "hours. Um the small one is perfect for"
+  },
+  {
+    "start": "00:10:47.440",
+    "end": "00:10:50.069",
+    "start_seconds": 647.44,
+    "end_seconds": 650.069,
+    "text": "hours. Um the small one is perfect for inspection. The arms of manipulation, of"
+  },
+  {
+    "start": "00:10:50.069",
+    "end": "00:10:50.079",
+    "start_seconds": 650.069,
+    "end_seconds": 650.079,
+    "text": "inspection. The arms of manipulation, of"
+  },
+  {
+    "start": "00:10:50.079",
+    "end": "00:10:52.550",
+    "start_seconds": 650.079,
+    "end_seconds": 652.55,
+    "text": "inspection. The arms of manipulation, of course, perfect for manipulating objects"
+  },
+  {
+    "start": "00:10:52.550",
+    "end": "00:10:52.560",
+    "start_seconds": 652.55,
+    "end_seconds": 652.56,
+    "text": "course, perfect for manipulating objects"
+  },
+  {
+    "start": "00:10:52.560",
+    "end": "00:10:54.870",
+    "start_seconds": 652.56,
+    "end_seconds": 654.87,
+    "text": "course, perfect for manipulating objects and having a brain that goes across"
+  },
+  {
+    "start": "00:10:54.870",
+    "end": "00:10:54.880",
+    "start_seconds": 654.87,
+    "end_seconds": 654.88,
+    "text": "and having a brain that goes across"
+  },
+  {
+    "start": "00:10:54.880",
+    "end": "00:10:57.030",
+    "start_seconds": 654.88,
+    "end_seconds": 657.03,
+    "text": "and having a brain that goes across these different embodiment, different"
+  },
+  {
+    "start": "00:10:57.030",
+    "end": "00:10:57.040",
+    "start_seconds": 657.03,
+    "end_seconds": 657.04,
+    "text": "these different embodiment, different"
+  },
+  {
+    "start": "00:10:57.040",
+    "end": "00:11:00.550",
+    "start_seconds": 657.04,
+    "end_seconds": 660.55,
+    "text": "these different embodiment, different tasks is what gives you this very"
+  },
+  {
+    "start": "00:11:00.550",
+    "end": "00:11:00.560",
+    "start_seconds": 660.55,
+    "end_seconds": 660.56,
+    "text": "tasks is what gives you this very"
+  },
+  {
+    "start": "00:11:00.560",
+    "end": "00:11:03.590",
+    "start_seconds": 660.56,
+    "end_seconds": 663.59,
+    "text": "tasks is what gives you this very powerful horizontal layer."
+  },
+  {
+    "start": "00:11:03.590",
+    "end": "00:11:03.600",
+    "start_seconds": 663.59,
+    "end_seconds": 663.6,
+    "text": "powerful horizontal layer."
+  },
+  {
+    "start": "00:11:03.600",
+    "end": "00:11:05.910",
+    "start_seconds": 663.6,
+    "end_seconds": 665.91,
+    "text": "powerful horizontal layer. Um, and and similar with across"
+  },
+  {
+    "start": "00:11:05.910",
+    "end": "00:11:05.920",
+    "start_seconds": 665.91,
+    "end_seconds": 665.92,
+    "text": "Um, and and similar with across"
+  },
+  {
+    "start": "00:11:05.920",
+    "end": "00:11:07.829",
+    "start_seconds": 665.92,
+    "end_seconds": 667.829,
+    "text": "Um, and and similar with across different uh humanoids and different"
+  },
+  {
+    "start": "00:11:07.829",
+    "end": "00:11:07.839",
+    "start_seconds": 667.829,
+    "end_seconds": 667.839,
+    "text": "different uh humanoids and different"
+  },
+  {
+    "start": "00:11:07.839",
+    "end": "00:11:10.150",
+    "start_seconds": 667.839,
+    "end_seconds": 670.15,
+    "text": "different uh humanoids and different embodiment. I will I will skip this this"
+  },
+  {
+    "start": "00:11:10.150",
+    "end": "00:11:10.160",
+    "start_seconds": 670.15,
+    "end_seconds": 670.16,
+    "text": "embodiment. I will I will skip this this"
+  },
+  {
+    "start": "00:11:10.160",
+    "end": "00:11:13.190",
+    "start_seconds": 670.16,
+    "end_seconds": 673.19,
+    "text": "embodiment. I will I will skip this this video in the interest of time but uh"
+  },
+  {
+    "start": "00:11:13.190",
+    "end": "00:11:13.200",
+    "start_seconds": 673.19,
+    "end_seconds": 673.2,
+    "text": "video in the interest of time but uh"
+  },
+  {
+    "start": "00:11:13.200",
+    "end": "00:11:16.630",
+    "start_seconds": 673.2,
+    "end_seconds": 676.63,
+    "text": "video in the interest of time but uh highlighting how the the the the brain"
+  },
+  {
+    "start": "00:11:16.630",
+    "end": "00:11:16.640",
+    "start_seconds": 676.63,
+    "end_seconds": 676.64,
+    "text": "highlighting how the the the the brain"
+  },
+  {
+    "start": "00:11:16.640",
+    "end": "00:11:18.790",
+    "start_seconds": 676.64,
+    "end_seconds": 678.79,
+    "text": "highlighting how the the the the brain adapts to different embodiment in the in"
+  },
+  {
+    "start": "00:11:18.790",
+    "end": "00:11:18.800",
+    "start_seconds": 678.79,
+    "end_seconds": 678.8,
+    "text": "adapts to different embodiment in the in"
+  },
+  {
+    "start": "00:11:18.800",
+    "end": "00:11:22.310",
+    "start_seconds": 678.8,
+    "end_seconds": 682.31,
+    "text": "adapts to different embodiment in the in the local skill. But then the much more"
+  },
+  {
+    "start": "00:11:22.310",
+    "end": "00:11:22.320",
+    "start_seconds": 682.31,
+    "end_seconds": 682.32,
+    "text": "the local skill. But then the much more"
+  },
+  {
+    "start": "00:11:22.320",
+    "end": "00:11:24.550",
+    "start_seconds": 682.32,
+    "end_seconds": 684.55,
+    "text": "the local skill. But then the much more important layer is the operational AI"
+  },
+  {
+    "start": "00:11:24.550",
+    "end": "00:11:24.560",
+    "start_seconds": 684.55,
+    "end_seconds": 684.56,
+    "text": "important layer is the operational AI"
+  },
+  {
+    "start": "00:11:24.560",
+    "end": "00:11:26.150",
+    "start_seconds": 684.56,
+    "end_seconds": 686.15,
+    "text": "important layer is the operational AI layer. It's one thing to keep the system"
+  },
+  {
+    "start": "00:11:26.150",
+    "end": "00:11:26.160",
+    "start_seconds": 686.15,
+    "end_seconds": 686.16,
+    "text": "layer. It's one thing to keep the system"
+  },
+  {
+    "start": "00:11:26.160",
+    "end": "00:11:28.630",
+    "start_seconds": 686.16,
+    "end_seconds": 688.63,
+    "text": "layer. It's one thing to keep the system stable. It's one thing on a tabletop"
+  },
+  {
+    "start": "00:11:28.630",
+    "end": "00:11:28.640",
+    "start_seconds": 688.63,
+    "end_seconds": 688.64,
+    "text": "stable. It's one thing on a tabletop"
+  },
+  {
+    "start": "00:11:28.640",
+    "end": "00:11:31.509",
+    "start_seconds": 688.64,
+    "end_seconds": 691.509,
+    "text": "stable. It's one thing on a tabletop manipulation perform operations. It is"
+  },
+  {
+    "start": "00:11:31.509",
+    "end": "00:11:31.519",
+    "start_seconds": 691.509,
+    "end_seconds": 691.519,
+    "text": "manipulation perform operations. It is"
+  },
+  {
+    "start": "00:11:31.519",
+    "end": "00:11:34.230",
+    "start_seconds": 691.519,
+    "end_seconds": 694.23,
+    "text": "manipulation perform operations. It is totally totally another thing to put"
+  },
+  {
+    "start": "00:11:34.230",
+    "end": "00:11:34.240",
+    "start_seconds": 694.23,
+    "end_seconds": 694.24,
+    "text": "totally totally another thing to put"
+  },
+  {
+    "start": "00:11:34.240",
+    "end": "00:11:36.550",
+    "start_seconds": 694.24,
+    "end_seconds": 696.55,
+    "text": "totally totally another thing to put this in the the customer workflow with"
+  },
+  {
+    "start": "00:11:36.550",
+    "end": "00:11:36.560",
+    "start_seconds": 696.55,
+    "end_seconds": 696.56,
+    "text": "this in the the customer workflow with"
+  },
+  {
+    "start": "00:11:36.560",
+    "end": "00:11:38.389",
+    "start_seconds": 696.56,
+    "end_seconds": 698.389,
+    "text": "this in the the customer workflow with all the realities of the real world"
+  },
+  {
+    "start": "00:11:38.389",
+    "end": "00:11:38.399",
+    "start_seconds": 698.389,
+    "end_seconds": 698.399,
+    "text": "all the realities of the real world"
+  },
+  {
+    "start": "00:11:38.399",
+    "end": "00:11:41.750",
+    "start_seconds": 698.399,
+    "end_seconds": 701.75,
+    "text": "all the realities of the real world where in the first uh uh uh 10 15"
+  },
+  {
+    "start": "00:11:41.750",
+    "end": "00:11:41.760",
+    "start_seconds": 701.75,
+    "end_seconds": 701.76,
+    "text": "where in the first uh uh uh 10 15"
+  },
+  {
+    "start": "00:11:41.760",
+    "end": "00:11:43.990",
+    "start_seconds": 701.76,
+    "end_seconds": 703.99,
+    "text": "where in the first uh uh uh 10 15 minutes there's a high chance of you see"
+  },
+  {
+    "start": "00:11:43.990",
+    "end": "00:11:44.000",
+    "start_seconds": 703.99,
+    "end_seconds": 704.0,
+    "text": "minutes there's a high chance of you see"
+  },
+  {
+    "start": "00:11:44.000",
+    "end": "00:11:45.829",
+    "start_seconds": 704.0,
+    "end_seconds": 705.829,
+    "text": "minutes there's a high chance of you see a lot of off-nominal settings different"
+  },
+  {
+    "start": "00:11:45.829",
+    "end": "00:11:45.839",
+    "start_seconds": 705.829,
+    "end_seconds": 705.8389999999999,
+    "text": "a lot of off-nominal settings different"
+  },
+  {
+    "start": "00:11:45.839",
+    "end": "00:11:48.310",
+    "start_seconds": 705.8389999999999,
+    "end_seconds": 708.31,
+    "text": "a lot of off-nominal settings different lighting different situation people walk"
+  },
+  {
+    "start": "00:11:48.310",
+    "end": "00:11:48.320",
+    "start_seconds": 708.31,
+    "end_seconds": 708.32,
+    "text": "lighting different situation people walk"
+  },
+  {
+    "start": "00:11:48.320",
+    "end": "00:11:51.910",
+    "start_seconds": 708.32,
+    "end_seconds": 711.91,
+    "text": "lighting different situation people walk and uh uh a lot of your assumptions uh"
+  },
+  {
+    "start": "00:11:51.910",
+    "end": "00:11:51.920",
+    "start_seconds": 711.91,
+    "end_seconds": 711.92,
+    "text": "and uh uh a lot of your assumptions uh"
+  },
+  {
+    "start": "00:11:51.920",
+    "end": "00:11:53.350",
+    "start_seconds": 711.92,
+    "end_seconds": 713.35,
+    "text": "and uh uh a lot of your assumptions uh uh might break and you get out of"
+  },
+  {
+    "start": "00:11:53.350",
+    "end": "00:11:53.360",
+    "start_seconds": 713.35,
+    "end_seconds": 713.36,
+    "text": "uh might break and you get out of"
+  },
+  {
+    "start": "00:11:53.360",
+    "end": "00:11:55.590",
+    "start_seconds": 713.36,
+    "end_seconds": 715.59,
+    "text": "uh might break and you get out of distribution very quickly and very"
+  },
+  {
+    "start": "00:11:55.590",
+    "end": "00:11:55.600",
+    "start_seconds": 715.59,
+    "end_seconds": 715.6,
+    "text": "distribution very quickly and very"
+  },
+  {
+    "start": "00:11:55.600",
+    "end": "00:11:58.630",
+    "start_seconds": 715.6,
+    "end_seconds": 718.63,
+    "text": "distribution very quickly and very importantly to do so without imposing"
+  },
+  {
+    "start": "00:11:58.630",
+    "end": "00:11:58.640",
+    "start_seconds": 718.63,
+    "end_seconds": 718.64,
+    "text": "importantly to do so without imposing"
+  },
+  {
+    "start": "00:11:58.640",
+    "end": "00:12:00.550",
+    "start_seconds": 718.64,
+    "end_seconds": 720.55,
+    "text": "importantly to do so without imposing infrastructure or work for customer"
+  },
+  {
+    "start": "00:12:00.550",
+    "end": "00:12:00.560",
+    "start_seconds": 720.55,
+    "end_seconds": 720.56,
+    "text": "infrastructure or work for customer"
+  },
+  {
+    "start": "00:12:00.560",
+    "end": "00:12:02.870",
+    "start_seconds": 720.56,
+    "end_seconds": 722.87,
+    "text": "infrastructure or work for customer without doing it uh without asking the"
+  },
+  {
+    "start": "00:12:02.870",
+    "end": "00:12:02.880",
+    "start_seconds": 722.87,
+    "end_seconds": 722.88,
+    "text": "without doing it uh without asking the"
+  },
+  {
+    "start": "00:12:02.880",
+    "end": "00:12:05.190",
+    "start_seconds": 722.88,
+    "end_seconds": 725.19,
+    "text": "without doing it uh without asking the customer to provide maps or clean up the"
+  },
+  {
+    "start": "00:12:05.190",
+    "end": "00:12:05.200",
+    "start_seconds": 725.19,
+    "end_seconds": 725.2,
+    "text": "customer to provide maps or clean up the"
+  },
+  {
+    "start": "00:12:05.200",
+    "end": "00:12:07.670",
+    "start_seconds": 725.2,
+    "end_seconds": 727.67,
+    "text": "customer to provide maps or clean up the space for you or provide positioning"
+  },
+  {
+    "start": "00:12:07.670",
+    "end": "00:12:07.680",
+    "start_seconds": 727.67,
+    "end_seconds": 727.68,
+    "text": "space for you or provide positioning"
+  },
+  {
+    "start": "00:12:07.680",
+    "end": "00:12:11.030",
+    "start_seconds": 727.68,
+    "end_seconds": 731.03,
+    "text": "space for you or provide positioning system. So all of these uh uh solutions"
+  },
+  {
+    "start": "00:12:11.030",
+    "end": "00:12:11.040",
+    "start_seconds": 731.03,
+    "end_seconds": 731.04,
+    "text": "system. So all of these uh uh solutions"
+  },
+  {
+    "start": "00:12:11.040",
+    "end": "00:12:13.190",
+    "start_seconds": 731.04,
+    "end_seconds": 733.19,
+    "text": "system. So all of these uh uh solutions you see here are with our sort of paying"
+  },
+  {
+    "start": "00:12:13.190",
+    "end": "00:12:13.200",
+    "start_seconds": 733.19,
+    "end_seconds": 733.2,
+    "text": "you see here are with our sort of paying"
+  },
+  {
+    "start": "00:12:13.200",
+    "end": "00:12:14.629",
+    "start_seconds": 733.2,
+    "end_seconds": 734.629,
+    "text": "you see here are with our sort of paying customers from different parts of the"
+  },
+  {
+    "start": "00:12:14.629",
+    "end": "00:12:14.639",
+    "start_seconds": 734.629,
+    "end_seconds": 734.639,
+    "text": "customers from different parts of the"
+  },
+  {
+    "start": "00:12:14.639",
+    "end": "00:12:16.790",
+    "start_seconds": 734.639,
+    "end_seconds": 736.79,
+    "text": "customers from different parts of the world from north of Japan in the snow"
+  },
+  {
+    "start": "00:12:16.790",
+    "end": "00:12:16.800",
+    "start_seconds": 736.79,
+    "end_seconds": 736.8,
+    "text": "world from north of Japan in the snow"
+  },
+  {
+    "start": "00:12:16.800",
+    "end": "00:12:18.790",
+    "start_seconds": 736.8,
+    "end_seconds": 738.79,
+    "text": "world from north of Japan in the snow all the way to deserts in Dubai to"
+  },
+  {
+    "start": "00:12:18.790",
+    "end": "00:12:18.800",
+    "start_seconds": 738.79,
+    "end_seconds": 738.8,
+    "text": "all the way to deserts in Dubai to"
+  },
+  {
+    "start": "00:12:18.800",
+    "end": "00:12:21.590",
+    "start_seconds": 738.8,
+    "end_seconds": 741.59,
+    "text": "all the way to deserts in Dubai to Germany to Europe and all of these uh to"
+  },
+  {
+    "start": "00:12:21.590",
+    "end": "00:12:21.600",
+    "start_seconds": 741.59,
+    "end_seconds": 741.6,
+    "text": "Germany to Europe and all of these uh to"
+  },
+  {
+    "start": "00:12:21.600",
+    "end": "00:12:24.550",
+    "start_seconds": 741.6,
+    "end_seconds": 744.55,
+    "text": "Germany to Europe and all of these uh to to the US. deployments are with"
+  },
+  {
+    "start": "00:12:24.550",
+    "end": "00:12:24.560",
+    "start_seconds": 744.55,
+    "end_seconds": 744.56,
+    "text": "to the US. deployments are with"
+  },
+  {
+    "start": "00:12:24.560",
+    "end": "00:12:27.030",
+    "start_seconds": 744.56,
+    "end_seconds": 747.03,
+    "text": "to the US. deployments are with different embodiment"
+  },
+  {
+    "start": "00:12:27.030",
+    "end": "00:12:27.040",
+    "start_seconds": 747.03,
+    "end_seconds": 747.04,
+    "text": "different embodiment"
+  },
+  {
+    "start": "00:12:27.040",
+    "end": "00:12:30.150",
+    "start_seconds": 747.04,
+    "end_seconds": 750.15,
+    "text": "different embodiment but without ever asking the customer to"
+  },
+  {
+    "start": "00:12:30.150",
+    "end": "00:12:30.160",
+    "start_seconds": 750.15,
+    "end_seconds": 750.16,
+    "text": "but without ever asking the customer to"
+  },
+  {
+    "start": "00:12:30.160",
+    "end": "00:12:32.870",
+    "start_seconds": 750.16,
+    "end_seconds": 752.87,
+    "text": "but without ever asking the customer to hey go map the world and tell me where"
+  },
+  {
+    "start": "00:12:32.870",
+    "end": "00:12:32.880",
+    "start_seconds": 752.87,
+    "end_seconds": 752.88,
+    "text": "hey go map the world and tell me where"
+  },
+  {
+    "start": "00:12:32.880",
+    "end": "00:12:35.030",
+    "start_seconds": 752.88,
+    "end_seconds": 755.03,
+    "text": "hey go map the world and tell me where different objects or different elements"
+  },
+  {
+    "start": "00:12:35.030",
+    "end": "00:12:35.040",
+    "start_seconds": 755.03,
+    "end_seconds": 755.04,
+    "text": "different objects or different elements"
+  },
+  {
+    "start": "00:12:35.040",
+    "end": "00:12:37.990",
+    "start_seconds": 755.04,
+    "end_seconds": 757.99,
+    "text": "different objects or different elements are right without providing positioning"
+  },
+  {
+    "start": "00:12:37.990",
+    "end": "00:12:38.000",
+    "start_seconds": 757.99,
+    "end_seconds": 758.0,
+    "text": "are right without providing positioning"
+  },
+  {
+    "start": "00:12:38.000",
+    "end": "00:12:40.069",
+    "start_seconds": 758.0,
+    "end_seconds": 760.069,
+    "text": "are right without providing positioning system GPS without pro cleaning the"
+  },
+  {
+    "start": "00:12:40.069",
+    "end": "00:12:40.079",
+    "start_seconds": 760.069,
+    "end_seconds": 760.079,
+    "text": "system GPS without pro cleaning the"
+  },
+  {
+    "start": "00:12:40.079",
+    "end": "00:12:41.590",
+    "start_seconds": 760.079,
+    "end_seconds": 761.59,
+    "text": "system GPS without pro cleaning the space and having a trajectory to say"
+  },
+  {
+    "start": "00:12:41.590",
+    "end": "00:12:41.600",
+    "start_seconds": 761.59,
+    "end_seconds": 761.6,
+    "text": "space and having a trajectory to say"
+  },
+  {
+    "start": "00:12:41.600",
+    "end": "00:12:44.230",
+    "start_seconds": 761.6,
+    "end_seconds": 764.23,
+    "text": "space and having a trajectory to say teach and repeat and the brain carries"
+  },
+  {
+    "start": "00:12:44.230",
+    "end": "00:12:44.240",
+    "start_seconds": 764.23,
+    "end_seconds": 764.24,
+    "text": "teach and repeat and the brain carries"
+  },
+  {
+    "start": "00:12:44.240",
+    "end": "00:12:46.389",
+    "start_seconds": 764.24,
+    "end_seconds": 766.389,
+    "text": "teach and repeat and the brain carries out different types of missions with"
+  },
+  {
+    "start": "00:12:46.389",
+    "end": "00:12:46.399",
+    "start_seconds": 766.389,
+    "end_seconds": 766.399,
+    "text": "out different types of missions with"
+  },
+  {
+    "start": "00:12:46.399",
+    "end": "00:12:50.069",
+    "start_seconds": 766.399,
+    "end_seconds": 770.069,
+    "text": "out different types of missions with with the same model from perimeter"
+  },
+  {
+    "start": "00:12:50.069",
+    "end": "00:12:50.079",
+    "start_seconds": 770.069,
+    "end_seconds": 770.079,
+    "text": "with the same model from perimeter"
+  },
+  {
+    "start": "00:12:50.079",
+    "end": "00:12:51.990",
+    "start_seconds": 770.079,
+    "end_seconds": 771.99,
+    "text": "with the same model from perimeter security like the one you see here to"
+  },
+  {
+    "start": "00:12:51.990",
+    "end": "00:12:52.000",
+    "start_seconds": 771.99,
+    "end_seconds": 772.0,
+    "text": "security like the one you see here to"
+  },
+  {
+    "start": "00:12:52.000",
+    "end": "00:12:57.269",
+    "start_seconds": 772.0,
+    "end_seconds": 777.269,
+    "text": "security like the one you see here to digital twin creation to uh um providing"
+  },
+  {
+    "start": "00:12:57.269",
+    "end": "00:12:57.279",
+    "start_seconds": 777.269,
+    "end_seconds": 777.279,
+    "text": "digital twin creation to uh um providing"
+  },
+  {
+    "start": "00:12:57.279",
+    "end": "00:12:59.190",
+    "start_seconds": 777.279,
+    "end_seconds": 779.19,
+    "text": "digital twin creation to uh um providing variety of reports for our construction"
+  },
+  {
+    "start": "00:12:59.190",
+    "end": "00:12:59.200",
+    "start_seconds": 779.19,
+    "end_seconds": 779.2,
+    "text": "variety of reports for our construction"
+  },
+  {
+    "start": "00:12:59.200",
+    "end": "00:13:01.190",
+    "start_seconds": 779.2,
+    "end_seconds": 781.19,
+    "text": "variety of reports for our construction customers from progress to deviation"
+  },
+  {
+    "start": "00:13:01.190",
+    "end": "00:13:01.200",
+    "start_seconds": 781.19,
+    "end_seconds": 781.2,
+    "text": "customers from progress to deviation"
+  },
+  {
+    "start": "00:13:01.200",
+    "end": "00:13:03.509",
+    "start_seconds": 781.2,
+    "end_seconds": 783.509,
+    "text": "customers from progress to deviation analysis to object cataloging all the"
+  },
+  {
+    "start": "00:13:03.509",
+    "end": "00:13:03.519",
+    "start_seconds": 783.509,
+    "end_seconds": 783.519,
+    "text": "analysis to object cataloging all the"
+  },
+  {
+    "start": "00:13:03.519",
+    "end": "00:13:06.230",
+    "start_seconds": 783.519,
+    "end_seconds": 786.23,
+    "text": "analysis to object cataloging all the way to actually carrying objects all the"
+  },
+  {
+    "start": "00:13:06.230",
+    "end": "00:13:06.240",
+    "start_seconds": 786.23,
+    "end_seconds": 786.24,
+    "text": "way to actually carrying objects all the"
+  },
+  {
+    "start": "00:13:06.240",
+    "end": "00:13:09.750",
+    "start_seconds": 786.24,
+    "end_seconds": 789.75,
+    "text": "way to actually carrying objects all the way to doing this across larger set of"
+  },
+  {
+    "start": "00:13:09.750",
+    "end": "00:13:09.760",
+    "start_seconds": 789.75,
+    "end_seconds": 789.76,
+    "text": "way to doing this across larger set of"
+  },
+  {
+    "start": "00:13:09.760",
+    "end": "00:13:12.069",
+    "start_seconds": 789.76,
+    "end_seconds": 792.069,
+    "text": "way to doing this across larger set of vehicles and performing manipulation"
+  },
+  {
+    "start": "00:13:12.069",
+    "end": "00:13:12.079",
+    "start_seconds": 792.069,
+    "end_seconds": 792.079,
+    "text": "vehicles and performing manipulation"
+  },
+  {
+    "start": "00:13:12.079",
+    "end": "00:13:15.030",
+    "start_seconds": 792.079,
+    "end_seconds": 795.03,
+    "text": "vehicles and performing manipulation tasks. And that horizontal layer again"
+  },
+  {
+    "start": "00:13:15.030",
+    "end": "00:13:15.040",
+    "start_seconds": 795.03,
+    "end_seconds": 795.04,
+    "text": "tasks. And that horizontal layer again"
+  },
+  {
+    "start": "00:13:15.040",
+    "end": "00:13:18.470",
+    "start_seconds": 795.04,
+    "end_seconds": 798.47,
+    "text": "tasks. And that horizontal layer again gives a very powerful uh capability for"
+  },
+  {
+    "start": "00:13:18.470",
+    "end": "00:13:18.480",
+    "start_seconds": 798.47,
+    "end_seconds": 798.48,
+    "text": "gives a very powerful uh capability for"
+  },
+  {
+    "start": "00:13:18.480",
+    "end": "00:13:20.470",
+    "start_seconds": 798.48,
+    "end_seconds": 800.47,
+    "text": "gives a very powerful uh capability for the system not just on an individual"
+  },
+  {
+    "start": "00:13:20.470",
+    "end": "00:13:20.480",
+    "start_seconds": 800.47,
+    "end_seconds": 800.48,
+    "text": "the system not just on an individual"
+  },
+  {
+    "start": "00:13:20.480",
+    "end": "00:13:22.470",
+    "start_seconds": 800.48,
+    "end_seconds": 802.47,
+    "text": "the system not just on an individual level but at a as a as a team in a"
+  },
+  {
+    "start": "00:13:22.470",
+    "end": "00:13:22.480",
+    "start_seconds": 802.47,
+    "end_seconds": 802.48,
+    "text": "level but at a as a as a team in a"
+  },
+  {
+    "start": "00:13:22.480",
+    "end": "00:13:24.550",
+    "start_seconds": 802.48,
+    "end_seconds": 804.55,
+    "text": "level but at a as a as a team in a coordinated manner. Speaking of"
+  },
+  {
+    "start": "00:13:24.550",
+    "end": "00:13:24.560",
+    "start_seconds": 804.55,
+    "end_seconds": 804.56,
+    "text": "coordinated manner. Speaking of"
+  },
+  {
+    "start": "00:13:24.560",
+    "end": "00:13:26.629",
+    "start_seconds": 804.56,
+    "end_seconds": 806.629,
+    "text": "coordinated manner. Speaking of different platforms, this is a radically"
+  },
+  {
+    "start": "00:13:26.629",
+    "end": "00:13:26.639",
+    "start_seconds": 806.629,
+    "end_seconds": 806.639,
+    "text": "different platforms, this is a radically"
+  },
+  {
+    "start": "00:13:26.639",
+    "end": "00:13:29.750",
+    "start_seconds": 806.639,
+    "end_seconds": 809.75,
+    "text": "different platforms, this is a radically different uh uh platform. Perhaps the"
+  },
+  {
+    "start": "00:13:29.750",
+    "end": "00:13:29.760",
+    "start_seconds": 809.75,
+    "end_seconds": 809.76,
+    "text": "different uh uh platform. Perhaps the"
+  },
+  {
+    "start": "00:13:29.760",
+    "end": "00:13:32.790",
+    "start_seconds": 809.76,
+    "end_seconds": 812.79,
+    "text": "different uh uh platform. Perhaps the highest level of autonomy we have uh uh"
+  },
+  {
+    "start": "00:13:32.790",
+    "end": "00:13:32.800",
+    "start_seconds": 812.79,
+    "end_seconds": 812.8,
+    "text": "highest level of autonomy we have uh uh"
+  },
+  {
+    "start": "00:13:32.800",
+    "end": "00:13:36.230",
+    "start_seconds": 812.8,
+    "end_seconds": 816.23,
+    "text": "highest level of autonomy we have uh uh uh uh we have we have developed because"
+  },
+  {
+    "start": "00:13:36.230",
+    "end": "00:13:36.240",
+    "start_seconds": 816.23,
+    "end_seconds": 816.24,
+    "text": "uh uh we have we have developed because"
+  },
+  {
+    "start": "00:13:36.240",
+    "end": "00:13:38.629",
+    "start_seconds": 816.24,
+    "end_seconds": 818.629,
+    "text": "uh uh we have we have developed because all in in this application all the"
+  },
+  {
+    "start": "00:13:38.629",
+    "end": "00:13:38.639",
+    "start_seconds": 818.629,
+    "end_seconds": 818.639,
+    "text": "all in in this application all the"
+  },
+  {
+    "start": "00:13:38.639",
+    "end": "00:13:40.870",
+    "start_seconds": 818.639,
+    "end_seconds": 820.87,
+    "text": "all in in this application all the customer gives us is one single"
+  },
+  {
+    "start": "00:13:40.870",
+    "end": "00:13:40.880",
+    "start_seconds": 820.87,
+    "end_seconds": 820.88,
+    "text": "customer gives us is one single"
+  },
+  {
+    "start": "00:13:40.880",
+    "end": "00:13:42.710",
+    "start_seconds": 820.88,
+    "end_seconds": 822.71,
+    "text": "customer gives us is one single waypoint. They tell us from where you"
+  },
+  {
+    "start": "00:13:42.710",
+    "end": "00:13:42.720",
+    "start_seconds": 822.71,
+    "end_seconds": 822.72,
+    "text": "waypoint. They tell us from where you"
+  },
+  {
+    "start": "00:13:42.720",
+    "end": "00:13:45.590",
+    "start_seconds": 822.72,
+    "end_seconds": 825.59,
+    "text": "waypoint. They tell us from where you start 10 mi north, 20 mi east, there's"
+  },
+  {
+    "start": "00:13:45.590",
+    "end": "00:13:45.600",
+    "start_seconds": 825.59,
+    "end_seconds": 825.6,
+    "text": "start 10 mi north, 20 mi east, there's"
+  },
+  {
+    "start": "00:13:45.600",
+    "end": "00:13:49.269",
+    "start_seconds": 825.6,
+    "end_seconds": 829.269,
+    "text": "start 10 mi north, 20 mi east, there's this flag. Go carry deliver material to"
+  },
+  {
+    "start": "00:13:49.269",
+    "end": "00:13:49.279",
+    "start_seconds": 829.269,
+    "end_seconds": 829.279,
+    "text": "this flag. Go carry deliver material to"
+  },
+  {
+    "start": "00:13:49.279",
+    "end": "00:13:51.269",
+    "start_seconds": 829.279,
+    "end_seconds": 831.269,
+    "text": "this flag. Go carry deliver material to there. That's all. There are no roads."
+  },
+  {
+    "start": "00:13:51.269",
+    "end": "00:13:51.279",
+    "start_seconds": 831.269,
+    "end_seconds": 831.279,
+    "text": "there. That's all. There are no roads."
+  },
+  {
+    "start": "00:13:51.279",
+    "end": "00:13:54.629",
+    "start_seconds": 831.279,
+    "end_seconds": 834.629,
+    "text": "there. That's all. There are no roads. There are no uh uh GPS. There's no"
+  },
+  {
+    "start": "00:13:54.629",
+    "end": "00:13:54.639",
+    "start_seconds": 834.629,
+    "end_seconds": 834.639,
+    "text": "There are no uh uh GPS. There's no"
+  },
+  {
+    "start": "00:13:54.639",
+    "end": "00:13:56.870",
+    "start_seconds": 834.639,
+    "end_seconds": 836.87,
+    "text": "There are no uh uh GPS. There's no satellite imagery. There's no prior"
+  },
+  {
+    "start": "00:13:56.870",
+    "end": "00:13:56.880",
+    "start_seconds": 836.87,
+    "end_seconds": 836.88,
+    "text": "satellite imagery. There's no prior"
+  },
+  {
+    "start": "00:13:56.880",
+    "end": "00:13:58.949",
+    "start_seconds": 836.88,
+    "end_seconds": 838.949,
+    "text": "satellite imagery. There's no prior information about the world. We might go"
+  },
+  {
+    "start": "00:13:58.949",
+    "end": "00:13:58.959",
+    "start_seconds": 838.949,
+    "end_seconds": 838.9590000000001,
+    "text": "information about the world. We might go"
+  },
+  {
+    "start": "00:13:58.959",
+    "end": "00:14:01.030",
+    "start_seconds": 838.9590000000001,
+    "end_seconds": 841.03,
+    "text": "information about the world. We might go to the right side of a hill, hit a dense"
+  },
+  {
+    "start": "00:14:01.030",
+    "end": "00:14:01.040",
+    "start_seconds": 841.03,
+    "end_seconds": 841.04,
+    "text": "to the right side of a hill, hit a dense"
+  },
+  {
+    "start": "00:14:01.040",
+    "end": "00:14:03.269",
+    "start_seconds": 841.04,
+    "end_seconds": 843.269,
+    "text": "to the right side of a hill, hit a dense foresty, get entangled, and then you"
+  },
+  {
+    "start": "00:14:03.269",
+    "end": "00:14:03.279",
+    "start_seconds": 843.269,
+    "end_seconds": 843.279,
+    "text": "foresty, get entangled, and then you"
+  },
+  {
+    "start": "00:14:03.279",
+    "end": "00:14:04.870",
+    "start_seconds": 843.279,
+    "end_seconds": 844.87,
+    "text": "foresty, get entangled, and then you have to come back, go from the other"
+  },
+  {
+    "start": "00:14:04.870",
+    "end": "00:14:04.880",
+    "start_seconds": 844.87,
+    "end_seconds": 844.88,
+    "text": "have to come back, go from the other"
+  },
+  {
+    "start": "00:14:04.880",
+    "end": "00:14:06.790",
+    "start_seconds": 844.88,
+    "end_seconds": 846.79,
+    "text": "have to come back, go from the other side. And I'm highlighting this to say"
+  },
+  {
+    "start": "00:14:06.790",
+    "end": "00:14:06.800",
+    "start_seconds": 846.79,
+    "end_seconds": 846.8,
+    "text": "side. And I'm highlighting this to say"
+  },
+  {
+    "start": "00:14:06.800",
+    "end": "00:14:10.069",
+    "start_seconds": 846.8,
+    "end_seconds": 850.069,
+    "text": "side. And I'm highlighting this to say the input to the model is not just your"
+  },
+  {
+    "start": "00:14:10.069",
+    "end": "00:14:10.079",
+    "start_seconds": 850.069,
+    "end_seconds": 850.079,
+    "text": "the input to the model is not just your"
+  },
+  {
+    "start": "00:14:10.079",
+    "end": "00:14:13.110",
+    "start_seconds": 850.079,
+    "end_seconds": 853.11,
+    "text": "the input to the model is not just your simple image or RGB or lighter scan."
+  },
+  {
+    "start": "00:14:13.110",
+    "end": "00:14:13.120",
+    "start_seconds": 853.11,
+    "end_seconds": 853.12,
+    "text": "simple image or RGB or lighter scan."
+  },
+  {
+    "start": "00:14:13.120",
+    "end": "00:14:15.509",
+    "start_seconds": 853.12,
+    "end_seconds": 855.509,
+    "text": "simple image or RGB or lighter scan. It's a much larger representation of the"
+  },
+  {
+    "start": "00:14:15.509",
+    "end": "00:14:15.519",
+    "start_seconds": 855.509,
+    "end_seconds": 855.519,
+    "text": "It's a much larger representation of the"
+  },
+  {
+    "start": "00:14:15.519",
+    "end": "00:14:17.670",
+    "start_seconds": 855.519,
+    "end_seconds": 857.67,
+    "text": "It's a much larger representation of the world. And how do you tokenize that? How"
+  },
+  {
+    "start": "00:14:17.670",
+    "end": "00:14:17.680",
+    "start_seconds": 857.67,
+    "end_seconds": 857.68,
+    "text": "world. And how do you tokenize that? How"
+  },
+  {
+    "start": "00:14:17.680",
+    "end": "00:14:19.509",
+    "start_seconds": 857.68,
+    "end_seconds": 859.509,
+    "text": "world. And how do you tokenize that? How do you compactify this? How do you pass"
+  },
+  {
+    "start": "00:14:19.509",
+    "end": "00:14:19.519",
+    "start_seconds": 859.509,
+    "end_seconds": 859.519,
+    "text": "do you compactify this? How do you pass"
+  },
+  {
+    "start": "00:14:19.519",
+    "end": "00:14:21.509",
+    "start_seconds": 859.519,
+    "end_seconds": 861.509,
+    "text": "do you compactify this? How do you pass it to a model? These are the the"
+  },
+  {
+    "start": "00:14:21.509",
+    "end": "00:14:21.519",
+    "start_seconds": 861.509,
+    "end_seconds": 861.519,
+    "text": "it to a model? These are the the"
+  },
+  {
+    "start": "00:14:21.519",
+    "end": "00:14:23.350",
+    "start_seconds": 861.519,
+    "end_seconds": 863.35,
+    "text": "it to a model? These are the the problems that now you're we are working"
+  },
+  {
+    "start": "00:14:23.350",
+    "end": "00:14:23.360",
+    "start_seconds": 863.35,
+    "end_seconds": 863.36,
+    "text": "problems that now you're we are working"
+  },
+  {
+    "start": "00:14:23.360",
+    "end": "00:14:25.590",
+    "start_seconds": 863.36,
+    "end_seconds": 865.59,
+    "text": "problems that now you're we are working on in the operational AI layer to give"
+  },
+  {
+    "start": "00:14:25.590",
+    "end": "00:14:25.600",
+    "start_seconds": 865.59,
+    "end_seconds": 865.6,
+    "text": "on in the operational AI layer to give"
+  },
+  {
+    "start": "00:14:25.600",
+    "end": "00:14:27.670",
+    "start_seconds": 865.6,
+    "end_seconds": 867.67,
+    "text": "on in the operational AI layer to give memory reasoning to these models rather"
+  },
+  {
+    "start": "00:14:27.670",
+    "end": "00:14:27.680",
+    "start_seconds": 867.67,
+    "end_seconds": 867.68,
+    "text": "memory reasoning to these models rather"
+  },
+  {
+    "start": "00:14:27.680",
+    "end": "00:14:30.230",
+    "start_seconds": 867.68,
+    "end_seconds": 870.23,
+    "text": "memory reasoning to these models rather than just have the in the in the lower"
+  },
+  {
+    "start": "00:14:30.230",
+    "end": "00:14:30.240",
+    "start_seconds": 870.23,
+    "end_seconds": 870.24,
+    "text": "than just have the in the in the lower"
+  },
+  {
+    "start": "00:14:30.240",
+    "end": "00:14:31.990",
+    "start_seconds": 870.24,
+    "end_seconds": 871.99,
+    "text": "than just have the in the in the lower level in physical just react to"
+  },
+  {
+    "start": "00:14:31.990",
+    "end": "00:14:32.000",
+    "start_seconds": 871.99,
+    "end_seconds": 872.0,
+    "text": "level in physical just react to"
+  },
+  {
+    "start": "00:14:32.000",
+    "end": "00:14:34.470",
+    "start_seconds": 872.0,
+    "end_seconds": 874.47,
+    "text": "level in physical just react to something in the local setting. Um, in"
+  },
+  {
+    "start": "00:14:34.470",
+    "end": "00:14:34.480",
+    "start_seconds": 874.47,
+    "end_seconds": 874.48,
+    "text": "something in the local setting. Um, in"
+  },
+  {
+    "start": "00:14:34.480",
+    "end": "00:14:36.069",
+    "start_seconds": 874.48,
+    "end_seconds": 876.069,
+    "text": "something in the local setting. Um, in the last operation we did, we went"
+  },
+  {
+    "start": "00:14:36.069",
+    "end": "00:14:36.079",
+    "start_seconds": 876.069,
+    "end_seconds": 876.079,
+    "text": "the last operation we did, we went"
+  },
+  {
+    "start": "00:14:36.079",
+    "end": "00:14:39.509",
+    "start_seconds": 876.079,
+    "end_seconds": 879.509,
+    "text": "the last operation we did, we went almost around 40 40 miles uh uh with in"
+  },
+  {
+    "start": "00:14:39.509",
+    "end": "00:14:39.519",
+    "start_seconds": 879.509,
+    "end_seconds": 879.519,
+    "text": "almost around 40 40 miles uh uh with in"
+  },
+  {
+    "start": "00:14:39.519",
+    "end": "00:14:41.509",
+    "start_seconds": 879.519,
+    "end_seconds": 881.509,
+    "text": "almost around 40 40 miles uh uh with in an environment that robot had never uh"
+  },
+  {
+    "start": "00:14:41.509",
+    "end": "00:14:41.519",
+    "start_seconds": 881.509,
+    "end_seconds": 881.519,
+    "text": "an environment that robot had never uh"
+  },
+  {
+    "start": "00:14:41.519",
+    "end": "00:14:45.110",
+    "start_seconds": 881.519,
+    "end_seconds": 885.11,
+    "text": "an environment that robot had never uh seen before with with no human touch."
+  },
+  {
+    "start": "00:14:45.110",
+    "end": "00:14:45.120",
+    "start_seconds": 885.11,
+    "end_seconds": 885.12,
+    "text": "seen before with with no human touch."
+  },
+  {
+    "start": "00:14:45.120",
+    "end": "00:14:48.310",
+    "start_seconds": 885.12,
+    "end_seconds": 888.31,
+    "text": "seen before with with no human touch. I I'll skip these uh uh uh but this is"
+  },
+  {
+    "start": "00:14:48.310",
+    "end": "00:14:48.320",
+    "start_seconds": 888.31,
+    "end_seconds": 888.32,
+    "text": "I I'll skip these uh uh uh but this is"
+  },
+  {
+    "start": "00:14:48.320",
+    "end": "00:14:52.230",
+    "start_seconds": 888.32,
+    "end_seconds": 892.23,
+    "text": "I I'll skip these uh uh uh but this is to to highlight uh uh the same [snorts]"
+  },
+  {
+    "start": "00:14:52.230",
+    "end": "00:14:52.240",
+    "start_seconds": 892.23,
+    "end_seconds": 892.24,
+    "text": "to to highlight uh uh the same [snorts]"
+  },
+  {
+    "start": "00:14:52.240",
+    "end": "00:14:55.269",
+    "start_seconds": 892.24,
+    "end_seconds": 895.269,
+    "text": "to to highlight uh uh the same [snorts] technologies how they come and perform"
+  },
+  {
+    "start": "00:14:55.269",
+    "end": "00:14:55.279",
+    "start_seconds": 895.269,
+    "end_seconds": 895.279,
+    "text": "technologies how they come and perform"
+  },
+  {
+    "start": "00:14:55.279",
+    "end": "00:14:57.430",
+    "start_seconds": 895.279,
+    "end_seconds": 897.43,
+    "text": "technologies how they come and perform different applications across humanoids."
+  },
+  {
+    "start": "00:14:57.430",
+    "end": "00:14:57.440",
+    "start_seconds": 897.43,
+    "end_seconds": 897.44,
+    "text": "different applications across humanoids."
+  },
+  {
+    "start": "00:14:57.440",
+    "end": "00:14:59.670",
+    "start_seconds": 897.44,
+    "end_seconds": 899.67,
+    "text": "different applications across humanoids. Of course, manipulation and dexter"
+  },
+  {
+    "start": "00:14:59.670",
+    "end": "00:14:59.680",
+    "start_seconds": 899.67,
+    "end_seconds": 899.68,
+    "text": "Of course, manipulation and dexter"
+  },
+  {
+    "start": "00:14:59.680",
+    "end": "00:15:01.910",
+    "start_seconds": 899.68,
+    "end_seconds": 901.91,
+    "text": "Of course, manipulation and dexter operation is still not a fully solved"
+  },
+  {
+    "start": "00:15:01.910",
+    "end": "00:15:01.920",
+    "start_seconds": 901.91,
+    "end_seconds": 901.92,
+    "text": "operation is still not a fully solved"
+  },
+  {
+    "start": "00:15:01.920",
+    "end": "00:15:04.150",
+    "start_seconds": 901.92,
+    "end_seconds": 904.15,
+    "text": "operation is still not a fully solved problem. This is open"
+  },
+  {
+    "start": "00:15:04.150",
+    "end": "00:15:04.160",
+    "start_seconds": 904.15,
+    "end_seconds": 904.16,
+    "text": "problem. This is open"
+  },
+  {
+    "start": "00:15:04.160",
+    "end": "00:15:05.829",
+    "start_seconds": 904.16,
+    "end_seconds": 905.829,
+    "text": "problem. This is open While a lot of our application today"
+  },
+  {
+    "start": "00:15:05.829",
+    "end": "00:15:05.839",
+    "start_seconds": 905.829,
+    "end_seconds": 905.839,
+    "text": "While a lot of our application today"
+  },
+  {
+    "start": "00:15:05.839",
+    "end": "00:15:08.230",
+    "start_seconds": 905.839,
+    "end_seconds": 908.23,
+    "text": "While a lot of our application today with the pit paying customer these are"
+  },
+  {
+    "start": "00:15:08.230",
+    "end": "00:15:08.240",
+    "start_seconds": 908.23,
+    "end_seconds": 908.24,
+    "text": "with the pit paying customer these are"
+  },
+  {
+    "start": "00:15:08.240",
+    "end": "00:15:10.790",
+    "start_seconds": 908.24,
+    "end_seconds": 910.79,
+    "text": "with the pit paying customer these are still a lot of of developments across"
+  },
+  {
+    "start": "00:15:10.790",
+    "end": "00:15:10.800",
+    "start_seconds": 910.79,
+    "end_seconds": 910.8,
+    "text": "still a lot of of developments across"
+  },
+  {
+    "start": "00:15:10.800",
+    "end": "00:15:12.550",
+    "start_seconds": 910.8,
+    "end_seconds": 912.55,
+    "text": "still a lot of of developments across different applications from pushing"
+  },
+  {
+    "start": "00:15:12.550",
+    "end": "00:15:12.560",
+    "start_seconds": 912.55,
+    "end_seconds": 912.56,
+    "text": "different applications from pushing"
+  },
+  {
+    "start": "00:15:12.560",
+    "end": "00:15:16.069",
+    "start_seconds": 912.56,
+    "end_seconds": 916.069,
+    "text": "different applications from pushing carts carrying objects to uh scanning"
+  },
+  {
+    "start": "00:15:16.069",
+    "end": "00:15:16.079",
+    "start_seconds": 916.069,
+    "end_seconds": 916.079,
+    "text": "carts carrying objects to uh scanning"
+  },
+  {
+    "start": "00:15:16.079",
+    "end": "00:15:18.949",
+    "start_seconds": 916.079,
+    "end_seconds": 918.949,
+    "text": "carts carrying objects to uh scanning packing and in logistic setting moving"
+  },
+  {
+    "start": "00:15:18.949",
+    "end": "00:15:18.959",
+    "start_seconds": 918.949,
+    "end_seconds": 918.959,
+    "text": "packing and in logistic setting moving"
+  },
+  {
+    "start": "00:15:18.959",
+    "end": "00:15:21.590",
+    "start_seconds": 918.959,
+    "end_seconds": 921.59,
+    "text": "packing and in logistic setting moving material and and and so on. But then we"
+  },
+  {
+    "start": "00:15:21.590",
+    "end": "00:15:21.600",
+    "start_seconds": 921.59,
+    "end_seconds": 921.6,
+    "text": "material and and and so on. But then we"
+  },
+  {
+    "start": "00:15:21.600",
+    "end": "00:15:24.310",
+    "start_seconds": 921.6,
+    "end_seconds": 924.31,
+    "text": "material and and and so on. But then we go to the the last cognitive layer uh"
+  },
+  {
+    "start": "00:15:24.310",
+    "end": "00:15:24.320",
+    "start_seconds": 924.31,
+    "end_seconds": 924.32,
+    "text": "go to the the last cognitive layer uh"
+  },
+  {
+    "start": "00:15:24.320",
+    "end": "00:15:27.910",
+    "start_seconds": 924.32,
+    "end_seconds": 927.91,
+    "text": "go to the the last cognitive layer uh the the up the multi- aent uh which is"
+  },
+  {
+    "start": "00:15:27.910",
+    "end": "00:15:27.920",
+    "start_seconds": 927.91,
+    "end_seconds": 927.92,
+    "text": "the the up the multi- aent uh which is"
+  },
+  {
+    "start": "00:15:27.920",
+    "end": "00:15:29.350",
+    "start_seconds": 927.92,
+    "end_seconds": 929.35,
+    "text": "the the up the multi- aent uh which is based on our touch points with the"
+  },
+  {
+    "start": "00:15:29.350",
+    "end": "00:15:29.360",
+    "start_seconds": 929.35,
+    "end_seconds": 929.36,
+    "text": "based on our touch points with the"
+  },
+  {
+    "start": "00:15:29.360",
+    "end": "00:15:31.269",
+    "start_seconds": 929.36,
+    "end_seconds": 931.269,
+    "text": "based on our touch points with the customers we are seeing how critical"
+  },
+  {
+    "start": "00:15:31.269",
+    "end": "00:15:31.279",
+    "start_seconds": 931.269,
+    "end_seconds": 931.279,
+    "text": "customers we are seeing how critical"
+  },
+  {
+    "start": "00:15:31.279",
+    "end": "00:15:35.189",
+    "start_seconds": 931.279,
+    "end_seconds": 935.189,
+    "text": "customers we are seeing how critical this is and now you have a model that"
+  },
+  {
+    "start": "00:15:35.189",
+    "end": "00:15:35.199",
+    "start_seconds": 935.189,
+    "end_seconds": 935.199,
+    "text": "this is and now you have a model that"
+  },
+  {
+    "start": "00:15:35.199",
+    "end": "00:15:38.710",
+    "start_seconds": 935.199,
+    "end_seconds": 938.71,
+    "text": "this is and now you have a model that handles not just a single agent but a"
+  },
+  {
+    "start": "00:15:38.710",
+    "end": "00:15:38.720",
+    "start_seconds": 938.71,
+    "end_seconds": 938.72,
+    "text": "handles not just a single agent but a"
+  },
+  {
+    "start": "00:15:38.720",
+    "end": "00:15:40.710",
+    "start_seconds": 938.72,
+    "end_seconds": 940.71,
+    "text": "handles not just a single agent but a coordination across heterogeneous team"
+  },
+  {
+    "start": "00:15:40.710",
+    "end": "00:15:40.720",
+    "start_seconds": 940.71,
+    "end_seconds": 940.72,
+    "text": "coordination across heterogeneous team"
+  },
+  {
+    "start": "00:15:40.720",
+    "end": "00:15:42.389",
+    "start_seconds": 940.72,
+    "end_seconds": 942.389,
+    "text": "coordination across heterogeneous team of agents. So in this operation, you're"
+  },
+  {
+    "start": "00:15:42.389",
+    "end": "00:15:42.399",
+    "start_seconds": 942.389,
+    "end_seconds": 942.399,
+    "text": "of agents. So in this operation, you're"
+  },
+  {
+    "start": "00:15:42.399",
+    "end": "00:15:45.189",
+    "start_seconds": 942.399,
+    "end_seconds": 945.189,
+    "text": "of agents. So in this operation, you're looking at an an operation where we sent"
+  },
+  {
+    "start": "00:15:45.189",
+    "end": "00:15:45.199",
+    "start_seconds": 945.189,
+    "end_seconds": 945.199,
+    "text": "looking at an an operation where we sent"
+  },
+  {
+    "start": "00:15:45.199",
+    "end": "00:15:48.310",
+    "start_seconds": 945.199,
+    "end_seconds": 948.31,
+    "text": "looking at an an operation where we sent 11 robots, four of them with legs, four"
+  },
+  {
+    "start": "00:15:48.310",
+    "end": "00:15:48.320",
+    "start_seconds": 948.31,
+    "end_seconds": 948.32,
+    "text": "11 robots, four of them with legs, four"
+  },
+  {
+    "start": "00:15:48.320",
+    "end": "00:15:50.470",
+    "start_seconds": 948.32,
+    "end_seconds": 950.47,
+    "text": "11 robots, four of them with legs, four of them with wheels, and three of them"
+  },
+  {
+    "start": "00:15:50.470",
+    "end": "00:15:50.480",
+    "start_seconds": 950.47,
+    "end_seconds": 950.48,
+    "text": "of them with wheels, and three of them"
+  },
+  {
+    "start": "00:15:50.480",
+    "end": "00:15:52.949",
+    "start_seconds": 950.48,
+    "end_seconds": 952.949,
+    "text": "of them with wheels, and three of them flying into an environment they have"
+  },
+  {
+    "start": "00:15:52.949",
+    "end": "00:15:52.959",
+    "start_seconds": 952.949,
+    "end_seconds": 952.9590000000001,
+    "text": "flying into an environment they have"
+  },
+  {
+    "start": "00:15:52.959",
+    "end": "00:15:55.350",
+    "start_seconds": 952.9590000000001,
+    "end_seconds": 955.35,
+    "text": "flying into an environment they have never seen before. We don't we have not"
+  },
+  {
+    "start": "00:15:55.350",
+    "end": "00:15:55.360",
+    "start_seconds": 955.35,
+    "end_seconds": 955.36,
+    "text": "never seen before. We don't we have not"
+  },
+  {
+    "start": "00:15:55.360",
+    "end": "00:15:57.350",
+    "start_seconds": 955.36,
+    "end_seconds": 957.35,
+    "text": "never seen before. We don't we have not also seen this environment in advance."
+  },
+  {
+    "start": "00:15:57.350",
+    "end": "00:15:57.360",
+    "start_seconds": 957.35,
+    "end_seconds": 957.36,
+    "text": "also seen this environment in advance."
+  },
+  {
+    "start": "00:15:57.360",
+    "end": "00:15:58.710",
+    "start_seconds": 957.36,
+    "end_seconds": 958.71,
+    "text": "also seen this environment in advance. Every camera in the environment,"
+  },
+  {
+    "start": "00:15:58.710",
+    "end": "00:15:58.720",
+    "start_seconds": 958.71,
+    "end_seconds": 958.72,
+    "text": "Every camera in the environment,"
+  },
+  {
+    "start": "00:15:58.720",
+    "end": "00:16:01.030",
+    "start_seconds": 958.72,
+    "end_seconds": 961.03,
+    "text": "Every camera in the environment, everything you see are cameras installed"
+  },
+  {
+    "start": "00:16:01.030",
+    "end": "00:16:01.040",
+    "start_seconds": 961.03,
+    "end_seconds": 961.04,
+    "text": "everything you see are cameras installed"
+  },
+  {
+    "start": "00:16:01.040",
+    "end": "00:16:02.629",
+    "start_seconds": 961.04,
+    "end_seconds": 962.629,
+    "text": "everything you see are cameras installed by the customer. We only see the"
+  },
+  {
+    "start": "00:16:02.629",
+    "end": "00:16:02.639",
+    "start_seconds": 962.629,
+    "end_seconds": 962.639,
+    "text": "by the customer. We only see the"
+  },
+  {
+    "start": "00:16:02.639",
+    "end": "00:16:04.870",
+    "start_seconds": 962.639,
+    "end_seconds": 964.87,
+    "text": "by the customer. We only see the operation after mission is done from the"
+  },
+  {
+    "start": "00:16:04.870",
+    "end": "00:16:04.880",
+    "start_seconds": 964.87,
+    "end_seconds": 964.88,
+    "text": "operation after mission is done from the"
+  },
+  {
+    "start": "00:16:04.880",
+    "end": "00:16:07.430",
+    "start_seconds": 964.88,
+    "end_seconds": 967.43,
+    "text": "operation after mission is done from the recorded data. The robots go in, they"
+  },
+  {
+    "start": "00:16:07.430",
+    "end": "00:16:07.440",
+    "start_seconds": 967.43,
+    "end_seconds": 967.44,
+    "text": "recorded data. The robots go in, they"
+  },
+  {
+    "start": "00:16:07.440",
+    "end": "00:16:09.030",
+    "start_seconds": 967.44,
+    "end_seconds": 969.03,
+    "text": "recorded data. The robots go in, they discover the world and they dispatch"
+  },
+  {
+    "start": "00:16:09.030",
+    "end": "00:16:09.040",
+    "start_seconds": 969.03,
+    "end_seconds": 969.04,
+    "text": "discover the world and they dispatch"
+  },
+  {
+    "start": "00:16:09.040",
+    "end": "00:16:10.870",
+    "start_seconds": 969.04,
+    "end_seconds": 970.87,
+    "text": "discover the world and they dispatch themselves autonomously. They see here"
+  },
+  {
+    "start": "00:16:10.870",
+    "end": "00:16:10.880",
+    "start_seconds": 970.87,
+    "end_seconds": 970.88,
+    "text": "themselves autonomously. They see here"
+  },
+  {
+    "start": "00:16:10.880",
+    "end": "00:16:13.670",
+    "start_seconds": 970.88,
+    "end_seconds": 973.67,
+    "text": "themselves autonomously. They see here are stairs. Here is a boulder. I'm going"
+  },
+  {
+    "start": "00:16:13.670",
+    "end": "00:16:13.680",
+    "start_seconds": 973.67,
+    "end_seconds": 973.68,
+    "text": "are stairs. Here is a boulder. I'm going"
+  },
+  {
+    "start": "00:16:13.680",
+    "end": "00:16:16.150",
+    "start_seconds": 973.68,
+    "end_seconds": 976.15,
+    "text": "are stairs. Here is a boulder. I'm going to send and dispatch a dog robot to to"
+  },
+  {
+    "start": "00:16:16.150",
+    "end": "00:16:16.160",
+    "start_seconds": 976.15,
+    "end_seconds": 976.16,
+    "text": "to send and dispatch a dog robot to to"
+  },
+  {
+    "start": "00:16:16.160",
+    "end": "00:16:19.226",
+    "start_seconds": 976.16,
+    "end_seconds": 979.226,
+    "text": "to send and dispatch a dog robot to to handle that. Um I see a a a vertical"
+  },
+  {
+    "start": "00:16:19.226",
+    "end": "00:16:19.236",
+    "start_seconds": 979.226,
+    "end_seconds": 979.236,
+    "text": "handle that. Um I see a a a vertical"
+  },
+  {
+    "start": "00:16:19.236",
+    "end": "00:16:22.949",
+    "start_seconds": 979.236,
+    "end_seconds": 982.949,
+    "text": "handle that. Um I see a a a vertical [snorts] shaft. The drone will take off,"
+  },
+  {
+    "start": "00:16:22.949",
+    "end": "00:16:22.959",
+    "start_seconds": 982.949,
+    "end_seconds": 982.959,
+    "text": "[snorts] shaft. The drone will take off,"
+  },
+  {
+    "start": "00:16:22.959",
+    "end": "00:16:25.110",
+    "start_seconds": 982.959,
+    "end_seconds": 985.11,
+    "text": "[snorts] shaft. The drone will take off, map that, carry out the operation, come"
+  },
+  {
+    "start": "00:16:25.110",
+    "end": "00:16:25.120",
+    "start_seconds": 985.11,
+    "end_seconds": 985.12,
+    "text": "map that, carry out the operation, come"
+  },
+  {
+    "start": "00:16:25.120",
+    "end": "00:16:27.990",
+    "start_seconds": 985.12,
+    "end_seconds": 987.99,
+    "text": "map that, carry out the operation, come back, land on the ground robot, charge"
+  },
+  {
+    "start": "00:16:27.990",
+    "end": "00:16:28.000",
+    "start_seconds": 987.99,
+    "end_seconds": 988.0,
+    "text": "back, land on the ground robot, charge"
+  },
+  {
+    "start": "00:16:28.000",
+    "end": "00:16:31.030",
+    "start_seconds": 988.0,
+    "end_seconds": 991.03,
+    "text": "back, land on the ground robot, charge itself and carry out the operation. And"
+  },
+  {
+    "start": "00:16:31.030",
+    "end": "00:16:31.040",
+    "start_seconds": 991.03,
+    "end_seconds": 991.04,
+    "text": "itself and carry out the operation. And"
+  },
+  {
+    "start": "00:16:31.040",
+    "end": "00:16:33.670",
+    "start_seconds": 991.04,
+    "end_seconds": 993.67,
+    "text": "itself and carry out the operation. And uh uh in all this operation again there"
+  },
+  {
+    "start": "00:16:33.670",
+    "end": "00:16:33.680",
+    "start_seconds": 993.67,
+    "end_seconds": 993.68,
+    "text": "uh uh in all this operation again there"
+  },
+  {
+    "start": "00:16:33.680",
+    "end": "00:16:35.590",
+    "start_seconds": 993.68,
+    "end_seconds": 995.59,
+    "text": "uh uh in all this operation again there is no prior knowledge of the world no"
+  },
+  {
+    "start": "00:16:35.590",
+    "end": "00:16:35.600",
+    "start_seconds": 995.59,
+    "end_seconds": 995.6,
+    "text": "is no prior knowledge of the world no"
+  },
+  {
+    "start": "00:16:35.600",
+    "end": "00:16:38.870",
+    "start_seconds": 995.6,
+    "end_seconds": 998.87,
+    "text": "is no prior knowledge of the world no prior map no positioning system no GPS"
+  },
+  {
+    "start": "00:16:38.870",
+    "end": "00:16:38.880",
+    "start_seconds": 998.87,
+    "end_seconds": 998.88,
+    "text": "prior map no positioning system no GPS"
+  },
+  {
+    "start": "00:16:38.880",
+    "end": "00:16:41.749",
+    "start_seconds": 998.88,
+    "end_seconds": 1001.749,
+    "text": "prior map no positioning system no GPS no uh uh predefined plans and these all"
+  },
+  {
+    "start": "00:16:41.749",
+    "end": "00:16:41.759",
+    "start_seconds": 1001.749,
+    "end_seconds": 1001.759,
+    "text": "no uh uh predefined plans and these all"
+  },
+  {
+    "start": "00:16:41.759",
+    "end": "00:16:44.389",
+    "start_seconds": 1001.759,
+    "end_seconds": 1004.389,
+    "text": "no uh uh predefined plans and these all emerges out of out of the the autonomy"
+  },
+  {
+    "start": "00:16:44.389",
+    "end": "00:16:44.399",
+    "start_seconds": 1004.389,
+    "end_seconds": 1004.399,
+    "text": "emerges out of out of the the autonomy"
+  },
+  {
+    "start": "00:16:44.399",
+    "end": "00:16:46.790",
+    "start_seconds": 1004.399,
+    "end_seconds": 1006.79,
+    "text": "emerges out of out of the the autonomy solution which um now we are seeing on"
+  },
+  {
+    "start": "00:16:46.790",
+    "end": "00:16:46.800",
+    "start_seconds": 1006.79,
+    "end_seconds": 1006.8,
+    "text": "solution which um now we are seeing on"
+  },
+  {
+    "start": "00:16:46.800",
+    "end": "00:16:49.030",
+    "start_seconds": 1006.8,
+    "end_seconds": 1009.03,
+    "text": "solution which um now we are seeing on the commercial side there's quite a bit"
+  },
+  {
+    "start": "00:16:49.030",
+    "end": "00:16:49.040",
+    "start_seconds": 1009.03,
+    "end_seconds": 1009.04,
+    "text": "the commercial side there's quite a bit"
+  },
+  {
+    "start": "00:16:49.040",
+    "end": "00:16:52.069",
+    "start_seconds": 1009.04,
+    "end_seconds": 1012.069,
+    "text": "the commercial side there's quite a bit of traction uh because once you can"
+  },
+  {
+    "start": "00:16:52.069",
+    "end": "00:16:52.079",
+    "start_seconds": 1012.069,
+    "end_seconds": 1012.079,
+    "text": "of traction uh because once you can"
+  },
+  {
+    "start": "00:16:52.079",
+    "end": "00:16:54.230",
+    "start_seconds": 1012.079,
+    "end_seconds": 1014.23,
+    "text": "of traction uh because once you can handle heterogeneous set of assets a"
+  },
+  {
+    "start": "00:16:54.230",
+    "end": "00:16:54.240",
+    "start_seconds": 1014.23,
+    "end_seconds": 1014.24,
+    "text": "handle heterogeneous set of assets a"
+  },
+  {
+    "start": "00:16:54.240",
+    "end": "00:16:56.710",
+    "start_seconds": 1014.24,
+    "end_seconds": 1016.71,
+    "text": "handle heterogeneous set of assets a truck out there a humanoid doing welding"
+  },
+  {
+    "start": "00:16:56.710",
+    "end": "00:16:56.720",
+    "start_seconds": 1016.71,
+    "end_seconds": 1016.72,
+    "text": "truck out there a humanoid doing welding"
+  },
+  {
+    "start": "00:16:56.720",
+    "end": "00:16:58.470",
+    "start_seconds": 1016.72,
+    "end_seconds": 1018.47,
+    "text": "truck out there a humanoid doing welding and dog robot doing inspection and"
+  },
+  {
+    "start": "00:16:58.470",
+    "end": "00:16:58.480",
+    "start_seconds": 1018.47,
+    "end_seconds": 1018.48,
+    "text": "and dog robot doing inspection and"
+  },
+  {
+    "start": "00:16:58.480",
+    "end": "00:17:01.030",
+    "start_seconds": 1018.48,
+    "end_seconds": 1021.03,
+    "text": "and dog robot doing inspection and coordinate these not you carry out the"
+  },
+  {
+    "start": "00:17:01.030",
+    "end": "00:17:01.040",
+    "start_seconds": 1021.03,
+    "end_seconds": 1021.04,
+    "text": "coordinate these not you carry out the"
+  },
+  {
+    "start": "00:17:01.040",
+    "end": "00:17:03.430",
+    "start_seconds": 1021.04,
+    "end_seconds": 1023.43,
+    "text": "coordinate these not you carry out the mission but you remove a very important"
+  },
+  {
+    "start": "00:17:03.430",
+    "end": "00:17:03.440",
+    "start_seconds": 1023.43,
+    "end_seconds": 1023.44,
+    "text": "mission but you remove a very important"
+  },
+  {
+    "start": "00:17:03.440",
+    "end": "00:17:05.350",
+    "start_seconds": 1023.44,
+    "end_seconds": 1025.35,
+    "text": "mission but you remove a very important uh infrastructure layer for customer and"
+  },
+  {
+    "start": "00:17:05.350",
+    "end": "00:17:05.360",
+    "start_seconds": 1025.35,
+    "end_seconds": 1025.36,
+    "text": "uh infrastructure layer for customer and"
+  },
+  {
+    "start": "00:17:05.360",
+    "end": "00:17:08.870",
+    "start_seconds": 1025.36,
+    "end_seconds": 1028.87,
+    "text": "uh infrastructure layer for customer and increase the ROI quite a bit and similar"
+  },
+  {
+    "start": "00:17:08.870",
+    "end": "00:17:08.880",
+    "start_seconds": 1028.87,
+    "end_seconds": 1028.88,
+    "text": "increase the ROI quite a bit and similar"
+  },
+  {
+    "start": "00:17:08.880",
+    "end": "00:17:10.710",
+    "start_seconds": 1028.88,
+    "end_seconds": 1030.71,
+    "text": "increase the ROI quite a bit and similar again on the humanoid side these"
+  },
+  {
+    "start": "00:17:10.710",
+    "end": "00:17:10.720",
+    "start_seconds": 1030.71,
+    "end_seconds": 1030.72,
+    "text": "again on the humanoid side these"
+  },
+  {
+    "start": "00:17:10.720",
+    "end": "00:17:13.110",
+    "start_seconds": 1030.72,
+    "end_seconds": 1033.11,
+    "text": "again on the humanoid side these technologies slowly come into the"
+  },
+  {
+    "start": "00:17:13.110",
+    "end": "00:17:13.120",
+    "start_seconds": 1033.11,
+    "end_seconds": 1033.12,
+    "text": "technologies slowly come into the"
+  },
+  {
+    "start": "00:17:13.120",
+    "end": "00:17:15.110",
+    "start_seconds": 1033.12,
+    "end_seconds": 1035.11,
+    "text": "technologies slowly come into the operations on the with hands and"
+  },
+  {
+    "start": "00:17:15.110",
+    "end": "00:17:15.120",
+    "start_seconds": 1035.11,
+    "end_seconds": 1035.12,
+    "text": "operations on the with hands and"
+  },
+  {
+    "start": "00:17:15.120",
+    "end": "00:17:16.870",
+    "start_seconds": 1035.12,
+    "end_seconds": 1036.87,
+    "text": "operations on the with hands and manipulation in this case the the"
+  },
+  {
+    "start": "00:17:16.870",
+    "end": "00:17:16.880",
+    "start_seconds": 1036.87,
+    "end_seconds": 1036.88,
+    "text": "manipulation in this case the the"
+  },
+  {
+    "start": "00:17:16.880",
+    "end": "00:17:18.949",
+    "start_seconds": 1036.88,
+    "end_seconds": 1038.949,
+    "text": "manipulation in this case the the humanoid closer to the camera we lock"
+  },
+  {
+    "start": "00:17:18.949",
+    "end": "00:17:18.959",
+    "start_seconds": 1038.949,
+    "end_seconds": 1038.959,
+    "text": "humanoid closer to the camera we lock"
+  },
+  {
+    "start": "00:17:18.959",
+    "end": "00:17:21.429",
+    "start_seconds": 1038.959,
+    "end_seconds": 1041.429,
+    "text": "humanoid closer to the camera we lock the body and don't let it move and ask"
+  },
+  {
+    "start": "00:17:21.429",
+    "end": "00:17:21.439",
+    "start_seconds": 1041.429,
+    "end_seconds": 1041.439,
+    "text": "the body and don't let it move and ask"
+  },
+  {
+    "start": "00:17:21.439",
+    "end": "00:17:24.309",
+    "start_seconds": 1041.439,
+    "end_seconds": 1044.309,
+    "text": "the body and don't let it move and ask it to put the the the part into the into"
+  },
+  {
+    "start": "00:17:24.309",
+    "end": "00:17:24.319",
+    "start_seconds": 1044.309,
+    "end_seconds": 1044.319,
+    "text": "it to put the the the part into the into"
+  },
+  {
+    "start": "00:17:24.319",
+    "end": "00:17:27.110",
+    "start_seconds": 1044.319,
+    "end_seconds": 1047.11,
+    "text": "it to put the the the part into the into the uh into the box but because hand"
+  },
+  {
+    "start": "00:17:27.110",
+    "end": "00:17:27.120",
+    "start_seconds": 1047.11,
+    "end_seconds": 1047.12,
+    "text": "the uh into the box but because hand"
+  },
+  {
+    "start": "00:17:27.120",
+    "end": "00:17:29.350",
+    "start_seconds": 1047.12,
+    "end_seconds": 1049.35,
+    "text": "the uh into the box but because hand cannot reach they're understanding that"
+  },
+  {
+    "start": "00:17:29.350",
+    "end": "00:17:29.360",
+    "start_seconds": 1049.35,
+    "end_seconds": 1049.36,
+    "text": "cannot reach they're understanding that"
+  },
+  {
+    "start": "00:17:29.360",
+    "end": "00:17:31.590",
+    "start_seconds": 1049.36,
+    "end_seconds": 1051.59,
+    "text": "cannot reach they're understanding that they have to coordinate to be able to to"
+  },
+  {
+    "start": "00:17:31.590",
+    "end": "00:17:31.600",
+    "start_seconds": 1051.59,
+    "end_seconds": 1051.6,
+    "text": "they have to coordinate to be able to to"
+  },
+  {
+    "start": "00:17:31.600",
+    "end": "00:17:34.070",
+    "start_seconds": 1051.6,
+    "end_seconds": 1054.07,
+    "text": "they have to coordinate to be able to to do these types of missions. But what is"
+  },
+  {
+    "start": "00:17:34.070",
+    "end": "00:17:34.080",
+    "start_seconds": 1054.07,
+    "end_seconds": 1054.08,
+    "text": "do these types of missions. But what is"
+  },
+  {
+    "start": "00:17:34.080",
+    "end": "00:17:35.750",
+    "start_seconds": 1054.08,
+    "end_seconds": 1055.75,
+    "text": "do these types of missions. But what is the impact on the business? What's the"
+  },
+  {
+    "start": "00:17:35.750",
+    "end": "00:17:35.760",
+    "start_seconds": 1055.75,
+    "end_seconds": 1055.76,
+    "text": "the impact on the business? What's the"
+  },
+  {
+    "start": "00:17:35.760",
+    "end": "00:17:39.750",
+    "start_seconds": 1055.76,
+    "end_seconds": 1059.75,
+    "text": "the impact on the business? What's the philosophy of field AI for us? We back"
+  },
+  {
+    "start": "00:17:39.750",
+    "end": "00:17:39.760",
+    "start_seconds": 1059.75,
+    "end_seconds": 1059.76,
+    "text": "philosophy of field AI for us? We back"
+  },
+  {
+    "start": "00:17:39.760",
+    "end": "00:17:42.070",
+    "start_seconds": 1059.76,
+    "end_seconds": 1062.07,
+    "text": "philosophy of field AI for us? We back to what I started with. We don't look at"
+  },
+  {
+    "start": "00:17:42.070",
+    "end": "00:17:42.080",
+    "start_seconds": 1062.07,
+    "end_seconds": 1062.08,
+    "text": "to what I started with. We don't look at"
+  },
+  {
+    "start": "00:17:42.080",
+    "end": "00:17:44.070",
+    "start_seconds": 1062.08,
+    "end_seconds": 1064.07,
+    "text": "to what I started with. We don't look at the world. We don't see robotic as a"
+  },
+  {
+    "start": "00:17:44.070",
+    "end": "00:17:44.080",
+    "start_seconds": 1064.07,
+    "end_seconds": 1064.08,
+    "text": "the world. We don't see robotic as a"
+  },
+  {
+    "start": "00:17:44.080",
+    "end": "00:17:47.909",
+    "start_seconds": 1064.08,
+    "end_seconds": 1067.909,
+    "text": "the world. We don't see robotic as a pure data problem. We see robotics as"
+  },
+  {
+    "start": "00:17:47.909",
+    "end": "00:17:47.919",
+    "start_seconds": 1067.909,
+    "end_seconds": 1067.919,
+    "text": "pure data problem. We see robotics as"
+  },
+  {
+    "start": "00:17:47.919",
+    "end": "00:17:51.270",
+    "start_seconds": 1067.919,
+    "end_seconds": 1071.27,
+    "text": "pure data problem. We see robotics as data problem plus a a a problem of"
+  },
+  {
+    "start": "00:17:51.270",
+    "end": "00:17:51.280",
+    "start_seconds": 1071.27,
+    "end_seconds": 1071.28,
+    "text": "data problem plus a a a problem of"
+  },
+  {
+    "start": "00:17:51.280",
+    "end": "00:17:53.909",
+    "start_seconds": 1071.28,
+    "end_seconds": 1073.909,
+    "text": "data problem plus a a a problem of physics and reliability and architecture"
+  },
+  {
+    "start": "00:17:53.909",
+    "end": "00:17:53.919",
+    "start_seconds": 1073.909,
+    "end_seconds": 1073.919,
+    "text": "physics and reliability and architecture"
+  },
+  {
+    "start": "00:17:53.919",
+    "end": "00:17:56.710",
+    "start_seconds": 1073.919,
+    "end_seconds": 1076.71,
+    "text": "physics and reliability and architecture problem. This helps us to deploy even if"
+  },
+  {
+    "start": "00:17:56.710",
+    "end": "00:17:56.720",
+    "start_seconds": 1076.71,
+    "end_seconds": 1076.72,
+    "text": "problem. This helps us to deploy even if"
+  },
+  {
+    "start": "00:17:56.720",
+    "end": "00:17:58.470",
+    "start_seconds": 1076.72,
+    "end_seconds": 1078.47,
+    "text": "problem. This helps us to deploy even if there are out of distribution elements"
+  },
+  {
+    "start": "00:17:58.470",
+    "end": "00:17:58.480",
+    "start_seconds": 1078.47,
+    "end_seconds": 1078.48,
+    "text": "there are out of distribution elements"
+  },
+  {
+    "start": "00:17:58.480",
+    "end": "00:18:00.950",
+    "start_seconds": 1078.48,
+    "end_seconds": 1080.95,
+    "text": "there are out of distribution elements in the environment. The physics kick in"
+  },
+  {
+    "start": "00:18:00.950",
+    "end": "00:18:00.960",
+    "start_seconds": 1080.95,
+    "end_seconds": 1080.96,
+    "text": "in the environment. The physics kick in"
+  },
+  {
+    "start": "00:18:00.960",
+    "end": "00:18:03.830",
+    "start_seconds": 1080.96,
+    "end_seconds": 1083.83,
+    "text": "in the environment. The physics kick in keep you safe and that allows you to"
+  },
+  {
+    "start": "00:18:03.830",
+    "end": "00:18:03.840",
+    "start_seconds": 1083.83,
+    "end_seconds": 1083.84,
+    "text": "keep you safe and that allows you to"
+  },
+  {
+    "start": "00:18:03.840",
+    "end": "00:18:06.230",
+    "start_seconds": 1083.84,
+    "end_seconds": 1086.23,
+    "text": "keep you safe and that allows you to collect data. You might be inefficient"
+  },
+  {
+    "start": "00:18:06.230",
+    "end": "00:18:06.240",
+    "start_seconds": 1086.23,
+    "end_seconds": 1086.24,
+    "text": "collect data. You might be inefficient"
+  },
+  {
+    "start": "00:18:06.240",
+    "end": "00:18:08.710",
+    "start_seconds": 1086.24,
+    "end_seconds": 1088.71,
+    "text": "collect data. You might be inefficient around the parts of the environment that"
+  },
+  {
+    "start": "00:18:08.710",
+    "end": "00:18:08.720",
+    "start_seconds": 1088.71,
+    "end_seconds": 1088.72,
+    "text": "around the parts of the environment that"
+  },
+  {
+    "start": "00:18:08.720",
+    "end": "00:18:10.870",
+    "start_seconds": 1088.72,
+    "end_seconds": 1090.87,
+    "text": "around the parts of the environment that you have not experienced before but"
+  },
+  {
+    "start": "00:18:10.870",
+    "end": "00:18:10.880",
+    "start_seconds": 1090.87,
+    "end_seconds": 1090.88,
+    "text": "you have not experienced before but"
+  },
+  {
+    "start": "00:18:10.880",
+    "end": "00:18:13.270",
+    "start_seconds": 1090.88,
+    "end_seconds": 1093.27,
+    "text": "you have not experienced before but you're safe. Because you're safe, it"
+  },
+  {
+    "start": "00:18:13.270",
+    "end": "00:18:13.280",
+    "start_seconds": 1093.27,
+    "end_seconds": 1093.28,
+    "text": "you're safe. Because you're safe, it"
+  },
+  {
+    "start": "00:18:13.280",
+    "end": "00:18:15.029",
+    "start_seconds": 1093.28,
+    "end_seconds": 1095.029,
+    "text": "you're safe. Because you're safe, it allows you to collect data. Data allows"
+  },
+  {
+    "start": "00:18:15.029",
+    "end": "00:18:15.039",
+    "start_seconds": 1095.029,
+    "end_seconds": 1095.039,
+    "text": "allows you to collect data. Data allows"
+  },
+  {
+    "start": "00:18:15.039",
+    "end": "00:18:17.510",
+    "start_seconds": 1095.039,
+    "end_seconds": 1097.51,
+    "text": "allows you to collect data. Data allows you to be tomorrow more efficient around"
+  },
+  {
+    "start": "00:18:17.510",
+    "end": "00:18:17.520",
+    "start_seconds": 1097.51,
+    "end_seconds": 1097.52,
+    "text": "you to be tomorrow more efficient around"
+  },
+  {
+    "start": "00:18:17.520",
+    "end": "00:18:19.590",
+    "start_seconds": 1097.52,
+    "end_seconds": 1099.59,
+    "text": "you to be tomorrow more efficient around those objects. You learn what you did"
+  },
+  {
+    "start": "00:18:19.590",
+    "end": "00:18:19.600",
+    "start_seconds": 1099.59,
+    "end_seconds": 1099.6,
+    "text": "those objects. You learn what you did"
+  },
+  {
+    "start": "00:18:19.600",
+    "end": "00:18:21.350",
+    "start_seconds": 1099.6,
+    "end_seconds": 1101.35,
+    "text": "those objects. You learn what you did not know yesterday. That leads to more"
+  },
+  {
+    "start": "00:18:21.350",
+    "end": "00:18:21.360",
+    "start_seconds": 1101.35,
+    "end_seconds": 1101.36,
+    "text": "not know yesterday. That leads to more"
+  },
+  {
+    "start": "00:18:21.360",
+    "end": "00:18:22.789",
+    "start_seconds": 1101.36,
+    "end_seconds": 1102.789,
+    "text": "not know yesterday. That leads to more deployment. More deployment leads to"
+  },
+  {
+    "start": "00:18:22.789",
+    "end": "00:18:22.799",
+    "start_seconds": 1102.789,
+    "end_seconds": 1102.799,
+    "text": "deployment. More deployment leads to"
+  },
+  {
+    "start": "00:18:22.799",
+    "end": "00:18:25.110",
+    "start_seconds": 1102.799,
+    "end_seconds": 1105.11,
+    "text": "deployment. More deployment leads to more data and better models and that"
+  },
+  {
+    "start": "00:18:25.110",
+    "end": "00:18:25.120",
+    "start_seconds": 1105.11,
+    "end_seconds": 1105.12,
+    "text": "more data and better models and that"
+  },
+  {
+    "start": "00:18:25.120",
+    "end": "00:18:28.789",
+    "start_seconds": 1105.12,
+    "end_seconds": 1108.789,
+    "text": "more data and better models and that leads to a very large uh uh flywheel of"
+  },
+  {
+    "start": "00:18:28.789",
+    "end": "00:18:28.799",
+    "start_seconds": 1108.789,
+    "end_seconds": 1108.799,
+    "text": "leads to a very large uh uh flywheel of"
+  },
+  {
+    "start": "00:18:28.799",
+    "end": "00:18:31.669",
+    "start_seconds": 1108.799,
+    "end_seconds": 1111.669,
+    "text": "leads to a very large uh uh flywheel of of of of uh data that is coming from"
+  },
+  {
+    "start": "00:18:31.669",
+    "end": "00:18:31.679",
+    "start_seconds": 1111.669,
+    "end_seconds": 1111.679,
+    "text": "of of of uh data that is coming from"
+  },
+  {
+    "start": "00:18:31.679",
+    "end": "00:18:33.270",
+    "start_seconds": 1111.679,
+    "end_seconds": 1113.27,
+    "text": "of of of uh data that is coming from different embodiment, different"
+  },
+  {
+    "start": "00:18:33.270",
+    "end": "00:18:33.280",
+    "start_seconds": 1113.27,
+    "end_seconds": 1113.28,
+    "text": "different embodiment, different"
+  },
+  {
+    "start": "00:18:33.280",
+    "end": "00:18:35.270",
+    "start_seconds": 1113.28,
+    "end_seconds": 1115.27,
+    "text": "different embodiment, different platforms, different environments and"
+  },
+  {
+    "start": "00:18:35.270",
+    "end": "00:18:35.280",
+    "start_seconds": 1115.27,
+    "end_seconds": 1115.28,
+    "text": "platforms, different environments and"
+  },
+  {
+    "start": "00:18:35.280",
+    "end": "00:18:37.669",
+    "start_seconds": 1115.28,
+    "end_seconds": 1117.669,
+    "text": "platforms, different environments and and learning based on that is now we are"
+  },
+  {
+    "start": "00:18:37.669",
+    "end": "00:18:37.679",
+    "start_seconds": 1117.669,
+    "end_seconds": 1117.679,
+    "text": "and learning based on that is now we are"
+  },
+  {
+    "start": "00:18:37.679",
+    "end": "00:18:39.590",
+    "start_seconds": 1117.679,
+    "end_seconds": 1119.59,
+    "text": "and learning based on that is now we are seeing an unprecedented evolution in our"
+  },
+  {
+    "start": "00:18:39.590",
+    "end": "00:18:39.600",
+    "start_seconds": 1119.59,
+    "end_seconds": 1119.6,
+    "text": "seeing an unprecedented evolution in our"
+  },
+  {
+    "start": "00:18:39.600",
+    "end": "00:18:41.430",
+    "start_seconds": 1119.6,
+    "end_seconds": 1121.43,
+    "text": "seeing an unprecedented evolution in our model. So in the last 2 months we have"
+  },
+  {
+    "start": "00:18:41.430",
+    "end": "00:18:41.440",
+    "start_seconds": 1121.43,
+    "end_seconds": 1121.44,
+    "text": "model. So in the last 2 months we have"
+  },
+  {
+    "start": "00:18:41.440",
+    "end": "00:18:44.070",
+    "start_seconds": 1121.44,
+    "end_seconds": 1124.07,
+    "text": "model. So in the last 2 months we have collected as much data as we have in the"
+  },
+  {
+    "start": "00:18:44.070",
+    "end": "00:18:44.080",
+    "start_seconds": 1124.07,
+    "end_seconds": 1124.08,
+    "text": "collected as much data as we have in the"
+  },
+  {
+    "start": "00:18:44.080",
+    "end": "00:18:45.669",
+    "start_seconds": 1124.08,
+    "end_seconds": 1125.669,
+    "text": "collected as much data as we have in the history of the last 3 years of the"
+  },
+  {
+    "start": "00:18:45.669",
+    "end": "00:18:45.679",
+    "start_seconds": 1125.669,
+    "end_seconds": 1125.679,
+    "text": "history of the last 3 years of the"
+  },
+  {
+    "start": "00:18:45.679",
+    "end": "00:18:47.590",
+    "start_seconds": 1125.679,
+    "end_seconds": 1127.59,
+    "text": "history of the last 3 years of the company and this is sort [music] of"
+  },
+  {
+    "start": "00:18:47.590",
+    "end": "00:18:47.600",
+    "start_seconds": 1127.59,
+    "end_seconds": 1127.6,
+    "text": "company and this is sort [music] of"
+  },
+  {
+    "start": "00:18:47.600",
+    "end": "00:18:49.750",
+    "start_seconds": 1127.6,
+    "end_seconds": 1129.75,
+    "text": "company and this is sort [music] of exponentially compounding and the model"
+  },
+  {
+    "start": "00:18:49.750",
+    "end": "00:18:49.760",
+    "start_seconds": 1129.75,
+    "end_seconds": 1129.76,
+    "text": "exponentially compounding and the model"
+  },
+  {
+    "start": "00:18:49.760",
+    "end": "00:18:51.909",
+    "start_seconds": 1129.76,
+    "end_seconds": 1131.909,
+    "text": "exponentially compounding and the model is getting better and better. So this is"
+  },
+  {
+    "start": "00:18:51.909",
+    "end": "00:18:51.919",
+    "start_seconds": 1131.909,
+    "end_seconds": 1131.919,
+    "text": "is getting better and better. So this is"
+  },
+  {
+    "start": "00:18:51.919",
+    "end": "00:18:54.230",
+    "start_seconds": 1131.919,
+    "end_seconds": 1134.23,
+    "text": "is getting better and better. So this is how we look at the world as we move from"
+  },
+  {
+    "start": "00:18:54.230",
+    "end": "00:18:54.240",
+    "start_seconds": 1134.23,
+    "end_seconds": 1134.24,
+    "text": "how we look at the world as we move from"
+  },
+  {
+    "start": "00:18:54.240",
+    "end": "00:18:57.669",
+    "start_seconds": 1134.24,
+    "end_seconds": 1137.669,
+    "text": "how we look at the world as we move from physical world to uh uh to from digital"
+  },
+  {
+    "start": "00:18:57.669",
+    "end": "00:18:57.679",
+    "start_seconds": 1137.669,
+    "end_seconds": 1137.679,
+    "text": "physical world to uh uh to from digital"
+  },
+  {
+    "start": "00:18:57.679",
+    "end": "00:18:59.669",
+    "start_seconds": 1137.679,
+    "end_seconds": 1139.669,
+    "text": "physical world to uh uh to from digital world to the physical. We believe these"
+  },
+  {
+    "start": "00:18:59.669",
+    "end": "00:18:59.679",
+    "start_seconds": 1139.669,
+    "end_seconds": 1139.679,
+    "text": "world to the physical. We believe these"
+  },
+  {
+    "start": "00:18:59.679",
+    "end": "00:19:02.150",
+    "start_seconds": 1139.679,
+    "end_seconds": 1142.15,
+    "text": "world to the physical. We believe these robots are going to come and expand the"
+  },
+  {
+    "start": "00:19:02.150",
+    "end": "00:19:02.160",
+    "start_seconds": 1142.15,
+    "end_seconds": 1142.16,
+    "text": "robots are going to come and expand the"
+  },
+  {
+    "start": "00:19:02.160",
+    "end": "00:19:05.430",
+    "start_seconds": 1142.16,
+    "end_seconds": 1145.43,
+    "text": "robots are going to come and expand the capacity of people and uh specifically"
+  },
+  {
+    "start": "00:19:05.430",
+    "end": "00:19:05.440",
+    "start_seconds": 1145.43,
+    "end_seconds": 1145.44,
+    "text": "capacity of people and uh specifically"
+  },
+  {
+    "start": "00:19:05.440",
+    "end": "00:19:07.750",
+    "start_seconds": 1145.44,
+    "end_seconds": 1147.75,
+    "text": "capacity of people and uh specifically we see dirty doll dangerous environments"
+  },
+  {
+    "start": "00:19:07.750",
+    "end": "00:19:07.760",
+    "start_seconds": 1147.75,
+    "end_seconds": 1147.76,
+    "text": "we see dirty doll dangerous environments"
+  },
+  {
+    "start": "00:19:07.760",
+    "end": "00:19:10.710",
+    "start_seconds": 1147.76,
+    "end_seconds": 1150.71,
+    "text": "we see dirty doll dangerous environments are the ones that are in most need of"
+  },
+  {
+    "start": "00:19:10.710",
+    "end": "00:19:10.720",
+    "start_seconds": 1150.71,
+    "end_seconds": 1150.72,
+    "text": "are the ones that are in most need of"
+  },
+  {
+    "start": "00:19:10.720",
+    "end": "00:19:14.230",
+    "start_seconds": 1150.72,
+    "end_seconds": 1154.23,
+    "text": "are the ones that are in most need of these solutions. And uh our philosophy"
+  },
+  {
+    "start": "00:19:14.230",
+    "end": "00:19:14.240",
+    "start_seconds": 1154.23,
+    "end_seconds": 1154.24,
+    "text": "these solutions. And uh our philosophy"
+  },
+  {
+    "start": "00:19:14.240",
+    "end": "00:19:16.549",
+    "start_seconds": 1154.24,
+    "end_seconds": 1156.549,
+    "text": "these solutions. And uh our philosophy by baking safety and risk awareness into"
+  },
+  {
+    "start": "00:19:16.549",
+    "end": "00:19:16.559",
+    "start_seconds": 1156.549,
+    "end_seconds": 1156.559,
+    "text": "by baking safety and risk awareness into"
+  },
+  {
+    "start": "00:19:16.559",
+    "end": "00:19:20.230",
+    "start_seconds": 1156.559,
+    "end_seconds": 1160.23,
+    "text": "by baking safety and risk awareness into these models are to build this future in"
+  },
+  {
+    "start": "00:19:20.230",
+    "end": "00:19:20.240",
+    "start_seconds": 1160.23,
+    "end_seconds": 1160.24,
+    "text": "these models are to build this future in"
+  },
+  {
+    "start": "00:19:20.240",
+    "end": "00:19:23.190",
+    "start_seconds": 1160.24,
+    "end_seconds": 1163.19,
+    "text": "these models are to build this future in a responsible in a safe and risk aware"
+  },
+  {
+    "start": "00:19:23.190",
+    "end": "00:19:23.200",
+    "start_seconds": 1163.19,
+    "end_seconds": 1163.2,
+    "text": "a responsible in a safe and risk aware"
+  },
+  {
+    "start": "00:19:23.200",
+    "end": "00:19:25.909",
+    "start_seconds": 1163.2,
+    "end_seconds": 1165.909,
+    "text": "a responsible in a safe and risk aware manner. And with that thank you. Uh we"
+  },
+  {
+    "start": "00:19:25.909",
+    "end": "00:19:25.919",
+    "start_seconds": 1165.909,
+    "end_seconds": 1165.919,
+    "text": "manner. And with that thank you. Uh we"
+  },
+  {
+    "start": "00:19:25.919",
+    "end": "00:19:27.990",
+    "start_seconds": 1165.919,
+    "end_seconds": 1167.99,
+    "text": "manner. And with that thank you. Uh we love to talk to you all if interested"
+  },
+  {
+    "start": "00:19:27.990",
+    "end": "00:19:28.000",
+    "start_seconds": 1167.99,
+    "end_seconds": 1168.0,
+    "text": "love to talk to you all if interested"
+  },
+  {
+    "start": "00:19:28.000",
+    "end": "00:19:29.590",
+    "start_seconds": 1168.0,
+    "end_seconds": 1169.59,
+    "text": "love to talk to you all if interested what we are doing. We'd love to chat"
+  },
+  {
+    "start": "00:19:29.590",
+    "end": "00:19:29.600",
+    "start_seconds": 1169.59,
+    "end_seconds": 1169.6,
+    "text": "what we are doing. We'd love to chat"
+  },
+  {
+    "start": "00:19:29.600",
+    "end": "00:19:33.799",
+    "start_seconds": 1169.6,
+    "end_seconds": 1173.799,
+    "text": "what we are doing. We'd love to chat more with you offline. Thank you."
+  }
+]

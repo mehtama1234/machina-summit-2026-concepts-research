@@ -1,0 +1,556 @@
+[music]
+>> Hello everyone. Hello Laura.
+Nice to see you all. Oh, nice.
+Old face and new face.
+>> It's always a pleasure to see many
+familiar faces.
+>> Always a pleasure to be at Station F.
+So, for the little story, Hugging Face
+started at the very first batch of
+Station F
+a long time ago now. We are 10 years
+old. We did three years in this building
+with three different incubators.
+>> Great. So, I'm Laura. I lead founder
+experience at OpenAI, or as I often say,
+I work with people who are building the
+future.
+But today, we're here to talk about
+physical AI, which is
+what um I think everyone
+>> We're both excited about.
+>> Yeah, we're we're both extremely excited
+about. I feel like I spent the day
+talking to people about how people are
+using Codex in robotics. But there's
+never been anyone I've met who has a
+better horizontal view of what's
+happening in robotics and physical AI
+than you.
+Um we can talk about Reach Mini, we can
+talk about Loobo, or we can talk about
+everything that you're seeing. What are
+you most excited about in robotics right
+now?
+>> In robotics, oh my god, there's so
+[laughter] many things. I would say
+specifically for here, I'm very excited
+about uh the state of uh robotics in
+Europe.
+Because I think Europe has a as a huge
+like
+uh set of early or later stage
+companies. Some of them I I've seen him,
+some of them know for a long time.
+They're very promising. I think Europe
+has this huge like industrial history.
+We know how to build stuff.
+Um and I think robotics is interesting
+because it's not yet a game of uh I need
+the largest data center, and and that's
+basically ultimately the only thing that
+matter. It's a game of I can be smart
+how I build my robots. I can be smart
+how I train it. You cannot yet put uh 3
+trillion parameters in in in a robot.
+You're you're constrained by latency,
+and that's also something that's very
+nice for us. So, we can train small
+models. You can use open source. So, I
+think it's a it's a good it's a good
+area where I think Europe can build
+actually massive company.
+>> Great. Okay.
+So, as I said, you spend a lot of time
+here. You talk to I I've never met
+anyone in physical AI who doesn't know
+you or doesn't already work a little bit
+with Hugging Face. But not only do you
+spend a lot of time in Europe, you go to
+the US every month.
+And every quarter or every few months,
+you also go to Shenzhen. How would you
+compare what you're seeing in the
+different markets?
+>> It's interesting, yeah. Um
+I think people approach that very
+differently.
+Um
+Maybe one angle to see that is
+um
+in Shenzhen or in China, people approach
+it with a very
+uh hardware focus. So, typically a
+typical robotics team in in in China
+will be like a team that's used to build
+EV, and they start with a very strong
+manufacturing angle in mind. They're
+like, "Okay, how are we going to
+mass-produce this?" You get then robots
+like Unitree, very impressive. If you if
+you go visit the manufacturing line of
+Unitree, they test every single piece
+for reliability. Every single piece of
+the robot is tested over there.
+Um and so, they really go quickly there,
+but then they maybe spend a little bit
+less effort or for now interesting in
+the brain of the robots. So, typically
+you will have this very impressive like
+um I would say a hardware platform, but
+like they don't really spend a lot of
+time in the brain. I think the US is
+almost the opposite. So, you go to this
+company who are very like uh Apple so
+they are like Nvidia, they're fabless.
+They don't really build any robots, but
+they are spend a lot of time on the
+algorithm on the brain, right?
+And Robot is somewhere in the middle.
+So, if you go in ETH, if you visit like
+Zurich, you see these teams, they know
+really well how build robots, but
+they're also like very ML native. Like
+they are people who train I think uh
+who know how to train LLM or who know
+how to train VLM or world models. So, I
+think Europe is nice having these both
+talent. And it's interesting that if you
+go in in the US, for instance, you can
+categorize all the robotics company if
+they are more hardware or software. And
+you see very little company who have
+both capabilities in-house at a high
+level.
+Uh maybe Tesla is one. And honestly,
+there is very little. And I think that's
+what's that's what's missing a lot in
+the US. And in Europe, I do see that.
+>> Um speaking of ETH robotics, uh or ETH
+Zurich robotics, they have this robotics
+club there that I get super excited
+about because
+I feel like Europe has come together in
+a way that I've never I've not seen the
+US or China or anywhere else to truly
+build community. So, the robotics
+community and the collaboration that
+we're seeing in Europe right now is
+quite unique in time.
+So, the robotics club in Zurich was
+self-organized by students, and they
+have a project that is run across the
+club where there's a team that's working
+on each part of the robot. So, there's a
+part that's looking at joints, there's a
+part that's looking at the head, there's
+a part that's looking at the movement,
+there's a part that's looking at the
+software. And they're all the different
+teams coming together to collaborate.
+So, there's a lot of learning that
+happens. And then what they did was to
+work with a lot of the other
+universities around Europe and created
+the European Student Robotics
+Association. So, it's 14 of the top
+technical universities in Europe with
+over, I believe, 2 and 1/2 thousand
+students across the geography that are
+collaborating, that are hosting
+hackathons together. So, I'm very, very
+bullish on where robotics is going to go
+in Europe from, especially, the younger
+talent that we see coming out of.
+>> So, let me ask you a couple of questions
+as well. Uh
+I know I've heard you recently became a
+head of a global founders experience at
+OpenAI. Uh Can you tell us a little bit
+like what is it for a robotic startup to
+work with Open AI? You know, where where
+you can help, how does it work, what's
+what's the founder experience when you
+work with you?
+>> first of all, I'll start with I'm
+extremely fortunate because I had the
+best job in the world. Like I'm I wish
+all of you could have the joy that I
+have. I get to work with founders and
+investors and developers every day and
+for 2 years I got to do that with the
+best of the builders who are right here
+in Europe and I'm
+extremely happy that the team that we
+built is now in working really well.
+Whoever you are, wherever you are, if
+you're in Europe, you will get to work
+with the best startups team in the
+world.
+Um and Trisha joined and is now running
+this team.
+Um and every single person is the best
+person I've ever worked with. So, now
+that we have this fantastic team in the
+startups, I got to move on to say okay,
+well, as a platform, we do extremely
+um
+well in our developer experience telling
+all of you how to get the most value out
+of the models. How do you build and how
+do you get to have all the benchmarks
+and all the technical side? What is it
+that you want to build? Well, on the
+other hand, once you start
+commercializing and once you start
+building for others, how do you get the
+most value out of the platform Open AI
+as a partner so that as a founder you
+have a partner for success, that we're
+not just transacting and selling to you,
+but from day one, the moment you decide
+to build a company and you decide that
+you're in service of that use case and
+the users in that, we can partner with
+you so that we're there from day one all
+the way to exit so that we can really
+see what it is that is a step change
+um
+in strategically using us for growth and
+for value beyond the models.
+>> Hello.
+>> So, everything and anything that is in
+sales.
+>> And as a reminder, I mean, OpenAI was
+extremely big on robotics. I remember
+the the hand on the robotics, you know,
+the Rubik's Cube. Maybe some of the
+people were around in AI in 2000 I see
+some of the people were
+>> I have it in the office just right here.
+>> 2019, yeah. The hand on the Rubik's
+Cube.
+I'm very excited. I mean, I won't ask
+you because I guess this is all under
+NDA, but about the new hardware coming.
+>> Well, I'll tell you what. We are a
+research and deployment company. We've
+always done research and intelligence
+and the very frontier of intelligence is
+what we want to continue to always do
+research on.
+So, what is in research is very broad
+and vast. Obviously, robotics goes in
+there. Then there's product and then
+there's deploying it. I work on the
+deployment side of things. So, I don't
+know what and when will come out of
+research, but obviously, we're doing a
+lot in making sure that we're at the
+forefront of robotics research. If and
+when something else comes up, we'll be
+very happy to share.
+>> I know some of our Richie mini came to
+OpenAI. So, I don't know I don't know if
+it's for personal use or for research. I
+hope it's for research.
+>> I've seen a lot of demos with Why don't
+you tell us? Okay. So,
+Richie mini sits on the desk. My
+daughter uses it. All my colleagues now
+use it. I walked in the office in Paris
+yesterday and I saw a few on our desks.
+There's little robot. We're seeing a lot
+of humanoids here.
+Tell us what you think about the
+different form factors. Humanoids,
+wheels, sliding. What do you think?
+>> Yeah, I'm one of these person who is not
+so excited about humanoids. I think
+they're slightly scary. Every time I go
+at night opening my fridge, I hope there
+is not a humanoid just standing there
+just I don't know being plugged and
+I I think I don't really like it. I I
+like the the weird form factors, the one
+that, you know, they're rolling at half.
+I like all these kind of Star Wars crazy
+things that you like doesn't really
+work, but why not? And I I think also
+the nice thing is you
+you can think about interesting things.
+So, for instance, a humanoid
+always have by construction a lot of
+motors because you have like the 60 or
+degrees of freedom you want. That's 60
+actuators. So, like the the floor price
+is always going to be quite high. So,
+it's going to be really hard to push
+that under 5,000.
+And for instance, we want to sell $500
+robots, which means $500, we're going to
+have a walking robot soon this summer
+that we're going to unveil. That's going
+to be also 500 euro dollar or 500 euro
+or something like that. Um I think you
+can only do that if you forget the
+humanoid form factor. If you go, "Okay,
+let's let's imagine other way." So,
+yeah, I think that's one thing I'm way
+more excited about. I also think in
+terms of even just human interaction,
+it's even more fun to interact with
+something that's not just in the uncanny
+valley by construction, right? I feel
+like you can think about new way to
+interact. And then if you think, "Okay,
+we're going to put that for use."
+There's a lot of very interesting
+companies here that are already
+deploying like I was chatting with
+Thomas from Sunrise just before I came
+on stage. They're already deploying in
+in in factories, right? And the the way
+they decide is, "Okay, we're not going
+to have something that move. We have
+these like
+um these like bi- bi- bi-
+bi-manual setup and and basically that's
+way enough for doing a lot of things."
+So, I think you're way more free to
+already using robots today if you don't
+have to build to build a full humanoid
+that's that's supposed to be able to
+react to any any possible situation in
+the world.
+What about you? I mean, maybe asking you
+as a I also know you you're I mean, you
+help entrepreneur at day. I also know in
+the weekend you're also investor in in
+some startups.
+In terms of physical AI,
+you have some recommendation or some
+advice that you always say to early
+startups.
+>> I mean, I'll tell every startup that
+they should use
+use Codex because obviously it's the
+best tool for any engineer, no matter
+what it is that they do. And I'm not
+saying this just as that I work at
+OpenAI and I'm an investor. It is the
+fact that everyone that I spoke to here
+told me an interesting use case that I
+wouldn't have thought of. So, for
+example,
+um Benediktas who's over there from
+Alana Inc. They're building a different
+weaving
+uh factor that could create the skin
+skin for robotics.
+>> Qualia is amazing, by the way.
+>> Yes, they are. They're incredible. Um
+Qualia is another company that was
+started by a Swedish founder in Denmark.
+And they're doing a lot of things that
+are still in stealth, but when I speak
+to him about how they're using Codex, he
+said, "A, there is so much capability
+now that comes from the multimodality
+that Codex has. All the tests that we
+do, all the agents that we build on the
+back of it, whether it is simulations
+and different kinds of simulations for
+testing, whether it's creating a
+database of what has worked and hasn't
+worked in an experiment, so that we can
+then create agents that understand what
+hasn't worked and then create new kinds
+of data in the back to further
+understand and combine the different
+experiments. Whether it is Orbit, which
+is an incredible team that uses four
+arms for robots in space, and it's it's
+a team that comes out of ETH Zurich.
+They've created a whole dashboard that
+creates all the different parts of the
+robot so that they have a command and
+control center that can be used for the
+robot, but also when the robot is
+deployed in the different deployments.
+So, you have a huge database that you
+can build. Then you're creating
+multimodality from the images, the
+video, the analysis of everything that's
+happening. You're using voice to control
+and the bidirectional voice that we're
+investing in over and over again. All
+the capabilities of how the robots are
+then interacting with the real world,
+because for most people where AGI is
+going going felt is in voice.
+So, there's so much that you can do from
+your control center from Codex that I
+think robotics teams are some of the
+most sophisticated users of agent
+capabilities of it.
+>> Surely.
+And maybe by the way my my first
+recommendation for them is usually to
+not avoid the sophistication but to
+really dive in it. So, the best team
+we've seen and actually a lot of them
+are also here from Paris thinking about
+for instance Genesis really is very
+impressive demo a few weeks ago.
+It works when you dive really in all the
+details of
+how you train from the ML models down to
+the firmware, down to how you interact,
+down to the actuator. You you actually
+need to go super deep in all these
+vertical if you want to get a model that
+really not only do this nice demo but is
+actually something that push the push
+the state of the art. I think there's
+two things that that are really very
+important to grab in robotics. The first
+one is this, you will need to be
+super technical and and technical on
+a lot of aspect to really solve this
+problem. And the second one is is data.
+You will need to really
+understand your data, clean it, find it
+because it's way more complex than than
+than for LLM. I think you need to to get
+it and a lot of the challenge we we see
+is around getting getting high quality
+data, getting it clean, using the right
+tools to like you are saying the
+dashboard to visualize it, understand
+which part of the data is interesting,
+which part of what your robot is doing
+is actually bad or good, which is way
+harder in robotics because you can't
+just
+read it or just ask people to read it,
+you have to watch it.
+>> Yeah.
+>> I think yeah, I think it's people need
+to be extremely extremely technical.
+>> Well, so I have a thing. Like I get very
+excited by technical builders. And I
+think in AI a lot of people can build a
+lot of things. In robotics you truly
+have to be technical. Like
+you don't just wake up and say I'm going
+to work in robotics.
+But if you do decide to take up the
+technical skill of robotics, the fact
+that there's so much around it that
+Codex can now do for you and how much
+further, how much faster you can go is
+really important. And like speaking of
+sunrise, we were just having
+conversation with Thomas. He was saying
+things that previously would take months
+are getting cut to weeks. Things that
+used to take days are getting cut to
+hours. And what is now in line of sight
+of how to build the software around the
+control of what is possible
+is where the big delta is happening
+because yes, we can build the
+technology, but how does it get adopted?
+How do you test it? How do you make sure
+that it works? How do you take it from
+theory and technical lab into people's
+hands, into the factories, into
+manufacturing, into logistics, into
+operations, into the home, around your
+kids and everything else in between. So,
+robotics is not, as all of you know, a
+singular
+thing. It is all the things. It is how
+you collect data. Companies like
+Micro-AGI, who I saw walking around
+earlier, and they're doing
+the highest quality of data collection
+to train robots and data sets, all the
+way to the deployment and the control
+and everything in between. So, given
+this is a whole new intelligence layer
+industry that is growing on top of what
+we already have, I think we need to have
+a blue sky where people have the power
+to go into the innovation that is the
+delta for what they want to do and bring
+to the world.
+>> I think Codex is helping a lot about on
+that, right? I was just sitting with Jim
+Jim Fan and the Nvidia is also here.
+There is a lot of people. Jim is the is
+the leader of robotics there. We were
+chatting about this very impressive
+project they have called Inspire where
+basically they use they use an agent to
+build the training the training loop and
+to build the training recipe to train
+the robots. I think that's really the
+future which is you're going to use
+these amazing coding tools, these
+amazing like Codex, GPT 4 5.6
+that I'm happy is out finally that we
+can play with to basically help you
+build this this research loop to create
+your robots.
+>> Well, I have to say on 5/6, the feedback
+we've gotten is excellent so far and I'm
+I'm I look forward to more people being
+able to use it, but if I were to close
+very quickly,
+we're talking about a lot of things,
+we're seeing a lot of things, we're
+traveling in many places. What is the
+thing you're most excited about or you'd
+like to tell the audience or leave them
+with?
+>> Um
+oh my god.
+>> You want me to answer first?
+>> Yeah, I'll let you answer first.
+>> Well, for me the
+as I said, the thing that gets me very
+excited is very technical builders. The
+other thing that gets me very excited
+and is what's in my heart is community.
+I love it when people build in public. I
+know
+right now there's truly the moment of
+robotics and physical AI, but to see the
+community come together and to see how
+people are informing each other, but
+mostly to see how much is coming from
+every corner of
+let's say Europe, EMEA, the world is
+what I get most um
+ambitiously passionate about because,
+you know, Sunrise we mentioned comes
+from Slovenia, but we've seen companies
+in the Czech Republic, we're seeing
+companies in Estonia, we're seeing
+companies in Helsinki and in Sweden and
+in Spain and like every corner of Europe
+has a lot of history that hasn't
+necessarily been tech first, but our
+history that is uniquely incredibly
+European is what gives us the right as a
+community to become the leaders in the
+world in this new technology and I want
+us to see I want to see us win.
+>> Words to live by. I think there's no
+better way to end and I see it's
+blinking anyway. Thanks a lot everyone
+for listening.
+>> Thank
+>> Woo!

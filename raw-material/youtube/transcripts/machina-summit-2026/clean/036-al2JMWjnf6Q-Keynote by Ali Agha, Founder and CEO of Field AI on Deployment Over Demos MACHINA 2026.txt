@@ -1,0 +1,459 @@
+[music]
+Thank you Mark for for um the uh setting
+this stage. As Mark said, we focus
+heavily on multi-root solutions that are
+actually designed to deploy uh uh be
+deployed in the field. Um, Field AI is a
+company that builds software, the brain
+layer for robots that is generalizable
+across different embodiment. So, a lot
+of embodiment you see on this photo are
+today across uh uh uh the globe deployed
+working doing different things with the
+customer. What you see in the middle uh
+is our is our brain, a compute unit, a
+sensory system attached to it that sits
+on multi-tonon vehicles all the way to
+humanoids, four-legged robots, different
+hands with different types of fingers.
+And the architecture is by design
+architected and built to handle
+different dynamics, different types of
+modalities. And this doesn't stop just
+as in in robots. The brain is applicable
+across different missions as well as
+different environments.
+Here are some of the locations in the
+world our robots are operating and have
+been deployed across three continents
+today from North America to Europe to to
+APAC region and carrying out variety of
+different missions in radically
+different types of environments.
+When we talk about real world, this is
+what we mean by it. We usually are in
+settings that we refer to it as DDD,
+dirty, dull, dangerous environments um
+like construction sites, energy sectors,
+uh manufacturing sites where the world
+is quite unpredictable and quite messy.
+Um this is a regime that is quite
+different from uh uh lab demos, quite
+different from controlled environments.
+If you look at these general purpose
+brain from the two lens of
+generalizability
+and reliability and deployability as you
+go on the x-axis to the right the
+requirement for reliability goes up uh
+uh uh rapidly you have on the left
+digital AI conversational AI things like
+chat GBT you're dealing with the the
+words and languages you have high
+tolerance for errors hallucination you
+can go and fix a few words in your email
+or in your article after it's done. That
+already is a big success. If 80% of job
+is done, you go to lab demos, your
+tolerance goes a little bit lower. In
+control environment, you need to have
+even less hallucination. But at the
+largest sector of the market that been
+predicted to be the 70% of the TAM for
+robotics and autonomy, you have almost
+no tolerance for errors. And this is
+where a lot of traditional architectures
+like transformer-based a blackbox large
+neural network start struggling because
+you don't have the right
+interpretability. You don't have enough
+of a risk awareness and uncertainty
+quantification baked into into these
+models.
+That's a regime at Phili we we heavily
+focus on uh which again we call it DDD
+environments dirty dull and and
+dangerous. And this comes from the lens
+and sort of the DNA of the team as well.
+We come from a heavy field deployment
+background. Uh part of the team comes
+from deep minds and metas of the world
+focused on foundation models. The other
+part come from NASA of the world and
+self-driving car community where we have
+been deploying robots from Mars to to
+underground. Um uh uh Mark mentioned
+this and we are um we have been
+collaborating for for a long time back
+in uh 7 8 years ago. We received very
+first legged robots from Boston Dynamics
+before even Boston Dynamics Cell it. I
+used to be at NASA at that point and we
+were pushing these systems to go into
+Mars analog caves because those are some
+of the most likely places to find signs
+of life on Mars other planets because
+they're uh shielded from from cosmic
+rays. going into those types of
+environments require you to handle an
+environment you have never seen before.
+There's no GPS, there's no prior map,
+there are no roads, there are no
+predefined information. So that was
+really fun. We started there published
+some papers that were first uh uh in
+deploying these solutions for to
+accomplish many kilometers long missions
+without human intervention. Then uh um
+the team has been involved and be key
+members of developing coordinated Mars
+helicopter rover navigation all the way
+to uh winning the urban phase of DARPA
+challenge and and and DARPA racer and we
+started FAI in 2023. But this is to show
+that this is the lens we look at the
+world. We look at it from day one from
+the deployment perspective. And first
+question we ask is not how does
+necessarily do XYZ at the highest level
+but is it going to be resilient? Is it
+going to be reliably operational for 3
+months in the field and that comes and
+changes the architecture uh of of the
+solution. Um and it changes the
+architecture by bringing two end of this
+spectrum together from the large AI
+model side the generalizability and from
+the risk aware robotic AI side the
+deployability of these solutions. So if
+you look at it at this sort of a a a 2D
+lens uh of of generalizability and
+reliability uh chat GBT and
+conversational AI type solution fall
+into the top left right and this is
+where we uh uh see today some of the
+solutions that are basically taking a
+large transformer model to bring it into
+robotics fall into this category. uh
+incredible for set of applications but
+in DDD environment the hallucination is
+not tolerable prone to hallucination
+heavily data inefficient you need in
+this regime hundreds of trillions of
+tokens of data and the creativity
+becomes how do I use different sources
+to close that gap but it is just a huge
+gap and hundreds of trillions is the
+amount of data you need in
+conversational AI that is a
+one-dimensional problem text with
+discrete 52,000 words in the dictionary
+In robotics the world is very very
+different highly highdimensional it's
+continuous and it's still a hypothesis
+how far this would generalize so what we
+do at field AI is we take that all the
+best in there but we combine it with
+what we have been doing for the last
+[snorts] 10 15 years in terms of
+deployment in terms of the uncertainty
+quantification and we take that
+technology and bake physics bake
+uncertainty quantification into these
+traditionally ally blackbox large neural
+networks and that's what we call field
+foundation models uh that not only
+generalizable but also provide a level
+of risk awareness provide a level of
+safety which translates you being able
+to deploy these solutions across uh
+these different environments without
+prior information. Um
+what do these robots do in the field? We
+in general carry out four different
+classes of uh missions and operations.
+The first class is the the the part that
+we don't touch the environment. We walk
+around do inspection digital twin
+creation. We work with Nvidia. We work
+with a lot of incredible partners on
+that front to understand the world to
+analyze it to give trends to the to the
+customers. The second class is we carry
+objects. We move material with large
+vehicles all the way to small platforms,
+dog robots from construction site to oil
+and gas refinery to data centers. The
+third class is the brain generalizes to
+hands, arms, and fingers for
+manipulation tasks from opening, closing
+doors to pressing buttons, picking up
+objects, all the way to coordination
+that Mark alluded to, which is the
+capability that you basically take a
+heterogeneous team of assets, a truck
+out there, a a humanoid inside
+doing manipulation work, a dog robot
+doing inspection, and these
+receive one mission and dispatch
+themselves autonomously to different
+parts of the world. I'll show you some
+quick videos of some of what we do here
+across these three cognitive layers. The
+architecture comes and solves the
+problem in three layers. The bottom
+layer is what we call physical AI that
+is focused on local skills, balance
+manipulation. Then we go to operational
+AI where the story is how you embed this
+into the customer workflow and then the
+multi- aent. So I'll go over these one
+by one. In the bottom layer, uh we solve
+the problem of you have a system and
+you're trying to understand the balance.
+You're trying to understand and do local
+manipulation skills. So but the world is
+local around you, right? So you can
+change the underlying uh uh uh terrain.
+You can uh uh in a in a incel operation,
+you can operate and and teach the the
+platform to do manipulation tasks. very
+simulation aminable and highly uh uh uh
+after you do the simulation come back
+and in the real world do reinforcement
+learning and start learning and uh more
+and more um but the focus is you are
+local right the task is you can collect
+data in a in a in an efficient regime
+you can do perform local tasks you can
+locally keep the system stable and
+provide these set of skills Right. Um
+then uh uh uh you go to the operational
+AI layer um which embeds [snorts] these
+skills into the customer workflow. But
+before operational AI, maybe a few other
+skills to highlight it's not just
+limited to humanoids. Here you see we
+take very cost affordable platforms and
+make up for the weakness of the body
+with a better brain. We push them to the
+limits of the hardware capability and
+enable them to carry out different
+missions. And being able to go on
+different embodiment allows you to
+handle and and carry out the mission
+different missions for the customers. So
+this one, this robot here that you were
+just seeing carries 150 pound for four
+hours. Um the small one is perfect for
+inspection. The arms of manipulation, of
+course, perfect for manipulating objects
+and having a brain that goes across
+these different embodiment, different
+tasks is what gives you this very
+powerful horizontal layer.
+Um, and and similar with across
+different uh humanoids and different
+embodiment. I will I will skip this this
+video in the interest of time but uh
+highlighting how the the the the brain
+adapts to different embodiment in the in
+the local skill. But then the much more
+important layer is the operational AI
+layer. It's one thing to keep the system
+stable. It's one thing on a tabletop
+manipulation perform operations. It is
+totally totally another thing to put
+this in the the customer workflow with
+all the realities of the real world
+where in the first uh uh uh 10 15
+minutes there's a high chance of you see
+a lot of off-nominal settings different
+lighting different situation people walk
+and uh uh a lot of your assumptions uh
+uh might break and you get out of
+distribution very quickly and very
+importantly to do so without imposing
+infrastructure or work for customer
+without doing it uh without asking the
+customer to provide maps or clean up the
+space for you or provide positioning
+system. So all of these uh uh solutions
+you see here are with our sort of paying
+customers from different parts of the
+world from north of Japan in the snow
+all the way to deserts in Dubai to
+Germany to Europe and all of these uh to
+to the US. deployments are with
+different embodiment
+but without ever asking the customer to
+hey go map the world and tell me where
+different objects or different elements
+are right without providing positioning
+system GPS without pro cleaning the
+space and having a trajectory to say
+teach and repeat and the brain carries
+out different types of missions with
+with the same model from perimeter
+security like the one you see here to
+digital twin creation to uh um providing
+variety of reports for our construction
+customers from progress to deviation
+analysis to object cataloging all the
+way to actually carrying objects all the
+way to doing this across larger set of
+vehicles and performing manipulation
+tasks. And that horizontal layer again
+gives a very powerful uh capability for
+the system not just on an individual
+level but at a as a as a team in a
+coordinated manner. Speaking of
+different platforms, this is a radically
+different uh uh platform. Perhaps the
+highest level of autonomy we have uh uh
+uh uh we have we have developed because
+all in in this application all the
+customer gives us is one single
+waypoint. They tell us from where you
+start 10 mi north, 20 mi east, there's
+this flag. Go carry deliver material to
+there. That's all. There are no roads.
+There are no uh uh GPS. There's no
+satellite imagery. There's no prior
+information about the world. We might go
+to the right side of a hill, hit a dense
+foresty, get entangled, and then you
+have to come back, go from the other
+side. And I'm highlighting this to say
+the input to the model is not just your
+simple image or RGB or lighter scan.
+It's a much larger representation of the
+world. And how do you tokenize that? How
+do you compactify this? How do you pass
+it to a model? These are the the
+problems that now you're we are working
+on in the operational AI layer to give
+memory reasoning to these models rather
+than just have the in the in the lower
+level in physical just react to
+something in the local setting. Um, in
+the last operation we did, we went
+almost around 40 40 miles uh uh with in
+an environment that robot had never uh
+seen before with with no human touch.
+I I'll skip these uh uh uh but this is
+to to highlight uh uh the same [snorts]
+technologies how they come and perform
+different applications across humanoids.
+Of course, manipulation and dexter
+operation is still not a fully solved
+problem. This is open
+While a lot of our application today
+with the pit paying customer these are
+still a lot of of developments across
+different applications from pushing
+carts carrying objects to uh scanning
+packing and in logistic setting moving
+material and and and so on. But then we
+go to the the last cognitive layer uh
+the the up the multi- aent uh which is
+based on our touch points with the
+customers we are seeing how critical
+this is and now you have a model that
+handles not just a single agent but a
+coordination across heterogeneous team
+of agents. So in this operation, you're
+looking at an an operation where we sent
+11 robots, four of them with legs, four
+of them with wheels, and three of them
+flying into an environment they have
+never seen before. We don't we have not
+also seen this environment in advance.
+Every camera in the environment,
+everything you see are cameras installed
+by the customer. We only see the
+operation after mission is done from the
+recorded data. The robots go in, they
+discover the world and they dispatch
+themselves autonomously. They see here
+are stairs. Here is a boulder. I'm going
+to send and dispatch a dog robot to to
+handle that. Um I see a a a vertical
+[snorts] shaft. The drone will take off,
+map that, carry out the operation, come
+back, land on the ground robot, charge
+itself and carry out the operation. And
+uh uh in all this operation again there
+is no prior knowledge of the world no
+prior map no positioning system no GPS
+no uh uh predefined plans and these all
+emerges out of out of the the autonomy
+solution which um now we are seeing on
+the commercial side there's quite a bit
+of traction uh because once you can
+handle heterogeneous set of assets a
+truck out there a humanoid doing welding
+and dog robot doing inspection and
+coordinate these not you carry out the
+mission but you remove a very important
+uh infrastructure layer for customer and
+increase the ROI quite a bit and similar
+again on the humanoid side these
+technologies slowly come into the
+operations on the with hands and
+manipulation in this case the the
+humanoid closer to the camera we lock
+the body and don't let it move and ask
+it to put the the the part into the into
+the uh into the box but because hand
+cannot reach they're understanding that
+they have to coordinate to be able to to
+do these types of missions. But what is
+the impact on the business? What's the
+philosophy of field AI for us? We back
+to what I started with. We don't look at
+the world. We don't see robotic as a
+pure data problem. We see robotics as
+data problem plus a a a problem of
+physics and reliability and architecture
+problem. This helps us to deploy even if
+there are out of distribution elements
+in the environment. The physics kick in
+keep you safe and that allows you to
+collect data. You might be inefficient
+around the parts of the environment that
+you have not experienced before but
+you're safe. Because you're safe, it
+allows you to collect data. Data allows
+you to be tomorrow more efficient around
+those objects. You learn what you did
+not know yesterday. That leads to more
+deployment. More deployment leads to
+more data and better models and that
+leads to a very large uh uh flywheel of
+of of of uh data that is coming from
+different embodiment, different
+platforms, different environments and
+and learning based on that is now we are
+seeing an unprecedented evolution in our
+model. So in the last 2 months we have
+collected as much data as we have in the
+history of the last 3 years of the
+company and this is sort [music] of
+exponentially compounding and the model
+is getting better and better. So this is
+how we look at the world as we move from
+physical world to uh uh to from digital
+world to the physical. We believe these
+robots are going to come and expand the
+capacity of people and uh specifically
+we see dirty doll dangerous environments
+are the ones that are in most need of
+these solutions. And uh our philosophy
+by baking safety and risk awareness into
+these models are to build this future in
+a responsible in a safe and risk aware
+manner. And with that thank you. Uh we
+love to talk to you all if interested
+what we are doing. We'd love to chat
+more with you offline. Thank you.

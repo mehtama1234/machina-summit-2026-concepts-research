@@ -1,0 +1,457 @@
+[music]
+Uh welcome everyone and good afternoon.
+Um in the next 20 minutes we are going
+to talk about something many
+organization are facing which is moving
+AI from prom promising pilots to real
+operational impact. And to this I'm
+pleased to have with me Eisenberg, CMO
+of Samsara, so global leader uh in um in
+fleet safety operation and Eve Pan, you
+are the CEO of Fria, the European leader
+in vehicle rental for mission critical
+services.
+So Eve, let's start with you. What uh
+convinced you that it was the time to
+rethink the way Fria operates? The
+inflection point came four years ago
+when I started as a CEO and talking with
+our customers I realized that their duty
+was to keep their fleet running day and
+night to ensure the uptime of uh
+critical hidden infrastructure in urban
+area and that's where I got the light
+and I discovered that those vehicles
+were used as production units on wheel
+and that changed completely the way you
+take decision and that's where I
+realized that Uh it was completely
+different than just renting those assets
+and um we had to move from just managing
+those vehicles to become really in a um
+critical
+infrastructure platform to to provide
+customers the full um added value they
+were searching for.
+>> Very interesting. Miguel and I'm turning
+to you. Uh so we hear a lot about AI
+pilots. uh why scaling AI is so
+difficult and how do you help your
+customer to make that leap?
+>> Yeah, so if you think about it with
+Frighten, they have 11,000 customers,
+52,000 fleets that they manage. So
+imagine going from a pilot of AI of 50
+and rolling that out to 52,000. Uh so it
+was really critical to align on what our
+goals were and how do we get to ROI very
+quickly. And so amazing enough they're
+already seeing uh total cost of
+ownership reduction by 20% 98% vehicle
+uptime and then 10% operational yield
+and I think that's only the beginning
+when you're applying AI to all of this.
+The other thing is a standardized
+architecture. If you think about it, uh
+they have all different types of
+vehicles and as they grow through maybe
+autonomous or robotics or humanoid
+vehicles, so a mixed autonomy fleet.
+They need to be able to bring all that
+data into one platform. And then also
+they need to have a robust
+infrastructure that's an open platform.
+And so we have APIs that hook into their
+Nexa platform so they can really uh get
+the most out of the data, understand
+maintenance. Uh you know, fuel is a big
+deal right now. So, how do they
+understand their idle time, their fuel
+usage, all of that? And then, of course,
+the success matters on implementation
+and being able to implement very
+quickly. So, less than 15 minutes per
+vehicle as you're bringing those in and
+taking them out of rotation because of
+course any downtime costs money.
+>> Yes.
+>> Impressive. Um, Eve, let's talk about
+people.
+>> Uh, because technology is one thing, but
+getting people on board is another
+thing. Uh so what did you learn from
+bringing thousands of drivers and
+clients uh through this change?
+>> Very good question by the way. Once we
+learn a lot first what we learn
+it's also about technology. So having
+like Megan said 52,000 vehicles across
+nine countries and 11,000 customers
+across six different uh mission critical
+end sectors in urban areas. It's very
+difficult for us and it was a challenge
+to capture the data from every vehicle
+because without data no fitting for AI
+and no feedback loop to our customers.
+So we searched for a partner which we
+find Samsara. We had already previously
+some partners that we kicked out because
+they were not innovative enough and we
+searched for a partner that we found
+that um well had uh the same mindset as
+Freken. And once we had that plat that
+technology on telematic we launch a
+project across the company and um we
+started small we convinced people we
+made many mistakes. We also deliver
+tangible results to our customers to our
+employees and uh you know in the end uh
+it and um real data
+um
+shouldn't be seen as I uh I mean I would
+say AI and real-time data shouldn't be
+seen as an IT project but it's a
+transformation foundation of our our
+model.
+So people really engage with that
+transformation.
+>> Absolutely. This is crucial in any
+organization I guess.
+>> Um I'm turning back to you Megan. Um so
+you are working for thousands of
+organization across the world. Um once
+customer start seeing their fleet data.
+>> Yes.
+>> Um what's the insight safety efficiency
+other? What's the insight that surprised
+them the most?
+>> Yeah, there's certainly some aha moments
+if you think about having visibility
+into drivers and vehicles. uh and what
+we call harsh events. So accidents or
+avoiding accidents. And so those are
+definitely eyeopening. And what does
+that lead to? Well, uh when you're
+running this large of a fleet operation,
+you need to be able to coach drivers. Uh
+and how do you figure that out if you
+have all of these different drivers
+where you focus? Because these uh the
+operators, you maybe have a dozen, but
+you you can't scale without uh AI. So AI
+helps you scale infinitely. And so the
+coaching agent one will detect who needs
+coaching. Maybe they're newer drivers or
+maybe they're uh more prone to accidents
+or having accidents. So you can focus on
+that. But now they have co-pilots. So if
+you think about it, you have a new
+driver or every year or so you want to
+do a a drivealong or ride along. How do
+you do that at scale? Well, agents can
+actually now ride along with the drivers
+and coach in real time. And and you
+really want to bring your coaching team
+and your drivers together. And so uh it
+allows them to focus where they need to
+focus uh and prove actually most drivers
+are really really quite good. So you can
+also celebrate the good drivers and and
+have that access to that data.
+>> Absolutely. Um back to you. Let's talk
+about business impact. So you are the
+CEO of the company. So from your co
+perspective, how do you know that your
+safety program is working and what has
+it changed for your customer? How do you
+measure that?
+>> Again, a very good question. Uh safety
+in our business is a matter of trust.
+Our customer want safe operation. They
+want efficient operation in urban areas
+and they need a comprehensive set of
+data that we can provide to them. Um
+and it's the uh behavior of the asset,
+the vehicle, it's the behavior of the
+driver. It's the the data we can collect
+as well from the environment. And the
+capability we have now to feedback them
+with all this data is very crucial. uh
+more specifically on safety in the early
+days already one or two years ago with
+Samsara we were partnering on about 1500
+cams in vehicles in the UK because what
+you can see in Europe is that Europe
+legislation is different between the UK
+and the rest of continental Europe and
+uh so we have advanced experience there
+with 1,500 vehicles and very positive
+feedback from our customers the fleet
+operators because they can feedback
+their driver and improve their behavior.
+So it's very tangible results and uh
+based on that very positive experience
+we decided to roll out this in the rest
+of Europe. Uh in order to achieve that
+we first had to go to get GDPR compliant
+in France but also in other European
+countries and there Samsara supported us
+quite a lot. So thanks for that. You're
+>> welcome. And on top of that, we rolled
+out and we set up a uh digital
+intelligent platform called Nexa to be
+able to pass to customers our fleet
+operators um the data including all the
+data from um uh CAM that I embark on
+each vehicle. So we uh in France we
+start about one month ago with 500
+drivers that are equipped with CAM and
+we are currently doing a PC with them.
+Thank you.
+>> Um let's now move to maintenance
+>> and more specifically to predictive
+maintenance. Yes.
+>> So keeping in mind that fleets around
+the world are getting more and more
+complex evolving in a mixed autonomy
+energy world. Um Megan, where do you see
+AI making the biggest difference over
+the few next years? Yeah. So, it's a
+really big deal in maintenance and to
+your point, it's uh not only predictive,
+but it's preventative because you
+imagine if you have a maintenance issue
+on the road, that quickly becomes a
+safety incident. And so, the future of
+it, uh, when you have drivers, they may
+detect a error code on the engine, they
+may call the shop, let them know, then
+you have to put the work order through
+and then bring the the actual vehicle
+in. And now imagine if with autonomous
+vehicles um or any mixed humanoid
+robotics etc. they may not detect that.
+So of course you have to collect that
+information through telematics maybe
+visual through camera and then act on
+that. Now with agents we can do that and
+we can scale that across 52,000.
+And so what happens now uh the Telmatics
+AI agent will detect the error code.
+We'll automatically create the work
+order. We'll automatically uh ship the
+part. So, it'll get the part. It'll know
+when the part's going to arrive. So,
+it'll uh change navigation and update
+your routing plan. So, maybe it's the
+next day or two days later, you'll know
+that you need to take it to the
+workshop, they'll go ahead and fix it.
+And you take the human out of that. And
+think about that, you compress the
+timeline so much. And so, you're it's
+not just marginally making it more
+efficient. It's dramatically changing
+the workflows and who needs to be
+involved. And I I think it's really
+interesting if you think about it.
+Traditional SAS software doesn't really
+have an opinion. You're creating a
+dashboard. You create a workflow. It's
+hardcoded. Uh and a human has to go
+check that, make a decision, and act.
+Well, with AI, it's more opinionated. So
+AI has opinions. It can take action. And
+so it can actually dramatically change
+workflow. It could save money, lowers
+the total cost of ownership, creates a
+better yield. And so we're dramatically
+transforming uh what we see in the real
+physical world. Uh and you can do that
+whether it's with a driver, without a
+driver, with robots. And as you know,
+you see all these robots on the floor
+and how we're coordinating that. Well,
+you need a central system that does that
+where agents can look at all of that
+data. So if we have, you know, tons,
+trillions and trillions of data points
+that we're bringing together uh for the
+physical world uh with agents, we could
+do that so much faster now.
+>> Absolutely. A huge evolution. Um, Eve,
+>> uh, with such a big fleet at FEA, I
+think we're speaking about 60,000
+vehicles in Europe, um, maintenance is
+not just keeping vehicle running. Uh, it
+is also about safety, safety of the
+drivers, of the customer, but also the
+public in the in the public area. Do you
+have um a concrete real example where
+predictive maintenance helped improve
+safe safety and or reduce risk? I don't
+have one. I have thousand of them. Uh
+first preventive maintenance is a key
+disruptive element in our industry for
+two things. First maintenance is our
+second cost line in our P&L and is the
+first benefit for our customer is uh
+lower VR vehicle of road. Combining the
+two is essential for our industry. Um so
+a few months ago we uh we set up a uh FA
+intelligent operation um
+self-improvement layer which scan um
+every seconds the entire fleet of 60,000
+vehicles across Europe and detect early
+signs of potential future failure and we
+feed back uh those signals to 250
+workshops spread across Europe and by
+anticipation we avoid major failures.
+And uh what we see actually I was very
+afraid that within the supply chain or
+within the organization
+u our colleagues our employee would not
+understand this change and they actually
+they discovered the benefit of it
+because they're able to call the
+customer the driver ask to come to the
+branch they have a quick repair instead
+of managing an emergency and um we are
+improving the VR of the fleet operator.
+So it's a win-win win-win as many time
+as you want and actually we have about
+90% accuracy on the predictability of uh
+the information we get and we are aiming
+to reduce our unscheduled M&R that
+represent about 40% of our total by
+approximately 40%. So that's very
+encouraging and very disruptive and we
+are the first one to do it.
+>> That's amazing.
+>> Very interesting example indeed. Yeah.
+Um, Megan, one question for you. Um,
+regarding Samsara, who announced
+recently several new AI products, um,
+Agent Studio, tracking label, I think.
+Which one, um, for you is the most
+exciting and why?
+>> Well, I have a little show and tell, so
+I'm going to have to talk about tracking
+labels, but the agent code, uh, agent
+codes are pretty cool because we put in
+the hands of our operators, they can
+build their own agents on their own data
+with their fleets. So, I think there's a
+lot of uh goodness there, but I want to
+talk a little bit about tracking labels.
+When I think about all the robots that
+are out there, all the mixed autonomy
+things. Um, two years ago, uh, we
+launched something called the asset tag.
+Uh, this has a six-year battery. Uh, and
+you can put on very expensive assets and
+you can put it anywhere. It hooks in.
+Once the battery is gone, you dispose of
+it. You know, not it's great. Well, our
+customers of course said this is not big
+enough. or is not small enough I should
+say and so we released what we call the
+excess very you know small and think
+about it you have hand tools all those
+different things that you might want to
+put out there we track it but then of
+course this was maybe two quarters ago
+our customer said we really need
+something that is much smaller it has to
+be uh disposable so you have to be able
+to throw it away for packages and it has
+to be cheap and so it took us a little
+bit but this is actually a tracking
+label. You would print it out in a
+printer. You stick it on your package
+and it the it's got blue uh Bluetooth
+technology in it. And so it lasts for 60
+days. And imagine now all you're
+tracking a pallet, you're tracking
+pharmaceuticals, you're tracking really
+anything. Uh and it's unlike anything.
+And because we have a network all around
+the world, you can track things in
+seconds. So it's like a industrial Apple
+tag if you think about it. And so this
+is transformational and you can only do
+this if you have a network. You think
+about RFID is very expensive. Even
+cellular is expensive. So how do you get
+something under a dollar that you can
+put on on your cargo? And then if I
+think about it when packages come in to
+the US maybe DHL comes in, it goes to
+Memphis. Then the next time you see it,
+it might be Chicago and then San
+Francisco. I live in San Francisco. and
+then the last mile I might see it on the
+truck. Well, if I put a label on it, I
+can see it everywhere along the journey.
+And I think one of the things we deal
+with is cargo theft, uh, vehicle theft,
+anything, packages all the time. And
+this is a great way to to really look at
+that. And it's only possible because of
+AI and the amount of data uh, that we
+collect and are able to quickly get
+through. And agents can detect if it
+goes off path. It can let customers know
+when it's coming. all these things that
+would take a lot of phone calls can now
+be done by agents and so it's I think
+it's really cool uh to see what our
+customers will do with it next.
+>> Yeah, very impressive innovation.
+>> Um to finish I have a common question
+for you both uh looking ahead in three,
+four, five years from now what will be a
+best-in-class fleet operation look like?
+You want to start?
+>> I would say ladies first.
+>> Okay. Okay. I'm happy to start with
+that. I mean I I think it's that idea
+that it yes it's interesting if you
+marginally improve efficiencies using
+agents but if you transform your entire
+workflow like that world where uh the
+car has an issue it automatically routes
+the workflow orders the part reschedules
+I think that's the new world if you
+think about construction sites where
+you're going to have humans and robots
+and vehicles and heavy equipment all of
+that uh all coming together how do you
+do it the most efficient Okay. Well,
+agents and AI are going to coordinate
+that. So, as I'm building something,
+it's going to know when the parts coming
+in. It's going to know when someone
+needs to come out and and authenticate
+it. It's going to have the robot show up
+with the heavy equipment. That world
+will operate in just in time. I spent
+some time in Japan learning a lot about
+manufacturing. And you think about
+manufacturing floor, it's everything
+arriving at the right time. Well, the
+future uh really physical AI is
+everything we need arriving exactly at
+the right time. So we're not wasting
+fuel. We're not waiting. There's no idle
+time. Human time is valuable. We don't
+want to waste people's time waiting. Uh
+and we'll be able to build things much
+faster and we'll be able to coordinate
+this mixed autonomy world much better.
+>> Thank you. Well, we're running out of
+time. I'm sure you agree with me again.
+You really agree? [laughter]
+>> So, thank you very much and thank you
+very much to everyone for your
+attention. Okay. Thank you. Bye-bye.

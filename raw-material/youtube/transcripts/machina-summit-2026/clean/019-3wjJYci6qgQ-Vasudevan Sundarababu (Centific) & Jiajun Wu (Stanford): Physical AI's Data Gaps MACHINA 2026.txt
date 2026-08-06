@@ -1,0 +1,510 @@
+[music]
+Hello everyone. I'm Albert Chun. I'm the
+founder of AI Circle. Uh we're a
+community of researchers, founders, and
+operators who are advancing the frontier
+of AI. And we partner with communities
+and companies like Scientific because
+they are uh ushering in the frontier of
+physical AI. Um and and the reason why
+we brought this panel together is
+because
+in the last few years, what we've seen
+is the physical AI space go from science
+fiction to science reality. You know,
+we've we've seen it here today with uh
+robots like at 1x who are um you know,
+building bringing robots to every home
+or we're seeing robots in industry and
+you know they're folding our clothes and
+washing our dishes. And I I think the
+real question that we're not really
+asking is do they do robots actually
+understand what they're doing
+and or are they just really adept at
+pattern matching and will they collapse
+when they encounter the randomness of
+the real world and so I'm really happy
+to invite our two speakers who really
+live within this problem at opposite
+ends of the spectrum. Uh first I'd like
+to invite on stage Professor Woo from
+Stanford um who helps really uh helps
+the industry define uh what it looks
+like for uh robots to understand. And
+I'd also like to invite on stage Vasu
+the chief AI and data officer at
+Scientific because he's the one who
+helps uh scale the data operations to
+equip these robots to um work in the
+real world. So, please uh give him a
+round of applause.
+>> Amazing. And um I'll just give you both
+a moment to introduce yourselves a bit
+and then we'll jump right into our
+questions. Professor Wu, do you mind?
+>> Okay. Um hi everyone. Um I'm Jing. I
+work on uh computer vision and robotics
+research at Stanford. Uh so we, you
+know, build systems that help machines
+that understand the world. uh reasoning
+about objects and scenes, geometry,
+physics, uh predict what's going to
+happen and then also we work on robotic
+manipulation that do robots that
+interact with these objects.
+>> Hey, uh this is Vasu. I uh work for
+Scientific. I'm the chief AI and data
+officer for Scientific. Scientific is a
+data infrastructure pro data
+infrastructure company that provides
+highquality training data and validation
+for the models and model providers. So
+very happy to be here. Amazing. Thank
+you. And so just to start us off, you
+know, when we're looking at physical AI,
+I'd love to ask you both uh what do you
+currently see as uh the bottleneck? Is
+it compute? Is it models? Um yeah what
+what do you see as the bottleneck
+profession?
+Um well uh I guess you know unlike large
+language models you know everything in
+the physical world you know it's
+actually much harder to have larger
+scale data right it's like just unlike
+digital world where you can generate
+almost infinite data and users keep
+producing and AI models can keep
+producing data the high quality data
+that you can produce in the physical
+world is very limited it is also subject
+to all these different physical
+constraints you know extremely high
+quality data may be very expensive so
+what is the right combination of
+different types of or different source
+of physical data and how to combine them
+to allow you to train a model that is
+really able to scale I think is still to
+be figured out.
+>> Yeah. Amazing. Yeah. Thank you so much.
+Yeah. So what I'm hearing from you is
+the major constraint is high quality
+data because the things that you need to
+balance is what's high quality and
+what's cost efficient in order to allow
+these robots to Yeah. makes a lot of
+sense.
+>> Yeah. Uh I agree with professor Vu but
+uh I would not add a nuanced argument on
+what preventing us uh from having an
+highquality data. Currently the data
+ecosystem is fragmented. In physical AI
+we are the data has to represent the
+experience because the physical AI
+interacts with the real world with the
+real which creates lot of experience. So
+the creating that experience
+uh which is right now there is no
+standardized way uh because there are
+egocentric data there is a manipulation
+data or the imitation data or the
+sensory data but there is no common
+standards defined. It is fragmented.
+each one is doing the same uh in a in a
+very siloed way and there is no constant
+or there is no standardized eval or a
+benchmarks that defines the data thing.
+So these two things is what is going to
+determine the high quality data that
+accelerates the uh physical AI model
+development.
+>> That's right. Amazing. And you know,
+Professor Woo, as as one of the most
+cited researchers on the planet, you
+know, I know that you've done extensive
+amounts of research around the
+shortcomings of um RGB video data and uh
+talking about the importance of
+multiensory data in terms of sight,
+sound, touch. Um what what do you think
+is the reason for uh the industry kind
+of still being stuck on egocentric data
+and and video data versus um you know
+evaluating models based off of
+multiensory data
+>> right I think the nice thing or the
+interesting aspects of robotics is you
+have to deal with datas of very
+different modalities and they're are
+really heterogeneous right there's
+vision uh there could be audio data
+tactile data there could be like a lot
+of these data about actions different
+types of actions like the torqus that
+you have on your joints and I think the
+challenge is like you know unlike visual
+data or maybe to some extent audio data
+where you at least have a share format
+right I think for other type of
+modalities like tactile data you know we
+have very different types of sensors and
+the type of data they produce are even
+in different formats right there's no
+like PNG files just like images and for
+action data as well because you have
+different robots they have different
+number of joints uh they're you know
+controlled in different ways and if you
+have ductress manipulation like hands
+you you have different number of
+fingers.
+>> So what is the right way for us to have
+a shared data format or data standard? I
+think that would be a big challenge as
+well.
+>> That makes a lot of sense.
+>> Yep.
+>> Yeah. So yeah, the professor Wu touched
+upon the main point RGB is one form of
+data which is primarily captures the
+visual representation of the data. But
+as you see the physical uh physical AI
+has to work in the real world. The real
+world experience consists of sensory
+data which is and also it has to
+estimate the weight the right amount of
+the pressure and also it has to predict
+the navigation to do perform a task and
+it all needs to be done in a more
+synchronized manner to produce a data.
+So it not only gets all the sensory data
+information along with the vision data
+which is RGB but also it has to provide
+the context that is at which it is
+operating upon the enrollment that is
+operating upon and so the temporal value
+is also thing because usually when you
+actually create a data it is always on
+the snapshot but in a physical AI world
+it is continuous. So the temporal
+aspects of the data has to be
+synchronized along with the sensory data
+and that's what is going to determine
+the quality of the data to train the
+physical AI robots uh in the next few
+things. So that synchronization on a
+multimodel is the key uh for that
+because our world is multimodel.
+>> Sure that's very true. We do live in a
+multimodal world. Um, you know,
+previously you mentioned something about
+the constraints of cost
+um, in order to pursue highquality data,
+but I guess with the industry pouring
+hundreds of billions of dollars um, into
+data and the infrastructure to power
+physical AI in the next few years and
+when cost is not going to be a
+constraint, could you talk a little bit
+about what it looks like to scale a
+physical AI data physical AI data
+infrastructure layer.
+>> Yes. Uh so the first and foremost thing
+is standardization of the the
+multiensory data because now every
+company defines its own schema and its
+own uh evaluation mechanism. There is no
+standard mechanism for standardized
+mechanism for robots to learn or share
+the experiences across the things. So
+that one first thing uh if you solve
+that the standardization is not an
+impediment it is actually a compounding
+factor. If you really see how the LLM
+the the digital world has scaled is
+because of the standardization because
+of the standardization of the benchmarks
+and the evaluation that's how the scale
+happens. So this the first part is the
+benchmark of this thing. Second, we need
+to invest on the platforms, the
+annotation platforms it does, right?
+Because previously,
+if you do an annotation of a cat or a
+thing, if you wrongly annotate, the the
+the impact is very minimal because it
+wrongly classifies this thing. But if
+you actually wrongly annotate a physical
+AI world experience, the that it could
+be a fatal. Okay. So that evolution of
+the annotation platform with an human
+expedition, human validation is very
+very important. True.
+>> And the third one on scaling the data
+infrastructure is continuously investing
+on benchmarks because benchmarks cannot
+be static because it has to evolve over
+the uh the evolving nature and the
+evolving experiences of the benchmark.
+these three constraints if you actually
+work as an collaboration with academics
+and the industry I think the scale we
+have the impetus to scale uh into the uh
+into the next level. So that's the kind
+of a uh inflection point we are working
+towards.
+>> Yeah. So some of the researchers that
+I've met over the years has told me that
+uh one bad data point is worth 10
+highquality data points. Yeah.
+>> And to extend the conversation around
+highquality data, um, I'd actually love
+to touch on this. I think many people
+look at data annotation as a bit
+commoditized. Hey, just get a vendor and
+label some data, QA it, and just get me
+good data. Right? It seems like anyone
+can start a data company, but in
+reality, um, high quality data is
+actually very difficult to achieve in
+any length of time, especially at scale.
+Um, and and Professor Wu, I'd actually
+love to hear from you. I know this may
+get a little technical, but I'd love to
+hear from you maybe how you think
+through high quality data when you are
+working with a data partner.
+>> Oh. Um, okay. There are multiple
+aspects. Um, so you know there's good
+data and bad data. There's high quality
+data and low quality data. Yeah. And
+sometimes you know uh I think people
+sometimes confuse the concept as like oh
+I have a fail attempt if the robot I'm
+tiling up to the robot to do something
+or I collect some data and it turned out
+you know I the robot kind of failed you
+know that's not necessarily a bad data
+these kind of failure points can also be
+good data because you actually learn
+that you know how you can recover from
+failures right so there's kind of you
+know successes and failures they can
+both be good but they're also bad data
+you know bad data are you know when
+you're collecting all very carefully
+like like for example the cameras are
+not calibrated. So then the data itself
+doesn't allow you to accurately
+reconstruct the scenes. You know, you
+know these are kind of the issues where
+you know people may often be not aware
+of uh when they just like try to uh
+massproduce or mass collect a lot of
+data. Yes. You have to be really careful
+in collecting uh high quality data of
+both successful and fail examples.
+>> Yes. Okay. So, one, I I I love that
+because
+yeah, what I'm hearing from you is that
+data quality is not contingent on
+whether it succeeds or fails at a task.
+What high quality data is is if it gives
+you uh a high level of signal over noise
+to help you train your model.
+>> I think that's right.
+>> Which makes a Yeah, it makes a lot of
+sense. Um and and to the point of high
+quality data, I think this is what we're
+always after, which is crafting the
+golden data set. And so the the ever
+elusive perhaps ever refining golden
+data set like like what does an ideal
+golden data set look like and this is a
+a question for for both of you.
+>> Yeah. uh yeah the quality and the
+benchmarks are the most important
+aspects of how fast we can train a model
+and how reliable the model in the real
+world is. So the the golden data set
+it's an elusive problem because for us
+it is uh the difference between a
+language model and a vision model into a
+physical model is we are trying to
+define the physics of it which is got
+all aspects of this thing. Whether you
+are not only annotating an object or
+annotating this thing but you are you
+are actually saying why did it fail?
+What are what are all the circumstances?
+Was the pressure is good enough or is it
+exceeded the minim maximum threshold or
+the the wide varieties of these things
+we need to capture to evolve around the
+uh to arrive the golden data set for the
+model to perform or not perform. Okay.
+But it is also high domain specific. It
+is a combination of robotic engineers
+plus the actual practitioners who
+actually practice in a manufacturing uh
+setup or in a household task. How they
+do actually the task and what kind of a
+pressure they do? How do how do they
+estimate a weight? How do they n how do
+they predict the navigation? All of
+these things has to be captured to
+create a a probable scenario. So to to
+put a point
+It's not only supposed to tell what it
+is, it's supposed to tell why it failed
+so that it can learn from the real
+experience and then you just train the
+robots into that because that data
+points that capture that becomes the
+evaluation data set and with an expert
+human validation you can actually do
+that. Okay. There is another aspect of
+evaluation and a golden data set is
+synchronization of the multimodel. We
+touched upon in this previous uh talk
+question about the multiensory because
+how do you capture all kind of
+information with all sensors in a
+synchronized way with a temporal way
+that also defines the golden data set
+for us. We are not there yet. We have
+the basic building blocks but we need to
+continually evolve that golden data set
+for the physical evol.
+>> That's right. Thank you so much. And
+from your research perspective what what
+do you think about when it comes to
+building a golden data set?
+>> Oh well I thought it would be you know
+okay there are maybe a few different
+aspects now. First and maybe the most
+important is probably you want to
+motivate yourself to build data sets for
+tasks that you actually care about
+people care about right? So instead of
+like you know I think as a common
+problem for maybe more like researchers
+building data sets is like I look at my
+robot and I was like what can I do or I
+can do these five things and I build a
+data set for these five different tasks
+right but in practice maybe people care
+about the other five things and the
+things you can do is not something
+that's very useful. Okay.
+>> Yeah. So if you can select and design
+problems right based on uh the task that
+people actually care about that would be
+great. Yeah. So that's actually okay
+maybe a small advertisement that's the
+motivation behind a large robotic
+benchmarks that we built with fay at
+Stanford called behavior that we
+actually look at the daily activities
+that people perform and try to collect
+annotations for these activities and
+then you can benchmark robot learning
+algorithms.
+>> Yeah. So one is task selection and
+second is a high quality data
+annotations. You if you selected these
+tasks then how can you benchmark if your
+robot is actually successfully cooking
+dinner or do any of these things for you
+right? How can you have the high quality
+annotations on the task definitions on
+the assets on the simulation
+environments or in the real world? Um,
+so yeah, so task definitions, data
+assets. Uh, and uh I don't also being
+comprehensive. So it' be nice to
+actually cover a lot of different
+activities, not just like a few specific
+activities.
+>> Yep. Yep. That makes a ton of sense. So
+you you mentioned uh Feay Lee and um you
+know you're a prolific researcher and
+it's clear you care about problems that
+you know other people care about here.
+Um would love to hear from you how you
+see the importance of academic and
+industry relationships in advancing the
+frontier
+>> and this is for both of you. Yeah.
+>> Yeah.
+>> Well, okay. Uh well it's kind of funny
+cuz uh I think over the past few years
+you know we always work with different
+types of industry partners you know from
+startups like scientific but also to
+large companies like Nvidia, Google,
+Meta, all these companies you've heard
+of. Um but over the past few years it's
+interesting that all these big companies
+when they still want to do university
+collaborations the the focus has shifted
+from doing AI or just building models or
+computer vision to doing physical AI
+because for AI they're like okay we're
+going to just use all our resources to
+train Gemini so we don't need
+universities anymore but then for
+physical AI for uh robotics right the
+problem is not solved yet there's still
+a lot of research to be done before uh
+scaling things up. Yes.
+>> So they're like okay then why don't we
+just work together on robotics. Yeah. So
+I thought that's kind of interesting. Uh
+uh so it' be nice to you know I think
+the big company can still be very
+helpful in providing resources and also
+data collection as well but also compute
+resources even if you want to design and
+benchmark robot learning algorithms.
+Yeah. So it'll be nice to see more of
+those.
+>> Yeah. Amazing.
+>> Yeah. So we see the academic
+collaboration is an essential part of
+advancing the research labs. As you
+rightly said there is no common standard
+data schema. It is still fragmented.
+there is no standard evaluation
+framework. So that's where our research
+collaboration with academic institute
+will advance the field. I already told
+the standards not just impending the uh
+the innovation. It accelerates or
+compounds the uh adoption because it
+gives the credibility it gives the
+standardization that is required and we
+see that as an essential part of this uh
+equation.
+>> Yeah absolutely amazing. Um well I guess
+with with just a minute left um want I
+just want to take a time to to thank
+Professor Woo and and Vasu for for
+coming on stage and sharing with us. Uh
+again, we're we're so happy to be
+partnering with uh companies like
+Scientific who craft these uh research
+partnerships to help us advance the
+frontier of AI and and help us think
+through some of these bottlenecks like
+data, help us define what good looks
+like through golden data sets and um
+yeah, help usher in the the new frontier
+of physical AI. So, thank you all so
+much.
+>> Thank you for the opportunity. Thank
+you. Thanks. Amazing. Thank you. Thanks
+so much. Appreciate you. Thanks. Thank
+you.

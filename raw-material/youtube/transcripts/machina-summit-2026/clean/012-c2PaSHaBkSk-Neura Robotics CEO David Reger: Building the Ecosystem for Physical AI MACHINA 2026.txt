@@ -1,0 +1,430 @@
+Hello everyone.
+Very great to see you all and thanks so
+much for your precious time you're
+sharing with us, with me. Hi Tim.
+So, um yeah, I'm David, founder and CEO
+of Neura Robotics and I'm here to talk a
+little bit about my personal vision in
+the same time also the mission Neura
+Robotics is on and um
+like the way we see the world also going
+forward uh forward in physically AI in
+the same time also what we think is a
+differentiator and uh in how we do
+things and what we do.
+So,
+to explain a little bit about Neura
+itself, we are about 1,500 people in uh
+based in the southern part of Germany,
+so Metzingen to be precise, and um with
+the aim of making robots cognitive. So,
+it means give the robots
+the abilities to hear, see, and feel and
+in the same time also react fully
+autonomously on different kind of topics
+and tasks.
+So,
+the other claim I would like to do today
+is actually that I do believe that
+robotics or physically AI
+will take every physical task in the
+future. So, it will actually do any kind
+of physical task. I know it sounds
+actually pretty big and the same time
+for some people maybe a little scary,
+but I do believe this is the biggest
+chance we as humanity have today to
+actually use machines as machines while
+using ro humans actually as humans uh in
+the world and basically making the next
+step of humanity.
+So,
+the reason for today actually having
+this nice events in the same time also a
+lot of people going crazy about robotics
+and seeing that as a as a actually like
+kind of a hype
+um in robotics is basically very
+naturally driven. So, one because we do
+see actually going further like even in
+a very close future that like we are
+actually facing one of the biggest
+challenges actually on humanity right
+now. So if you're looking into Europe,
+you will have about 7 million
+less human labor by 2030 while actually
+China has even a bigger issue about more
+than 80 million less human labors while
+going actually also to Japan, all US in
+about let's say 6 to 10 million less
+human labor by 2030. It means actually
+there is more people getting actually
+retired with skills than actually new
+people getting trained with new skills.
+And if you are looking actually a little
+bit more precise then you will also see
+that the most people actually retire
+with skills are actually in the space of
+physical task and work. While actually
+the new people with skills getting
+trained are not the most are not in
+physical. So the most people don't even
+want to make this task anymore and this
+is actually why the physical
+work will actually require like a new
+solution, some technology which can
+actually take over and basically bridge
+the time the same time also one day take
+over the whole task. But the other I
+think even more important KPI we are
+focused on is actually the time to
+skill.
+Because the reason for
+physically I and robotics actually
+taking over every physical task it has
+something to do actually with the way of
+how humans are getting trained for
+physical task. If you're looking into
+the lowest value bringing work, so it
+means task which don't require any
+quality dependencies or any let's say
+special skill sets.
+Here like we are talking about let's say
+not less than 3 hours of instruction and
+training time for a human to change a
+department or start a new task in the
+work or new work.
+And if you're looking into actually
+robotics and this is also the core part
+we are focused on, you will see actually
+that even today already, there is
+possibilities like of training a robot
+for
+let's say for a new skill in last and
+let's say a couple of hours instead of
+actually weeks, months or years like
+humans do. And the other big advantage
+we have is that like the good thing
+about robots and physical AI is that
+a new vessel for knowledge. So it means
+and the good thing is that you can
+transfer it by one click while a human
+needs to learn it again and again every
+time it's a human retires or changing
+work,
+changing the job or actually getting
+sick. You can't just click on something
+and have the the new skill actually
+transferred and this is actually the
+case in robotics and this is also why we
+are seeing that in the future, in the
+very close future, there will be like
+there will be no let's say how to say
+it.
+It will not make sense to actually use
+humans for all the physical task and
+train them for new task because there is
+actually robots much faster in physical
+AI especially.
+And then I would like to also talk about
+another topic we are focused on right
+now a lot and because today we hear a
+lot, okay, is actually hardware not
+commodity already like and do we not
+have to focus just on
+the brain part mainly? Mainly I think
+the most people would agree but here I
+do need to say like it is not the case
+yet but very soon. So and what I'm
+talking about is actually building a
+hardware which is capable to send
+actually the right data to actually
+compute infrastructure to create the
+right knowledge. And here I love to make
+that example of
+basically swimming because this is the
+biggest differentiator of like a vision
+language models to what we call
+perception language model, a model which
+is multimodal and uh it it basically
+receives more than just vision data. And
+why is this important?
+It's it's like and that's actually where
+I love to use the swimming
+example is because like with swimming
+you can't learn the most of the physical
+task actually just with your brain. And
+you can't just basically uh watch a
+video for a year, 2 years, 5 years,
+whatever and be a swimmer afterwards.
+And the reason for that is very simple
+to explain. It's not just how to say it
+because because you you can't learn
+everything with your brain. There is
+more actually what a human has. You're
+going into the water and then you're
+actually training something else than
+your brain. It's actually your nervous
+system and the reflexes of your body so
+of your muscles. It's actually memory of
+factor of your muscle. So and this is
+also applying for the most of the task
+in the physical world. Everything what's
+moving, everything what's flexible,
+everything where you have to react on,
+you're using more than a brain. And this
+is also something what we are right now
+mainly working on is like not building
+on existing standard but actually
+setting a new standard for that. We call
+smart limb concept. So
+what we build is actually
+like like first yes, you're having a
+brain and then the second actually you
+do have a nervous system. Here we're
+working also with Qualcomm on a solution
+for that. We we call it like limb
+concept because it has seven limbs like
+a nervous system which is super reactive
+and the same time trainable for actually
+abstract training we call. It's like
+you're gaining some knowledge into your
+body
+while actually having not how to say it,
+not making decisions but actually very
+fast reactions
+on the body side.
+So if you have everything like that in
+place, then actually a new thing the
+issue appears and this is basically also
+the data sets because I think this is
+something we hear here all the time.
+It's about
+the data, which is not existing yet, or
+so first of all, I think very important
+to mention, it's not just about having
+physical data somehow,
+because this is what we hear and see
+right now a lot. I get a lot of
+messages, "Hey, we have a lot of data.
+You want to buy it?" And here is I think
+very important what kind of data and
+where does it come from? So and for that
+you first need to define, as I said,
+like the
+uh the sensorization, because that's
+where the sensor the data come from, and
+then basically having the right compute
+infrastructure to enable actually this,
+let's say, thinking of brain and
+actually having a reaction of the
+nervous system.
+And how to train that? And this is
+something where we are right now mainly
+focusing on. It's also why we raised a
+lot of money for is basically building
+the infrastructure for physical AI. And
+what I mean by that is actually real
+physical places where we place, let's
+say,
+100 unit humanoids or different form
+factors, if you want to, and in the same
+time giving everyone the tools instead
+of the solution. So it means having a
+platform we call Neuroverse, where you
+can find the tools, so you don't have to
+have the knowledge about how AI is
+created. You just have a start record
+button
+by manipulating actually a task, stop
+record button, and then the third
+actually train. And what you do with
+that is actually you're fine-tuning the
+foundation model we built actually to
+give them a special knowledge. And this
+is also one of the other core
+differentiator of what we are building
+is basically we call brain account. It's
+actually that we don't want to, let's
+say, commoditize basically the knowledge
+as everyone tries to do as we did
+actually with Anthropic and with OpenAI
+right now. You're having basically a
+brain which knows everything. It sounds
+also pretty good, but in reality it
+brings also a certain impact like like
+to
+especially this one which are basically
+how to say it
+where they
+like where they took all the knowledge
+away from, are you? And if you're
+looking into the physically eye space, I
+think it's it's kind of danger to just
+say like we are here to bring one to
+build one brain and train one brain
+which can do everything because it
+doesn't make sense because the reason
+for all existence of all the companies
+is mainly behind the knowledge they have
+and how do they think I mean in process
+knowledge and also know-how, knowledge
+how they actually do things different to
+others. So this is also differentiator
+of what we are building to others is
+basically we're enabling everyone to
+actually have their own brain account,
+basically a fine-tuned model of their
+knowledge of how they do things to
+actually also in the future having the
+possibility to monetize it and actually
+license it to the world because this is
+how we see the world going further.
+I don't think it will be like it is
+today that you're having your physical
+company and like Foxconn or whatever. I
+do think these companies will have
+basically a brain account which is
+pretty capable and they will license it
+to you so you have your possibilities to
+do the same production capabilities as
+they have in Taiwan, in China and
+whatever but actually on your place
+in your factory.
+And this is also like say what we are
+mainly right now working on is actually
+first building the foundation model to
+give like all the general knowledge to
+the robot of how does the physically eye
+let's say physical world around you
+actually interact, like how how does
+everything move? How is it dynamically
+different? How do you move things that
+they're actually how do you correct
+them? How do you react on things? This
+is a task which we are doing today.
+This is very general and at the same
+time what we are doing is basically also
+getting a lot of data out of humans. So,
+we are having about 1,000 employees in
+data suits
+where we are gaining a lot of data
+surely which actually the human robot
+disability gap, but actually combining
+that with real world, let's say physical
+data out of the robot with all the
+disabilities, you're actually enabling
+like a very smart device.
+Again,
+it is capable to do general things as
+mostly humans are. All right? So, it it
+means actually so why why is this so
+important and why do we think this is
+the way how we should do things is that
+this is how the physical world works.
+All right? The industrial world works.
+Even you are the best expert in actually
+manufacturing,
+believe me, if you're coming now to My
+Fab
+and try to start to to build one of my
+robots,
+even you're the best expert, you will
+not be able to do that. So, and the
+reason for that is actually that there
+is a little general know- knowledge in
+every of the companies which we want to
+actually bring on the platform and
+actually into this brain accounts of
+everyone.
+And then the other claim I would like to
+do today is actually it is not enough
+to just have a smart robot.
+Because this is actually what the world
+works right now on is like making this
+robot as smart as possible.
+Uh this is the same happens also in the
+autonomous driving industries. You're
+trying to make the the the car as smart
+as possible. And believe me, this is not
+a solution. This is not this how it will
+end up and this is also what we are
+working on. Through the Neural Voice
+platform, you're adding another layer
+which is the layer above the robot. So,
+it means the orchestration layer, a
+layer which is actually orchestrating
+everything around you.
+A layer like to explain it to you
+faster, it doesn't make sense to have a
+robot walking up the stairs to open a
+fridge to see there's nothing inside
+while actually having a layer bath which
+is connected to the fridge and actually
+tells you already right information
+orchestrates actually the whole world
+around you. This is what we call
+Neuroverse. This is also something we
+just presented 2 weeks ago and and and
+you ask again on the automate where we
+shown actually you could simply have
+like a chat you talk to and everything
+around you actually get adjusted and
+actually taking care of because there is
+a brain behind everything and
+orchestrates everything.
+So, what I mean by the platform
+Neuroverse, this is actually a platform
+we build right now. It's also a
+developer environment. So, it's not just
+platform which can do everything, but
+it's a platform which enables you for
+being able to do everything. So, it's
+basically the communication layer
+between devices and the same time
+actually devices to sensors, sensors to
+AI models and in the same time also even
+the whole infrastructure. So, we do
+believe that the platform we are
+building right now will also one day
+connect every autonomous driving car
+with in the traffic light with any
+cameras on the street because they are
+bringing the right information to
+actually give you let's say a safe
+driving and the safe environment and not
+just a smart robot. The same time, this
+is actually also the marketplace
+we built to to actually enable basically
+everyone to distribute their knowledge
+into the world actually and connect the
+world in that sense. I I I don't think
+the video will make a lot of sense now
+to show. So, I will just basically
+come here to an end. So, to give you a a
+little bit of what is Neura about. So,
+the most see us as a robotics company.
+So, yes, we do build robots. Why we
+build robots? The simple reason is we do
+need to define a hardware which sends
+actually the right information to the
+right compute. So, we define also the
+right compute to actually enable
+physically I am real, so it means
+reactive on the real world. And then
+what we are building is actually also,
+let's say, a distribution network,
+basically a platform above of all them,
+which is connecting all these devices
+and also let you distribute basically
+all your knowledge and to others. So,
+everyone has basically, how do you say
+it?
+A solution for the future while not
+being an expert. So, this is where we
+see
+physically I going and what we basically
+build in Metzingen out of Stuttgart. So,
+thank you for your precious time.
+Um and yeah, looking forward to meet you
+all. So, thanks.

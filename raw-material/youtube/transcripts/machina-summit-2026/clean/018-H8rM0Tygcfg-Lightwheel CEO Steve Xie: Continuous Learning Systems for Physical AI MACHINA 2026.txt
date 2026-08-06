@@ -1,0 +1,542 @@
+[music]
+>> So really appreciate this event and
+really great to meet everyone. I'm
+Steve, founder CEO of LiveAction.
+And today my topic is building the
+continuous learning system for physical
+AI.
+Yeah, a little bit very quick
+introduction of myself. I'm the founder
+CEO of LiveAction.
+And
+so basically previously I was mainly
+based in Silicon Valley. So I was at
+Cruise
+managing Cruise
+autonomous driving simulation.
+And after that I was at Nvidia.
+So I was the head of Nvidia's simulation
+department.
+So what is LiveAction?
+LiveAction is basically the continuous
+learning infrastructure for physical AI.
+So what we specialize in is basically
+the real to sim to real technology. That
+we are working on basically three major
+products.
+The first one is Ego Suite which is the
+human egocentric video.
+For robotics training
+which right now is mainly for
+pre-training stage.
+And for this product we are very proud
+that we successfully supported Ego Scale
+which is Nvidia's egocentric
+which is Nvidia's model based on
+egocentric data.
+The second one is Robo Finals. So Robo
+Finals is the most scalable high quality
+simulation evaluation benchmark
+for robotics frontier models.
+Then we also have the third product
+which is Robo Stack.
+So Robo Stack is basically the
+deployment stack
+um
+for robotics foundation models. So, now
+you see we have data,
+uh we have evaluation, and also we have
+deployment.
+We are also very proud that uh we are
+supporting, you know, almost all the, I
+would say, important players in this
+space. Uh that includes all the robotics
+foundation model world model
+companies, right? OpenAI, DeepMind, uh
+Nvidia Gear Group.
+Um
+Also, at the same time, we are
+supporting, you know,
+almost all the
+most advanced uh humanoid companies.
+That includes Figure, uh that includes
+Sanctuary, uh AG Bot, 1X, all of them.
+We are also very proud that uh we are
+supporting a lot of great industrial
+companies
+who are working on embodied AI, working
+on robotics right now, right? For
+example, Samsung, uh BYD.
+Uh
+like a lot of OEMs, um and also a lot of
+hospitals.
+So, uh we were being mentioned uh by
+Jensen in his GTC keynote
+for almost all the past three or four
+keynotes.
+And uh one thing which is very special
+and also proud of me is uh
+we are only a 3-year-old company. We are
+only 3-year-old. We were founded back in
+2023.
+And in this Q1
+uh we got sales order of 100 million US
+dollar
+uh for just Q1.
+Right? So, this is a This is going to be
+a very special year for us. This is
+going to be a very special year for us.
+And also, by the way, uh we are hosting
+a party tomorrow evening. Uh you know,
+to celebrate.
+So, really uh invite everyone to come to
+the party.
+So, I just want to tell us uh tell
+everyone why it happened, right? Uh why,
+you know, uh we got this opportunity, uh
+we got a lot of sales number. So, what
+is the logic? What is the reason behind
+it?
+So, I think the logic behind it is
+physical AI requires much more data
+than self-driving, than large language
+models.
+And actually, in my prediction, physical
+AI would require 1,000 times more data
+than self-driving and large language
+model. Why?
+Uh because for large language model, for
+self-driving,
+uh the pre-training data site is for
+free, right? For self-driving, if you
+have OEM like Tesla, you have all the
+cars driving on the road,
+uh the drivers are collecting data for
+you for free, right? So, you get all the
+data for pre-training state for free.
+For large language models,
+basically, the internet is your
+pre-training site, and you can download
+the internet at almost no cost,
+right? So, basically, pre-training is
+for free
+for self-driving and also for large
+language model. But for robotics,
+there's no pre-training site. We have to
+build a pre-training site,
+right?
+The second thing there is for
+self-driving, you know, there's not that
+much about physical interaction.
+It's almost all of them are
+non-physical. For example, like
+prediction,
+uh vision stuff, right? Uh because you
+don't want to hit the other car or the
+pedestrians on the road. And actually,
+the only physical interaction
+for the car
+uh
+with the environment is actually the
+vehicle dynamics,
+right? The car with the ground.
+But for robotics, everything is
+physical, right? So, as we human
+interacting with everything with our
+with our hand, the robot needs to
+interact everything with their hand or
+with their gripper.
+Right? So, it increase a lot of the
+degree of freedom, the difficulties.
+Right?
+The third thing is for evaluations.
+Uh for self-driving and also for large
+language models, you get
+real-world feedback from the real users
+all the time, right? For Tesla, you get
+real feedback from millions of drivers.
+Uh for uh ChatGPT, you get real feedback
+from all the users, right? Millions of
+users. But actually
+for robotics, there's no real uh
+real-world feedback because we don't
+have a fleet. We don't have a fleet yet,
+right? The largest amount we have ever
+shipped till now is around 30,000
+robots. So, that's it. There are only
+30,000 robots.
+So, the only thing we need to leverage
+actually is simulation.
+So, here is basically
+the data pyramid, right? The data
+pyramid for robotics, right? And as I
+mentioned, the real robot data is only a
+very tiny bit.
+But if you
+uh multiply a thousand by 1 million,
+which is the largest uh real-world
+physical AI data fleet by Tesla, then
+that's 1 billion. You actually would
+need 1 billion data generators. But for
+the real robot, right now you only have
+30,000.
+And if you put a maximum on it, say 1
+million, it's still 0.1%
+of all the data we would ever need,
+right? So, that would mean that 99.9% of
+data should be not robotics related.
+Right? So, where should we get the data?
+We can get the data from human.
+Human egocentric data, right? Human
+videos.
+Or we can also get the data from
+simulation.
+And this is also one of our learning by
+building Light Wheel, you know, at the
+first we were like everyone, data is
+fuel, right? We are just providing the
+fuel, the gas for AI. But the more I'm
+working on it, the more I just learned
+data is not fuel. And actually it's
+uh the opposite of fuel.
+So, what is fuel? Uh fuel is something
+that uh there is a standard. Once you
+hit a standard, then that's it, right?
+You need to reduce your price, you need
+to work on the competition, right? You
+need to increase your supply.
+But actually data is more like learning,
+right? So, as we human being, we are
+always looking for more knowledge, more
+insights
+uh from better people,
+right? Uh we are always willing to pay
+more for the knowledge we get from uh
+for the insights we get, right?
+Uh
+uh a lunch with Warren Buffett would
+cost you 5 million US dollar, right? And
+even for Warren Buffett, when he's at
+his 90s,
+he's still uh reading a lot of books.
+And probably more books than us reading
+every day,
+right? So, that is really data for AI,
+right? So, then if you look at, you
+know, the stage of data, right? The very
+first stage is uh
+uh uh for the credit of Fei-Fei, right?
+Uh the static data set by ImageNet,
+right? It is the first time
+um we human ever found out data data set
+at a large scale is very important for
+AI.
+The second stage, also I would say I
+want to give credit to Scale AI, which
+is doing a really great job of building
+the data factory, right? Data
+operations, right? Um they are
+operating, you know,
+uh hundred of thousands of people, if
+not more, right? Generating data at all
+time and also increasing their quality.
+Right? But, I think we also need a third
+stage, uh which is what Level is
+building right now, which is the
+continuous learning stage, right? Just
+like we human, um we are constantly
+learning from everyone. We are
+constantly getting feedback from
+everyone.
+Um
+so does robotics. So, that's the
+continuous learning loop that we are
+building.
+And I would argue that for physical AI,
+as I just did a calculation, uh 1
+million multiplied by 1,000, physical AI
+would require 1 billion continuous
+learning loops.
+And actually, through history, through
+history, to today,
+the world's largest continuous learning
+loop for physical AI is
+Tesla's FSD fleet, right? Which is a
+million cars, right? A million cars is
+pretty amazing for Tesla to collect all
+the data from the drivers, right? Also,
+um form of human data, but
+it is only enough for Tesla, for their
+FSD, but it is not enough for physical
+AI,
+uh for human noise.
+And what we would need is a billion
+a billion continuous learning loops.
+So, if we really compare human versus
+robots, right? So, I think their
+learning should be very, very similar,
+right? We, as human, what we are doing
+every day for learning? We are actually
+getting demonstrations from human,
+right? As we were kids, right? I have a
+kid who is 2 and 1/2 year old. I'm
+giving him human demonstrations every
+day,
+right? Um
+so so, basically, watching other people
+to get human demonstrations, right? So,
+that's the same as robots getting human
+demonstrations from data, from
+egocentric data. All right.
+Uh we as human, we are also constantly
+getting feedback, right? We are getting
+feedback when we are young taking exams.
+We are getting feedback uh from our
+teachers. We are getting feedback uh
+from our managers. We are getting
+feedback from our peers.
+We are getting feedback from our family,
+and also we are getting feedback from
+our reflections, from ourselves.
+All right? Same for the robots. Robots
+should also get feedback. That is
+evaluations, right? They should get
+constant evaluations
+for where they are.
+There is also the third thing,
+which is we as human, right? Um
+I will say that after uh we graduate,
+after we get into a real job, it is
+actually the start of our learning,
+right? We start to learn more on our
+job, right? It's not like after we
+graduate from college, after we graduate
+from PhD, we stop learning. It's
+actually the opposite. We start to learn
+more, right? Same should be for the
+robots. After the robot is deployed in
+the real factory, in the real scene, it
+should collect more data, more feedback
+to help with its learning.
+Right? So in this way,
+the real learning continuous learning
+system for physical AI should be based
+on three major things: the data,
+the evaluation, and also deployment.
+Those three are the most important
+things for robotics to learn.
+Right? But then there are there comes a
+problem, there comes a challenge.
+How can we solve
+the scaling bottleneck of physical AI
+evaluations, right? For data, we can
+leverage human egocentric video to
+learn, right? There are billions of
+human in the world.
+But how can we scale evaluations?
+There is no way we can scale it as GPT
+or as Tesla FSD
+by the real fleets
+by getting the real feedback from the
+the real users.
+The only way for us to scale evaluation
+is through simulation.
+Right? Because it it is deterministic,
+it is reproducible,
+it can be physically accurate.
+Right? The most important thing is it is
+diverse and scalable.
+Right? So, I would argue that simulation
+is the only scalable path for physical
+evaluations.
+Now, this comes the real product of Live
+View, right? This is the Live View's
+continuous learning infrastructure,
+right? For the data side, we are
+providing human demonstrations by Ego
+Suite, the world's
+most scalable, but at at the same time
+highest quality
+human egocentric video
+for robotics foundation models.
+Right? The second thing is evaluations,
+which needs to be based off simulation
+evaluations, not real evaluations.
+Then I introduce RoboFinals, which is
+the world's most scalable and high
+quality
+simulation benchmark for robotics.
+Then there is RoboStack
+to enable everyone to deploy faster and
+also collect feedback
+in deployments,
+right? Back to the continuous learning
+loop. The three products are the
+critical products for Live View
+uh
+to provide a continuous learning
+service.
+But also I want to introduce the thing
+in the center, right? Because
+now we have the real data, we have the
+simulation benchmark, we also need to
+have the real deployment. That would
+mean that we need to have a scalable
+infrastructure deep down that's
+supporting real to sim to real, right?
+Um from the real egocentric data uh to
+uh uh to make all those things into
+simulation evaluation benchmarks. And
+also leverage our simulation evaluation
+benchmark to turn sim to real of the
+model into real deployment. So, the real
+to sim to real infrastructure is
+actually the most critical
+infrastructure deep down uh for Live
+View.
+And Sim Factory is actually in the front
+and center, which is the real to sim
+infrastructure for physical AI. It has
+three major things, right? The first
+thing is the solver, right? We need to
+have the best solver in the world,
+right? To enable us to simulate the most
+accurate physics.
+But solver is not enough. You actually
+have to be able to collect real physics
+from the real world and put them into
+simulation. So, the capability of
+marrying real physics in the front from
+the world scalably is very important.
+So, that's our second
+critical thing.
+The third thing is after you have the
+real physics, you have the solver, you
+need to have a scalable way to produce
+sim ready assets.
+Right? So, this is just one of our
+factory to turn real physical
+measurement into simulation.
+And uh uh we are basically uh building
+all the different type of sim ready
+assets, right? Leveraging, you know, the
+best solvers we have built and also the
+solvers that we contributed to Newton uh
+in order to make all the uh phy- uh
+physical parameters correct,
+right? But most importantly, uh Uh, we
+have RoboFinals, uh uh, which from our
+side, you know, we are collaborating
+with all the partners, our ecosystem
+partners,
+uh, right? To really, you know, deploy
+scalable and high-quality simulation
+benchmarks.
+And this benchmark is built upon
+ISAAC Arena, uh, which is co-developed
+by Live View and also NVIDIA.
+So, this is a simulation, uh, benchmark
+infrastructure that we have built,
+collaboratively built, together with
+NVIDIA.
+And with this stack, with the Robo
+stack,
+we are actually supporting, you know,
+the Groot 1.7
+um, Sim2Real deployment feature set for
+industrial factories.
+Right? So, this is the best, I would
+say, example of for us to build out this
+continuous learning loop, right? Uh,
+from the egocentric data to the Robo
+Final, which is the evaluations, and
+then to the Robo stack, which is a
+deployment stack, uh, to help, uh, the,
+um,
+uh, the robotic foundation model, to
+help the robotics partners,
+uh, to deploy the robots into the real
+scene.
+And I would say that the physical AI
+would require an open learning
+ecosystem.
+Right? Um, for example, for
+um, the solvers, it is very critical,
+right? And it's very difficult for one
+party to build it alone and make it
+closed source.
+Uh, we are very proud that we were
+invited by NVIDIA,
+uh, by DeepMind, and also by Disney
+Research, and also joined with TRI to
+join the Newton Technical Steering
+Committee. So, Newton is, I would say,
+the best, the most accurate, scalable,
+GPU accelerated
+uh physics solver in the world, right?
+Which is also open sourced, right? We
+are very proud that we are contributing
+to Newton, right? Helping it to scale,
+helping it to add on more solvers,
+helping it to have SimReady asset
+standards.
+Helping it to put up to be put into Robo
+Finals, to be put into Robo stack, uh to
+accelerate the full life cycle of
+continuous learning.
+And that's not only it. We are also
+scaling our open human data collection
+platform, right? Uh basically, we have
+uh we are uh we have our own high-site,
+but also we are collaborating with all
+the high-site partners, you know, the
+sensor partners, the gloves,
+um uh
+at the compute stack, right? Uh what we
+are looking for is we want to build a
+platform, an open platform, open
+standard,
+uh to scale to 1 billion data collectors
+worldwide. And we feel that there is no
+way we can build it alone, right? So, we
+want to collaborate with with everyone,
+right? And uh we recently uh
+we formed strategic partnership with
+Pico, with Manus, with Vuzzi, and with
+many more. And we are co-designing the
+next generation human data collection
+platform. I'm very proud of that. And
+this is just the beginning. We are very
+open and eager to collaborate with uh to
+collaborate with all of you uh to
+integrate your uh technology, sensor,
+um
+hardware, compute,
+models into this platform.
+And uh the platform should provide three
+major things there, you know. We want to
+have, you know,
+the evaluation guided the data loops,
+which that's our specialty. We have Robo
+Finns, the most scalable simulation
+evaluation benchmark.
+We also want to unify
+the data standards.
+Because we are the largest provider of
+egocentric data in the world, we want to
+uh provide our standard for everyone to
+leverage.
+But also the most important thing is we
+want to collaborate all the model
+partners
+to uh to work on the best recipe for
+data and model together. Right? This is
+going to be very, very critical for all
+of us uh to advance uh in human ways
+uh in frontier models.
+So, in the end, I just want to say
+really appreciate your time and really
+happy to be here and uh
+let's
+together build the continuous learning
+system for physical AI. Thank you.

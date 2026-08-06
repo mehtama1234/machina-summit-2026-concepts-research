@@ -1,0 +1,380 @@
+[
+  {
+    "id": "humanoid-robotics-01",
+    "lecture_index": 3,
+    "video_id": "yLY7iMLTaoE",
+    "title": "Humanoid Robotics in Apptronik's Jeff Cardenas on Robots for Humans with Peter Elstrom",
+    "url": "https://www.youtube.com/watch?v=yLY7iMLTaoE",
+    "quote": "ing. Uh thank you all for joining us. Uh what an exciting time to talk about uh robotics, to talk about physical AI. Uh we have a wonderful guest here to lead us through what uh what he is d",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "humanoid-robotics"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for humanoid robotics in the MACHINA Summit playlist."
+  },
+  {
+    "id": "humanoid-robotics-02",
+    "lecture_index": 8,
+    "video_id": "dMvrZzGcREM",
+    "title": "Humanoid Robotics in Keynote by Dr. Carolina Parada : Language to Motion",
+    "url": "https://www.youtube.com/watch?v=dMvrZzGcREM",
+    "quote": "eryone. It's great to be here connecting with everyone in Europe and the entire robotics community. I'm Karolina, an elite robotics at Google Deep Mind. I'm going to be talking today a bit a",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "humanoid-robotics"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for humanoid robotics in the MACHINA Summit playlist."
+  },
+  {
+    "id": "humanoid-robotics-03",
+    "lecture_index": 41,
+    "video_id": "muhYoFq5G8I",
+    "title": "Humanoid Robotics in The Factory Deployment Gap: Bright Machines, Roboto AI & Kinisi Robotics",
+    "url": "https://www.youtube.com/watch?v=muhYoFq5G8I",
+    "quote": "s to actual deployments, right? So, my name is Edwin Yap. I'm the founder of 6D Robot, and I'm pleased to be moderating today's discussion. We have a great panel with us today. We have um Sv",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "humanoid-robotics"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for humanoid robotics in the MACHINA Summit playlist."
+  },
+  {
+    "id": "physical-ai-01",
+    "lecture_index": 33,
+    "video_id": "s3aV1QQdEe8",
+    "title": "Physical AI in Can Europe Lead in Physical AI?",
+    "url": "https://www.youtube.com/watch?v=s3aV1QQdEe8",
+    "quote": "pe lead physically AI to how can Europe lead physically AI and how will we lead physical AI because I have a lot of questions about this. Uh we will do a quick round of introductions. Uh I w",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "physical-ai"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for physical ai in the MACHINA Summit playlist."
+  },
+  {
+    "id": "physical-ai-02",
+    "lecture_index": 10,
+    "video_id": "yGSm5EeLMD0",
+    "title": "Physical AI in Encord CEO Eric Landau: The Road to Digital and Physical AGI",
+    "url": "https://www.youtube.com/watch?v=yGSm5EeLMD0",
+    "quote": "one. I'm Eric. I'm one of the co-founders of Encord. Encord is a data layer for physical AI. So we work in all different types of physical AI in robotics, autonomous vehicles, drones, manufa",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "physical-ai"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for physical ai in the MACHINA Summit playlist."
+  },
+  {
+    "id": "physical-ai-03",
+    "lecture_index": 40,
+    "video_id": "j6LPXDaJxGE",
+    "title": "Physical AI in World Models vs Task-Specific Perception: Lyte, Exwayz, Niantic Spatial & Robovision",
+    "url": "https://www.youtube.com/watch?v=j6LPXDaJxGE",
+    "quote": "d probably a bit hot day. Um so the topic of today's session is actually around world models versus task task specific perception. And I think this is actually a really interesting topic bec",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "physical-ai"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for physical ai in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-scaling-01",
+    "lecture_index": 31,
+    "video_id": "xwJdTlgB3YA",
+    "title": "Scaling Robot Deployment in Robots at Work: The Industrial Frontier — ANYbotics, Nomagic & Schaeffler",
+    "url": "https://www.youtube.com/watch?v=xwJdTlgB3YA",
+    "quote": "e and the robot makers. And on the panel today we will discuss the realities of deploying and running robots at scale and who better to do that with than four veteran operators in the space.",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-scaling"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for scaling robot deployment in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-scaling-02",
+    "lecture_index": 41,
+    "video_id": "muhYoFq5G8I",
+    "title": "Scaling Robot Deployment in The Factory Deployment Gap: Bright Machines, Roboto AI & Kinisi Robotics",
+    "url": "https://www.youtube.com/watch?v=muhYoFq5G8I",
+    "quote": "st insightful sharing in terms of how we can bridge the gap between the factory deployment, between the technology that we see in the market, and bridging them, bringing them from pilots to",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-scaling"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for scaling robot deployment in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-scaling-03",
+    "lecture_index": 4,
+    "video_id": "ZOnCFz7DlIE",
+    "title": "Scaling Robot Deployment in David Kehr on Components to Coworkers with Si Chen",
+    "url": "https://www.youtube.com/watch?v=ZOnCFz7DlIE",
+    "quote": "t is an immediate need that we have and that is helping push us into wanting to deploy these. And then on the component uh side uh we see this as a natural pivot. We do actuators today. We d",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-scaling"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for scaling robot deployment in the MACHINA Summit playlist."
+  },
+  {
+    "id": "language-to-action-01",
+    "lecture_index": 34,
+    "video_id": "paG321NUu64",
+    "title": "Language To Action in Keynote by Andrew Wooten : How World Action Models Bring Robots to Life",
+    "url": "https://www.youtube.com/watch?v=paG321NUu64",
+    "quote": "yed that follow pretty much predefined trajectories or do relatively repeatable actions, but there's almost no robots that actually, you know, learn in their environments and do dynamically",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "language-to-action"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for language to action in the MACHINA Summit playlist."
+  },
+  {
+    "id": "language-to-action-02",
+    "lecture_index": 8,
+    "video_id": "dMvrZzGcREM",
+    "title": "Language To Action in Keynote by Dr. Carolina Parada : Language to Motion",
+    "url": "https://www.youtube.com/watch?v=dMvrZzGcREM",
+    "quote": "ld and reason about it the same way you and I can. Not only that, but also take action to the precision of a human expert. It also means building an AI that can go into any embodiment. We be",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "language-to-action"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for language to action in the MACHINA Summit playlist."
+  },
+  {
+    "id": "language-to-action-03",
+    "lecture_index": 39,
+    "video_id": "F4NOpAWNQow",
+    "title": "Language To Action in Creating Social Robots & Making People Accept Them: IIT, Devanthro & Enchanted Tools",
+    "url": "https://www.youtube.com/watch?v=F4NOpAWNQow",
+    "quote": "t happened is that we started investigating the a topic called human robot interaction and during this investigation we discovered they're super interesting to look at the humans in the huma",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "language-to-action"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for language to action in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-data-01",
+    "lecture_index": 18,
+    "video_id": "H8rM0Tygcfg",
+    "title": "Robot Data And Learning in Lightwheel CEO Steve Xie: Continuous Learning Systems for Physical AI",
+    "url": "https://www.youtube.com/watch?v=H8rM0Tygcfg",
+    "quote": "Steve, founder CEO of LiveAction. And today my topic is building the continuous learning system for physical AI. Yeah, a little bit very quick introduction of myself. I'm the founder CEO of",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-data"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot data and learning in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-data-02",
+    "lecture_index": 19,
+    "video_id": "3wjJYci6qgQ",
+    "title": "Robot Data And Learning in Vasudevan Sundarababu & Jiajun Wu : Physical AI's Data Gaps",
+    "url": "https://www.youtube.com/watch?v=3wjJYci6qgQ",
+    "quote": "obots to understand. And I'd also like to invite on stage Vasu the chief AI and data officer at Scientific because he's the one who helps uh scale the data operations to equip these robots t",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-data"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot data and learning in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-data-03",
+    "lecture_index": 33,
+    "video_id": "s3aV1QQdEe8",
+    "title": "Robot Data And Learning in Can Europe Lead in Physical AI?",
+    "url": "https://www.youtube.com/watch?v=s3aV1QQdEe8",
+    "quote": "how can the same models that are used kind of pre-trained on large scale video data be used to actually uh predict actions that a robot can take in the world help uh generate data for robot",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-data"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot data and learning in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-hardware-01",
+    "lecture_index": 32,
+    "video_id": "HfzaBviIgQg",
+    "title": "Robot Hardware And Components in Hardware Is Becoming a Commodity: Where Does the Value Live?",
+    "url": "https://www.youtube.com/watch?v=HfzaBviIgQg",
+    "quote": "ysical AI sector and I'm pleased to be leading this panel today on the topic of hardware and is hardware a commodity now and if so where does the value truly lie? I'm joined on stage by an e",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-hardware"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot hardware and components in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-hardware-02",
+    "lecture_index": 30,
+    "video_id": "UPHHxr2OGFU",
+    "title": "Robot Hardware And Components in Benedek Tasi : Building the Manufacturing Foundation for Robotics",
+    "url": "https://www.youtube.com/watch?v=UPHHxr2OGFU",
+    "quote": "onic. Uh and what I'm going to talk about is exactly what was mentioned before, manufacturing, the manufacturing layer behind robotics and the way to make that foundation happen for the next",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-hardware"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot hardware and components in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-hardware-03",
+    "lecture_index": 37,
+    "video_id": "FDeAvuDYdC4",
+    "title": "Robot Hardware And Components in Google DeepMind, Stær, Bubble Robotics & Touchlab on From Touch to Scale",
+    "url": "https://www.youtube.com/watch?v=FDeAvuDYdC4",
+    "quote": "e and um monitor the oceans. Um you know, touch lab is developing iskin tactile sensors. That's kind of the new um I guess uh the new border of the robotics. So coming on top of all of the u",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-hardware"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot hardware and components in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-business-01",
+    "lecture_index": 31,
+    "video_id": "xwJdTlgB3YA",
+    "title": "Robot Business Models in Robots at Work: The Industrial Frontier — ANYbotics, Nomagic & Schaeffler",
+    "url": "https://www.youtube.com/watch?v=xwJdTlgB3YA",
+    "quote": "can take action earlier on. >> Hi everyone, I'm Tristan uh co-founder and chief product at Nomagic. Uh you know at Nomagic we're actually not having robot that move. They're static but they'",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-business"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot business models in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-business-02",
+    "lecture_index": 38,
+    "video_id": "LIcl8jAoFlk",
+    "title": "Robot Business Models in Dynamic Creatures, McKinsey, TRON & AGIBOT on Building a Robotics Business",
+    "url": "https://www.youtube.com/watch?v=LIcl8jAoFlk",
+    "quote": "ational, but maybe to kick us off, do each of you maybe want to talk about your business for and yourself for 20 seconds so that the audience know uh who we're talking to. >> Yeah, happy to",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-business"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot business models in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-business-03",
+    "lecture_index": 41,
+    "video_id": "muhYoFq5G8I",
+    "title": "Robot Business Models in The Factory Deployment Gap: Bright Machines, Roboto AI & Kinisi Robotics",
+    "url": "https://www.youtube.com/watch?v=muhYoFq5G8I",
+    "quote": "e gap between the factory deployment, between the technology that we see in the market, and bridging them, bringing them from pilots to actual deployments, right? So, my name is Edwin Yap. I",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-business"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot business models in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-safety-01",
+    "lecture_index": 42,
+    "video_id": "jlSkFGsNvvA",
+    "title": "Robot Safety And Trust in Securing the Machine",
+    "url": "https://www.youtube.com/watch?v=jlSkFGsNvvA",
+    "quote": "[music] So, I'm Sandar Fabber from Minurva Humanoids. Uh, we're building humanoid robots for the most dangerous jobs of the planet, including oil and gas, energy sector work, public safety w",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-safety"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot safety and trust in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-safety-02",
+    "lecture_index": 6,
+    "video_id": "7AKm36ItVZs",
+    "title": "Robot Safety And Trust in Jonathan Hurst on Humanoid Robotics Today",
+    "url": "https://www.youtube.com/watch?v=7AKm36ItVZs",
+    "quote": "st. I'm chief robot officer at Agility Robotics. Uh this is our machine, Digit, humanoid robot. And I'm going to talk today a little bit about um how we go from the ambition of having humano",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-safety"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot safety and trust in the MACHINA Summit playlist."
+  },
+  {
+    "id": "robot-safety-03",
+    "lecture_index": 3,
+    "video_id": "yLY7iMLTaoE",
+    "title": "Robot Safety And Trust in Apptronik's Jeff Cardenas on Robots for Humans with Peter Elstrom",
+    "url": "https://www.youtube.com/watch?v=yLY7iMLTaoE",
+    "quote": "going to delve into some of the competitive dynamics. We're going to delve into humanoids and the evolution into this marketplace. But I think we're going to kick off with a video. If we can",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "robot-safety"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for robot safety and trust in the MACHINA Summit playlist."
+  },
+  {
+    "id": "agentic-ai-workflows-01",
+    "lecture_index": 20,
+    "video_id": "IEgSj-f3pwM",
+    "title": "Agentic AI Workflows in Meagen Eisenberg x Yves Pétin : Physical AI Deployment Gap",
+    "url": "https://www.youtube.com/watch?v=IEgSj-f3pwM",
+    "quote": "an't scale without uh AI. So AI helps you scale infinitely. And so the coaching agent one will detect who needs coaching. Maybe they're newer drivers or maybe they're uh more prone to accide",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "agentic-ai-workflows"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for agentic ai workflows in the MACHINA Summit playlist."
+  },
+  {
+    "id": "agentic-ai-workflows-02",
+    "lecture_index": 17,
+    "video_id": "yog6aDV-9zQ",
+    "title": "Agentic AI Workflows in Nebius' Evan Helda: From Simulation to Deployment for Physical AI",
+    "url": "https://www.youtube.com/watch?v=yog6aDV-9zQ",
+    "quote": "out a team that is working on some services to really provide uh more automated workflows in physical AI. We're building out a control plane to really run the entire data flywheel, if you wi",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "agentic-ai-workflows"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for agentic ai workflows in the MACHINA Summit playlist."
+  },
+  {
+    "id": "agentic-ai-workflows-03",
+    "lecture_index": 9,
+    "video_id": "IAmlLgtXJOk",
+    "title": "Agentic AI Workflows in Keynote by Jim Fan on Robotics - The End Game",
+    "url": "https://www.youtube.com/watch?v=IAmlLgtXJOk",
+    "quote": "ement learning learns to surpass imitation learning. And finally, we get to the agentic era where auto research accelerates the whole loop beyond what's humanly possible. And as Andre said,",
+    "source_tier": "youtube-caption",
+    "evidence_type": "title/transcript keyword support",
+    "supports_concepts": [
+      "agentic-ai-workflows"
+    ],
+    "why_span_matters": "This talk is one of the strongest transcript matches for agentic ai workflows in the MACHINA Summit playlist."
+  }
+]

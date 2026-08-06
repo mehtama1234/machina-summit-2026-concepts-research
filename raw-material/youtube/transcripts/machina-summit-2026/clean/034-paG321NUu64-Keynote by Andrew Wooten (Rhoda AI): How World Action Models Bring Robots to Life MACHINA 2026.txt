@@ -1,0 +1,554 @@
+[music]
+Yeah. So, as as introduced, my name is
+Andrew. I'm one of the co-founders at
+Roto AI. Uh, in a roto, we do we're
+[snorts] really redefining uh robotic
+intelligence. Uh, so the way I view kind
+of robotics, maybe this is
+oversimplifying it, but I think there's
+broadly two categories of robots out
+there in the world. There are robots
+that largely follow, you know,
+pre-programmed trajectories or that
+break apart, you know, the the problem
+of perception decision-m from following,
+you know, a somewhat pre-programmed
+trajectory as kind of one category. And
+I put this in the, you know, industrial
+automation category. And there's a
+second category of robotics, which is
+learning enabled robots. Robots that
+where the promise is that you can learn
+end to end from some robot data set and
+then handle tasks that have some
+inherent variability. uh and these I
+would call learning capable robots. Uh
+the reality is that today uh I would
+argue that there's virtually zero
+learning capable robots deployed in the
+real world. So if you go to a factory or
+a warehouse, there's you know thousands
+or maybe tens of thousands of robots
+deployed that follow pretty much
+predefined trajectories or do relatively
+repeatable actions, but there's almost
+no robots that actually, you know, learn
+in their environments and do dynamically
+difficult tasks. And this is this is
+really the problem that we set out to
+address when we started ROA. And so this
+is this is you know kind of the way to
+[snorts] look at it. Robots don't
+generalize. There's traditional
+automation today which is single
+trajectory task specific can't deal with
+variability. And there's you know
+learning or or VALA based uh and these
+approaches typically are very you know
+narrow brittle and they fail when
+they're outside of distribution. And
+this results in policies that aren't
+reliable enough to deploy into the real
+world. This of course is a funny video
+um of of of maybe that illustrates what
+some of these obstacles are. Uh but I
+want to dig into this you know a little
+bit more technically. The the prevailing
+approach in robotics over the last
+couple of years has been something
+called the VA. I'm sure everyone here
+has heard the abbreviation. It stands
+for vision language action model. And
+this approach to robotics is essentially
+taking a language model. So a VLM like a
+language model like Chad GPT or or
+Gemini and then post-training it with
+robot data. Uh and this seems like a
+reasonable approach because you know
+language models are are smart and
+impressive. So you know why not try to
+build a robot policy on top of that. And
+so what a lot of the you know leading
+robotics labs over the last multiple
+years like you know PI and Tesla have
+been doing is taking these language
+models collecting robot data sets
+typically through teleoperation and then
+using those robot data sets to post-rain
+the language models and what this
+results in is a model that has a good
+understanding of language because it's
+it's a language model. So you describe
+something to it like pick up the can and
+it knows what a can is because that's
+that's what a language model can do. uh
+but has a pretty weak action prior
+because you can't actually learn physics
+and action manipulation from language
+models. So it's everything it's learning
+about actions is actually coming from a
+very limited robot teleoperation data
+set. And so this is really the problem
+with VAS and as a result of that there's
+a lot of you know pretty cool lab demos
+you can do with VAS but there's almost
+none deployed running at full autonomy
+uh in the real world. So we wanted to
+challenge this paradigm and we looked at
+well how have AI models that have
+actually been deployed in the real world
+been trained. Uh and interestingly you
+know we have a couple really strong
+examples. There's there's language
+models, there's video models, there's
+image generation models. These things
+generalize. They're very powerful and
+they're used more and more in
+enterprise. Uh and the approach to
+training them is really very consistent.
+You start with an internet scale
+pre-training. So in the case of you know
+Chad GPT's language model, OpenAI
+trained on literally the entire internet
+of text. Uh and once you train on an
+internet scale data set, you really
+learn a modality very well. And so in
+the case of language, this is where you
+understand, you know, logic, reasoning,
+um you know, semantics, grammar, and
+then once you have the pre-training, you
+do some fine-tuning. And fine-tuning is
+where you teach a a model to operate in
+the modality that's relevant to your
+problem. So in the case of language
+models, this is a question and answer
+kind of chatbot interface. Uh the issue
+in robotics is that there is no webcale
+pre-training. uh you can collect a lot
+of you know robot data you can collect
+teleoperation data or maybe ooi data or
+simulation data uh and these are all
+helpful for post-raining but they have
+critical problems when you try to use
+them from pre for pre-training and the
+the the core problem is that when you're
+pre-training a model you need a data set
+that has internet scale which basically
+a massive you know data set created over
+decades by all of humanity and then
+secondly you need very high levels of
+diversity there's a reason open AI
+doesn't only train on Wikipedia. They
+also train on Reddit and Twitter which
+you know might be questionable source of
+information. You need that diversity.
+You need the different style of
+information, different style of uh you
+know writing in order to create a robust
+model. And if you try to simulate your
+data, you might get a lot of volume. You
+could create probably an internet scale
+of sim data, but it'll have pretty low
+diversity because it's trained in the
+same it's created in the same simulator.
+If you tell operate, you could maybe get
+some more diversity, but you're going to
+struggle to get a lot of scale. Um so we
+felt like was necessary is to solve
+robotics you need an internet data set
+that is has massive scale massive
+diversity and can actually teach you
+about physics and our core hypothesis at
+ROA was that the right data set for this
+is actually internet video and what
+inspired this approach is uh openai
+released in 2024 a video model called
+Sora and this is the first you know kind
+of worldclass generative video model and
+what's happening here is it takes it it
+takes a text prompt here it's a stylish
+woman walking through uh Tokyo at night
+and it generates this video. Uh and
+what's interesting is that this model is
+entirely trained on video. There's no
+like rules of physics or laws of motion
+that are encoded here. And yet the way
+the city reflects in the glasses and the
+handbag moves clearly shows that the
+model has an intuitive understanding of
+physics. And so our insight was why
+don't we use internet scale video to
+teach the model physics and then we post
+train with robot data to connect that
+modality of an understanding of physics
+to robot actions. Um and so step one we
+pre-train a large model on internet
+scale video you know preserving that
+massive internet quantity of data but
+also the diversity. And step two is
+fine-tune that with robot trajectory
+data. And so this is really our our
+model approach. And I'm gonna I'm gonna
+go through this pretty quickly, but the
+way we architected our AI model is it
+works in two steps. Uh if the robot's
+trying to do something like say grab
+this remote, first it's going to
+generate a video of the robot grabbing
+this remote. And then once it's
+generated that video, it's going to
+convert that video into actions in real
+time. Um, and this this seems like a
+pretty simple way to use video, but it's
+actually uh quite profound and different
+from typical robot policies because
+usually robots learn how to do tasks
+from robot data, which means if you want
+to learn a new task, you need to collect
+a lot more robot data. Here, all of the
+reasoning on how to do the task is
+actually happening in the video space,
+which means you're [snorts] learning how
+to do a task from in in a video
+modality, and you already have access to
+an internet scale video data set. So
+this means that we can learn tasks
+without needing to collect additional
+robot data sets as this model scales.
+And what we found is that if you can
+have a very accurate video of a robot
+doing a task, it starts to become a
+onetoone conversion. There's only one
+correct way to convert a video of a
+robot doing a task into the robot
+controls necessary to execute that task.
+And so it becomes a relatively simple
+translation problem. So this is kind of
+the core approach that uh you know we we
+developed at ROA. And then the question
+is why why isn't why doesn't everyone do
+this? Why isn't it, you know, already
+well established technology? And
+interestingly, actually, maybe before
+before I go into that, I'll just
+illustrate this quick video if it if it
+loads.
+Okay, it's it's not going to load, but
+uh you know, using your imagination,
+generate the video, convert that video
+to action, do this multiple times per
+second, and that's how the that's how
+the policy works. So, essentially, you
+know, why why aren't all robots running
+on on these kinds of policies? And the
+answer is there's two very complex
+technical challenges you need to solve
+in order to control a robot with a video
+model. Uh the first one is that most
+video models, even though they look kind
+of, you know, physically accurate,
+they're not really physically accurate
+once you get down into the details. And
+the second is that for video models, you
+need to run a video model on a robot,
+you need real-time inference. And most
+video models actually run quite slowly.
+It takes maybe 30 seconds or a minute to
+generate a video. And so just to
+illustrate this, uh this is an
+off-the-shelf video model. So, not not
+Roda's video model, but just one that
+you can kind of use online. And I
+prompted it by saying, uh, I want you to
+use a robot arm to pick up a Coke can.
+And first of all, you know, this
+actually looks pretty good. It looks
+like a good, you know, visualization of
+what a robot picking up a Coke can might
+look like. But if you look closer, um,
+look at how that thumb just goes
+straight through the Coke can. Uh,
+that's something that would obviously
+break in the real world. It would break
+the hand or it would break the can. You
+know, it would be a critical failure.
+And then secondly, this very short video
+took 36 seconds to generate. So this is
+a, you know, your state-of-the-art
+off-the-shelf video model completely
+unusable for robotics because a it's not
+physically accurate and b it's it's, you
+know, not running fast enough. And so
+what we needed is a video model that
+could run in maybe 200 milliseconds so
+that we could do the whole task, you
+know, five times a second and run in
+close loop and execute the actions on
+the robot. And we also wanted to build a
+model that was physically accurate. And
+so this required developing fundamental
+technologies and actually pre-training
+the video model ourselves which is you
+know a very uh compute and research
+intensive endeavor. Uh but we've now
+actually done this work and there's a
+lot of technologies we developed in the
+process. One example is the way video
+models uh work is they actually generate
+all their frames at the same time. So if
+you're generating a video that's 2
+seconds all those two seconds every
+every video frame is generated at the
+same time. Like it goes from noise to
+frame for all those frames concurrently.
+Uh, obviously this doesn't work well for
+real physics because you're generating
+the frame where the bottle is lifting up
+and where you're grasping it at the same
+time, which means if you grasp it wrong,
+the frame where you're picking it up is
+totally independent of that. So it's
+it's not represent that's not how the
+world works. And so instead, we actually
+pre-trained the video AR model
+architecture to be causal, which means
+every next frame depends on the output
+of the previous frame, which is how
+language models work. So that's just one
+example, but there's, you know, on the
+order of half a dozen technologies we
+had to invent in the pre-training of
+this model. But now we actually have a
+model that runs in real time and is
+physically accurate. And then you know
+the big question is well if you have
+this can you actually demonstrate
+something uh using it with a robot. And
+uh I'll maybe skip a couple slides here
+but the the the quick takeaway is that
+we're actually able to demonstrate this.
+Uh so this is this is a use case uh in a
+automotive factory. Uh and here what
+what the robot is doing is it's actually
+unpacking these boxes and and these
+boxes are boxes with bearings. Um the
+automotive manufacturer has to unpack
+thousands of these boxes every day. And
+it's something that you know requires
+multiple shifts of labor and for every
+part there's you know thousands of
+boxes. So think of this as a task that's
+an example of something that probably
+thousands of people are doing at a large
+factory. Uh and it's a very difficult
+task because you have this very densely
+packed box. You have this clear
+see-through plastic. You have this
+corrugated wax paper. So there's all the
+things that roboticists traditionally
+hate and that make, you know, a task
+very difficult to automate. Deformable
+materials, clear materials. Every time
+the box is presented, it's presented a
+little differently. The strap is in a
+different configuration. Some of the
+boxes are broken. And interestingly, uh,
+with this approach, we're able to get
+this task to work. Uh, but even more
+importantly, we're able to get this task
+to work with 10 hours of training data.
+So in addition to the video
+pre-training, we just collected about 10
+more hours of robot training data and
+got to a point where we were doing this
+task with 100% autonomy. Um so really
+you know exciting uh breakthrough here
+because what what we initially you know
+wanted to test when we saw this use case
+was could we get this to work with a VA
+uh and we we we used one of the leading
+open source vals won't fingerpoint but
+um essentially we gave it 20 hours of
+post- training data uh and tried to run
+this task in our lab uh and and what you
+see in this video is the outcome it just
+it just really fails to get
+understanding of the task and and just
+throws the whole box away uh which you
+know the manual factor wouldn't have
+been happy with. Uh so essentially you
+know this this this paradigm has you
+know real potential to automate these
+tasks and do so in a very efficient way
+and the key insight here is that this
+works because you're not leveraging VA a
+VA might leverage 100,000 hours of robot
+data that's been collected in the
+pre-training and that's a lot of data
+but it's it's it's virtually nothing
+compared to you know 10 million hours
+that you need for pre-training a model.
+uh and and we've pre-trained our model
+with you know millions of hours of video
+data and this gives it a strong enough
+action prior to where it can actually do
+these you know very complicated tasks
+that have a lot of variability and and
+you know a positive by factor of that
+was that we saw that very little
+teoperation data is required to teach it
+the additional task. So this is kind of
+a summary uh what we're doing now is
+we're really focusing on uh deployments
+and we we target use cases that we
+believe are beyond the reach of current
+automation. So tasks that currently
+aren't addressed by other approaches um
+and that are deployable in 2026, you
+know, from our perspective and have high
+scale potential. So there's some
+examples here um these these are videos,
+but this is really, you know, kind of
+example of proof of concept deployment.
+Uh and yeah, I I probably didn't mention
+this, but we did a 30 box eval with this
+uh proof of concept at a at a German
+automotive manufacturer. And uh the
+cycle time target was about 2 minutes.
+We were able to beat that. Um and the
+autonomy rate they wanted this to run
+75% autonomously because that's kind of
+what they've seen in the industry and uh
+we were able to run it 100% autonomously
+uh which which actually you know changes
+the paradigm from needing a lot of
+teleoperators to support robots to just
+running the robots directly and then
+importantly uh the robot data collection
+is is quite uh low. Uh this third part,
+if you're going to deploy a robot to do
+the same task across, you know, a
+thousand deployments, you might not care
+very much about how much how many hours
+of data it takes to train a new task.
+But if you start to build, you know, if
+you want to if you want to get to on a
+path to generality, on a path to where
+the robot can learn a new task on the
+spot or, you know, do do kind of a large
+number of tasks within an environment
+like a household or a factory, you
+really need to drive down the number of
+how many additional hours it takes to
+learn every additional task. And so this
+robot data number while at this point
+it's just a convenient you know feature
+of the model over time I think this is
+going to be the biggest change maker
+because it it allows this modal this
+type of model to be on a pathway to
+generalization because if you're
+operating on a household and you need to
+learn every new type of dishwasher every
+new type of fridge and it takes hundreds
+of hours that that's just never going to
+work. But if you can learn that in you
+know minutes then you start to get to a
+point to where you can have generalist
+robots. And so um what we're doing now
+is we're starting to kind of develop the
+next use cases. These these two use
+cases you see kind of in a in a lab view
+here are ones we're deploying into
+customer sites this year kind of on real
+revenue contracts and not proof of
+concepts. On the left is the box
+decanting and on the right this kind of
+material processing task uh for a
+factory. Uh and then we're also doing
+you know many more proof of concepts
+with with with customers all around the
+world. uh and we're always trying to
+find tasks that are just a little bit
+too difficult for other approaches. So
+often we see things like clear, you
+know, complex shapes uh put into pretty
+tight frames or here, you know, the same
+kind of plastic packaging issue uh which
+is which has plagued robotics. Um, but
+essentially we want to find these tasks
+that are resistant to automation, have
+high volume, and where there's a real,
+you know, enduser customer that's going
+to benefit from this technology as
+opposed to, you know, just trying to
+demonstrate an innovation.
+Uh and then finally, one one last thing
+I'll say is that uh at ROA, we think
+that these first deployments are going
+to require us to do the full stack work.
+Everything from hardware to integration
+to the foundation model because we want
+[snorts] to build those, you know, early
+reference deployments that prove out
+that this technology can work. Uh but
+there's there's two there's two, you
+know, projects that we're developing uh
+kind of on the tail of these first
+deployments. The first is that we're
+building our own hardware. Uh we spent a
+lot of time you know in the market
+evaluating various hardware solutions
+and we found that you know we want to be
+able to deliver that double OSHA payload
+high reliability and you know critically
+be safety rated in our in our key
+markets and currently there there's not
+really hardware out there that we can
+buy that solves these needs and because
+of that we're doing you know a large
+hardware development effort but in
+parallel we think that in the fullness
+of time there's going to be a robust
+ecosystem of both hardware and
+integrators in in robotics and we think
+that our real core value ad is going to
+be this, you know, physical AI
+foundation model. And so we're looking
+to partner with both, you know, hardware
+manufacturers, whether it be humanoids
+or robot arms, as well as integrators
+that are deploying to real customers and
+let them leverage our road AI foundation
+model. Uh so essentially we're building
+a platform where any robot that can be
+teleoperated can also be operated by our
+model uh using using our APIs. Uh so in
+summary uh the world action model
+architecture it was it was kind of a
+novel idea uh when we started but we
+think this is going to be the paradigm
+that actually delivers robots into the
+real world uh in-house stack developed
+you know we're doing deployments in 2026
+and we think this will be you know the
+validation the industry needs to uh you
+know kind of fully pivot from the VAS to
+the world action models. Uh, our model
+enables resistance automation tasks
+exceeding state-of-the-art performance
+and it's also a very efficient learner
+with only 10 to 20 hours of data. We can
+demonstrate autonomy on pretty
+complicated tasks. Uh, and then finally,
+we're launching a platform uh program to
+enable partners to leverage our
+capabilities. Uh so we really think that
+we want to have a lot of impact with
+this model and the best way to do that
+is to partner with uh you know people
+that build hardware, people that work
+with customers, people that want to
+build the solutions and so we'd love to
+empower empower you with uh with our uh
+foundation model. That's all. Thank you.
