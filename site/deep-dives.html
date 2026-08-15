@@ -27,43 +27,43 @@
 <div class="grid"><article class="card">
   <p class="quiet">Talk 9 · NVIDIA</p>
   <h3><a href="deep-dives/09-robotics-end-game.html">Jim Fan / NVIDIA: Robotics - The End Game</a></h3>
-  <p>The talk argues that robotics needs its own version of the language-model scaling stack: world-state prediction, action fine-tuning, scalable non-robot data, simulation environments, and agentic self-improvement loops.</p>
+  <p>Today a robot sits idle most of the day because it learns only from someone teleoperated controlling it for 3 hours. We need robots to learn like Tesla learns to drive—from millions of hours of human video without needing a robot on-site—then use world models (models that predict what pixels come next) to ground that knowledge into robot actions.</p>
 </article><article class="card">
   <p class="quiet">Talk 36 · Field AI</p>
   <h3><a href="deep-dives/36-deployment-over-demos.html">Ali Agha / Field AI: Deployment Over Demos</a></h3>
-  <p>The talk argues that physical AI succeeds only when it is reliable in dirty, dull, dangerous real environments, not merely impressive in controlled demos.</p>
+  <p>A robot sent to a construction site or oil refinery to carry material over unmapped terrain—with no GPS, no cleaned paths, and no second chances for mistakes—must be built on architecture that bakes in physics awareness and safety checks, not just neural-network predictions.</p>
 </article><article class="card">
   <p class="quiet">Talk 8 · Google DeepMind</p>
   <h3><a href="deep-dives/08-language-to-motion.html">Carolina Parada / Google DeepMind: Language to Motion</a></h3>
-  <p>The talk explains how Gemini Robotics turns multimodal foundation models into physical agents by adding action as a model output, then layering planning, tools, memory, safety evaluation, and whole-body control around it.</p>
+  <p>A robot can understand a natural-language request like &#x27;sort these fruits into color-matching plates&#x27; and figure out the step-by-step movements needed, combining a reasoning layer that plans what to do with an action model that produces the actual arm motions.</p>
 </article><article class="card">
   <p class="quiet">Talk 18 · Lightwheel</p>
   <h3><a href="deep-dives/18-continuous-learning-physical-ai.html">Steve Xie / Lightwheel: Continuous Learning Systems for Physical AI</a></h3>
-  <p>The talk argues that physical AI needs a continuous learning infrastructure built from human egocentric data, simulation evaluation, deployment feedback, and real-to-sim-to-real conversion.</p>
+  <p>Imagine a robot arm in a factory that starts weak but keeps improving: it watches humans fold packages, practices the task thousands of times in a simulation, fails in predictable ways, and uses real deployment feedback to get better week after week—that&#x27;s the continuous learning loop physical AI needs.</p>
 </article><article class="card">
   <p class="quiet">Talk 19 · Stanford and Centific</p>
   <h3><a href="deep-dives/19-physical-ai-data-gaps.html">Jiajun Wu / Stanford and Vasu Sundarababu / Centific: Physical AI&#x27;s Data Gaps</a></h3>
-  <p>The panel explains that physical AI&#x27;s key bottleneck is not simply more data, but standardized, synchronized, multimodal, task-relevant data with reliable evaluation and expert validation.</p>
+  <p>When you watch a robot fold clothes or pack a box, it&#x27;s seeing video but not feeling pressure, weight, or contact—and there&#x27;s no common way to collect or combine these different sensor streams so robots can learn from real-world mistakes the way humans do.</p>
 </article><article class="card">
   <p class="quiet">Talk 34 · Rhoda AI</p>
   <h3><a href="deep-dives/34-world-action-models.html">Andrew Wooten / Rhoda AI: World Action Models</a></h3>
-  <p>The talk argues that deployable learning robots need world action models: models pretrained on internet-scale video to understand physics, then fine-tuned with robot trajectories to convert imagined task videos into real-time actions.</p>
+  <p>Imagine a factory unpacking thousands of boxes of bearings by hand. A robot arm struggling with the task because it only saw teleoperated examples, not how plastic deforms or transparent materials behave. Rhoda AI&#x27;s approach: pre-train the robot&#x27;s &quot;world model&quot; (its understanding of physics) on millions of hours of internet video, then teach it the specific task with just 10 hours of robot video, so it can predict what the task looks like frame-by-frame and convert those predictions into real robot commands.</p>
 </article><article class="card">
   <p class="quiet">Talk 20 · Samsara and Fraikin</p>
   <h3><a href="deep-dives/20-physical-ai-deployment-gap.html">Samsara and Fraikin: Physical AI Deployment Gap</a></h3>
-  <p>The talk explains how AI becomes operationally valuable when real-time fleet data, standardized architecture, agents, compliance, and workflow automation are connected to concrete ROI metrics.</p>
+  <p>A truck&#x27;s engine throws an error code on a motorway in France. Traditionally, the driver calls the shop, waits for a work order, parts are ordered with delays, and the vehicle loses a day. With AI agents watching all 60,000 vehicles in a fleet every second, the system detects that error code, automatically creates a work order, orders the part before the driver even calls, knows when the part arrives at the nearest workshop, and routes the truck there so it&#x27;s fixed within hours—no human touches the decision, and one error triggers a coordinated cascade from telemetry to workshops across an entire continent.</p>
 </article><article class="card">
   <p class="quiet">Talk 31 · ANYbotics, Nomagic, Sunrise, and Schaeffler</p>
   <h3><a href="deep-dives/31-robots-at-work-industrial-frontier.html">ANYbotics, Nomagic and Schaeffler: Robots at Work</a></h3>
-  <p>The panel turns robotics deployment into field reality: slippery floors, flapping trash bags, changing throughput targets, safety integration, stakeholder alignment, and the need to reach production early.</p>
+  <p>When a warehouse robotic arm finally picks beans fast enough, the customer asks for 2x the speed; when a quadruped navigates an oily aluminum factory floor, its foot sensors corrupt because decades of accumulated oil wasn&#x27;t in the training data; when a radar gets tripped by a flapping trash bag, the robot halts—these are the real failures that make robotics companies iterate from production, not labs.</p>
 </article><article class="card">
   <p class="quiet">Talk 38 · Dynamic Creatures, McKinsey, TRON, AGIBOT, and Humanoid</p>
   <h3><a href="deep-dives/38-building-a-robotics-business.html">Dynamic Creatures, McKinsey, TRON and AGIBOT: Building a Robotics Business</a></h3>
-  <p>The panel explains that successful robotics companies must balance near-term ROI, durable applications, business transformation, compliance, deployment speed, supply chain control, and realistic customer education.</p>
+  <p>A robotics company wins not by selling impressive machines, but by finding real problems where a robot makes money for the customer—and preparing their organization to actually use it reliably.</p>
 </article><article class="card">
   <p class="quiet">Talk 41 · Bright Machines, Roboto AI, Kinisi Robotics, and Kitemaker</p>
   <h3><a href="deep-dives/41-factory-deployment-gap.html">Bright Machines, Roboto AI and Kinisi Robotics: Factory Deployment Gap</a></h3>
-  <p>The panel explains why factory robotics gets stuck between prototype and scale: operations ownership, data paradoxes, expensive hardware pilots, industrialization, customer expectations, and the fact that the solution is bigger than the robot.</p>
+  <p>You build a robot that works in the lab, ship it to a factory, and suddenly discover the real work is not the robot itself—it&#x27;s integrating it into an existing operation, handling the data it produces, maintaining it in the field, and keeping the customer happy when they demand 50% faster performance than what you tested.</p>
 </article></div>
 </main>
 </body>
