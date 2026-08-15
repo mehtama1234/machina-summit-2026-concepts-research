@@ -23,12 +23,12 @@
 <section class="page-head">
   <p class="eyebrow">Talk 18 · Lightwheel</p>
   <h1>Steve Xie / Lightwheel: Continuous Learning Systems for Physical AI</h1>
-  <p class="lede">The talk argues that physical AI needs a continuous learning infrastructure built from human egocentric data, simulation evaluation, deployment feedback, and real-to-sim-to-real conversion.</p>
+  <p class="lede">Imagine a robot arm in a factory that starts weak but keeps improving: it watches humans fold packages, practices the task thousands of times in a simulation, fails in predictable ways, and uses real deployment feedback to get better week after week—that&#x27;s the continuous learning loop physical AI needs.</p>
   <p><a href="https://www.youtube.com/watch?v=H8rM0Tygcfg">YouTube source</a> · <a href="../talks/18.html">Talk page</a></p>
 </section>
 <div class="two-col">
-  <section class="detail"><h2>Core Problem</h2><p>Robotics lacks the free pretraining site that language models got from the internet and self-driving got from road fleets. Real robot fleets are still too small, physical interaction is much harder than passive perception, and real-world evaluation feedback is scarce.</p></section>
-  <section class="detail"><h2>First-Principles Model</h2><p>A robot learning system needs demonstrations, evaluations, and deployment feedback. Demonstrations teach what to do, evaluations tell whether it worked, and deployments expose real variation. Because real fleets are limited, the missing scale has to come from human egocentric data and simulation.</p></section>
+  <section class="detail"><h2>Core Problem</h2><p>Unlike self-driving cars, which have millions of road drivers generating free data, and language models, which harvest the whole internet free, robotics has no free data source. There are only 30,000 robots ever shipped, compared to the billion data generators needed to match self-driving scale. Robots also touch and manipulate everything, which is harder to learn than just seeing. And unlike ChatGPT with millions of users giving instant feedback, robots don&#x27;t have a fleet in the field yet—so there&#x27;s no real-world feedback signal coming in naturally.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>Robots should learn the same way humans do: first, watch demonstrations (human workers doing the task), second, get constant evaluation feedback (like exams or manager critiques in simulation), third, deploy on a real job and collect field feedback to improve the model further. The missing piece is data: you can&#x27;t get 1 billion data points from robots, so 99.9 percent must come from humans (watching videos of how humans do tasks) and simulation. The critical infrastructure is: demos (egocentric video from humans), evaluations (running thousands of scenarios in a simulator, not with real robots), and a deployment loop that feeds field data back into retraining.</p></section>
 </div>
 <section class="detail">
   <h2>Key Claims</h2>

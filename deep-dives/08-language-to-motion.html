@@ -23,12 +23,12 @@
 <section class="page-head">
   <p class="eyebrow">Talk 8 · Google DeepMind</p>
   <h1>Carolina Parada / Google DeepMind: Language to Motion</h1>
-  <p class="lede">The talk explains how Gemini Robotics turns multimodal foundation models into physical agents by adding action as a model output, then layering planning, tools, memory, safety evaluation, and whole-body control around it.</p>
+  <p class="lede">A robot can understand a natural-language request like &#x27;sort these fruits into color-matching plates&#x27; and figure out the step-by-step movements needed, combining a reasoning layer that plans what to do with an action model that produces the actual arm motions.</p>
   <p><a href="https://www.youtube.com/watch?v=dMvrZzGcREM">YouTube source</a> · <a href="../talks/08.html">Talk page</a></p>
 </section>
 <div class="two-col">
-  <section class="detail"><h2>Core Problem</h2><p>Traditional robots are bespoke systems: they assume fixed environments, known objects, and hand-programmed task sequences. General-purpose robotics needs systems that can understand natural language, perceive cluttered scenes, reason over multi-step goals, and produce safe robot trajectories across different embodiments.</p></section>
-  <section class="detail"><h2>First-Principles Model</h2><p>A useful robot needs at least two levels of intelligence. The high-level agent interprets the human goal, gathers context, uses tools, remembers the scene, and decomposes the task. The low-level action model turns a grounded instruction plus perception and proprioception into control targets, while a controller keeps the body stable.</p></section>
+  <section class="detail"><h2>Core Problem</h2><p>Today&#x27;s robots are brittle: if you change the environment, swap out objects, or ask for something slightly different, they fall apart. A robot that can handle real-world clutter, understand what a human is asking for in plain language, break down multi-step tasks on the fly, and adapt to objects it has never seen before is what&#x27;s needed but doesn&#x27;t exist yet.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>Two-level control: a high-level reasoning system (Gemini Robotics ER) takes the human&#x27;s instruction and the current scene, decides what steps to take, and can call tools like web search or code to look things up. A lower-level action model (vision-language-action or VLA) takes that decision plus the robot&#x27;s camera view and body position, and outputs the trajectory—the sequence of target positions—for the robot&#x27;s arms and joints. A stability controller underneath keeps the body balanced while following those targets.</p></section>
 </div>
 <section class="detail">
   <h2>Key Claims</h2>

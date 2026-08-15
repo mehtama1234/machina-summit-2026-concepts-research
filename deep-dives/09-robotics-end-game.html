@@ -23,12 +23,12 @@
 <section class="page-head">
   <p class="eyebrow">Talk 9 · NVIDIA</p>
   <h1>Jim Fan / NVIDIA: Robotics - The End Game</h1>
-  <p class="lede">The talk argues that robotics needs its own version of the language-model scaling stack: world-state prediction, action fine-tuning, scalable non-robot data, simulation environments, and agentic self-improvement loops.</p>
+  <p class="lede">Today a robot sits idle most of the day because it learns only from someone teleoperated controlling it for 3 hours. We need robots to learn like Tesla learns to drive—from millions of hours of human video without needing a robot on-site—then use world models (models that predict what pixels come next) to ground that knowledge into robot actions.</p>
   <p><a href="https://www.youtube.com/watch?v=IAmlLgtXJOk">YouTube source</a> · <a href="../talks/09.html">Talk page</a></p>
 </section>
 <div class="two-col">
-  <section class="detail"><h2>Core Problem</h2><p>Robotics cannot simply copy LLMs by scaling language-first vision-language-action models. Robots need models that understand verbs, dynamics, physics, action consequences, and physical feedback, while also solving the data bottleneck that makes teleoperation too slow to scale.</p></section>
-  <section class="detail"><h2>First-Principles Model</h2><p>A robot is an embodied closed loop. It observes the world, predicts possible future world states, chooses actions, observes the result, and updates its policy. If language models learn by predicting next words, a robotics foundation model should learn by predicting next physical states and grounding those predictions in actions.</p></section>
+  <section class="detail"><h2>Core Problem</h2><p>Robots taught using language-vision models copy LLMs too narrowly: they focus on nouns (facts) instead of verbs (physics). They treat language as the main signal and action as an afterthought. Meanwhile, the real bottleneck is data: teleoperation only gives 3 hours per robot per day (the robot breaks or the operator burns out), which is millions of hours behind what human egocentric video can provide. A robot needs to understand not just language, but the physical consequences of its own actions.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A robot is a closed feedback loop that sees, predicts, acts, and learns. Instead of predicting what word comes next (like language models), a robot should predict what the world looks like next (the next pixels) from its actions, then learn to map those visual predictions into motor commands. This maps directly: language models learn by predicting next words; robot world-action models learn by predicting next video frames and grounding those predictions into robot movements. The robot &#x27;dreams&#x27; by running the world model forward a few seconds in pixel space, plans within that dream, and commits to the action that moves toward the goal.</p></section>
 </div>
 <section class="detail">
   <h2>Key Claims</h2>

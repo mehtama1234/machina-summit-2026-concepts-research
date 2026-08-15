@@ -23,12 +23,12 @@
 <section class="page-head">
   <p class="eyebrow">Talk 36 · Field AI</p>
   <h1>Ali Agha / Field AI: Deployment Over Demos</h1>
-  <p class="lede">The talk argues that physical AI succeeds only when it is reliable in dirty, dull, dangerous real environments, not merely impressive in controlled demos.</p>
+  <p class="lede">A robot sent to a construction site or oil refinery to carry material over unmapped terrain—with no GPS, no cleaned paths, and no second chances for mistakes—must be built on architecture that bakes in physics awareness and safety checks, not just neural-network predictions.</p>
   <p><a href="https://www.youtube.com/watch?v=al2JMWjnf6Q">YouTube source</a> · <a href="../talks/36.html">Talk page</a></p>
 </section>
 <div class="two-col">
-  <section class="detail"><h2>Core Problem</h2><p>Robotics demos tolerate brittleness. Real customers do not. Field deployments require reliability, uncertainty awareness, safety, workflow integration, multi-robot coordination, and operation without maps, GPS, cleaned spaces, or carefully prepared infrastructure.</p></section>
-  <section class="detail"><h2>First-Principles Model</h2><p>A deployable robot brain must combine generalization with risk-aware control. Pure large neural networks may generalize, but physical deployment requires interpretability, uncertainty quantification, and physics-aware constraints so the system can remain safe when it encounters out-of-distribution states.</p></section>
+  <section class="detail"><h2>Core Problem</h2><p>Field deployments in dirty, dull, dangerous environments (construction sites, refineries, energy sectors) have almost no tolerance for errors, unlike lab demos or chat-with-an-AI systems. Real customers demand the robot work for three months straight without asking them to map the world, provide GPS, clean up spaces, or install positioning systems. Yet it must handle off-nominal conditions—flapping trash bags, vibrations, oily floors, unexpected obstacles—that labs never see.</p></section>
+  <section class="detail"><h2>First-Principles Model</h2><p>A deployable robot brain needs three layers working together. The bottom layer (physical AI) handles local balance and manipulation—the robot learns to adapt its grip or footfall as terrain changes. The middle layer (operational AI) embeds these skills into customer workflows, building its own understanding of the environment on the fly without relying on maps or infrastructure. The top layer (multi-agent coordination) lets heterogeneous robots—a truck, a humanoid, a dog-shaped walker—receive one mission and dispatch themselves to different jobs. Critically, uncertainty quantification and physics constraints are baked into the neural networks themselves so the system knows when it is uncertain and remains safe. This approach creates a data flywheel: safe operation collects field data; better data improves the model; better models enable wider deployment and more data collection.</p></section>
 </div>
 <section class="detail">
   <h2>Key Claims</h2>
